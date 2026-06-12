@@ -246,7 +246,7 @@ def main():
         if domain_count == 0:
             continue
 
-        output_file = output_dir / f"geosite-{cat}.list"
+        output_file = output_dir / f"{cat}.list"
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(f"# GeoSite: {cat}\n")
             f.write(f"# Source: v2fly/domain-list-community\n")
