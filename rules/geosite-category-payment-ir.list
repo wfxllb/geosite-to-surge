@@ -1,0 +1,24 @@
+# GeoSite: category-payment-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian payment (IPG) websites
+.asanpardakht.com
+.asanpardakht.net
+.behpardakht.com
+.bitbarg.me
+.iranicard.ir
+.mydigipay.com
+.pay.ir
+.payping.ir
+.pec.ir
+.pep.co.ir
+.sadadpsp.ir
+.sep.ir
+.shaparak.ir
+.vandar.app
+.vandar.io
+.weswap.digital
+.zarinpal.com

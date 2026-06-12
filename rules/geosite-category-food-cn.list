@@ -1,0 +1,228 @@
+# GeoSite: category-food-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: bestore ══
+.517lppz.com
+.lppz.com
+.lppzimg.com
+# ══ end include: bestore ══
+# ══ include: lkcoffee ══
+.lkcoffee.com
+.luckincoffeecdn.com
+.yyds.co
+# ══ end include: lkcoffee ══
+# 麦当劳中国
+# ══ include: mcdonalds ══
+# https://www.iana.org/domains/root/db/mcd.html
+# mcd (Revoked)
+# https://www.iana.org/domains/root/db/mcdonalds.html
+# mcdonalds (Revoked)
+# McDonald's Australia
+.happymeal.com.au
+.mcdelivery.com.au
+.mcdonalds.com.au
+# McDonald's China
+# domain:4008-517-517.cn
+.4008-517-517.cn
+# domain:mcd.cn
+.mcd.cn
+# domain:mcdchina.net
+.mcdchina.net
+# domain:mcdonalds.com.cn
+.mcdonalds.com.cn
+# McDonald's Hong Kong
+.mcdonalds.hk
+.mcdonalds.com.hk
+# McDonald's India
+.mcdelivery.co.in
+.mcdindia.com
+# McDonald's Indonesia
+.mcdelivery.co.id
+.mcdindonesia.com
+.mcdonalds.co.id
+# McDonald's Japan
+.mcdonalds.co.jp
+.mcdonalds-online.com
+.mcd-holdings.co.jp
+# McDonald's Korea
+.mcdelivery.co.kr
+.mcdonalds.co.kr
+# McDonald's Taiwan
+.mcdelivery.com.tw
+.mcdonalds.com.tw
+.aboutmcdonalds.com
+.happymeal.co.nz
+.happymeal.com
+.happymealdigital.com
+.mcd.com
+.mcdelivery.com.my
+.mcdelivery.com.ph
+.mcdelivery.com.sg
+.mcdonalds.be
+.mcdonalds.ca
+.mcdonalds.it
+.mcdonalds.no
+.mcdonalds.se
+.mcdonalds.co.nz
+.mcdonalds.co.uk
+.mcdonalds.com
+.mcdonalds.com.lb
+.mcdonalds.com.my
+.mcdonalds.com.ph
+.mcdonaldsapps.com
+.mcdonaldsarabia.com
+.mcdonaldsparties.co.nz
+# ══ end include: mcdonalds ══
+# 星巴克中国
+# ══ include: starbucks ══
+.sbux.com.my
+.sbuxcard.com
+.starbucks-stars.com
+.starbucks.ad
+.starbucks.at
+.starbucks.be
+.starbucks.bg
+.starbucks.ca
+.starbucks.ch
+.starbucks.co.id
+.starbucks.co.jp
+.starbucks.co.nz
+.starbucks.co.th
+.starbucks.co.uk
+.starbucks.co.za
+.starbucks.com
+.starbucks.com.ar
+.starbucks.com.bn
+# domain:starbucks.com.cn
+.starbucks.com.cn
+.starbucks.com.co
+.starbucks.com.cy
+.starbucks.com.gr
+.starbucks.com.hk
+.starbucks.com.kh
+.starbucks.com.kz
+.starbucks.com.mx
+.starbucks.com.my
+.starbucks.com.pe
+.starbucks.com.sg
+.starbucks.com.tr
+.starbucks.com.uy
+.starbucks.de
+.starbucks.dk
+.starbucks.es
+.starbucks.fr
+.starbucks.hu
+.starbucks.ie
+.starbucks.in
+.starbucks.it
+.starbucks.nl
+.starbucks.no
+.starbucks.ph
+.starbucks.pl
+.starbucks.pt
+.starbucks.rs
+.starbucks.ru
+.starbucks.se
+.starbucks.tt
+.starbucks.vn
+.starbucksathome.com
+.starbucksavie.ca
+.starbuckscard.ph
+.starbuckscardb2b.com
+.starbuckscoffee.cz
+.starbuckscoffeegear.com
+.starbuckscoffeegearstore.com
+.starbucksforlife.ca
+.starbucksforlife.com
+.starbuckspoq.com
+.starbucksreserve.com
+.starbucksrewardsstarland.ca
+.starbucksrewardsstarland.com
+.starbucksromania.ro
+.starbucksrtd.com
+.starbucksslovakia.sk
+.starbuckssummergame.ca
+.starbuckssummergame.com
+# ══ end include: starbucks ══
+# 三只松鼠
+.3songshu.com
+# 百草味
+.vipbcw.com
+# 海底捞
+.haidilao.com
+.hdlcdns.com
+.kiwa-tech.com
+# 喜茶
+.heytea.com
+# 俺来也（上海）网络科技有限公司
+.anlaiye.com
+.anlaiye.com.cn
+.imcoming.com
+.imcome.net
+# 美餐
+.meican.com
+.meicanstatic.com
+# 农夫山泉/养生堂
+.nongfuspring.com
+.yst.com.cn
+# 娃哈哈
+.wahaha.com.cn
+.whhhealth.com
+# 茶百道（四川蜀信云茶）
+.shuxinyc.com
+# 蜜雪冰城
+.mxbc.com
+.mxbc.net
+# 北京吉野家/DQ
+.hophing.cn
+.hophing.com.cn
+# 汉堡王
+.bkchina.cn
+# 肯德基/百胜中国
+.hwwt8.com
+.kfc.com.cn
+.yumchina.com
+# 企迈/智迈（一堆餐饮企业在用的 CRM）
+.qmai.com
+.qmai.cn
+.qmimg.cn
+# 德克士
+.dicos.com.cn
+# 陈克明食品
+.kemen.cn
+# 中粮集团
+.chinatea.com.cn
+.cofco.com
+.greatwallwine.com.cn
+# 北大荒
+.chinabdh.com
+.hacl.cn
+# 光明乳业
+.4008117117.com
+.brightdairy.com
+.brighticecream.com
+.chinacow.com
+# 伊利
+.yili.com
+# 蒙牛
+.mengniu.com.cn
+# 君乐宝
+.junlebaoruye.com
+# 益海嘉里金龙鱼
+.yihaikerry.net.cn
+# 鲁花
+.luhua.cn
+# 双汇集团
+.shuanghui.net
+# Tracking
+# domain:logger.qmai.cn
+.logger.qmai.cn
+# domain:tracking.mcdonalds.com.cn
+.tracking.mcdonalds.com.cn
+# domain:trackingprd.hwwt8.com
+.trackingprd.hwwt8.com
+# domain:trackserver.shuxinyc.com
+.trackserver.shuxinyc.com

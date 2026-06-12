@@ -1,0 +1,12 @@
+# GeoSite: xedge
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# xEdge 干将互联
+# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
+.xedge.cc
+.glxcc.net
+.xn0.cc
+.ganjiangvpn.com

@@ -1,0 +1,64 @@
+# GeoSite: category-news-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian news websites
+# News
+.aftabnews.ir
+.alef.ir
+.asriran.com
+.bornanews.ir
+.ecobourse.ir
+.eghtesadnews.com
+.entekhab.ir
+.fararu.com
+.farsnews.ir
+.hawzahnews.com
+.ibena.ir
+.ibna.ir
+.ilna.ir
+.imna.ir
+.ipna.ir
+.iqna.ir
+.iraneconomist.com
+.irdiplomacy.ir
+.irib.ir
+.irna.ir
+.isna.ir
+.khabaronline.ir
+.mashreghnews.ir
+.mehrnews.com
+.pana.ir
+.parsine.com
+.qodsna.com
+.saat24.com
+.shabestan.ir
+.shana.ir
+.snn.ir
+.sobhanehonline.com
+.tabnak.ir
+.tasnimnews.com
+.tejaratnews.com
+.yjc.ir
+# Newspapers
+.7sobh.com
+.abrarnews.com
+.aftabeyazd.ir
+.asianews.ir
+.donya-e-eqtesad.com
+.ebtekarnews.com
+.ettelaat.com
+.financialtribune.com
+.hamshahrionline.ir
+.iran-newspaper.com
+.jamejamonline.ir
+.kayhan.ir
+.khabarvarzeshi.com
+.khorasannews.com
+.mardomsalari.ir
+.newspaper.fdn.ir
+.resalat-news.com
+.sharghdaily.ir
+.tehrantimes.com

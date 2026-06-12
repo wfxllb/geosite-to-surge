@@ -1,0 +1,27 @@
+# GeoSite: category-wiki-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.allhistory.com
+.fgo.wiki
+.jikipedia.com
+.mbalib.com
+.sec-wiki.com
+.shidianbaike.com
+# 叉子周 手机博物馆
+.chaz.fun
+# huijiwiki
+.huijistatic.com
+.huijiwiki.com
+# MC百科
+.mcmod.cn
+# moegirl
+.moegirl.org
+.moegirl.org.cn
+# 智汇三农
+.pwsannong.com
+# 求闻百科
+.qiuwenbaike.cn
+.qiuwen.wiki

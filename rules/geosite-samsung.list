@@ -1,0 +1,31 @@
+# GeoSite: samsung
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .samsung domains
+# All .삼성 domains
+.galaxyappstore.com
+.galaxymobile.jp
+.game-platform.net
+.knoxemm.com
+.ospserver.net
+.samsung.com
+# domain:samsungads.com
+.samsungads.com
+.samsungapps.com
+.samsungcloud.com
+.samsungconsent.com
+.samsungdm.com
+# domain:samsungeshop.com.cn
+.samsungeshop.com.cn
+.samsunggalaxyfriends.com
+.samsunghealth.com
+.samsungiotcloud.com
+.samsungiots.com
+.samsungknox.com
+.samsungosp.com
+.samsungqbe.com
+.samsungrs.com
+.smartthings.com

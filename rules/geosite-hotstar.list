@@ -1,0 +1,12 @@
+# GeoSite: hotstar
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.hotstar.com
+.hotstar-cdn.net
+.hotstar-labs.com
+.hotstarext.com
+.hsprepack.akamaized.net
+# [skip] regexp:^hses[1-7]?\.akamaized\.net$ — 无法转为 Surge .list

@@ -1,0 +1,128 @@
+# GeoSite: category-retail-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ABC of Taste
+.av.ru
+# Auchan
+.auchan.ru
+# AudioHead
+.audiohead.ru
+# Bristol
+.bristol.ru
+# Children's World
+.detmir.ru
+# Coolera
+.coolera.ru
+# Dixie
+.dixy.ru
+# Dodo Pizza
+.dodois.com
+.dodois.io
+.dodopizza.com
+.dodopizza.ru
+.dodostatic.net
+# Dostaevsky
+.dostaevsky.ru
+# Dr.Head / Doctorhead
+.doctorhead.ru
+# Eurasia
+.evrasia.rest
+# Fast food restaurant chain "Vkusno i tochka"
+.vkusnoitochka.ru
+# Fix Price
+.fix-price.com
+# Lamoda
+.lamoda.ru
+# Lenta
+.lenta.com
+.lenta.tech
+# Magnit
+# ══ include: magnit ══
+.kazanexpress.ru
+.magnit.com
+.magnit.ru
+.mm.ru
+# ══ end include: magnit ══
+# M.Video
+# ══ include: mvideo ══
+.acmvid.com
+.mvideo.ru
+mvideo.edna.io
+# ══ end include: mvideo ══
+# Metro
+.metro-cc.ru
+# NOTIK
+.notik.ru
+# OSKELLY
+# ══ include: oskelly ══
+.oskelly.co
+.oskelly.ru
+# ══ end include: oskelly ══
+# Pyaterochka, Perekrestok, Chizhik
+# ══ include: x5 ══
+.5ka.ru
+.5post.market
+.abonementx5.ru
+.chizhik.club
+.clubx5.ru
+.dialogx5.ru
+.e5.ru
+.fivepost.ru
+.idx5.ru
+.jx5.ru
+.keyx5.ru
+.mnogolososya.ru
+.myapelsin.ru
+.okolo.app
+.perekrestok.com
+.perekrestok.ru
+.x5.ai
+.x5.com
+.x5.digital
+.x5.group
+.x5.media
+.x5.ru
+.x5.team
+.x5.tech
+.x5club.ru
+.x5id.ru
+.x5l.ru
+.x5media.ru
+.x5paket.ru
+.x5q.ru
+.x5static.net
+.x5w.ru
+# Ads and tracking
+# full:ads.x5.ru
+ads.x5.ru
+# full:ads.x5media.ru
+ads.x5media.ru
+# full:sentry.x5.ru
+sentry.x5.ru
+# ══ end include: x5 ══
+# Red and White
+.krasnoeibeloe.ru
+# Regard
+.regard.ru
+# Rostics
+.rostics.ru
+.uni.rest
+.unirest.tech
+# Sakura
+.ilovesakura.ru
+# Spar
+.myspar.ru
+# SOKOLOV
+# ══ include: sokolov ══
+.sokolov.io
+.sokolov.ru
+# ══ end include: sokolov ══
+# Sushi Wok
+.sushiwok.ru
+# Vinlab
+.winelab.ru
+# VkusVill
+.vkusvill.ru

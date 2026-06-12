@@ -1,0 +1,13 @@
+# GeoSite: growingio
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 北京易数科技
+.datayi.cn
+.gio.ren
+.giocdn.com
+.growin.cn
+.growingio.cn
+.growingio.com

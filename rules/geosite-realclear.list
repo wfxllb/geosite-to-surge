@@ -1,0 +1,23 @@
+# GeoSite: realclear
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.realclear.com
+.realclearbooks.com
+.realcleardefense.com
+.realcleareducation.com
+.realclearenergy.org
+.realclearfoundation.org
+.realclearhealth.com
+.realclearhistory.com
+.realclearinvestigations.com
+.realclearlife.com
+.realclearmarkets.com
+.realclearpolicy.com
+.realclearpolitics.com
+.realclearpublicaffairs.com
+.realclearreligion.org
+.realclearscience.com
+.realclearworld.com

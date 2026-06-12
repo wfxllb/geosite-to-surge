@@ -1,0 +1,12 @@
+# GeoSite: okjike
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 即刻 沪ICP备15000478号
+.jike.city
+.jikecdn.com
+.okjike.com
+.okjk.co
+.ruguoapp.com

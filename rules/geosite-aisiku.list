@@ -1,0 +1,20 @@
+# GeoSite: aisiku
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.1tyy.cn
+.bbdc.cn
+.beingfine.cn
+.beingfine.com.cn
+.bubei.com.cn
+.coolab.top
+.is-cool.cn
+.is-cool.com.cn
+.langeasy.cn
+.langeasy.com.cn
+.learnywhere.cn
+.learnywhere.com.cn
+.qlisten.cn
+.qtyy.cn

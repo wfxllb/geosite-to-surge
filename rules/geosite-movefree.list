@@ -1,0 +1,14 @@
+# GeoSite: movefree
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.keepmovingwithmovefree.com
+.move-free.net
+# domain:movefree.cn
+.movefree.cn
+.movefrees.com
+.movefreeoffers.com
+.movefreerewards.com
+.schiffvitamins.com

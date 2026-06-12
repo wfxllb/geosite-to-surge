@@ -1,0 +1,65 @@
+# GeoSite: riot
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.historyofdota.com
+.historyofdota.net
+.historyofdota.org
+.instituteofwar.org
+.molesports.com
+.rgpub.io
+.riot-games.com
+.riot.com
+.riot.net
+.riotcdn.net
+.riotgames.co.kr
+.riotgames.com
+.riotgames.info
+.riotgames.jp
+.riotgames.net
+.riotgames.tv
+.riotpin.com
+.riotpoints.com
+.rstatic.net
+.supremacy.com
+.supremacy.net
+# League of Lengends
+.championshipseriesleague.com
+.lcsmerch.com
+.leaguehighschool.com
+.leagueoflegends.ca
+# domain:leagueoflegends.cn
+.leagueoflegends.cn
+.leagueoflegends.co.kr
+.leagueoflegends.com
+.leagueoflegends.info
+.leagueoflegends.kr
+.leagueoflegends.net
+.leagueoflegends.org
+.leagueoflegendsscripts.com
+.leaguesharp.info
+.leaguoflegends.com
+.learnwithleague.com
+.lol-europe.com
+.lolclub.org
+.lolespor.com
+.lolesports.com
+.lolfanart.net
+.lolpcs.com
+.lolshop.co.kr
+.lolstatic.com
+.lolusercontent.com
+# domain:lpl.com.cn
+.lpl.com.cn
+.pvp.net
+.pvp.tv
+.ulol.com
+lolstatic-a.akamaihd.net
+# Valorant
+.playvalorant.com
+# Riot Forge
+.riotforgegames.com
+.ruinedking.com
+.convrgencegame.com

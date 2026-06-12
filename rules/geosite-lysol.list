@@ -1,0 +1,17 @@
+# GeoSite: lysol
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.lizol.co.in
+.lysol.ca
+.lysol.cl
+# domain:lysol.cn
+.lysol.cn
+.lysol.co.cr
+.lysol.com
+# domain:lysol.com.cn
+.lysol.com.cn
+.lysol.com.mx
+.lysol.net

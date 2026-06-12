@@ -1,0 +1,29 @@
+# GeoSite: firebase
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.crashlytics.com
+.firebase.com
+.firebase.io
+.firebaseapp.com
+.firebaseio.com
+# full:crashlyticsreports-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
+# full:firebase-settings.crashlytics.com
+firebase-settings.crashlytics.com
+firebase.google.com
+firebase.googleapis.com
+firebaseappcheck.googleapis.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+# full:update.crashlytics.com
+update.crashlytics.com

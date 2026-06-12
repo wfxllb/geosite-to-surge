@@ -1,0 +1,34 @@
+# GeoSite: sectigo
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.enterprisessl.com
+.hackerguardian.com
+.instantssl.com
+# domain:oemssl.cn
+.oemssl.cn
+# domain:oemssl.cn.cdn.cloudflare.net
+.oemssl.cn.cdn.cloudflare.net
+.optimumssl.com
+.positivessl.com
+.sectigo.com
+# domain:sectigochina.com
+.sectigochina.com
+# domain:sectigochina.com.cdn.cloudflare.net
+.sectigochina.com.cdn.cloudflare.net
+# domain:trust-provider.cn
+.trust-provider.cn
+.trust-provider.com
+.usertrust.com
+# Sub brand
+.aoc.cat
+.catcert.cat
+.incommon-rsa.org
+.netsolssl.com
+# Comodo CA
+.comodoca.com
+.comodoca2.com
+.comodoca3.com
+.comodoca4.com

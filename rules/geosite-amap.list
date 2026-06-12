@@ -1,0 +1,27 @@
+# GeoSite: amap
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.a-map.cn
+.a-map.co
+.a-map.link
+.a-map.vip
+.acloudrender.com
+.amap.com
+.amapauto.com
+.anav.com
+.autonavi.com
+.gaode.com
+# Ads/tracking
+# domain:adashx.ut.amap.com
+.adashx.ut.amap.com
+# domain:dualstack-logs.amap.com
+.dualstack-logs.amap.com
+# domain:logs.amap.com
+.logs.amap.com
+# domain:optimus-ads.amap.com
+.optimus-ads.amap.com
+# domain:v6-adashx.ut.amap.com
+.v6-adashx.ut.amap.com

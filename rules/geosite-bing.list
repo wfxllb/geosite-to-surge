@@ -1,0 +1,54 @@
+# GeoSite: bing
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .bing domains
+.bing.com
+# domain:bing.com.cn
+.bing.com.cn
+.bing.net
+.bing123.com
+# domain:bingads.com
+.bingads.com
+.bingagencyawards.com
+.bingapis.com
+.bingapistatistics.com
+.bingparachute.com
+.bingsandbox.com
+.bingvisualsearch.com
+.bingworld.com
+.bluehatnights.com
+.copilot.microsoft.com
+.dictate.ms
+.flipwithsurface.com
+.masalladeloslimites.com
+.microsoft-give.com
+.microsoftcloudsummit.com
+.microsoftdiplomados.com
+.microsoftlatamholiday.com
+.microsoftmxfilantropia.com
+.microsoftpartnersolutions.com
+.msunlimitedcloudsummit.com
+.office365love.com
+.office365tw.com
+.renovacionoffice.com
+.sprinklesapp.com
+location.microsoft.com
+# domain:cn.bing.com
+.cn.bing.com
+# domain:cn.bing.net
+.cn.bing.net
+# domain:cn.mm.bing.net
+.cn.mm.bing.net
+# domain:ditu.live.com
+.ditu.live.com
+# domain:r.bing.com
+.r.bing.com
+# domain:th.bing.com
+.th.bing.com
+# full:bj1.api.bing.com
+bj1.api.bing.com
+# full:emoi-cncdn.bing.com
+emoi-cncdn.bing.com

@@ -1,0 +1,47 @@
+# GeoSite: category-browser-!cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: ceno ══
+.censorship.no
+# ══ end include: ceno ══
+# ══ include: epicbrowser ══
+.epicbrowser.com
+# ══ end include: epicbrowser ══
+# ══ include: firefox ══
+.extendfirefox.com
+.firefox.com
+.firefox.hu
+.firefoxtweetmachine.com
+.firefoxusercontent.com
+mozilla-ohttp.fastly-edge.com
+# ══ end include: firefox ══
+# ══ include: torproject ══
+.torproject.org
+# ══ end include: torproject ══
+# chromium
+.chrome.com
+.chromium.org
+.basilisk-browser.org
+.brave.com
+.bromite.org
+.browser.kagi.com
+.cromite.org
+.decentr.net
+.dothq.org
+.floorp.app
+.iridiumbrowser.de
+.kiwibrowser.com
+.kmeleonbrowser.org
+.librewolf.net
+.minbrowser.org
+.netsurf-browser.org
+.opera.com
+.palemoon.org
+.pulsebrowser.app
+.qutebrowser.org
+.vivaldi.com
+.waterfox.net
+.zen-browser.app

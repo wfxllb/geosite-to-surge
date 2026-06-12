@@ -1,0 +1,11 @@
+# GeoSite: b3log
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 云南链滴科技有限公司 滇ICP备14007358号
+.b3log.org
+.b3logfile.com
+.hacpai.com
+.ld246.com

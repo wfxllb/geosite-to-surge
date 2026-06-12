@@ -1,0 +1,28 @@
+# GeoSite: tencent-dev
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: cnb ══
+# 腾讯 云原生构建
+.cnb.cool
+# ══ end include: cnb ══
+# ══ include: coding ══
+.coding.me
+.coding.net
+# ══ end include: coding ══
+.openmidas.com
+.qq.design
+.qqgamedesign.com
+.tencent-cloud.cn
+.tencent-cloud.com
+.tencent.design
+.tencentcloud.com
+.tjstats.com
+.wegamedeveloper.com
+.weixinbridge.com
+.weui.io
+# Ads/tracking
+# domain:badjs.weixinbridge.com
+.badjs.weixinbridge.com

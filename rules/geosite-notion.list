@@ -1,0 +1,13 @@
+# GeoSite: notion
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.notion-static.com
+.notion-status.com
+.notion.com
+.notion.new
+.notion.site
+.notion.so
+.notionusercontent.com

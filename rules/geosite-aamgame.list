@@ -1,0 +1,14 @@
+# GeoSite: aamgame
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 广州市艾美娱乐设备有限公司
+# 粤ICP备09210476号
+.aamgame.net
+.aamgame.com
+.aamgame.mobi
+.aamsmart.com
+# 舞推 (E舞成名)
+.singworld.net

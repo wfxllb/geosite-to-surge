@@ -1,0 +1,18 @@
+# GeoSite: zdns
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.zcmbc.com.cn
+.zdns.cn
+.zdns.net.cn
+.zdns.org.cn
+.zdnscloud.biz
+.zdnscloud.cn
+.zdnscloud.com
+.zdnscloud.com.cn
+.zdnscloud.info
+.zdnscloud.net
+.zdnscloud.net.cn
+.zdnscloud.org.cn

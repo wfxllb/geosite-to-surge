@@ -1,0 +1,40 @@
+# GeoSite: chinamobile
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.10086.cn
+.139.com
+.chinamobile.com
+.chinamobileltd.com
+# domain:speedtest.hk.chinamobile.com
+.speedtest.hk.chinamobile.com
+# domain:speedtestbb.hk.chinamobile.com
+.speedtestbb.hk.chinamobile.com
+# Migu
+.cmread.com
+.cmvideo.cn
+.migu.cn
+.migucloud.com
+.migufun.com
+.miguvideo.com
+# 中移金科
+.cmft.com.cn
+# 中移支付 和包
+.cmpay.com
+# 中移在线
+.cmcc-cs.cn
+.online-cmcc.cn
+# 中移互联
+.andfx.cn
+.andfx.net
+.cmicapm.com
+.cmicrwx.cn
+.cmicvip.cn
+.cmpassport.com
+.cytxl.com.cn
+.fetion-portal.com
+.fetionpic.com
+.mmarket.com
+.mmarket6.com

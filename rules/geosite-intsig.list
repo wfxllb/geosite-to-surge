@@ -1,0 +1,16 @@
+# GeoSite: intsig
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.intsig.com
+.intsig.net
+# 扫描全能王
+.camscanner.com
+# 名片全能王
+.camcard.com
+# 启信宝
+# ══ include: qixin ══
+.qixin.com
+# ══ end include: qixin ══

@@ -1,0 +1,24 @@
+# GeoSite: dropbox
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# List of all domains being operated by Dorpbox Inc.
+# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+paper-attachments.s3.amazonaws.com

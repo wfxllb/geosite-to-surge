@@ -1,0 +1,18 @@
+# GeoSite: category-social-media-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# This list contains social media platforms inside Iran.
+.bale.ai
+.eitaa.com
+.eitaa.ir
+.gap.im
+.gaplication.com
+.mizito.ir
+.niniban.com
+.ninisite.com
+.rubika.ir
+.splus.ir
+.virasty.com

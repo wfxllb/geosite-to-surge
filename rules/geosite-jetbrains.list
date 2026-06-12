@@ -1,0 +1,22 @@
+# GeoSite: jetbrains
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.datalore.io
+.intellij.com
+.intellij.net
+.intellij.org
+.jb.gg
+.jetbrains.cloud
+.jetbrains.com
+.jetbrains.net
+.jetbrains.space
+.jetbrains.team
+.kotlinlang.org
+.youtrack.cloud
+# domain:cdn.jetbrains.com
+.cdn.jetbrains.com
+# domain:download-cdn.jetbrains.com.cn
+.download-cdn.jetbrains.com.cn

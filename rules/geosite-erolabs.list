@@ -1,0 +1,19 @@
+# GeoSite: erolabs
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.ero-labs.cloud
+.ero-labs.com
+.ero-labs.fun
+.ero-labs.io
+.ero-labs.net
+.ero-labs.one
+.ero-labs.online
+.ero-labs.site
+.erolabs.cloud
+.erolabs.com
+.erolabs.net
+.erolabs.online
+.erolabsshare.xyz

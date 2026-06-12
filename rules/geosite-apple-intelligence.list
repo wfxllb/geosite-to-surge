@@ -1,0 +1,17 @@
+# GeoSite: apple-intelligence
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ChatGPT Extension
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+apple-relay.mask.apple-dns.net
+# Potentially affected services include:
+# * eSIM region determination for devices in China
+# * China-specific version of Apple Maps
+# * Availability region detection for Apple Watch notifications (High Blood Pressure / Sleep Apnea)
+# * Enabling Wi-Fi Calling for certain carriers
+gspe1-ssl.ls.apple.com

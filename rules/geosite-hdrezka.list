@@ -1,0 +1,19 @@
+# GeoSite: hdrezka
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.hdrezka-home.tv
+.hdrezka.ac
+.hdrezka.ag
+.hdrezka.cm
+.hdrezka.co
+.hdrezka.me
+.hdrezka.org
+.hdrezka.site
+.rezka.ag
+# HDrezka App for Android
+.hdrzk.org
+# hdrezka video CDN servers
+.stream.voidboost.cc

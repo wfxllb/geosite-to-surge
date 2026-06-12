@@ -1,0 +1,15 @@
+# GeoSite: apple-tvplus
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Apple TV+
+apple-tv-plus-press.apple.com
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
+np-edge.itunes.apple.com
+play-edge.itunes.apple.com
+tv.applemusic.com
+uts-api.itunes.apple.com
+.tv.apple.com

@@ -1,0 +1,17 @@
+# GeoSite: gamersky
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.gamersky.com
+# domain:click.gamersky.com
+.click.gamersky.com
+# domain:ja.gamersky.com
+.ja.gamersky.com
+# domain:ja1.gamersky.com
+.ja1.gamersky.com
+# domain:ja2.gamersky.com
+.ja2.gamersky.com
+# domain:wmbd.gamersky.com
+.wmbd.gamersky.com

@@ -1,0 +1,28 @@
+# GeoSite: category-proxy-tunnels
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: ngrok ══
+.equinox.io
+.ngrok-agent.com
+.ngrok-free.app
+.ngrok-free.dev
+.ngrok-free.pizza
+.ngrok.app
+.ngrok.com
+.ngrok.dev
+.ngrok.io
+.ngrok.pizza
+.ngrok.pro
+# ══ end include: ngrok ══
+# ══ include: pinggy ══
+.pinggy.io
+.pinggy.link
+# ══ end include: pinggy ══
+# ══ include: tailscale ══
+.tailscale.com
+.tailscale.io
+.ts.net
+# ══ end include: tailscale ══

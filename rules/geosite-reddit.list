@@ -1,0 +1,18 @@
+# GeoSite: reddit
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.redd.it
+.reddit.app.link
+.reddit.com
+.redditblog.com
+.reddithelp.com
+.redditinc.com
+.redditmail.com
+.redditmedia.com
+.redditspace.com
+.redditstatic.com
+.redditstatus.com
+.reddit.map.fastly.net

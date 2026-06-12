@@ -1,0 +1,24 @@
+# GeoSite: ccb
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.ccb-life.com.cn
+.ccb.cn
+.ccb.com
+.ccb.com.cn
+.ccbcos.com
+.ccbfund.cn
+.ccbfund.com
+.ccbfund.com.cn
+.ccbfutures.cn
+.ccbfutures.com
+# domain:ccbintl.com.hk
+.ccbintl.com.hk
+.ccbleasing.com
+.ccblife-test.com.cn
+# domain:ccbseoul.com
+.ccbseoul.com
+.ccbtrust.com.cn
+.ccbxt.com

@@ -1,0 +1,70 @@
+# GeoSite: icloud
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: icloudprivaterelay ══
+.mask-api.icloud.com
+.mask-h2.icloud.com
+.mask.icloud.com
+# ══ end include: icloudprivaterelay ══
+# domain:apple-icloud.cn
+.apple-icloud.cn
+# domain:appleicloud.cn
+.appleicloud.cn
+.applemx-icloud.com
+# domain:icloud-apple.cn
+.icloud-apple.cn
+.icloud-content.com
+.icloud-isupport.com
+.icloud-sandbox.com
+.icloud.ch
+# domain:icloud.cn
+.icloud.cn
+.icloud.com
+# domain:icloud.com.cn
+.icloud.com.cn
+.icloud.de
+.icloud.ee
+.icloud.fi
+.icloud.fr
+.icloud.hu
+.icloud.ie
+.icloud.is
+.icloud.jp
+.icloud.lv
+# domain:icloud.net.cn
+.icloud.net.cn
+.icloud.om
+.icloud.org
+.icloud.pt
+.icloud.ro
+.icloud.se
+.icloud.si
+.icloud.sk
+.icloud.vn
+.icloudads.net
+# domain:icloudapple.cn
+.icloudapple.cn
+.icloudbox.net
+.icloudbrowser.net
+.icloude.com
+.icloudhome.com
+.icloudmail.net
+.icloudmusic.net
+.icloudnet.net
+.icloudpay.net
+.icloudo.com
+.icloudo.de
+.icloudo.net
+.icloudos.de
+.icloudos.net
+.icloudsecure.net
+.icloudsetup.com
+.ios-icloud.com
+.me.com
+.myicloud.net
+.mylcloud.net
+.wwwicloud.com
+www-cdn.icloud.com.akadns.net

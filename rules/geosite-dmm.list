@@ -1,0 +1,39 @@
+# GeoSite: dmm
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: dmm-porn ══
+.dmm.co.jp
+.dmmrex.com
+# ══ end include: dmm-porn ══
+.dmm.com
+.dmm-extension.com
+.dmmapis.com
+api-p.videomarket.jp
+# Ads/tracking
+# Refer: https://tonahazana.com/kancolle-2nd-weight-saving
+# If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
+# domain:ad.games.dmm.com
+.ad.games.dmm.com
+# domain:bluekai.com
+.bluekai.com
+# domain:fout.jp
+.fout.jp
+# domain:gmossp-sp.jp
+.gmossp-sp.jp
+# domain:i-mobile.co.jp
+.i-mobile.co.jp
+# domain:im-apps.net
+.im-apps.net
+# domain:impact-ad.jp
+.impact-ad.jp
+# domain:ladsp.com
+.ladsp.com
+# domain:microad.co.jp
+.microad.co.jp
+# domain:microad.jp
+.microad.jp
+# domain:socdm.com
+.socdm.com

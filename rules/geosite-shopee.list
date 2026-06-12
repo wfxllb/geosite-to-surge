@@ -1,0 +1,29 @@
+# GeoSite: shopee
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.shopee.cl
+# domain:shopee.cn
+.shopee.cn
+.shopee.co.id
+.shopee.co.th
+.shopee.com
+.shopee.com.br
+.shopee.com.co
+.shopee.com.mx
+.shopee.com.my
+.shopee.es
+.shopee.fr
+.shopee.id
+.shopee.in
+.shopee.io
+.shopee.ph
+.shopee.sg
+.shopee.tw
+.shopee.vn
+.shopeemobile.com
+# domain:shopeesz.com
+.shopeesz.com
+.shp.ee

@@ -1,0 +1,24 @@
+# GeoSite: deepin
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.deepin.cn
+.deepin.com
+# domain:deepin.io
+.deepin.io
+# domain:deepin.org
+.deepin.org
+.deepin.org.cn
+.sndu.cn
+# 统信
+.51changxie.com
+.51jianxie.cn
+.91changxie.com
+.changxie.com
+.chinauos.com
+.linglong.space
+.linyaps.org.cn
+.uniontech.cn
+.uniontech.com

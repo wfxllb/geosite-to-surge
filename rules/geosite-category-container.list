@@ -1,0 +1,16 @@
+# GeoSite: category-container
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.azurecr.io
+.docker.io
+.ecr.aws
+.gcr.io
+.ghcr.io
+.mcr.microsoft.com
+.quay.io
+.registry.gitlab.com
+.registry.k8s.io
+# [skip] regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$ — 无法转为 Surge .list

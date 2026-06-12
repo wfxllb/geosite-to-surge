@@ -1,0 +1,214 @@
+# GeoSite: category-dev-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: aixcoder ══
+.aixcoder.com
+.nnthink.com
+# ══ end include: aixcoder ══
+# ══ include: apifox ══
+.apifox.cn
+.apifox.com
+# ══ end include: apifox ══
+# ══ include: apipost ══
+.apipost.cn
+.apipost.net
+# ══ end include: apipost ══
+# ══ include: baltamatica ══
+# 北太天元通用数值计算
+# 北太振寰（重庆）科技有限公司 渝ICP备2022008375号
+.baltamatica.cn
+.baltamatica.net
+.baltamatica.org.cn
+.baltamatica.com
+# ══ end include: baltamatica ══
+# ══ include: cnblogs ══
+.blogjava.net
+.cnblogs.com
+.cnitblog.com
+.cnweblog.com
+.cppblog.com
+.phpweblog.net
+.teachblog.net
+# ══ end include: cnblogs ══
+# ══ include: csdn ══
+.codechina.net
+.csdn.com
+.csdn.net
+.csdn.net.cn
+.csdnimg.cn
+.csto.com
+.datasea.cn
+.gitbook.cn
+.gitchat.cn
+.gitcode.com
+.gitcode.net
+.iteye.com
+.kaifayun.com
+.programmer.com.cn
+.programmer.net.cn
+# ══ end include: csdn ══
+# ══ include: deepin ══
+.deepin.cn
+.deepin.com
+# domain:deepin.io
+.deepin.io
+# domain:deepin.org
+.deepin.org
+.deepin.org.cn
+.sndu.cn
+# 统信
+.51changxie.com
+.51jianxie.cn
+.91changxie.com
+.changxie.com
+.chinauos.com
+.linglong.space
+.linyaps.org.cn
+.uniontech.cn
+.uniontech.com
+# ══ end include: deepin ══
+# ══ include: gitee ══
+.gitee.com
+.gitee.io
+# ══ end include: gitee ══
+# ══ include: goproxy ══
+# go mod proxy
+.goproxy.cn
+.goproxy.io
+# ══ end include: goproxy ══
+# ══ include: huawei-dev ══
+.bisheng.cn
+.bishengcompiler.cn
+.devui.design
+.gneec.com
+.gneec.com.cn
+.gneec3.com
+.gneec4.com
+.gneec7.com
+.harmonyos.com
+.hiascend.cn
+.hiascend.com
+.hiclc.com
+.hikunpeng.cn
+.hikunpeng.com
+.hikunpeng.com.cn
+.hikunpeng.net
+.hisilicon.com
+.hisilicon.com.cn
+.huaweiapaas.com
+.mindspore.cn
+.owsgo.com
+.saasops.tech
+.teleows.com
+# ══ end include: huawei-dev ══
+# ══ include: juejin ══
+.juejin.cn
+.juejin.im
+.xitu.io
+p1-juejin.byteimg.com
+p2-juejin.byteimg.com
+p3-juejin.byteimg.com
+p4-juejin.byteimg.com
+p5-juejin.byteimg.com
+p6-juejin.byteimg.com
+p7-juejin.byteimg.com
+p8-juejin.byteimg.com
+p9-juejin.byteimg.com
+# ══ end include: juejin ══
+# ══ include: kuaiyikeji ══
+.dengguobi.com
+.houyicaiji.com
+.jinglingbiaozhu.com
+# ══ end include: kuaiyikeji ══
+# ══ include: oschina ══
+# ══ include: gitee ══
+# ══ end include: gitee ══
+.oschina.net
+# ══ end include: oschina ══
+# ══ include: pgyer ══
+.pgyer.com
+.tracup.com
+.frontjs.com
+# ══ end include: pgyer ══
+# ══ include: pingcap ══
+.asktug.com
+.pingcap.cn
+.pingcap.com
+.tidb.ai
+.tidb.net
+.tidbcloud.com
+.tikv.org
+# ══ end include: pingcap ══
+# ══ include: rubychina ══
+.ruby-china.org
+# RubyConf China
+.rubyconfchina.org
+# ══ end include: rubychina ══
+# ══ include: segmentfault ══
+.segmentfault.com
+.sifou.com
+# ══ end include: segmentfault ══
+# ══ include: sxl ══
+# 上线了
+.mysxl.cn
+.sxl.cn
+.sxlcdn.cn
+.sxlcdn.com
+# ══ end include: sxl ══
+# ══ include: tencent-dev ══
+# ══ include: cnb ══
+# 腾讯 云原生构建
+.cnb.cool
+# ══ end include: cnb ══
+# ══ include: coding ══
+.coding.me
+.coding.net
+# ══ end include: coding ══
+.openmidas.com
+.qq.design
+.qqgamedesign.com
+.tencent-cloud.cn
+.tencent-cloud.com
+.tencent.design
+.tencentcloud.com
+.tjstats.com
+.wegamedeveloper.com
+.weixinbridge.com
+.weui.io
+# Ads/tracking
+# domain:badjs.weixinbridge.com
+.badjs.weixinbridge.com
+# ══ end include: tencent-dev ══
+# ══ include: ubuntukylin ══
+.openkylin.top
+.ubuntukylin.com
+# ══ end include: ubuntukylin ══
+# ══ include: unitychina ══
+# 优三缔 / 优美缔 / 团结引擎
+.u3d.cn
+.unity.cn
+.unitychina.cn
+# Ads/tracking
+# domain:ads.unitychina.cn
+.ads.unitychina.cn
+# domain:splash-ads.cdn.unity.cn
+.splash-ads.cdn.unity.cn
+# domain:splash-ads.unitychina.cn
+.splash-ads.unitychina.cn
+# domain:unityads.unity.cn
+.unityads.unity.cn
+# domain:unityads.unitychina.cn
+.unityads.unitychina.cn
+# ══ end include: unitychina ══
+.aardio.com
+.ejoy.com
+.jinrishici.com
+.kaihong.com
+.openvela.com
+.php.cn
+.pingcode.com
+.tipdm.org
+.zuidaima.com

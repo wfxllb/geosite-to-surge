@@ -1,0 +1,17 @@
+# GeoSite: category-number-verification-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# SDKs provided by Chinese ISP are used by apps to determine the phone number through celluar network.
+# China Telecom
+id6.me
+# China Mobile
+.cmpassport.com
+# China Unicom
+opencloud.wostore.cn
+hs.wosms.cn
+enrichgw.10010.com
+hap.10010.com
+# [skip] regexp:^nis.+\.10010\.com$ — 无法转为 Surge .list

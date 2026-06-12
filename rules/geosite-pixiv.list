@@ -1,0 +1,18 @@
+# GeoSite: pixiv
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# domain:ads-pixiv.net
+.ads-pixiv.net
+.booth.pm
+.fanbox.cc
+.pixiv.co.jp
+.pixiv.help
+.pixiv.me
+.pixiv.net
+.pixiv.org
+.pixiv-recommend.net
+.pixivision.net
+.pximg.net

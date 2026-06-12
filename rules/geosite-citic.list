@@ -1,0 +1,26 @@
+# GeoSite: citic
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .citic domains
+# All .中信 domains
+.cfc108.com
+.chinaamc.com
+.citic-prudential.com.cn
+.citicbank.com
+.citiccapital.com
+.citiciam.com
+.citicifh.com
+.citicprufunds.com.cn
+# domain:citics.com.hk
+.citics.com.hk
+.citicsf.com
+.clsa.com
+# domain:cncbinternational.com
+.cncbinternational.com
+.csc108.com
+# domain:csci.hk
+.csci.hk
+.ecitic.com

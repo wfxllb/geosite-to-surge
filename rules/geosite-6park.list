@@ -1,0 +1,13 @@
+# GeoSite: 6park
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.6park.com
+.6parkbbs.com
+.6parknews.com
+.cool18.com
+.popo8.com
+.parkvv.com
+.xwbo.com

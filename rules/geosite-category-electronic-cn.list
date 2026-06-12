@@ -1,0 +1,109 @@
+# GeoSite: category-electronic-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Electronic store/company's website with access point in China
+# Analog
+.analog.com
+# 艾睿电子
+.arrow.cn
+# 圆刚科技
+.avermedia.cn
+# 京东方
+.boe.com
+.boe.com.cn
+# 博流智能
+.bouffalolab.com
+# 长鑫存储
+.cxmt.com
+# 乐鑫信息科技
+#include:espressif
+.esp8266.cn
+.esp8266.com.cn
+.espressif.cn
+.espressif.com.cn
+# 华秋电子
+.eda.cn
+.elecfans.com
+.hqchip.com
+.hqdoc.com
+.hqpcb.com
+# 英飞凌
+.infineon.cn
+#infineon.com
+# 嘉立创集团
+# ══ include: jlc ══
+# 嘉立创
+.fa-part.com
+.forface3d.com
+.jlc-3dp.cn
+.jlc-3dp.com
+.jlc-bbs.com
+.jlc-cad.com
+.jlc-cam.com
+.jlc-cnc.com
+.jlc-dfm.com
+.jlc-drm.com
+.jlc-ecad.com
+.jlc-erp.com
+.jlc-fpc.com
+.jlc-gw.com
+.jlc-jh.com
+.jlc-layout.com
+.jlc-pcb.com
+.jlc-smt.com
+.jlc-zh.com
+.jlc.com
+.jlc3dp.cn
+.jlccad.com
+.jlccam.com
+.jlccnc.com
+.jlcdfm.com
+.jlcecad.com
+.jlceda.cn
+.jlceda.com
+.jlcerp.com
+.jlcfa.com
+.jlcgroup.cn
+.jlcops.com
+.jlcsj.com
+.jlcsmt.com
+.lceda.cn
+.lckfb.com
+.oshwhub.com
+.sanweihou.com
+.sz-jlc.com
+.szjlc.cn
+.szlcsc.com
+.zs-jlc.com
+.zxhgroup.com
+# ══ end include: jlc ══
+# 移远通信
+.quecmall.cn
+.quectel.com.cn
+.iotronic.tech
+# 瑞芯微电子
+.rock-chips.com
+# 矽递科技
+.seeed.cn
+.seeed.cc
+.seeed.com.cn
+.seeedstudio.com.cn
+# 矽速科技
+.sipeed.com
+.maixhub.com
+# 德州仪器
+#ti.com
+.ti.com.cn
+# 沁恒微电子
+.wch.cn
+.wch-ic.com
+# 长江存储
+# ══ include: ymtc ══
+# 长江存储
+.ymtc.com
+.ymtc.com.cn
+.ymtc.cn
+# ══ end include: ymtc ══

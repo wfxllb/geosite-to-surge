@@ -1,0 +1,610 @@
+# GeoSite: alibaba
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .alibaba domains
+# All .alipay domains
+# All .taobao domains
+# All .tmall domains
+# ══ include: alibabacloud ══
+# domain:alibabacloud.co.in
+.alibabacloud.co.in
+# domain:alibabacloud.com
+.alibabacloud.com
+# domain:alibabacloud.com.au
+.alibabacloud.com.au
+# domain:alibabacloud.com.hk
+.alibabacloud.com.hk
+# domain:alibabacloud.com.my
+.alibabacloud.com.my
+# domain:alibabacloud.com.sg
+.alibabacloud.com.sg
+# domain:alibabacloud.com.tw
+.alibabacloud.com.tw
+# domain:alicloud.com
+.alicloud.com
+# ══ end include: alibabacloud ══
+# ══ include: aligames ══
+.9game.cn
+.aligames.com
+.jiaoyimao.cn
+.jiaoyimao.com
+.lingxigames.com
+# ══ end include: aligames ══
+# ══ include: aliyun ══
+.alibabadns.com
+.alicdn.com
+.alicloudapi.com
+.alidayu.com
+.alidns.com
+.aligfwaf.com
+.alikunlun.com
+.alikunlun.net
+.aliyun-inc.com
+.aliyun-iot-share.com
+.aliyun.com
+.aliyuncdn.com
+.aliyuncdn.net
+.aliyunfile.com
+.aliyunidaas.com
+.aliyunpds.com
+.cdngslb.com
+.fcapp.run
+.hichina.com
+.ica-alliance.org
+.kunlunaq.com
+.kunlunar.com
+.kunlunca.com
+.kunluncan.com
+.kunlunea.com
+.kunlungem.com
+.kunlungr.com
+.kunlunhuf.com
+.kunlunle.com
+.kunlunli.com
+.kunlunno.com
+.kunlunpi.com
+.kunlunra.com
+.kunlunsa.com
+.kunlunsc.com
+.kunlunsl.com
+.kunlunso.com
+.kunlunta.com
+.kunlunvi.com
+.kunlunwe.com
+.mxhichina.com
+.myalicdn.com
+# domain:oss-ap-northeast-1.aliyuncs.com
+.oss-ap-northeast-1.aliyuncs.com
+# domain:oss-ap-northeast-2.aliyuncs.com
+.oss-ap-northeast-2.aliyuncs.com
+# domain:oss-ap-south-1.aliyuncs.com
+.oss-ap-south-1.aliyuncs.com
+# domain:oss-ap-southeast-1.aliyuncs.com
+.oss-ap-southeast-1.aliyuncs.com
+# domain:oss-ap-southeast-2.aliyuncs.com
+.oss-ap-southeast-2.aliyuncs.com
+# domain:oss-ap-southeast-3.aliyuncs.com
+.oss-ap-southeast-3.aliyuncs.com
+# domain:oss-ap-southeast-5.aliyuncs.com
+.oss-ap-southeast-5.aliyuncs.com
+# domain:oss-ap-southeast-6.aliyuncs.com
+.oss-ap-southeast-6.aliyuncs.com
+# domain:oss-ap-southeast-7.aliyuncs.com
+.oss-ap-southeast-7.aliyuncs.com
+.oss-cn-beijing.aliyuncs.com
+.oss-cn-chengdu.aliyuncs.com
+.oss-cn-guangzhou.aliyuncs.com
+.oss-cn-hangzhou.aliyuncs.com
+.oss-cn-heyuan.aliyuncs.com
+# domain:oss-cn-hongkong.aliyuncs.com
+.oss-cn-hongkong.aliyuncs.com
+.oss-cn-huhehaote.aliyuncs.com
+.oss-cn-nanjing.aliyuncs.com
+.oss-cn-qingdao.aliyuncs.com
+.oss-cn-shanghai.aliyuncs.com
+.oss-cn-shenzhen.aliyuncs.com
+.oss-cn-wulanchabu.aliyuncs.com
+.oss-cn-zhangjiakou.aliyuncs.com
+# domain:oss-eu-central-1.aliyuncs.com
+.oss-eu-central-1.aliyuncs.com
+# domain:oss-eu-west-1.aliyuncs.com
+.oss-eu-west-1.aliyuncs.com
+# domain:oss-me-east-1.aliyuncs.com
+.oss-me-east-1.aliyuncs.com
+# domain:oss-us-east-1.aliyuncs.com
+.oss-us-east-1.aliyuncs.com
+# domain:oss-us-west-1.aliyuncs.com
+.oss-us-west-1.aliyuncs.com
+# Ads/tracking
+# domain:acjs.aliyun.com
+.acjs.aliyun.com
+# domain:adash-emas.cn-hangzhou.aliyuncs.com
+.adash-emas.cn-hangzhou.aliyuncs.com
+# domain:adash.man.aliyuncs.com
+.adash.man.aliyuncs.com
+# domain:alimama.alicdn.com
+.alimama.alicdn.com
+# domain:atanx.alicdn.com
+.atanx.alicdn.com
+# domain:atanx2.alicdn.com
+.atanx2.alicdn.com
+# domain:baichuan-sdk.alicdn.com
+.baichuan-sdk.alicdn.com
+# domain:nbsdk-baichuan.alicdn.com
+.nbsdk-baichuan.alicdn.com
+# domain:tce.alicdn.com
+.tce.alicdn.com
+# ══ end include: aliyun ══
+# ══ include: aliyun-drive ══
+.alicloudccp.com
+.alipan.com
+.aliyundrive.cloud
+.aliyundrive.com
+.aliyundrive.net
+.yunpan.aliyun.com
+# ══ end include: aliyun-drive ══
+# ══ include: amap ══
+.a-map.cn
+.a-map.co
+.a-map.link
+.a-map.vip
+.acloudrender.com
+.amap.com
+.amapauto.com
+.anav.com
+.autonavi.com
+.gaode.com
+# Ads/tracking
+# domain:adashx.ut.amap.com
+.adashx.ut.amap.com
+# domain:dualstack-logs.amap.com
+.dualstack-logs.amap.com
+# domain:logs.amap.com
+.logs.amap.com
+# domain:optimus-ads.amap.com
+.optimus-ads.amap.com
+# domain:v6-adashx.ut.amap.com
+.v6-adashx.ut.amap.com
+# ══ end include: amap ══
+# ══ include: cainiao ══
+.56xiniao.com
+.cainiao-inc.com
+.cainiao.com
+.cainiao.com.cn
+.cainiaoyizhan.com
+.danniao.com
+.dianwoda.cn
+.dianwoda.com
+.guoguo-app.com
+# Ads/tracking
+# domain:v6-adashx.ut.cainiao.com
+.v6-adashx.ut.cainiao.com
+# ══ end include: cainiao ══
+# ══ include: dingtalk ══
+.ddurl.to
+.dingding.xin
+.dingtalk.cn
+.dingtalk.com
+.dingtalk.net
+.dingtalkapps.com
+.dingtalkcloud.com
+.laiwang.com
+.lwurl.to
+.ztna-dingtalk.com
+# ══ end include: dingtalk ══
+# ══ include: eleme ══
+.doservice.com
+.ele.me
+.ele.to
+.eleme.cn
+.eleme.io
+.elemecdn.cn
+.elemecdn.com
+.elenet.me
+# Ads/tracking
+# domain:adashx.ut.ele.me
+.adashx.ut.ele.me
+# domain:h-adashx.ut.ele.me
+.h-adashx.ut.ele.me
+# domain:v6-adashx.ut.ele.me
+.v6-adashx.ut.ele.me
+# ══ end include: eleme ══
+# ══ include: shuqi ══
+# 书旗/阿里文学
+.11222.cn
+.aliwx.com.cn
+.aliwx.net
+.ishuqi.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
+.sqreader.com
+# ══ end include: shuqi ══
+# ══ include: teambition ══
+.teambition.com
+.teambition.net
+.teambitionapis.com
+# ══ end include: teambition ══
+# ══ include: uc ══
+.uc.cn
+.uc123.com
+.ucweb.com
+.uczzd.cn
+# Ads/tracking
+# domain:ads.uc.cn
+.ads.uc.cn
+# domain:adslot.uc.cn
+.adslot.uc.cn
+# ══ end include: uc ══
+# ══ include: umeng ══
+.cnzz.com
+.mobmore.com
+.puata.info
+.shujupie.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com
+# Ads/tracking
+# domain:aaid.umeng.com
+.aaid.umeng.com
+# domain:alog.umeng.com
+.alog.umeng.com
+# domain:alog.umengcloud.com
+.alog.umengcloud.com
+# domain:alogs.umeng.com
+.alogs.umeng.com
+# domain:alogus.umeng.com
+.alogus.umeng.com
+# domain:ar.umeng.com
+.ar.umeng.com
+# domain:aspect-upush.umeng.com
+.aspect-upush.umeng.com
+# domain:audid.umeng.com
+.audid.umeng.com
+# domain:ccs.umeng.com
+.ccs.umeng.com
+# domain:cnlogs.umeng.com
+.cnlogs.umeng.com
+# domain:cnlogs.umengcloud.com
+.cnlogs.umengcloud.com
+# domain:log.umtrack.com
+.log.umtrack.com
+# domain:new-aaid.umeng.com
+.new-aaid.umeng.com
+# domain:new-aaid.umeng.com.gds.alibabadns.com
+.new-aaid.umeng.com.gds.alibabadns.com
+# domain:oc.umeng.com
+.oc.umeng.com
+# domain:plbslog.umeng.com
+.plbslog.umeng.com
+# domain:resolve.umeng.com
+.resolve.umeng.com
+# domain:ulogs.umeng.com
+.ulogs.umeng.com
+# domain:ulogs.umengcloud.com
+.ulogs.umengcloud.com
+# domain:utoken.umeng.com
+.utoken.umeng.com
+# domain:w.cnzz.com
+.w.cnzz.com
+# domain:z.gds.cnzz.com
+.z.gds.cnzz.com
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com @ads
+# errnewlog.umeng.com @ads
+# ══ end include: umeng ══
+# ══ include: youku ══
+# youku uses some alicdn services, so this must use with domain list "alibaba"
+.9xsecndns.cn
+.kumiao.com
+.mmstat.com
+.soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+# domain:youku.tv
+.youku.tv
+.youkuhonor.com
+# domain:youkuplay.com
+.youkuplay.com
+# Ads/tracking
+# domain:ad.api.3g.youku.com
+.ad.api.3g.youku.com
+# domain:ad.api.mobile.youku.com
+.ad.api.mobile.youku.com
+# domain:ad.mobile.youku.com
+.ad.mobile.youku.com
+# domain:adashx.ut.youku.com
+.adashx.ut.youku.com
+# domain:atm.youku.com
+.atm.youku.com
+# domain:e.stat.ykimg.com
+.e.stat.ykimg.com
+# domain:ems.youku.com
+.ems.youku.com
+# domain:guanggaoad.youku.com
+.guanggaoad.youku.com
+# domain:h-adashx.ut.youku.com
+.h-adashx.ut.youku.com
+# domain:lstat.youku.com
+.lstat.youku.com
+# domain:mobilemsg.youku.com
+.mobilemsg.youku.com
+# domain:msg.youku.com
+.msg.youku.com
+# domain:p-log.ykimg.com
+.p-log.ykimg.com
+# domain:passport-log.youku.com
+.passport-log.youku.com
+# domain:pl.youku.com
+.pl.youku.com
+# domain:s-adashx.ut.youku.com
+.s-adashx.ut.youku.com
+# domain:stat.youku.com
+.stat.youku.com
+# domain:statis.api.3g.youku.com
+.statis.api.3g.youku.com
+# domain:v6-adashx.ut.youku.com
+.v6-adashx.ut.youku.com
+# domain:yk-ssp.ad.youku.com
+.yk-ssp.ad.youku.com
+# domain:ykad-data.youku.com
+.ykad-data.youku.com
+# ══ end include: youku ══
+.56che.com
+.88cha.com
+.95095.com
+.ali-health.com
+.aliapp.org
+.alibaba-inc.com
+.alibaba.com
+.alibabacapital.com
+.alibabachengdun.com
+.alibabacorp.com
+.alibabadoctor.com
+.alibabafuturehotel.com
+.alibabagroup.com
+.alibabaplanet.com
+.alibabaued.com
+.alibabausercontent.com
+.alifanyi.com
+.alihealth.cn
+.alihealth.com.cn
+# domain:alihealth.hk
+.alihealth.hk
+.aliimg.com
+.alikmd.com
+.alimama.cn
+.alimama.com
+.alimebot.com
+.alimei.com
+.alimmdn.com
+.alios.cn
+.alipay-eco.com
+.alipay.cn
+.alipay.com
+.alipay.com.cn
+.alipaydns.com
+.alipaylog.com
+.alipayobjects.com
+.aliplus.com
+.aliresearch.com
+.alisoft.com
+.alisports.com
+.alitianji.com
+.aliunicorn.com
+.aliway.com
+.aliwork.com
+.alixiaomi.com
+.alizhaopin.com
+.alyms.cn
+.asczwa.com
+.asczxcefsv.com
+.asmlink.cn
+.atatech.org
+.b2byao.com
+.bazai.com
+.bcvbw.com
+.cheng.xin
+.cloudeagle.cn
+.damai.cn
+.dayu.com
+.dfkhgj.com
+.doctoryou.ai
+.doctoryou.cn
+.dongting.com
+.dratio.com
+.emas-poc.com
+.gongyi.xin
+.ialicdn.com
+.iconfont.cn
+.ics.design
+.imgcook.com
+.jhgtgb.com
+.kanbox.com
+.lazada.com
+.liangxinyao.com
+.m-now.cn
+.maitix.com
+.mappcloud.com
+.mdeer.com
+.mei.com
+.miaostreet.com
+.mshare.cc
+.nic.xin
+.philanthropy.xin
+.phpwind.com
+.phpwind.net
+.pp.cn
+.qingtingtrip.com
+.rexpos.cn
+.saee.org.cn
+.shenjing.com
+.sparenode.com
+.supet.com
+.tanx.com
+.ttpod.com
+.xin.xin
+.xinlingshou.cn
+.yowhale.com
+.yunos-inc.com
+.yunos.com
+.yushanfang.com
+.zimgs.cn
+.zuodao.com
+# AliExpress
+# domain:ae-rus.net
+.ae-rus.net
+# domain:aedns.ru
+.aedns.ru
+# domain:aeplatform.ru
+.aeplatform.ru
+# domain:aestatic.net
+.aestatic.net
+.aliexpress.com
+# domain:aliexpress.ru
+.aliexpress.ru
+.aliexpress-media.com
+# Alipay+
+.alipayplus.com
+# AlipayHK
+# domain:alipay.hk
+.alipay.hk
+# AlipayMO
+# domain:alipaymo.com
+.alipaymo.com
+# 盒马
+.freshhema.com
+.freshippo.com
+.hemamax.com
+.hemaos.com
+.hemashare.cn
+.shyhhema.com
+# 蚂蚁财富
+.antfortune.com
+# 蚂蚁基金
+.fund123.cn
+# 蚂蚁集团
+.antfin.com
+.antgroup.com
+.antgroup-inc.cn
+# 神马搜索
+.sm.cn
+# 淘宝
+.1688.com
+.etao.com
+.juhuasuan.com
+.lingshoujia.com
+.mashort.cn
+.pailitao.com
+.taobao.com
+.taobao.net
+.taobao.org
+.taobaocdn.com
+.taobizhong.com
+.taopiaopiao.com
+.tb.cn
+.tbcache.com
+.tbcdn.cn
+.tburl.in
+.tmall.com
+# domain:tmall.ru
+.tmall.ru
+.tmalltv.com
+.tmjl.ai
+# 夸克
+.cueme.cn
+.myquark.cn
+.quark.cn
+# 飞猪
+.alitrip.com
+.feizhu.cn
+.feizhu.com
+.fliggy.com
+# domain:fliggy.hk
+.fliggy.hk
+.iuynfg.com
+# 虾米音乐
+.xiami.com
+.xiami.fm
+.xiami.net
+# 口碑
+.koubei.com
+# 豌豆荚
+.wandoujia.com
+.wdjimg.com
+# PP助手
+.25pp.com
+# 吱声网
+.zhisheng.com
+# npmmirror 中国镜像站
+.npmmirror.com
+# 闲鱼
+.goofish.com
+# 考拉
+.kaola.com
+.kaolacdn.com
+# 瓴羊
+.lydaas.cn
+.lydaas.com
+.lydaas.com.cn
+.lydaas.net
+.lydass.cn
+.lydass.com.cn
+.lydass.net
+# Ads/tracking
+# domain:a.alimama.cn
+.a.alimama.cn
+# domain:adash-c.m.taobao.com
+.adash-c.m.taobao.com
+# domain:adash-c.ut.taobao.com
+.adash-c.ut.taobao.com
+# domain:adash.m.taobao.com
+.adash.m.taobao.com
+# domain:adashbc.m.taobao.com
+.adashbc.m.taobao.com
+# domain:adashbc.ut.taobao.com
+.adashbc.ut.taobao.com
+# domain:adashx.m.taobao.com
+.adashx.m.taobao.com
+# domain:adashx4ae.ut.taobao.com
+.adashx4ae.ut.taobao.com
+# domain:adashx4yt.m.taobao.com
+.adashx4yt.m.taobao.com
+# domain:adashxgc.ut.taobao.com
+.adashxgc.ut.taobao.com
+# domain:adsh.m.taobao.com
+.adsh.m.taobao.com
+# domain:adtrack.quark.cn
+.adtrack.quark.cn
+# domain:c-adash.m.taobao.com
+.c-adash.m.taobao.com
+# domain:fourier.taobao.com
+.fourier.taobao.com
+# domain:g.click.taobao.com
+.g.click.taobao.com
+# domain:h-adashx.ut.taobao.com
+.h-adashx.ut.taobao.com
+# domain:h-adashx4yt.ut.taobao.com
+.h-adashx4yt.ut.taobao.com
+# domain:m-adash.m.taobao.com
+.m-adash.m.taobao.com
+# domain:marketing.alibaba.com
+.marketing.alibaba.com
+# domain:nbsdk-baichuan.taobao.com
+.nbsdk-baichuan.taobao.com
+# domain:retcode.taobao.com
+.retcode.taobao.com
+# domain:tns.simba.taobao.com
+.tns.simba.taobao.com
+# domain:track.lc.quark.cn
+.track.lc.quark.cn
+# domain:v6-adashx.ut.taobao.com
+.v6-adashx.ut.taobao.com

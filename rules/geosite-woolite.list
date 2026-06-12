@@ -1,0 +1,15 @@
+# GeoSite: woolite
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.woolite.ca
+# domain:woolite.cn
+.woolite.cn
+.woolite.com
+# domain:woolite.com.cn
+.woolite.com.cn
+.woolite.pl
+.woolite.us
+.woolitecarpet.com

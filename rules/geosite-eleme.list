@@ -1,0 +1,21 @@
+# GeoSite: eleme
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.doservice.com
+.ele.me
+.ele.to
+.eleme.cn
+.eleme.io
+.elemecdn.cn
+.elemecdn.com
+.elenet.me
+# Ads/tracking
+# domain:adashx.ut.ele.me
+.adashx.ut.ele.me
+# domain:h-adashx.ut.ele.me
+.h-adashx.ut.ele.me
+# domain:v6-adashx.ut.ele.me
+.v6-adashx.ut.ele.me

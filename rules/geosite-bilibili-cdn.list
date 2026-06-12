@@ -1,0 +1,21 @@
+# GeoSite: bilibili-cdn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bilicdn1.com
+.bilicdn2.com
+.bilicdn3.com
+.bilicdn4.com
+.bilicdn5.com
+.biliimg.com
+.bilivideo.cn
+.bilivideo.com
+.bilivideo.net
+.hdslb.com
+.hdslb.org
+.maoercdn.com
+.mincdn.com
+# full:upos-hz-mirrorakam.akamaized.net
+upos-hz-mirrorakam.akamaized.net

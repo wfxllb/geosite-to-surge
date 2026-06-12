@@ -1,0 +1,41 @@
+# GeoSite: category-enhance-gaming
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: playcover ══
+.playcover.io
+.playcover.workers.dev
+# ══ end include: playcover ══
+# ══ include: fflogs ══
+.fflogs.com
+.rpglogs.com
+# domain:rpglogs.cn
+.rpglogs.cn
+# ══ end include: fflogs ══
+# ══ include: trackernetwork ══
+.thetrackernetwork.com
+.tracker.gg
+.tracker.network
+# ══ end include: trackernetwork ══
+# Anti-Cheat
+.battleye.com
+# Android Emulator
+.bluestacks.com
+# domain:ldmnq.com
+.ldmnq.com
+# domain:lsplayer.com
+.lsplayer.com
+# domain:yeshen.com
+.yeshen.com
+# Arknights
+.maa.plus
+.prts.plus
+# KanColle
+# domain:heavenlywind.cc
+.heavenlywind.cc
+.poi.moe
+# Steam++ / Watt Toolkit
+# domain:steampp.net
+.steampp.net

@@ -1,0 +1,28 @@
+# GeoSite: take-two
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: 2kgames ══
+.2k.com
+.2kcoretech.online
+.2kct.onl
+.2kgames.com
+.2ksports.com
+.2kweb.online
+# ══ end include: 2kgames ══
+# ══ include: rockstar ══
+.rockstargames.com
+.rockstarnorth.com
+.rsg.sc
+gamedownloads-rockstargames-com.akamaized.net
+media-rockstargames-com.akamaized.net
+videos-rockstargames-com.akamaized.net
+# ══ end include: rockstar ══
+# ══ include: zynga ══
+.zynga.com
+.zyngaplayersupport.com
+.zyngapoker.com
+# ══ end include: zynga ══
+.take2games.com

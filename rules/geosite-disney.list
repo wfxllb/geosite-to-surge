@@ -1,0 +1,185 @@
+# GeoSite: disney
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: abc ══
+# American Broadcasting Company
+.abc-studios.com
+.abc.com
+.edgedatg.com
+# ══ end include: abc ══
+# ══ include: bamtech ══
+.bamgrid.com
+.dmed.technology
+# ══ end include: bamtech ══
+# ══ include: espn ══
+.dtci.co
+.dtci.technology
+.espn.co.uk
+.espn.com
+.espn.net
+.espncdn.com
+.espnqa.com
+.watchespn.com
+espn.api.edge.bamgrid.com
+espn.hb.omtrdc.net
+espndotcom.tt.omtrdc.net
+# ══ end include: espn ══
+# ══ include: hotstar ══
+.hotstar.com
+.hotstar-cdn.net
+.hotstar-labs.com
+.hotstarext.com
+.hsprepack.akamaized.net
+# [skip] regexp:^hses[1-7]?\.akamaized\.net$ — 无法转为 Surge .list
+# ══ end include: hotstar ══
+# ══ include: marvel ══
+.marvel.com
+.marvel10thanniversary.com
+.marveldimensionofheroes.com
+.marvelparty.net
+.marvelpinball.com
+.marvelsdoubleagent.com
+.marvelspotlightplays.com
+.marvelsuperheroseptember.com
+.marvelsuperwar.com
+.themarvelexperiencetour.com
+# ══ end include: marvel ══
+# ══ include: nationalgeographic ══
+.natgeomaps.com
+.nationalgeographic.com
+.nationalgeographicpartners.com
+.ngeo.com
+# ══ end include: nationalgeographic ══
+# ══ include: starplus ══
+.starott.com
+.starplus.com
+.star.api.edge.bamgrid.com
+.star.connections.edge.bamgrid.com
+.star.content.edge.bamgrid.com
+.star.playback.edge.bamgrid.com
+# ══ end include: starplus ══
+.disney.asia
+.disney.be
+.disney.bg
+.disney.ca
+.disney.ch
+.disney.co.il
+.disney.co.jp
+.disney.co.kr
+.disney.co.th
+.disney.co.uk
+.disney.co.za
+.disney.com
+.disney.com.au
+.disney.com.br
+.disney.com.hk
+.disney.com.tw
+.disney.cz
+.disney.de
+.disney.dk
+.disney.es
+.disney.fi
+.disney.fr
+.disney.gr
+.disney.hu
+.disney.id
+.disney.in
+.disney.io
+.disney.it
+.disney.my
+.disney.nl
+.disney.no
+.disney.ph
+.disney.pl
+.disney.pt
+.disney.ro
+.disney.ru
+.disney.se
+.disney.sg
+# Others
+.20thcenturystudios.com.au
+.20thcenturystudios.com.br
+.20thcenturystudios.jp
+.adventuresbydisney.com
+.babble.com
+.babyzone.com
+.beautyandthebeastmusical.co.uk
+.dilcdn.com
+.disney-asia.com
+.disney-discount.com
+.disney-plus.net
+.disney-portal.my.onetrust.com
+.disney-studio.com
+.disney-studio.net
+.disneyadsales.com
+.disneyarena.com
+.disneyaulani.com
+.disneybaby.com
+.disneycareers.com
+.disneychannelonstage.com
+.disneychannelroadtrip.com
+.disneycruisebrasil.com
+.disneyenconcert.com
+.disneyiejobs.com
+.disneyinflight.com
+.disneyinternational.com
+.disneyinternationalhd.com
+.disneyjunior.com
+.disneyjuniortreataday.com
+.disneylatino.com
+.disneymagicmoments.co.il
+.disneymagicmoments.co.uk
+.disneymagicmoments.co.za
+.disneymagicmoments.de
+.disneymagicmoments.es
+.disneymagicmoments.fr
+.disneymagicmoments.gen.tr
+.disneymagicmoments.gr
+.disneymagicmoments.it
+.disneymagicmoments.pl
+.disneymagicmomentsme.com
+.disneyme.com
+.disneymeetingsandevents.com
+.disneymovieinsiders.com
+.disneymusicpromotion.com
+.disneynewseries.com
+.disneynow.com
+.disneypeoplesurveys.com
+.disneyplus.bn5x.net
+.disneyplus.com
+.disneyplus.com.ssl.sc.omtrdc.net
+.disneyredirects.com
+.disneysrivieraresort.com
+.disneystore.com
+.disneystreaming.com
+.disneysubscription.com
+.disneytickets.co.uk
+.disneyturkiye.com.tr
+.disneytvajobs.com
+.disneyworld-go.com
+.dssott.com
+.go-disneyworldgo.com
+.go.com
+.mickey.tv
+.moviesanywhere.com
+.nomadlandmovie.ch
+.playmation.com
+.shopdisney.com
+.shops-disney.com
+.sorcerersarena.com
+.spaindisney.com
+.star-brasil.com
+.star-latam.com
+.starwars.com
+.starwarsgalacticstarcruiser.com
+.starwarskids.com
+.streamingdisney.net
+.thestationbymaker.com
+.thisispolaris.com
+.watchdisneyfe.com
+# tracking
+# full:disney.my.sentry.io
+disney.my.sentry.io

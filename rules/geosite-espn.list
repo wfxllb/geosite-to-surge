@@ -1,0 +1,17 @@
+# GeoSite: espn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.dtci.co
+.dtci.technology
+.espn.co.uk
+.espn.com
+.espn.net
+.espncdn.com
+.espnqa.com
+.watchespn.com
+espn.api.edge.bamgrid.com
+espn.hb.omtrdc.net
+espndotcom.tt.omtrdc.net

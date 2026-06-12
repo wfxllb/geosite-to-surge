@@ -1,0 +1,26 @@
+# GeoSite: intel-dev
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.01.org
+.hyperscan.io
+.intellinuxgraphics.com
+.intellinuxgraphics.net
+.oneapi.com
+.oneapi.io
+.opencas.io
+.opendroneid.org
+.openvino.ai
+.openvinotoolkit.org
+.renderingtoolkit.org
+.snap-telemetry.io
+.universalscalablefirmware.org
+# ACPI Component Architecture
+.acpica.com
+# Clear Linux
+.clearlinux.org
+# OSPRay
+.ospray.net
+.ospray.org

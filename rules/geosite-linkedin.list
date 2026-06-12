@@ -1,0 +1,21 @@
+# GeoSite: linkedin
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bizographics.com
+.l-0005.dc-msedge.net
+.l-0005.l-msedge.net
+.licdn.com
+.linkedin.at
+.linkedin.com
+.lnkd.in
+# domain:licdn.cn
+.licdn.cn
+# domain:linkedin.cn
+.linkedin.cn
+# platform domain
+e122475.dscg.akamaiedge.net
+licdn.cn.cdn20.com
+linkedin.sc.omtrdc.net

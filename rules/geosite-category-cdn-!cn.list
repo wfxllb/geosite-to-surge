@@ -1,0 +1,261 @@
+# GeoSite: category-cdn-!cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: akamai ══
+# domain:accdn.com.cn
+.accdn.com.cn
+.ak1.net
+.aka-ai.com
+.aka-ai.net
+.akacrypto.net
+.akadeem.net
+.akadns.com
+.akadns.net
+.akadns6.net
+# domain:akadns88.net
+.akadns88.net
+# domain:akadns99.net
+.akadns99.net
+.akaeai.com
+.akafms.net
+.akagtm.org
+.akahost.net
+.akaint.net
+.akam.net
+.akamaa.com
+.akamah.com
+.akamak.com
+.akamam.com
+.akamai-access.com
+.akamai-access.net
+.akamai-cdn.com
+.akamai-platform-internal.net
+.akamai-platform-staging.com
+.akamai-platform.net
+.akamai-regression.net
+.akamai-staging.net
+.akamai-sucks.net
+.akamai-thailand.com
+.akamai-thailand.net
+.akamai-trials.com
+.akamai.co.kr
+# domain:akamai.com
+.akamai.com
+.akamai.net
+.akamaiedge.net
+.akamaientrypoint.net
+.akamaietpcnctest.com
+.akamaietpcompromisedcnctest.com
+.akamaietpcompromisedmalwaretest.com
+.akamaietpmalwaretest.com
+.akamaietpphishingtest.com
+.akamaihd-staging.net
+.akamaihd.com
+.akamaihd.net
+.akamaimagicmath.net
+.akamainewzealand.com
+.akamaiphillipines.com
+.akamaiphillipines.net
+.akamaitech.com
+.akamaitech.net
+.akamaitechnologies.com
+.akamaitechnologies.net
+.akamaisingapore.net
+.akamaistream.net
+.akamaized-staging.net
+.akamaized.net
+.akamaizercentral.com
+.akamci.com
+.akami.com
+.akami.net
+.akamii.com
+.akamqi.com
+.akastream.com
+.akastream.net
+.akatns.net
+# domain:akcdn.com.cn
+.akcdn.com.cn
+.akstat.io
+# domain:aptdn.net
+.aptdn.net
+.edgekey.net
+# domain:edgekey88.net
+.edgekey88.net
+.edgesuite.net
+.iamakamai.com
+.iamakamai.net
+# domain:janrain.biz
+.janrain.biz
+# domain:janrainservices.com
+.janrainservices.com
+# domain:skycdn.com.cn
+.skycdn.com.cn
+.soasta-dswb.com
+.srtcdn.net
+# domain:tl88.net
+.tl88.net
+# ══ end include: akamai ══
+# ══ include: cdn77 ══
+.cdn77.com
+.cdn77.org
+# ══ end include: cdn77 ══
+# ══ include: cloudflare ══
+# ══ include: cloudflare-cn ══
+# domain:cf-china.info
+.cf-china.info
+# domain:cf-ns.com
+.cf-ns.com
+# domain:cf-ns.net
+.cf-ns.net
+# domain:cf-ns.site
+.cf-ns.site
+# domain:cf-ns.tech
+.cf-ns.tech
+# domain:cftest5.cn
+.cftest5.cn
+# domain:cftest6.cn
+.cftest6.cn
+# domain:cftest7.com
+.cftest7.com
+# domain:cftest8.com
+.cftest8.com
+# domain:cloudflare-cn.com
+.cloudflare-cn.com
+# domain:cloudflareanycast.net
+.cloudflareanycast.net
+# domain:cloudflarechina.cn
+.cloudflarechina.cn
+# domain:cloudflarecn.net
+.cloudflarecn.net
+# domain:cloudflareglobal.net
+.cloudflareglobal.net
+# domain:cloudflareinsights-cn.com
+.cloudflareinsights-cn.com
+# domain:cloudflareperf.com
+.cloudflareperf.com
+# domain:cloudflareprod.com
+.cloudflareprod.com
+# domain:cloudflarestaging.com
+.cloudflarestaging.com
+# domain:cloudflarestoragegw.com
+.cloudflarestoragegw.com
+# ══ end include: cloudflare-cn ══
+# ══ include: cloudflare-ipfs ══
+.cf-ipfs.com
+.cloudflare-ipfs.com
+# ══ end include: cloudflare-ipfs ══
+.argotunnel.com
+.browser.run
+.cfargotunnel.com
+.cfdata.org
+.cfl.re
+.cloudflare-dns.com
+.cloudflare-ech.com
+.cloudflare-esni.com
+.cloudflare-gateway.com
+.cloudflare-quic.com
+.cloudflare-terms-of-service-abuse.com
+.cloudflare.com
+.cloudflare.dev
+.cloudflare.net
+.cloudflare.tv
+.cloudflareaccess.com
+.cloudflareapps.com
+.cloudflarebolt.com
+.cloudflarebrowser.com
+.cloudflarechallenge.com
+.cloudflareclient.com
+.cloudflarecp.com
+.cloudflareinsights.com
+.cloudflareok.com
+.cloudflarepartners.com
+.cloudflareportal.com
+.cloudflarepreview.com
+.cloudflareregistrar.com
+.cloudflareresearch.com
+.cloudflareresolve.com
+.cloudflaressl.com
+.cloudflarestatus.com
+.cloudflarestorage.com
+.cloudflarestream.com
+.cloudflaresupport.com
+.cloudflaretest.com
+.cloudflarewarp.com
+.cloudflareworkers.com
+.encryptedsni.com
+.every1dns.net
+.foundationdns.com
+.foundationdns.net
+.foundationdns.org
+.imagedelivery.net
+.isbgpsafeyet.com
+.one.one.one
+.pacloudflare.com
+.pages.dev
+.r2.dev
+.trycloudflare.com
+.videodelivery.net
+.warp.plus
+.workers.dev
+# ══ end include: cloudflare ══
+# ══ include: fastly ══
+.fastly-edge.com
+.fastly-terrarium.com
+.fastly.com
+.fastly.io
+.fastly.net
+.fastlylabs.com
+.fastlylb.net
+# Video.js CDN
+.zencdn.net
+# ══ end include: fastly ══
+# ══ include: imgix ══
+.imgix.com
+.imgix.net
+# ══ end include: imgix ══
+# ══ include: jsdelivr ══
+.esm.run
+.jsdelivr.com
+.jsdelivr.net
+# ══ end include: jsdelivr ══
+# ══ include: limelight ══
+.delvenetworks.com
+.limelight.com
+.lldns.net
+.llnw-trials.com
+.llnw.com
+.llnw.net
+.llnwd.net
+.llnwi.net
+# ══ end include: limelight ══
+# ══ include: pagecdn ══
+.pagecdn.com
+.pagecdn.io
+# ══ end include: pagecdn ══
+# ══ include: quantil ══
+.quantil.com
+# ══ end include: quantil ══
+# ══ include: stackpath ══
+.stackpath.com
+.stackpath.dev
+# ══ end include: stackpath ══
+# ══ include: vrcdn ══
+.vrcdn.cloud
+.vrcdn.live
+.vrcdn.video
+# ══ end include: vrcdn ══
+# Bunny CDN
+.b-cdn.net
+.bunny.net
+.bunnycdn.com
+# cdnjs
+.cdnjs.com
+# ESM
+.esm.sh
+# Gcore
+.gcdn.co
+.gcore.com
+.gcore.pro

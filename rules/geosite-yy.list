@@ -1,0 +1,12 @@
+# GeoSite: yy
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: duowan ══
+.duowan.com
+.dwstatic.com
+# ══ end include: duowan ══
+.yy.com
+.yystatic.com

@@ -1,0 +1,174 @@
+# GeoSite: category-media-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
+# ══ include: rossiyasegodnya ══
+# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
+.jinrieluosi.cn
+.pressria.ru
+.rossiyasegodnya.com
+.xn--c1acbl2abdlkab1og.xn--p1ai
+# Media brands
+## Arctic.ru
+.arctic.ru
+## Baltnews
+.baltnews.com
+.baltnews.lt
+## InoSMI
+.inosmi.ru
+## Prime
+.1prime.ru
+## RIA Novosti
+.ria.ru
+## Sputnik
+.radiosputnik.ria.ru
+.radiosputnik.ru
+.sputnikglobe.com
+.sputnikimages.com
+.sputnikmediabank.com
+.sputniknews.com
+## TOK
+.tok.media
+## Ukraina.ru
+.ukraina.ru
+# ══ end include: rossiyasegodnya ══
+# ══ include: rt ══
+.asiangooglenetwork.com
+.rt.com
+.rtnewsru.com
+.rtrunews.com
+.rtxv.ru
+.runewsrt.com
+.rurtnews.com
+.russiatoday.com
+.russiatoday.net
+.russiatoday.tv
+.swentr.site
+.watchingthehawks.com
+# Language-specific websites (non-English)
+## Arabic
+.arabicrt.ru
+.rtarabic.com
+.rtarabic.net
+.rtarabic.org
+.rtarabic.ru
+## French
+.rtenafrique.tv
+.rtenfrancais.tv
+.rtenfrance.tv
+.rtfrance.tv
+.russieactuelle.fr
+## German
+.de-rt.com
+.de-rt.org
+.de-rtnews.com
+.de-rtnews.net
+.dert.online
+.dert.site
+.dert.tech
+.freeassange.tech
+.freede.tech
+.freedert.online
+.rtde.agency
+.rtde.expert
+.rtde.express
+.rtde.info
+.rtde.life
+.rtde.live
+.rtde.me
+.rtde.media
+.rtde.online
+.rtde.org
+.rtde.press
+.rtde.site
+.rtde.team
+.rtde.tech
+.rtde.website
+.rtde.world
+.rtde.xyz
+.rtdefree.info
+.rtdefree.me
+.rtdefree.online
+.rtdefree.tech
+.rtnewsde.com
+.rtnewsde.online
+.rtnewsde.pro
+.rtnewsde.site
+.rtnewsde.tech
+## Portugeese
+.gazetarussa.com.br
+.rtbrasil.com
+.rtbrasil.info
+## Russian
+.russiatoday.ru
+## Serbian
+.rt.rs
+## Spanish
+.actualidad-rt.com
+.es-rt.com
+.esrt.online
+.esrt.press
+.esrt.space
+.esrt.tech
+.noticias-rt.com
+.notimundo.press
+.rtespanol.com
+.sn-esp.site
+# Infrastructure
+.b37mrtl.ru
+.esrt.site
+.esrt.website
+.green-box-tv.com
+.rttv.com
+.rttv.ru
+.rteam.dev
+.rteam.tech
+# KTECH
+.ktech.team
+# Merchendise
+.shop-rt.com
+# Other projects
+.1917live.red
+.ahilesva.info
+.book-catalog.ru
+.book1917.live
+.drobbox.pro
+.kanzlerdaddy.ru
+.khangar.net
+.pobeda.page
+.premiumlive.site
+.romanovs100.com
+.worldcuprussia.com
+## Gateway to Russia project
+.baranky.com
+.gatewaytorussia.ru
+.gw2ru.com
+.oknovrossiu.ru
+.rbth.com
+.russiabeyond.com
+.russiaislove.com
+.slavicstar.com
+## rt.doc
+.artel.watch
+.arteldoc.com
+.arteldoc.tv
+.rtdoc.tv
+.rtdocumentary.online
+.rtfestival.ru
+## RT School
+.rt-school.online
+## Ruptly
+.ruptly.agency
+.ruptly.tv
+.ruptly.video
+# ══ end include: rt ══
+# EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
+.eadaily.com
+.eadaily.info
+.eadaily.net
+.eadaily.org
+.eadaily.su
+.eurasiadaily.su

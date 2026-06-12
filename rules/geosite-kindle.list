@@ -1,0 +1,30 @@
+# GeoSite: kindle
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .kindle domains
+# Kindle
+# domain:kindle.cn
+.kindle.cn
+.kindle.co.jp
+.kindle.co.uk
+.kindle.com
+.kindle.de
+.kindle.es
+.kindle.fr
+.kindle.in
+.kindle.it
+.kindle.jp
+# domain:kindleoasis.cn
+.kindleoasis.cn
+.kindleoasis.com
+# domain:kindleoasis.com.cn
+.kindleoasis.com.cn
+.kindleoasis.info
+.kindleoasis.jp
+.kindleoasis.org
+.kindleoasis.us
+.kindleoasisnews.com
+.kindleproject.com

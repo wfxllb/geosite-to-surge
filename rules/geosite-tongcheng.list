@@ -1,0 +1,14 @@
+# GeoSite: tongcheng
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.40017.cn
+.17u.cn
+.17u.net
+.17usoft.com
+.17usoft.net
+.elong.com
+.elongstatic.com
+.ly.com

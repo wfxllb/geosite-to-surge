@@ -1,0 +1,614 @@
+# GeoSite: category-scholar-!cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# This list contains scholarly domains that don't have access point in China Mainland.
+# ══ include: category-scholar-hk ══
+# This list contains scholarly domains that in HK
+# ══ include: cityu-hk ══
+# City University of Hong Kong (CityU)
+.cityu.hk
+.cityu.edu.hk
+# https://www.whois.com/whois/cityu.hk
+# 城大.香港
+.xn--uis44a.xn--j6w193g
+# https://www.whois.com/whois/cityu.edu.hk
+# 城市大學-香港.教育.香港
+.xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+# ══ end include: cityu-hk ══
+# ══ include: cuhk ══
+# The Chinese University of Hong Kong (CUHK)
+.cuhk.hk
+.cuhk.edu.hk
+# 中大.香港 / 中文大學.香港
+.xn--mxtq18a.hk
+.xn--mxtq18a.xn--j6w193g
+.xn--fiqs8s1byzqyvl.hk
+.xn--fiqs8s1byzqyvl.xn--j6w193g
+# 香港中文大學.香港
+.xn--pssu7cv61ahwcb1p2yk.hk
+.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+# ══ end include: cuhk ══
+# ══ include: eduhk ══
+# The Education University of Hong Kong (EdUHK)
+.eduhk.hk
+.eduhk.edu.hk
+# 教大.香港 / 教育大學.香港
+.xn--wcv22d.hk
+.xn--wcv22d.xn--j6w193g
+.xn--wcvs22d1m.hk
+.xn--wcvs22d1m.xn--j6w193g
+# 香港教育大學.香港
+.xn--pssu7cv61af1tcs59bnvd.hk
+.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+# ══ end include: eduhk ══
+# ══ include: hkbu ══
+# Hong Kong Baptist University (HKBU)
+.hkbu.hk
+.hkbu.edu.hk
+# 浸大.香港 / 浸會大學.香港
+.xn--gdt08a.hk
+.xn--gdt08a.xn--j6w193g
+.xn--fiqs8s1bxp3anr7a.hk
+.xn--fiqs8s1bxp3anr7a.xn--j6w193g
+# 香港浸會大學.香港
+.xn--pssu7cv61ahw8aq79bztd.hk
+.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+# ══ end include: hkbu ══
+# ══ include: hku ══
+# The University of Hong Kong (HKU)
+.hku.hk
+.hku.edu.hk
+# https://www.whois.com/whois/hku.hk
+# 香港大學.HK / .香港
+.xn--pssu7cv61af44b.hk
+.xn--pssu7cv61af44b.xn--j6w193g
+# ══ end include: hku ══
+# ══ include: hkust ══
+# The Hong Kong University of Science and Technology
+.hkust.hk
+.hkust.edu.hk
+# https://www.whois.com/whois/hkust.hk
+# 香港科技大學.HK /.香港
+.xn--pssu7ci2j23mp9ny48b.hk
+.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+# ══ end include: hkust ══
+# ══ include: polyu ══
+# The Hong Kong Polytechnic University
+.polyu.hk
+.polyu.edu.hk
+# xxxx-polyu.edu.hk (such as cpce-polyu.edu.hk)
+.cpce-polyu.edu.hk
+.speed-polyu.edu.hk
+.hkcc-polyu.edu.hk
+# keyword:-polyu.hk
+# keyword:-polyu.edu.hk
+# https://www.whois.com/whois/polyu.edu.hk
+# 理工大學.教育.香港(Bundled but not reachable)
+# xn--pssu7cgzco90b.xn--wcvs22d.xn--j6w193g
+# https://www.whois.com/whois/polyu.hk
+# 香港-理工大學.香港(Bundled but not reachable)
+# xn----5b1b34e6wdxz4al6hzt2e.xn--j6w193g
+# ══ end include: polyu ══
+# https://www.hkdnr.hk/en/register/eligibility-required-documents/
+# https://www.jucc.edu.hk/shared-services-platforms/
+# https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html
+.edu.hk
+# 教育.香港
+.xn--wcvs22d.xn--j6w193g
+# ══ end include: category-scholar-hk ══
+# ══ include: category-scholar-ir ══
+# Iranian scholar websites
+.ac.ir
+.edu.ir
+.iau.ac.ir
+.iranlms.ir
+.jtt.ir
+.sanjesh.org
+.sharif.edu
+.sharif.ir
+.srttu.edu
+# ══ end include: category-scholar-ir ══
+# ══ include: category-scholar-uk ══
+# This list contains scholarly domains that in UK
+# ══ include: cambridge ══
+.cam.ac.uk
+.cambridge.org
+.cambridgeschoolshakespeare.com
+.cambridgedigital.net
+.cambridgemaths.org
+.ccdc.cam.ac.uk
+.dlib.eastview.com
+# ══ end include: cambridge ══
+# ══ include: imperialcollege ══
+.ic.ac.uk
+.imperial.ac.uk
+.imperialbusiness.school
+imperial.insendi.com
+# ══ end include: imperialcollege ══
+# ══ include: oup ══
+.amamanualofstyle.com
+.anb.org
+.blackstonespoliceservice.com
+.epigeum.com
+.oed.com
+.omscr.com
+.oup.com
+.ouplaw.com
+.ox.ac.uk
+.oxfordaasc.com
+.oxfordartonline.com
+.oxfordbibliographies.com
+.oxfordclinicalpsych.com
+.oxforddnb.com
+.oxfordfirstsource.com
+.oxfordhandbooks.com
+.oxfordlawtrove.com
+.oxfordmedicine.com
+.oxfordmusiconline.com
+.oxfordpoliticstrove.com
+.oxfordre.com
+.oxfordreference.com
+.oxfordscholarlyeditions.com
+.oxfordscholarship.com
+.oxfordwesternmusic.com
+.sipriyearbook.org
+.ukwhoswho.com
+.universitypressscholarship.com
+.veryshortintroductions.com
+# ══ end include: oup ══
+# ══ include: uoliv ══
+# University of liverpool
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
+.opac-project.eu
+# ══ end include: uoliv ══
+# https://iridis.uk/ac-uk-domain-registration/
+# https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
+.ac.uk
+# ══ end include: category-scholar-uk ══
+# ══ include: apa ══
+.apa.org
+.psyccareers.com
+# ══ end include: apa ══
+# ══ include: clarivate ══
+# Clarivate Analytics is a company that owns and operates a collection of subscription-based services focused largely on analytics, including scientific and academic research, patent analytics, regulatory standards, trademark protection, pharmaceutical and biotechnology intelligence, domain brand protection and intellectual property management.
+# ══ include: sci ══
+.newisiknowledge.com
+.isiknowledge.com
+# ══ end include: sci ══
+.clarivate.com
+.webofknowledge.com
+.webofscience.com
+# ══ end include: clarivate ══
+# ══ include: doi ══
+.doi.org
+.doi.info
+# ══ end include: doi ══
+# ══ include: elsevier ══
+# Elsevier's website,  One of the largest academic publishing companies
+.cell.com
+.clinicalkey.com
+.els-cdn.com
+.elsevier-ae.com
+.elsevier.com
+.elsevier.io
+.engineeringvillage.com
+.evise.com
+.fundinginstitutional.com
+.knovel.com
+.mendeley.com
+.reaxys.com
+.scival.com
+.scopus.com
+# ══ end include: elsevier ══
+# ══ include: google-scholar ══
+scholar.google.ae
+scholar.google.at
+scholar.google.be
+scholar.google.bg
+scholar.google.ca
+scholar.google.cat
+scholar.google.ch
+scholar.google.cl
+scholar.google.cn
+scholar.google.co.cr
+scholar.google.co.id
+scholar.google.co.il
+scholar.google.co.in
+scholar.google.co.jp
+scholar.google.co.kr
+scholar.google.co.nz
+scholar.google.co.th
+scholar.google.co.uk
+scholar.google.co.ve
+scholar.google.co.za
+scholar.google.com
+scholar.google.com.ar
+scholar.google.com.au
+scholar.google.com.bo
+scholar.google.com.br
+scholar.google.com.co
+scholar.google.com.cu
+scholar.google.com.do
+scholar.google.com.ec
+scholar.google.com.eg
+scholar.google.com.gt
+scholar.google.com.hk
+scholar.google.com.ly
+scholar.google.com.mx
+scholar.google.com.my
+scholar.google.com.ni
+scholar.google.com.pa
+scholar.google.com.pe
+scholar.google.com.ph
+scholar.google.com.pk
+scholar.google.com.pr
+scholar.google.com.py
+scholar.google.com.sg
+scholar.google.com.sv
+scholar.google.com.tr
+scholar.google.com.tw
+scholar.google.com.ua
+scholar.google.com.uy
+scholar.google.com.vn
+scholar.google.cz
+scholar.google.de
+scholar.google.dk
+scholar.google.es
+scholar.google.fi
+scholar.google.fr
+scholar.google.gr
+scholar.google.hn
+scholar.google.hr
+scholar.google.hu
+scholar.google.is
+scholar.google.it
+scholar.google.li
+scholar.google.lt
+scholar.google.lu
+scholar.google.lv
+scholar.google.nl
+scholar.google.no
+scholar.google.pl
+scholar.google.pt
+scholar.google.ro
+scholar.google.ru
+scholar.google.se
+scholar.google.si
+scholar.google.sk
+scholar.googleusercontent.com
+scholar.l.google.com
+# ══ end include: google-scholar ══
+# ══ include: ieee ══
+.ieee.org
+.ieee.tv
+# Co-sponsored
+.tryengineering.org
+# Conference & Event
+.ieee-ccnc.org
+.ieee-ecce.org
+.ieeemce.org
+# Education and career
+.standardsuniversity.org
+# Geographic Activities
+.ieee-region6.org
+.ieee.ca
+.ieeer10.org
+.ieeer5.org
+.ieeer8.org
+.ieeeusa.org
+# Humanitarian Program
+.ieeefoundation.org
+# Other
+.ieee-into-focus.org
+.ieee-vics.org
+.ieeeday.org
+# Publications, Products, & Services
+.datasheets360.com
+.globalspec.com
+.ieee-isto.org
+.techstreet.com
+# Society & Council
+.computer.org
+.comsoc.org
+.embs.org
+.emcs.org
+.grss-ieee.org
+.ieee-aess.org
+.ieee-cas.org
+.ieee-ceda.org
+.ieee-edusociety.org
+.ieee-ies.org
+.ieee-ims.org
+.ieee-npss.org
+.ieee-pels.org
+.ieee-pes.org
+.ieee-ras.org
+.ieee-sensors.org
+.ieee-tems.org
+.ieee-uffc.org
+.ieeeaps.org
+.ieeecsc.org
+.ieeecss.org
+.ieeedeis.org
+.ieeemagnetics.org
+.ieeenano.org
+.ieeeoes.org
+.ieeesmc.org
+.ieeesystemscouncil.org
+.itsoc.org
+.mtt.org
+.photonicssociety.org
+.signalprocessingsociety.org
+.technologyandsociety.org
+.vtsociety.org
+# ══ end include: ieee ══
+# ══ include: mit ══
+# All .mit domains
+.mit.edu
+.mit.net
+.mitpressjournals.org
+# ══ end include: mit ══
+# ══ include: proquest ══
+.serialssolutions.com
+.proquest.com
+# ══ end include: proquest ══
+# ══ include: sci-hub ══
+# Official site
+.sci-hub.se
+# Mirrors from the official site
+.sci-hub.ee
+.sci-hub.it.nf
+.sci-hub.mksa.top
+.sci-hub.st
+.sci.hubg.org
+# ══ end include: sci-hub ══
+# ══ include: sciencedirect ══
+.sciencedirect.com
+.sciencedirectassets.com
+# ══ end include: sciencedirect ══
+# ══ include: springer ══
+.apress.com
+.springer.com
+.springerlink.com
+.springernature.com
+.wkap.nl
+# ══ end include: springer ══
+# ══ include: taylorfrancis ══
+.tandf.co.uk
+.tandfonline.com
+.taylorandfrancis.com
+.taylorfrancis.com
+# ══ end include: taylorfrancis ══
+# ══ include: z-library ══
+.1lib.cloud
+.1lib.cz
+.1lib.domains
+.1lib.education
+.1lib.eu
+.1lib.limited
+.1lib.pl
+.1lib.sk
+.1lib.to
+.1lib.tw
+.2lib.org
+.3lib.net
+.art1lib.com
+.b-ok.africa
+.b-ok.asia
+.b-ok.cc
+.b-ok.global
+.b-ok.org
+.book4you.org
+.bookfi.net
+.booksc.eu
+.booksc.me
+.booksc.org
+.booksc.xyz
+.bookshome.info
+.bookshome.net
+.bookshome.world
+.de1lib.org
+.dln1.ncdn.ec
+.hk1lib.org
+.libsolutions.app
+.libsolutions.domains
+.libsolutions.net
+.ma1lib.org
+.sg1lib.org
+.singlelogin.app
+.singlelogin.me
+.singlelogin.re
+.singlelogin.site
+.z-lib.fm
+.z-lib.gd
+.z-lib.gl
+.z-lib.org
+.z-library.sk
+.z-library.se
+.zlib.life
+.zlibcdn.com
+.zlibcdn2.com
+# ══ end include: z-library ══
+.aacrjournals.org
+.academic.eb.com
+.acaric.co.jp
+.aclweb.org
+.acm.org
+.acs.org
+.agu.org
+.aiaa.org
+.aimsciences.org
+# 華藝學術
+.airiti.com
+.airitilibrary.com
+.alexanderstreet.com
+.alphaxiv.org
+.altmetric.com
+.amdigital.co.uk
+.ams.org
+.analytictech.com
+.anatomy.tv
+.annualreviews.org
+.aps.org
+.arabidopsis.org
+.artstor.org
+.arxiv.org
+.ascelibrary.org
+.asha.org
+.asm.org
+.asme.org
+.asminternational.org
+.asn-online.org
+.aspbjournals.org
+.aspenpublishing.com
+.astm.org
+.berkeley.edu
+.biologists.com
+.biomedcentral.com
+.bioone.org
+.biorxiv.org
+.bloomsburycollections.com
+.bloomsburydesignlibrary.com
+.bmj.com
+.booksinprint.com
+.brepolis.net
+.brill.com
+.bvdinfo.com
+.cairn.info
+.capitaliq.com
+.cas.org
+.ceicdata.com
+.chemnetbase.com
+.choicereviews.org
+.cios.org
+.cmu.edu
+.cochranelibrary.com
+.computingreviews.com
+.csrankings.org
+.degruyter.com
+.dentalhypotheses.com
+.ebsco.com
+.ebscohost.com
+.electrochem.org
+.elgaronline.com
+.elifesciences.org
+.embase.com
+.emerald.com
+.ems-ph.org
+.eurekaselect.com
+.europepmc.org
+.facultyopinions.com
+.frontiersin.org
+.gale.com
+.galegroup.com
+.geolytics.com
+.ggsrv.com
+.global-sci.org
+.heinonline.org
+.highwirepress.com
+.hindawi.com
+.hotcrp.com
+.icevirtuallibrary.com
+.icsd.fiz-karlsruhe.de
+.igi-global.com
+.igpublish.com
+#  漢珍數字圖書股份有限公司
+.hanzhen.xmulib.org
+.infolinker.com.tw
+.informs.org
+.ioinformatics.org
+.iop.org
+.isca-speech.org
+.iwaponline.com
+.jamanetwork.com
+.japanknowledge.com
+.jbe-platform.com
+.jmlr.org
+.jneurosci.org
+.jove.com
+.jstage.jst.go.jp
+.jstor.org
+.karger.com
+.kuke.com
+.lawdata.com.tw
+.lexisnexis.com
+.literatumonline.com
+.mdpi.com
+.medrxiv.org
+.morganclaypool.com
+.nature.com
+.naturemag.org
+.ncl.edu.tw
+.nejm.org
+.neurology.org
+.nii.ac.jp
+.oecd-ilibrary.org
+.openreview.net
+.optica.org
+.osapublishing.org
+.ovid.com
+.peerj.com
+.physiology.org
+.plos.org
+.pnas.org
+.princeton.edu
+.projecteuclid.org
+.researchgate.net
+.routledgehandbooks.com
+.royalsocietypublishing.org
+.rsc.org
+.rupress.org
+.sae.org
+.sagepub.com
+.scholarpedia.org
+# Science Online From AAAS
+.science.com
+.science.org
+.sciencemag.org
+.scienceonline.org
+.scientificamerican.com
+.scitation.org
+.semanticscholar.org
+.siam.org
+.sigcomm.org
+.sigops.org
+.silverchair-cdn.com
+.spiedigitallibrary.org
+.statsmakemecry.com
+.thelancet.com
+.tickdata.com
+# Thieme Gruppe
+.thieme.de
+.thieme-connect.com
+.thieme-connect.de
+medone-education.thieme.com
+.totalmateria.com
+.uchicago.edu
+.ucla.edu
+.umass.edu
+.usaco.org
+.usenix.org
+.westlaw.com
+.wiley.com
+.wolterskluwer.com
+.worldscientific.com
+.yale.edu
+.zenodo.org
+angle.com.tw
+beck-online.beck.de
+databank.worldbank.org
+database.asahi.com
+dl.begellhouse.com
+elib.maruzen.co.jp
+firstsearch.oclc.org
+muse.jhu.edu
+# 日经TELECOM数据库
+t21.nikkei.co.jp
+t21ipau.nikkei.co.jp
+ulrichsweb.serialssolutions.com
+wrds-www.wharton.upenn.edu

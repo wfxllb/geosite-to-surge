@@ -1,0 +1,128 @@
+# GeoSite: category-anticensorship
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: category-ipfs ══
+# Reference: https://ipfs.github.io/public-gateway-checker/
+# ══ include: cloudflare-ipfs ══
+.cf-ipfs.com
+.cloudflare-ipfs.com
+# ══ end include: cloudflare-ipfs ══
+.4everland.io
+.c4rex.co
+.crustwebsites.net
+.dweb.link
+.gateway.pinata.cloud
+.ipfs-gateway.cloud
+.ipfs.anonymize.com
+.ipfs.best-practice.se
+.ipfs.eternum.io
+.ipfs.eth.aragon.network
+.ipfs.fleek.co
+.ipfs.io
+.ipfs.lain.la
+.ipfs.runfission.com
+.ipfs.tech
+.ipns.co
+.jorropo.net
+.nftstorage.link
+.via0.com
+# ══ end include: category-ipfs ══
+# ══ include: ceno ══
+.censorship.no
+# ══ end include: ceno ══
+# ══ include: citizenlab ══
+.citizenlab.ca
+.citizenlab.org
+# ══ end include: citizenlab ══
+# ══ include: epicbrowser ══
+.epicbrowser.com
+# ══ end include: epicbrowser ══
+# ══ include: greatfire ══
+.applecensorship.com
+.freebrowser.org
+.freewechat.com
+.freeweibo.com
+.freezhihu.org
+.googlecensorship.org
+.greatfire.org
+.greatfirevpn.com
+.pao-pao.net
+.wikiunblocked.org
+# ══ end include: greatfire ══
+# ══ include: haveibeenpwned ══
+.haveibeenpwned.com
+.pwnedpasswords.com
+# ══ end include: haveibeenpwned ══
+# ══ include: lantern ══
+.getlantern.org
+.lantern.io
+# ══ end include: lantern ══
+# ══ include: paskoocheh ══
+.paskoocheh.com
+# ══ end include: paskoocheh ══
+# ══ include: softether ══
+.softether.org
+.softether-download.com
+# ══ end include: softether ══
+# ══ include: torproject ══
+.torproject.org
+# ══ end include: torproject ══
+# ══ include: v2ray ══
+.v2ray.com
+.v2ray.cool
+.v2fly.org
+# ══ end include: v2ray ══
+# ══ include: vpngate ══
+.opengw.net
+.vpngate.jp
+.vpngate.net
+# ══ end include: vpngate ══
+.ahmia.fi
+.akasha.world
+.browserleaks.com
+.bypasscensorship.org
+.censorship.ai
+.dat.foundation
+.democracy.earth
+.eff.org
+.ffprofile.com
+.freenetproject.org
+.fteproxy.org
+.geti2p.net
+.getoutline.org
+.gfw.report
+.guardianproject.info
+.hiddify.com
+.jitsi.org
+.lokinet.org
+.ntc.party
+.onionshare.org
+.ooni.org
+.openvpn.net
+.privacytools.io
+.proxifier.com
+.psiphon.ca
+.psiphon3.com
+.sagernet.org
+.sing-box.app
+.shadowsocks.org
+.sspanel.net
+.stunnel.org
+.telex.cc
+.tribler.org
+.tunsafe.com
+.turkeyblocks.org
+.twister.net.co
+.uproxy.org
+.vpnrouter.homes
+.vuvuzela.io
+.whonix.org
+.wikileaks.org
+.wireguard.com
+.xtls.github.io
+.trojan-gfw.github.io
+.zeronet.io
+.metacubex.one

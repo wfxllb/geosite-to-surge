@@ -1,0 +1,14 @@
+# GeoSite: yokaverse
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 游卡
+.dobest.com
+.langrenclub.com
+.sanguosha.com
+.xhlsgs.com
+.xinwuji.com
+.yokaverse.com
+.zhuoyou.com

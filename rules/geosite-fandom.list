@@ -1,0 +1,24 @@
+# GeoSite: fandom
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.cursecdn.com
+.fandom.com
+.wikia.com
+.wikia.org
+# D&D Beyond
+.dndbeyond.com
+# Futhead
+.futhead.com
+# Gamepedia
+.gamepedia.com
+# Muthead
+.muthead.com
+# Cortex RPG
+.cortexrpg.com
+# Fanatical
+.fanatical.com
+.wikia.nocookie.net
+fandom.zendesk.com

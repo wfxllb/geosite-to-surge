@@ -1,0 +1,11 @@
+# GeoSite: bilibili2
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# bilibili2 is a pornographic website. Do not add bilibili domain in here.
+.bili2.cc
+.bili888.com
+.bili999.com
+# [skip] regexp:(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$ — 无法转为 Surge .list

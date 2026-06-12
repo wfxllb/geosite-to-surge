@@ -1,0 +1,22 @@
+# GeoSite: xunlei
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.8uri.cn
+.kanimg.com
+.sandai.net
+.thunderurl.com
+.xunlei.com
+# 烽动cdn
+.00cdn.com
+.88cdn.com
+.p2cdn.com
+.thundercdn.com
+# 星域云
+.xycloud.com
+.xycdn.com
+# 光鸭云盘
+.guangyacdn.com
+.guangyapan.com

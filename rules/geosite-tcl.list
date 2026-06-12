@@ -1,0 +1,29 @@
+# GeoSite: tcl
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 粤ICP备2020114412号
+.tclai.top
+# 粤ICP备05040863号
+.tcl.com
+.tcl.com.cn
+.tcltech.com
+# 粤ICP备17088321号
+.leiniao.com
+# 粤ICP备14002670号
+.my7v.com
+# Ads/tracking
+# domain:ads-uo.api.leiniao.com
+.ads-uo.api.leiniao.com
+# domain:ads-ut.api.leiniao.com
+.ads-ut.api.leiniao.com
+# domain:ads.api.my7v.com
+.ads.api.my7v.com
+# domain:euads-o.api.leiniao.com
+.euads-o.api.leiniao.com
+# domain:hwads-t.api.my7v.com
+.hwads-t.api.my7v.com
+# domain:testads.api.my7v.com
+.testads.api.my7v.com

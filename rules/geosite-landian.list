@@ -1,0 +1,18 @@
+# GeoSite: landian
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 蓝点网
+.landian.news
+# 浙ICP备14021835号-1
+.lancdn.com
+.landiannews.com
+# 浙ICP备19001095号-4
+.landian.vip
+.landian.xyz
+# 浙ICP备19001095号-10
+.ourl.co
+# 浙ICP备19001095号-2
+.wsoso.com

@@ -1,0 +1,13 @@
+# GeoSite: microsoft-pki
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.msocsp.com
+crl.microsoft.com
+mscrl.microsoft.com
+ocsp.microsoft.com
+oneocsp.microsoft.com
+# full:www.microsoft.com
+www.microsoft.com

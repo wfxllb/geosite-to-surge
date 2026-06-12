@@ -1,0 +1,73 @@
+# GeoSite: tencent-tme
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 腾讯音乐娱乐集团/TME
+# ══ include: kugou ══
+.fanxingliveshow.com
+.kgimg.com
+.kglink.cn
+.ktv.com
+.kugoo.com
+.kugou.com
+.kugou.net
+.kugouaudio.com
+.kugouipv6.com
+.kugoukid.com
+.kugouliveshow.com
+.kugouringtone.com
+.kugousenior.com
+.kugoustore.com
+.kugouvoice.com
+.kugouyouth.com
+# Ads/tracking
+# domain:ads.service.kugou.com
+.ads.service.kugou.com
+# domain:adserviceretry.kglink.cn
+.adserviceretry.kglink.cn
+# domain:adserviceretry.kugou.com
+.adserviceretry.kugou.com
+# ══ end include: kugou ══
+# ══ include: kuwo ══
+.koowo.cn
+.koowo.com
+.kuwo.cn
+# ══ end include: kuwo ══
+# ══ include: ximalaya ══
+.ximalaya.com
+.xmcdn.com
+# Ads/tracking
+# domain:adbehavior.ximalaya.com
+.adbehavior.ximalaya.com
+# domain:adse.wsa.ximalaya.com
+.adse.wsa.ximalaya.com
+# domain:adse.ximalaya.com
+.adse.ximalaya.com
+# ══ end include: ximalaya ══
+.lrts.me
+.qqmusic.com
+.tencentmusic.com
+.kg.qq.com
+.music.qq.com
+.y.qq.com
+# 爱听卓乐
+.97ting.com
+.tingmall.com
+.ultimatemusic.cn
+# Ads/tracking
+# domain:ad.tencentmusic.com
+.ad.tencentmusic.com
+# domain:adstats.tencentmusic.com
+.adstats.tencentmusic.com
+# domain:monitor.music.qq.com
+.monitor.music.qq.com
+# domain:report.tencentmusic.com
+.report.tencentmusic.com
+# domain:stat.y.qq.com
+.stat.y.qq.com
+# domain:tmead.y.qq.com
+.tmead.y.qq.com
+# domain:tmeadcomm.y.qq.com
+.tmeadcomm.y.qq.com

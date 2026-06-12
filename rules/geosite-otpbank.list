@@ -1,0 +1,18 @@
+# GeoSite: otpbank
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.ckb.me
+.dskbank.bg
+.ipotekabank.uz
+.mobiasbanca.md
+.otpbank.al
+.otpbank.com.ua
+.otpbank.hu
+.otpbank.ru
+.otpbanka.hr
+.otpbanka.rs
+.otpbanka.si
+.otpgroup.info

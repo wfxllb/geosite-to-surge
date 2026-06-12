@@ -1,0 +1,20 @@
+# GeoSite: dnspod
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.dns.pub
+.dnsapi.cn
+.dnspod.cn
+.dnspod.com
+.dnspod.com.cn
+.dnspod.mobi
+.dnspod.net
+.dnspod.org
+.dnsv2.com
+.dnsv3.com
+.dnsv4.com
+.dnsv5.com
+.doh.pub
+.dot.pub

@@ -1,0 +1,7 @@
+# 上游数据（CI 中动态 clone，不纳入版本）
+domain-list-community/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,106 @@
+# GeoSite: category-speedtest
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: ookla-speedtest ══
+.cdnst.net
+.cellmaps.com
+.ekahau.cloud
+.ekahau.com
+.ookla.com
+.ooklaserver.net
+.pingtest.net
+.speedtest.co
+.speedtest.net
+.speedtestcustom.com
+.webtest.net
+www.speedtest.net.cdn.cloudflare.net
+# SpeedTest Node
+.ookla-speedtest-central.hgconair.hgc.com.hk
+# Ads/tracking
+# [skip] regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$ — 无法转为 Surge .list
+# ══ end include: ookla-speedtest ══
+# ══ include: openspeedtest ══
+.open.cachefly.net
+.openspeedtest.com
+# ══ end include: openspeedtest ══
+# domain:cnspeedtest.cn
+.cnspeedtest.cn
+.fast.com
+.fastspeedtest.com
+.linkmeter.net
+.measurementlab.net
+.meter.net
+.nperf.com
+.openspeedtest.ru
+.speed.cloudflare.com
+.speed.dler.io
+.speed.ee
+.speed.hinet.net
+.speed.nccu.edu.tw
+# domain:speed.neu6.edu.cn
+.speed.neu6.edu.cn
+# domain:speed.nju.edu.cn
+.speed.nju.edu.cn
+# domain:speed.nuaa.edu.cn
+.speed.nuaa.edu.cn
+# domain:speed.qlu.edu.cn
+.speed.qlu.edu.cn
+# domain:speed.ujs.edu.cn
+.speed.ujs.edu.cn
+.speed2.hinet.net
+.speed5.ntu.edu.tw
+# domain:speed6.ujs.edu.cn
+.speed6.ujs.edu.cn
+.speedcheck.org
+.speedgeo.net
+.speedof.me
+.speedtest.cesnet.cz
+.speedtest.ch
+.speedtest.citylink.pro
+# domain:speedtest.cn
+.speedtest.cn
+.speedtest.co.za
+.speedtest.de
+.speedtest.dno-it.ru
+.speedtest.frontier.com
+.speedtest.im
+.speedtest.mail.ru
+# domain:speedtest.mfcyun.com
+.speedtest.mfcyun.com
+.speedtest.net.in
+.speedtest.net.ua
+.speedtest.net.uk
+.speedtest.org
+.speedtest.rt.ru
+.speedtest.ru
+.speedtest.shaw.ca
+# domain:speedtest.shu.edu.cn
+.speedtest.shu.edu.cn
+.speedtest.su
+.speedtest.uz
+.speedtest.volia.com
+# domain:speedtest.xaut.edu.cn
+.speedtest.xaut.edu.cn
+.speedtest.xfinity.com
+.speedtest.xyz
+.speedtest24.ru
+# domain:speedtest6.shu.edu.cn
+.speedtest6.shu.edu.cn
+# domain:test.nju.edu.cn
+.test.nju.edu.cn
+# domain:test.ustc.edu.cn
+.test.ustc.edu.cn
+# domain:test6.nju.edu.cn
+.test6.nju.edu.cn
+# domain:test6.ustc.edu.cn
+.test6.ustc.edu.cn
+.testmy.net
+.testmyspeed.com
+.testskorosti.ru
+# domain:xnfz.seu.edu.cn
+.xnfz.seu.edu.cn
+# full:hk-global-bgp.hkg.speedtest.yecaoyun.com
+hk-global-bgp.hkg.speedtest.yecaoyun.com

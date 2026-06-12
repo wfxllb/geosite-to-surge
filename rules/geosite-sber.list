@@ -1,0 +1,136 @@
+# GeoSite: sber
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: 2gis ══
+# https://crt.sh/?id=24119301132
+.2gis.ae
+.2gis.am
+.2gis.az
+.2gis.by
+.2gis.com
+.2gis.com.cy
+.2gis.cz
+.2gis.ge
+.2gis.kg
+.2gis.kz
+.2gis.ru
+.2gis.tj
+.2gis.uz
+.2gis.tech
+# ══ end include: 2gis ══
+# ══ include: okko ══
+.okkoapi.tv
+.playfamily.ru
+.okko.sport
+.okko.tv
+# ══ end include: okko ══
+.bps-sberbank.by
+.sber-bank.by
+.sber.ru
+.sberbank.com
+.sberbank.ru
+.sbrf.ru
+# Ads/tracking
+# domain:ads.sber.ru
+.ads.sber.ru
+# domain:clickstream.sberbank.ru
+.clickstream.sberbank.ru
+# domain:neon.click
+.neon.click
+# domain:sbermarketing.ru
+.sbermarketing.ru
+# full:error-tracking.megamarket.tech
+error-tracking.megamarket.tech
+# full:metrics.21-school.ru
+metrics.21-school.ru
+# full:sentry.sberauto.com
+sentry.sberauto.com
+# full:tracing-http.megamarket.tech
+tracing-http.megamarket.tech
+# full:visor.sberbank.ru
+visor.sberbank.ru
+# Business ecosystem
+.id.ru
+.megamarket.ru
+.megamarket.tech
+.sberauto.com
+.sberbank-insurance.ru
+.sbercloud.ru
+.sbercloud.tech
+.sberdevices.ru
+.sberdisk.ru
+.sberfactoring.ru
+.sberindex.ru
+.sberbankaktivno.ru
+.sberbankins.ru
+.sberhealth.ru
+.sberleasing.ru
+.sberlogistics.ru
+.sbermegamarket.ru
+.sbermobile.ru
+.sberpb.ru
+.sbertroika.ru
+## Afisha
+.afisha.ru
+## Citydrive (carsharing)
+.citydrive.ru
+## cloud.ru
+.cloud.ru
+.cloudru.cn
+## EApteka (pharmacy)
+.eaptechka.online
+.eapteka.ru
+## Education
+.21-school.ru
+## Food delivery
+### Kuper
+.kuper.ru
+.restnproducts.ru
+### Samokat (food delivery)
+.samokat.ru
+## GigaChat (AI chat)
+.giga.chat
+## GitVerse
+.gitverse.ru
+## Jivo/Jivochat/Jivosite (chat for website)
+.jivo.chat
+.jivo.ru
+.jivochat.co.in
+.jivochat.co.za
+.jivochat.com
+.jivochat.com.br
+.jivochat.com.co
+.jivochat.com.pe
+.jivochat.com.tr
+.jivochat.de
+.jivochat.es
+.jivochat.ng
+.jivochat.ru
+.jivosite.com
+.jivosite.ru
+## Online payment service
+.payecom.ru
+.platiecom.ru
+## Ottelo (travel agency)
+.otello.ru
+## Sber Pro
+.sber.pro
+sberpro.vedomosti.ru
+## Sber Spasibo (loyalty service)
+.cplsb.ru
+.sberspasibo.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+## Sber Tech
+.accesspoint.uz
+.getsynapse.io
+.sbertech.ru
+# Zvuk (music streaming)
+.zvuk-b2b.com
+.zvuk.com

@@ -1,0 +1,103 @@
+# GeoSite: cloudflare
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: cloudflare-cn ══
+# domain:cf-china.info
+.cf-china.info
+# domain:cf-ns.com
+.cf-ns.com
+# domain:cf-ns.net
+.cf-ns.net
+# domain:cf-ns.site
+.cf-ns.site
+# domain:cf-ns.tech
+.cf-ns.tech
+# domain:cftest5.cn
+.cftest5.cn
+# domain:cftest6.cn
+.cftest6.cn
+# domain:cftest7.com
+.cftest7.com
+# domain:cftest8.com
+.cftest8.com
+# domain:cloudflare-cn.com
+.cloudflare-cn.com
+# domain:cloudflareanycast.net
+.cloudflareanycast.net
+# domain:cloudflarechina.cn
+.cloudflarechina.cn
+# domain:cloudflarecn.net
+.cloudflarecn.net
+# domain:cloudflareglobal.net
+.cloudflareglobal.net
+# domain:cloudflareinsights-cn.com
+.cloudflareinsights-cn.com
+# domain:cloudflareperf.com
+.cloudflareperf.com
+# domain:cloudflareprod.com
+.cloudflareprod.com
+# domain:cloudflarestaging.com
+.cloudflarestaging.com
+# domain:cloudflarestoragegw.com
+.cloudflarestoragegw.com
+# ══ end include: cloudflare-cn ══
+# ══ include: cloudflare-ipfs ══
+.cf-ipfs.com
+.cloudflare-ipfs.com
+# ══ end include: cloudflare-ipfs ══
+.argotunnel.com
+.browser.run
+.cfargotunnel.com
+.cfdata.org
+.cfl.re
+.cloudflare-dns.com
+.cloudflare-ech.com
+.cloudflare-esni.com
+.cloudflare-gateway.com
+.cloudflare-quic.com
+.cloudflare-terms-of-service-abuse.com
+.cloudflare.com
+.cloudflare.dev
+.cloudflare.net
+.cloudflare.tv
+.cloudflareaccess.com
+.cloudflareapps.com
+.cloudflarebolt.com
+.cloudflarebrowser.com
+.cloudflarechallenge.com
+.cloudflareclient.com
+.cloudflarecp.com
+.cloudflareinsights.com
+.cloudflareok.com
+.cloudflarepartners.com
+.cloudflareportal.com
+.cloudflarepreview.com
+.cloudflareregistrar.com
+.cloudflareresearch.com
+.cloudflareresolve.com
+.cloudflaressl.com
+.cloudflarestatus.com
+.cloudflarestorage.com
+.cloudflarestream.com
+.cloudflaresupport.com
+.cloudflaretest.com
+.cloudflarewarp.com
+.cloudflareworkers.com
+.encryptedsni.com
+.every1dns.net
+.foundationdns.com
+.foundationdns.net
+.foundationdns.org
+.imagedelivery.net
+.isbgpsafeyet.com
+.one.one.one
+.pacloudflare.com
+.pages.dev
+.r2.dev
+.trycloudflare.com
+.videodelivery.net
+.warp.plus
+.workers.dev

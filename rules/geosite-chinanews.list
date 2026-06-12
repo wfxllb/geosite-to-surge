@@ -1,0 +1,15 @@
+# GeoSite: chinanews
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.chinanews.com
+.chinanews.com.cn
+.chinaqw.com
+.cns.com.cn
+.cnsimg.net
+.ecns.cn
+.inewsweek.cn
+.jwview.com
+.xinmeng.info

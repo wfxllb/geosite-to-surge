@@ -1,0 +1,12 @@
+# GeoSite: cowtransfer
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 奶牛快传
+## 蜀ICP备14008877号
+.c-t.work
+## 闽ICP备2021013850号
+.cowcs.com
+.cowtransfer.com

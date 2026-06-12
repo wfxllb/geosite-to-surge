@@ -1,0 +1,11 @@
+# GeoSite: netlify
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bitballoon.com
+.netlify.app
+.netlify.com
+.netlifystatus.com
+d33wubrfki0l68.cloudfront.net

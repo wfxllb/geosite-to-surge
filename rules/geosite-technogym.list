@@ -1,0 +1,15 @@
+# GeoSite: technogym
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# data source: https://crt.sh/?id=17424181
+.letsmoveforabetterworld.com
+.technogym.bg
+.technogym.ch
+.technogym.com
+.technogym.com.br
+.technogym.ru
+.technogym.su
+.wellnessinstitute.com

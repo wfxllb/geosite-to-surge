@@ -1,0 +1,13 @@
+# GeoSite: terabox
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.1024terabox.com
+.bestclouddrive.com
+.freeterabox.com
+.nephobox.com
+.terabox.com
+.terabox1024.com
+.teraboxcdn.com

@@ -1,0 +1,14 @@
+# GeoSite: annas-archive
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.annas-archive.gd
+.annas-archive.gl
+.annas-archive.in
+.annas-archive.li
+.annas-archive.org
+.annas-archive.pk
+.annas-archive.pm
+.annas-archive.se

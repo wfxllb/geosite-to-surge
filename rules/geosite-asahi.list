@@ -1,0 +1,13 @@
+# GeoSite: asahi
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.aiasahi.jp
+.asagaku.com
+.asahi.com
+.asahicom.jp
+.asakonet.co.jp
+.nikkansports.com
+asahishimbun.sc.omtrdc.net

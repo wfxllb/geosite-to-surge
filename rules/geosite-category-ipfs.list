@@ -1,0 +1,30 @@
+# GeoSite: category-ipfs
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Reference: https://ipfs.github.io/public-gateway-checker/
+# ══ include: cloudflare-ipfs ══
+.cf-ipfs.com
+.cloudflare-ipfs.com
+# ══ end include: cloudflare-ipfs ══
+.4everland.io
+.c4rex.co
+.crustwebsites.net
+.dweb.link
+.gateway.pinata.cloud
+.ipfs-gateway.cloud
+.ipfs.anonymize.com
+.ipfs.best-practice.se
+.ipfs.eternum.io
+.ipfs.eth.aragon.network
+.ipfs.fleek.co
+.ipfs.io
+.ipfs.lain.la
+.ipfs.runfission.com
+.ipfs.tech
+.ipns.co
+.jorropo.net
+.nftstorage.link
+.via0.com

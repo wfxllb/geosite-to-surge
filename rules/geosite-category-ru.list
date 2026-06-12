@@ -1,0 +1,2406 @@
+# GeoSite: category-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Russian websites
+.ru.com
+.ru.net
+# ══ include: tld-ru ══
+# Russian TLDs
+# ══ end include: tld-ru ══
+# ══ include: category-betting-ru ══
+# ══ include: betboom ══
+.betboom.ru
+.mobile-bb.com
+# ══ end include: betboom ══
+# ══ include: fonbet ══
+.bk6bba-resources.com
+.bk6bba-resources.ru
+.fon.bet
+.fon.promo
+# ══ end include: fonbet ══
+# ══ include: ligastavok ══
+.ligadobra.ru
+.ligastavok-csr.ru
+.ligastavok.ru
+.sozvezdie-dobra.ru
+# ══ end include: ligastavok ══
+# ══ include: winline ══
+.win-line.ru
+.winline.ru
+.winlinebet.ru
+# ══ end include: winline ══
+# ══ end include: category-betting-ru ══
+# ══ include: category-ecommerce-ru ══
+# ══ include: avito ══
+.avito.ru
+.avito.st
+# full:stats.avito.ru
+stats.avito.ru
+# ══ end include: avito ══
+# ══ include: ozon ══
+.ewisdom.us.kg
+.o3.ru
+.o3t.ru
+.o3team.ru
+.o-courier.ru
+.ocourier.ru
+.ozon-dostavka.ru
+.ozon-credit.ru
+.ozon-tech.ru
+.ozon.by
+.ozon.com
+.ozon.com.by
+.ozon.com.kz
+.ozon.dev
+.ozon.express
+.ozon.kz
+.ozon.li
+.ozon.ru
+.ozon.tech
+.ozon.tm
+.ozon.travel
+.ozoncamp.pro
+.ozoncard.ru
+.ozoncom.by
+.ozoncorporate.ru
+.ozone.ru
+.ozonglobalevents.com
+.ozonpartners.by
+.ozonpartners.ru
+.ozonrocet.by
+.ozonroket.by
+.ozonru.co.il
+.ozonru.com
+.ozonru.eu
+.ozonru.me
+.ozonsport.ru
+.ozonstatus.ru
+.ozonusercontent.com
+.rocketozon.by
+# IDN ccTLD
+.xn----8sbahiqzthbd0bn.xn--p1ai
+.xn--80aafgovrgbc7am.xn--p1ai
+.xn--e1adjldbbpv.xn--90ais
+# Advertising and tracking
+# full:ad.ozone.ru
+ad.ozone.ru
+# full:adv.ozon.ru
+adv.ozon.ru
+# full:agency-adv.ozon.ru
+agency-adv.ozon.ru
+# full:analytics-adv.ozon.ru
+analytics-adv.ozon.ru
+# full:beginners-adv.ozon.ru
+beginners-adv.ozon.ru
+# full:google-analytics-suite.ozon.ru
+google-analytics-suite.ozon.ru
+# full:loyalnost-adv.ozon.ru
+loyalnost-adv.ozon.ru
+# full:new-adv.ozon.ru
+new-adv.ozon.ru
+# full:prodvizhenie-adv.ozon.ru
+prodvizhenie-adv.ozon.ru
+# full:questions-adv.ozon.ru
+questions-adv.ozon.ru
+# full:sentry.ozon.ru
+sentry.ozon.ru
+# full:xapi.ozon.by
+xapi.ozon.by
+# full:xapi.ozon.com
+xapi.ozon.com
+# full:xapi.ozon.com.by
+xapi.ozon.com.by
+# full:xapi.ozon.com.kz
+xapi.ozon.com.kz
+# full:xapi.ozon.kz
+xapi.ozon.kz
+# full:xapi.ozon.ru
+xapi.ozon.ru
+# full:xapi.ozonru.me
+xapi.ozonru.me
+# ══ end include: ozon ══
+# ══ include: wildberries ══
+.digital-wb.ru
+.digitalwb.ru
+.etradebook.ru
+.geobasket.ru
+.mp.world
+.onlyjobs.ru
+.paywb.com
+.paywb.ru
+.rwb.ru
+.rwbautomation.ru
+.rwbautomation.tech
+.rwbgeo.ru
+.russoutdoor.ru
+.vamzakaz.ru
+.vsemrabota.ru
+.warehouse.domains
+.wb-bank.ru
+.wb-basket.ru
+.wb-cloud.ru
+.wb-sale.ru
+.wb.am
+.wb.kg
+.wb.kz
+.wb.ru
+.wbautomation.ru
+.wbautomation.tech
+.wbbasket.ru
+.wbdubna.ru
+.wbkids.ru
+.wbmail.ru
+.wbmotivator.ru
+.wbpay.ru
+.wbr.by
+.wbrep.ru
+.wbstatic.net
+.wbstatic.ru
+.wbtek.ru
+.wbwh.ru
+.wbwh.tech
+.wibes.com
+.wibes.ru
+.wildberries.am
+.wildberries.by
+.wildberries.co.il
+.wildberries.es
+.wildberries.eu
+.wildberries.ge
+.wildberries.kg
+.wildberries.kz
+.wildberries.lt
+.wildberries.ru
+.wildberries.tj
+.wildberries.tm
+.wildberries.uz
+.xn--90ab.com
+# Typesquatting domains
+.velberis.ru
+.vildberis.ru
+.waildberies.ru
+.waldberies.ru
+.waldberis.ru
+.walderis.ru
+.wallberis.ru
+.weildberries.ru
+.welberris.ru
+.weldberies.ru
+.weldberres.ru
+.weldberric.ru
+.wellberies.ru
+.wellberes.ru
+.widberri.ru
+.widberris.ru
+.wieldberris.ru
+.wilberes.ru
+.wilberies.ru
+.wilberris.ru
+.wilberry.ru
+.wildbaries.ru
+.wildbarries.ru
+.wildbeeries.ru
+.wildberiss.ru
+.wildberr.ru
+.wildbiries.ru
+.wildbirris.ru
+.wildberdes.ru
+.wildberriess.ru
+.wildberrise.ru
+.wildbress.ru
+.wildbries.ru
+.wildbrris.ru
+.wildeberies.ru
+.wildeberris.ru
+.wiliberes.ru
+.willberiess.ru
+.willberis.ru
+.wldberris.ru
+.wolfberries.ru
+# IDN ccTLDs
+.xn--80acbjgmges7ca.xn--p1ai
+.xn--80acbjgsdq2cl.xn--p1ai
+# Advertising and tracking
+# full:ads-gate.wildberries.ru
+ads-gate.wildberries.ru
+# full:ads-media.wildberries.ru
+ads-media.wildberries.ru
+# full:ads.wildberries.ru
+ads.wildberries.ru
+# full:advert-api.wb.ru
+advert-api.wb.ru
+# full:advert-api-sandbox.wb.ru
+advert-api-sandbox.wb.ru
+# full:advert-media-api.wb.ru
+advert-media-api.wb.ru
+# full:advert-api.wildberries.ru
+advert-api.wildberries.ru
+# full:advert-api-sandbox.wildberries.ru
+advert-api-sandbox.wildberries.ru
+# full:advert-media-api.wildberries.ru
+advert-media-api.wildberries.ru
+# full:analytics-stage.wildberries.ru
+analytics-stage.wildberries.ru
+# full:analytics.wildberries.ru
+analytics.wildberries.ru
+# full:marketing-info.wildberries.ru
+marketing-info.wildberries.ru
+# full:marketplace-sentry.wb.ru
+marketplace-sentry.wb.ru
+# full:sentry.wb.ru
+sentry.wb.ru
+# full:web-analytics.wildberries.ru
+web-analytics.wildberries.ru
+# ══ end include: wildberries ══
+# ══ end include: category-ecommerce-ru ══
+# ══ include: category-entertainment-ru ══
+# CDNvideo is a leading CDN provider in Russia and the CIS
+.cdnvideo.ru
+.cdnvideohub.com
+.trbcdn.net
+# Information about films and series
+.kinorium.com
+# Streaming services for watching TV series and movies
+# ══ include: kinopoisk ══
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# ══ end include: kinopoisk ══
+# ══ include: okko ══
+.okkoapi.tv
+.playfamily.ru
+.okko.sport
+.okko.tv
+# ══ end include: okko ══
+# ══ include: wink ══
+.restream-media.net
+.restream.ru
+.more.tv
+.wink.am
+.wink.ru
+# ══ end include: wink ══
+.24h.tv
+.amediateka.ru
+.beeline.tv
+.ivi.ru
+.premier.one
+.smotreshka.tv
+.start.ru
+.tvigle.ru
+.viju.ru
+# Music
+.promodj.com
+# Video hosting
+# ══ include: rutube ══
+.rutube.ru
+.rutubelist.ru
+.rtbcdn.ru
+# ══ end include: rutube ══
+# ══ end include: category-entertainment-ru ══
+# ══ include: category-gov-ru ══
+# Federal Gov.
+.government.ru
+.gov.ru
+# Federal Public Services
+.gosuslugi.ru
+.gu-st.ru
+# Federal Healthcare Services
+.emias.info
+.mgfoms.ru
+# Federal Educational Services
+.edu.ru
+# Other Federal Resources
+.cbr.ru
+.cikrf.ru
+.ebs.ru
+.goskey.ru
+.grfc.ru
+.izbirkom.ru
+.kremlin.ru
+.mil.ru
+.nalog.ru
+.xn--80ajghhoc2aj1c8b.xn--p1ai
+.xn--b1afabzvcegckfhg.xn--p1ai
+#
+# Regional sites and Public Services
+# Reminder on federal subjects naming:
+# | English name        | RU transliteration    | RU naming         |
+# | Region, Province    | Oblast                | Область           |
+# | Territory           | Krai                  | Край              |
+# | Autonomous Region,  | Avtonomniy Okrug      | Автономный Округ  |
+# | Autonomous Area     |                       |                   |
+#
+# Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
+# meaning that e.g. Moscow is not part of Moscow Region.
+#
+# Federal Cities (Cities of Federal Importance)
+.mos.ru
+.mosreg.ru
+.spb.ru
+.sevastopol.ru
+# Republics
+.adygeya.ru
+.bashkiria.ru
+.buryatia.ru
+.chuvashia.ru
+.crimea.ru
+.dagestan.ru
+.grozny.ru
+.i-ola.ru
+.izhevsk.ru
+.kalmykia.ru
+.karelia.ru
+.kazan.ru
+.kchr.ru
+.khakassia.ru
+.mari-el.ru
+.mari.ru
+.mordovia.ru
+.nalchik.ru
+.ptz.ru
+.rkomi.ru
+.tatarstan.ru
+.tuva.ru
+.udm.ru
+.udmurtia.ru
+.ulan-ude.ru
+.vladikavkaz.ru
+.yakutia.ru
+# Territories (Krai)
+.altai.ru
+.chita.ru
+.kamchatka.ru
+.khabarovsk.ru
+.khv.ru
+.krasnodar.su
+.krasnoyarsk.ru
+.kuban.ru
+.marine.ru
+.perm.ru
+.stavropol.ru
+.stv.ru
+.vl.ru
+.vladivostok.ru
+# Regions / Provinces (Oblast)
+.amur.ru
+.arkhangelsk.ru
+.astrakhan.ru
+.belgorod.ru
+.bir.ru
+.bryansk.ru
+.cbg.ru
+.chel.ru
+.chelyabinsk.ru
+.ekburg.ru
+.xn--80acgfbsl1azdqr.xn--p1ai
+.irk.ru
+.irkutsk.ru
+.ivanovo.ru
+.jar.ru
+.kaluga.ru
+.kemerovo.ru
+.kirov.ru
+.koenig.ru
+.kostroma.ru
+.kurgan.ru
+.kursk.ru
+.lipetsk.ru
+.magadan.ru
+.murmansk.ru
+.nn.ru
+.nov.ru
+.novosibirsk.ru
+.nsk.ru
+.omsk.ru
+.orb.ru
+.oryol.ru
+.penza.ru
+.psk.ru
+.pskov.ru
+.rnd.ru
+.ryazan.ru
+.sakhalin.ru
+.samara.ru
+.saratov.ru
+.simbirsk.ru
+.smolensk.ru
+.tambov.ru
+.tom.ru
+.tomsk.ru
+.tsaritsyn.ru
+.tsk.ru
+.tula.ru
+.tver.ru
+.tyumen.ru
+.vladimir.ru
+.vlg.ru
+.volgograd.ru
+.vologda.ru
+.voronezh.ru
+.vrn.ru
+.vyatka.ru
+.yaroslavl.ru
+.yuzhno-sakhalinsk.ru
+# Autonomous areas
+.chukotka.ru
+.jamal.ru
+.surgut.ru
+.yamal.ru
+# Regional health services
+.zdrav10.ru
+# ══ end include: category-gov-ru ══
+# ══ include: category-media-ru ══
+# This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
+# ══ include: rossiyasegodnya ══
+# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
+.jinrieluosi.cn
+.pressria.ru
+.rossiyasegodnya.com
+.xn--c1acbl2abdlkab1og.xn--p1ai
+# Media brands
+## Arctic.ru
+.arctic.ru
+## Baltnews
+.baltnews.com
+.baltnews.lt
+## InoSMI
+.inosmi.ru
+## Prime
+.1prime.ru
+## RIA Novosti
+.ria.ru
+## Sputnik
+.radiosputnik.ria.ru
+.radiosputnik.ru
+.sputnikglobe.com
+.sputnikimages.com
+.sputnikmediabank.com
+.sputniknews.com
+## TOK
+.tok.media
+## Ukraina.ru
+.ukraina.ru
+# ══ end include: rossiyasegodnya ══
+# ══ include: rt ══
+.asiangooglenetwork.com
+.rt.com
+.rtnewsru.com
+.rtrunews.com
+.rtxv.ru
+.runewsrt.com
+.rurtnews.com
+.russiatoday.com
+.russiatoday.net
+.russiatoday.tv
+.swentr.site
+.watchingthehawks.com
+# Language-specific websites (non-English)
+## Arabic
+.arabicrt.ru
+.rtarabic.com
+.rtarabic.net
+.rtarabic.org
+.rtarabic.ru
+## French
+.rtenafrique.tv
+.rtenfrancais.tv
+.rtenfrance.tv
+.rtfrance.tv
+.russieactuelle.fr
+## German
+.de-rt.com
+.de-rt.org
+.de-rtnews.com
+.de-rtnews.net
+.dert.online
+.dert.site
+.dert.tech
+.freeassange.tech
+.freede.tech
+.freedert.online
+.rtde.agency
+.rtde.expert
+.rtde.express
+.rtde.info
+.rtde.life
+.rtde.live
+.rtde.me
+.rtde.media
+.rtde.online
+.rtde.org
+.rtde.press
+.rtde.site
+.rtde.team
+.rtde.tech
+.rtde.website
+.rtde.world
+.rtde.xyz
+.rtdefree.info
+.rtdefree.me
+.rtdefree.online
+.rtdefree.tech
+.rtnewsde.com
+.rtnewsde.online
+.rtnewsde.pro
+.rtnewsde.site
+.rtnewsde.tech
+## Portugeese
+.gazetarussa.com.br
+.rtbrasil.com
+.rtbrasil.info
+## Russian
+.russiatoday.ru
+## Serbian
+.rt.rs
+## Spanish
+.actualidad-rt.com
+.es-rt.com
+.esrt.online
+.esrt.press
+.esrt.space
+.esrt.tech
+.noticias-rt.com
+.notimundo.press
+.rtespanol.com
+.sn-esp.site
+# Infrastructure
+.b37mrtl.ru
+.esrt.site
+.esrt.website
+.green-box-tv.com
+.rttv.com
+.rttv.ru
+.rteam.dev
+.rteam.tech
+# KTECH
+.ktech.team
+# Merchendise
+.shop-rt.com
+# Other projects
+.1917live.red
+.ahilesva.info
+.book-catalog.ru
+.book1917.live
+.drobbox.pro
+.kanzlerdaddy.ru
+.khangar.net
+.pobeda.page
+.premiumlive.site
+.romanovs100.com
+.worldcuprussia.com
+## Gateway to Russia project
+.baranky.com
+.gatewaytorussia.ru
+.gw2ru.com
+.oknovrossiu.ru
+.rbth.com
+.russiabeyond.com
+.russiaislove.com
+.slavicstar.com
+## rt.doc
+.artel.watch
+.arteldoc.com
+.arteldoc.tv
+.rtdoc.tv
+.rtdocumentary.online
+.rtfestival.ru
+## RT School
+.rt-school.online
+## Ruptly
+.ruptly.agency
+.ruptly.tv
+.ruptly.video
+# ══ end include: rt ══
+# EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
+.eadaily.com
+.eadaily.info
+.eadaily.net
+.eadaily.org
+.eadaily.su
+.eurasiadaily.su
+# ══ end include: category-media-ru ══
+# ══ include: category-medicine-ru ══
+# BudZdorov
+.klinikabudzdorov.ru
+# EMIAS – Moscow city polyclinics and medical institutions
+.emias.mos.ru
+.emias.ru
+# Federal State Budgetary Institution Polyclinic No. 1 in Moscow
+.vipmed.ru
+# Medical insurance policy "SMK RESO-Med"
+.reso-med.com
+.reso-med.ru
+## Moscow City Compulsory Medical Insurance Fund
+## St. Petersburg Territorial Compulsory Medical Insurance Fund
+.spboms.ru
+## Territorial Compulsory Medical Insurance Fund of the Republic of Karelia
+.oms.karelia.ru
+## The territorial fund of compulsory medical insurance of the Moscow region
+.mofoms.ru
+# MEDSI – federal network of private clinics
+.medsi-premium.ru
+.medsi.com
+.medsi.pro
+.medsi.ru
+.smartmed.pro
+# Moscow City Health Department
+.mosgorzdrav.ru
+# Polyclinika Ru – network of private medical clinics and consulting and diagnostic centers in Moscow
+.polyclinika.ru
+## Dentistry Zub Ru – network of dental clinics in Moscow
+.zub.ru
+# St. Petersburg city polyclinics and medical institutions
+.gorzdrav.spb.ru
+# ══ end include: category-medicine-ru ══
+# ══ include: category-retail-ru ══
+# ABC of Taste
+.av.ru
+# Auchan
+.auchan.ru
+# AudioHead
+.audiohead.ru
+# Bristol
+.bristol.ru
+# Children's World
+.detmir.ru
+# Coolera
+.coolera.ru
+# Dixie
+.dixy.ru
+# Dodo Pizza
+.dodois.com
+.dodois.io
+.dodopizza.com
+.dodopizza.ru
+.dodostatic.net
+# Dostaevsky
+.dostaevsky.ru
+# Dr.Head / Doctorhead
+.doctorhead.ru
+# Eurasia
+.evrasia.rest
+# Fast food restaurant chain "Vkusno i tochka"
+.vkusnoitochka.ru
+# Fix Price
+.fix-price.com
+# Lamoda
+.lamoda.ru
+# Lenta
+.lenta.com
+.lenta.tech
+# Magnit
+# ══ include: magnit ══
+.kazanexpress.ru
+.magnit.com
+.magnit.ru
+.mm.ru
+# ══ end include: magnit ══
+# M.Video
+# ══ include: mvideo ══
+.acmvid.com
+.mvideo.ru
+mvideo.edna.io
+# ══ end include: mvideo ══
+# Metro
+.metro-cc.ru
+# NOTIK
+.notik.ru
+# OSKELLY
+# ══ include: oskelly ══
+.oskelly.co
+.oskelly.ru
+# ══ end include: oskelly ══
+# Pyaterochka, Perekrestok, Chizhik
+# ══ include: x5 ══
+.5ka.ru
+.5post.market
+.abonementx5.ru
+.chizhik.club
+.clubx5.ru
+.dialogx5.ru
+.e5.ru
+.fivepost.ru
+.idx5.ru
+.jx5.ru
+.keyx5.ru
+.mnogolososya.ru
+.myapelsin.ru
+.okolo.app
+.perekrestok.com
+.perekrestok.ru
+.x5.ai
+.x5.com
+.x5.digital
+.x5.group
+.x5.media
+.x5.ru
+.x5.team
+.x5.tech
+.x5club.ru
+.x5id.ru
+.x5l.ru
+.x5media.ru
+.x5paket.ru
+.x5q.ru
+.x5static.net
+.x5w.ru
+# Ads and tracking
+# full:ads.x5.ru
+ads.x5.ru
+# full:ads.x5media.ru
+ads.x5media.ru
+# full:sentry.x5.ru
+sentry.x5.ru
+# ══ end include: x5 ══
+# Red and White
+.krasnoeibeloe.ru
+# Regard
+.regard.ru
+# Rostics
+.rostics.ru
+.uni.rest
+.unirest.tech
+# Sakura
+.ilovesakura.ru
+# Spar
+.myspar.ru
+# SOKOLOV
+# ══ include: sokolov ══
+.sokolov.io
+.sokolov.ru
+# ══ end include: sokolov ══
+# Sushi Wok
+.sushiwok.ru
+# Vinlab
+.winelab.ru
+# VkusVill
+.vkusvill.ru
+# ══ end include: category-retail-ru ══
+# ══ include: category-travel-ru ══
+# Aviasales
+# ══ include: aviasales ══
+.avs.io
+.aviasales.ru
+.aviasales.com
+# ══ end include: aviasales ══
+# BlaBlaCar
+.blablacar.ru
+# Bus stations
+.avtovokzaly.ru
+# Ostrovok
+.ostrovok.ru
+# Othello / Otello from 2GIS and Sber
+.2gis.ru
+.otello.ru
+.sber.ru
+# Public transport and ticketing
+# ══ include: mosmetro ══
+.mosmetro.ru
+.mosmetro.tech
+# ══ end include: mosmetro ══
+bilet.nspk.ru
+metro.spb.ru
+mos.transport.vtb.ru
+podorozhnik.spb.ru
+transport.mos.ru
+.gorodpay.ru
+.rrtp.ru
+# Russian Railways
+.rzd-bonus.ru
+.rzd.ru
+# Tutu
+.tutu.ru
+# Yandex Rent
+arenda.yandex.ru
+# Yandex Taxi
+taxi.yandex.ru
+.fasten.ru
+# ══ end include: category-travel-ru ══
+# Russian companies
+# ══ include: beget ══
+.beget.com
+.beget.ru
+# ══ end include: beget ══
+# ══ include: carrotquest ══
+.carrot-mail.io
+.carrotquest-mail.io
+.carrotquest.app
+.carrotquest.io
+.carrottrack.app
+.dashly.app
+.dashly.help
+.dashly.io
+.dashly.me
+.dashlytrack.app
+.mail-carrotquest.io
+.pushgrow.io
+# Tracking
+# full:api-eu.carrotquest.app
+api-eu.carrotquest.app
+# full:api-eu.carrotquest.io
+api-eu.carrotquest.io
+# full:api-ru.carrotquest.app
+api-ru.carrotquest.app
+# full:api-ru.carrotquest.io
+api-ru.carrotquest.io
+# full:api-secure.carrotquest.app
+api-secure.carrotquest.app
+# full:api-secure.carrottrack.app
+api-secure.carrottrack.app
+# full:api.carrotquest.app
+api.carrotquest.app
+# full:api.carrotquest.io
+api.carrotquest.io
+# full:api.carrottrack.app
+api.carrottrack.app
+# full:api.dashly.app
+api.dashly.app
+# full:api.dashlytrack.app
+api.dashlytrack.app
+# ══ end include: carrotquest ══
+# ══ include: cdek ══
+.ad-cdek.ru
+.cdek.shopping
+.cdek.ru
+# ══ end include: cdek ══
+# ══ include: comssone ══
+.comss.club
+.comss.info
+.comss.me
+.comss.net
+.comss.news
+.comss.one
+.comss.online
+.comss.org
+.comss.ru
+# ══ end include: comssone ══
+# ══ include: drweb ══
+.drweb.by
+.drweb.cn
+.drweb.co.jp
+.drweb.com
+.drweb.fr
+.drweb.kz
+.drweb.ru
+.drweb.uz
+.drweb-av.de
+.drweb-av.es
+.drweb-av.it
+.drweb-av.pl
+# ══ end include: drweb ══
+# ══ include: envybox ══
+.bananacall.ru
+.beesbfl.ru
+.beescrm.ru
+.bimsaas.ru
+.callbackkiller.com
+.cbkiller.com
+.envybox.company
+.envybox.family
+.envybox.io
+.envybox.kg
+.envybox.su
+.envycdp.com
+.envycdp.ru
+.envycrm.com
+.envyday.ru
+.killercb.ru
+.myenvy.ru
+.quizlink.ru
+.saas-support.com
+.whitesaas.com
+# IDN ccTLD
+.xn--90absjljw3g.xn--p1ai
+# ══ end include: envybox ══
+# ══ include: genotek-ru ══
+.genetic-technologies.am
+.genotek.am
+.genotek.es
+.genotek.eu
+.genotek.health
+.genotek.ru
+# Eligens
+.eligens.cl
+.eligens.com.br
+.eligens.io
+# ══ end include: genotek-ru ══
+# ══ include: gismeteo ══
+.gismeteo.by
+.gismeteo.com
+.gismeteo.net
+.gismeteo.ru
+.gismeteo.st
+# Meteofor
+.meteofor.com
+.meteofor.st
+# ══ end include: gismeteo ══
+# ══ include: group-ib ══
+.antiphishing.nl
+.antiphishing.ru
+.cert-gib.com
+.cert-gib.ru
+.cybercrimecon.com
+.gibdev.net
+.g-ib.ae
+.g-ib.ru
+.g-ib.sg
+.g-ib.us
+.gib-global.com
+.gib.sg
+.gibtds.ru
+.group-ib.ae
+.group-ib.co.uk
+.group-ib.com
+.group-ib.de
+.group-ib.eu
+.group-ib.ru
+.group-ib.sg
+.group-ib.us
+.groupib.ae
+.groupib.sg
+.groupib.us
+# F.A.C.C.T.
+.f6.dev
+.f6.ru
+.f6.security
+.facct.email
+.facct.ru
+.future-cs.ru
+# ══ end include: group-ib ══
+# ══ include: headhunter ══
+.hh.by
+.hh.kz
+.hh.ru
+.hhcdn.ru
+.rabota.by
+.setka.ru
+.talantix.ru
+.zarplata.ru
+# ══ end include: headhunter ══
+# ══ include: ideco-ru ══
+.ideco.dev
+.ideco.ru
+.idecosoftware.ru
+# ══ end include: ideco-ru ══
+# ══ include: kaspersky ══
+.kaspersky-labs.com
+.kaspersky.com
+# Global Showcase
+.kaspersky.be
+.kaspersky.ca
+.kaspersky.co.in
+.kaspersky.co.jp
+.kaspersky.co.kr
+.kaspersky.co.th
+.kaspersky.co.uk
+.kaspersky.co.za
+.kaspersky.com.au
+.kaspersky.com.br
+# domain:kaspersky.com.cn
+.kaspersky.com.cn
+.kaspersky.com.hk
+.kaspersky.com.pl
+.kaspersky.com.tr
+.kaspersky.com.tw
+.kaspersky.com.vn
+.kaspersky.cz
+.kaspersky.de
+.kaspersky.dk
+.kaspersky.dz
+.kaspersky.es
+.kaspersky.fi
+.kaspersky.fr
+.kaspersky.gr
+.kaspersky.it
+.kaspersky.kz
+.kaspersky.ma
+.kaspersky.my
+.kaspersky.nl
+.kaspersky.pt
+.kaspersky.ro
+.kaspersky.rs
+.kaspersky.ru
+.kaspersky.se
+# full:activation-v2.kaspersky.com
+activation-v2.kaspersky.com
+# full:activation-v2.geo.kaspersky.com
+activation-v2.geo.kaspersky.com
+# full:activate.activation-v2.kaspersky.com
+activate.activation-v2.kaspersky.com
+# full:refresh-bkg.activation-v2.kaspersky.com
+refresh-bkg.activation-v2.kaspersky.com
+# full:crl.kaspersky.com
+crl.kaspersky.com
+# full:dc1.ksn.kaspersky-labs.com
+dc1.ksn.kaspersky-labs.com
+# full:dc1-cert.ksn.kaspersky-labs.com
+dc1-cert.ksn.kaspersky-labs.com
+# full:dc1-file.ksn.kaspersky-labs.com
+dc1-file.ksn.kaspersky-labs.com
+# full:dc1-pp.ksn.kaspersky-labs.com
+dc1-pp.ksn.kaspersky-labs.com
+# full:dc1-st.ksn.kaspersky-labs.com
+dc1-st.ksn.kaspersky-labs.com
+# full:dnl-00.geo.kaspersky.com
+dnl-00.geo.kaspersky.com
+# full:dnl-01.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
+# full:dnl-02.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
+# full:dnl-03.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+# full:dnl-04.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+# full:dnl-05.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+# full:dnl-06.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+# full:dnl-07.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+# full:dnl-08.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
+# full:dnl-09.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+# full:dnl-10.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
+# full:dnl-11.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+# full:dnl-12.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+# full:dnl-13.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+# full:dnl-14.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+# full:dnl-15.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+# full:dnl-16.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+# full:dnl-17.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
+# full:dnl-18.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
+# full:dnl-19.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
+# full:edge.geo.kaspersky.com
+edge.geo.kaspersky.com
+# full:ksn-cinfo.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+# full:ksn-cinfo-geo.kaspersky-labs.com
+ksn-cinfo-geo.kaspersky-labs.com
+# full:ksn-crypto-info-geo.kaspersky-labs.com
+ksn-crypto-info-geo.kaspersky-labs.com
+# full:ksn-crypto-kas-geo.kaspersky-labs.com
+ksn-crypto-kas-geo.kaspersky-labs.com
+# full:ksn-crypto-tcert-geo.kaspersky-labs.com
+ksn-crypto-tcert-geo.kaspersky-labs.com
+# full:ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+# full:ksn-crypto-verdict-geo.kaspersky-labs.com
+ksn-crypto-verdict-geo.kaspersky-labs.com
+# full:ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
+# full:ksn-crypto-wifiplus-geo.kaspersky-labs.com
+ksn-crypto-wifiplus-geo.kaspersky-labs.com
+# full:ksn-dc1.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
+# full:ksn-dc1-cert.geoksn.kaspersky.com
+ksn-dc1-cert.geoksn.kaspersky.com
+# full:ksn-dc1-file.geoksn.kaspersky.com
+ksn-dc1-file.geoksn.kaspersky.com
+# full:ksn-file.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+# full:ksn-file-geo.kaspersky-labs.com
+ksn-file-geo.kaspersky-labs.com
+# full:ksn-info.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+# full:ksn-info-geo.kaspersky-labs.com
+ksn-info-geo.kaspersky-labs.com
+# full:ksn-kas.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+# full:ksn-mdr.geoksn.kaspersky.com
+ksn-mdr.geoksn.kaspersky.com
+# full:ksn-tcert.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
+# full:ksn-tcert-geo.kaspersky-labs.com
+ksn-tcert-geo.kaspersky-labs.com
+# full:ksn-url.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+# full:ksn-url-geo.kaspersky-labs.com
+ksn-url-geo.kaspersky-labs.com
+# full:ksn-verdict.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
+# full:ksn-verdict-geo.kaspersky-labs.com
+ksn-verdict-geo.kaspersky-labs.com
+# full:mdr.ksn.kaspersky-labs.com
+mdr.ksn.kaspersky-labs.com
+# full:p00.upd.kaspersky.com
+p00.upd.kaspersky.com
+# full:p01.upd.kaspersky.com
+p01.upd.kaspersky.com
+# full:p02.upd.kaspersky.com
+p02.upd.kaspersky.com
+# full:p03.upd.kaspersky.com
+p03.upd.kaspersky.com
+# full:p04.upd.kaspersky.com
+p04.upd.kaspersky.com
+# full:p05.upd.kaspersky.com
+p05.upd.kaspersky.com
+# full:p06.upd.kaspersky.com
+p06.upd.kaspersky.com
+# full:p07.upd.kaspersky.com
+p07.upd.kaspersky.com
+# full:p08.upd.kaspersky.com
+p08.upd.kaspersky.com
+# full:p09.upd.kaspersky.com
+p09.upd.kaspersky.com
+# full:p10.upd.kaspersky.com
+p10.upd.kaspersky.com
+# full:p11.upd.kaspersky.com
+p11.upd.kaspersky.com
+# full:p12.upd.kaspersky.com
+p12.upd.kaspersky.com
+# full:p13.upd.kaspersky.com
+p13.upd.kaspersky.com
+# full:p14.upd.kaspersky.com
+p14.upd.kaspersky.com
+# full:p15.upd.kaspersky.com
+p15.upd.kaspersky.com
+# full:p16.upd.kaspersky.com
+p16.upd.kaspersky.com
+# full:p17.upd.kaspersky.com
+p17.upd.kaspersky.com
+# full:p18.upd.kaspersky.com
+p18.upd.kaspersky.com
+# full:p19.upd.kaspersky.com
+p19.upd.kaspersky.com
+# full:s00.upd.kaspersky.com
+s00.upd.kaspersky.com
+# full:s01.upd.kaspersky.com
+s01.upd.kaspersky.com
+# full:s02.upd.kaspersky.com
+s02.upd.kaspersky.com
+# full:s03.upd.kaspersky.com
+s03.upd.kaspersky.com
+# full:s04.upd.kaspersky.com
+s04.upd.kaspersky.com
+# full:s05.upd.kaspersky.com
+s05.upd.kaspersky.com
+# full:s06.upd.kaspersky.com
+s06.upd.kaspersky.com
+# full:s07.upd.kaspersky.com
+s07.upd.kaspersky.com
+# full:s08.upd.kaspersky.com
+s08.upd.kaspersky.com
+# full:s09.upd.kaspersky.com
+s09.upd.kaspersky.com
+# full:s10.upd.kaspersky.com
+s10.upd.kaspersky.com
+# full:s11.upd.kaspersky.com
+s11.upd.kaspersky.com
+# full:s12.upd.kaspersky.com
+s12.upd.kaspersky.com
+# full:s13.upd.kaspersky.com
+s13.upd.kaspersky.com
+# full:s14.upd.kaspersky.com
+s14.upd.kaspersky.com
+# full:s15.upd.kaspersky.com
+s15.upd.kaspersky.com
+# full:s16.upd.kaspersky.com
+s16.upd.kaspersky.com
+# full:s17.upd.kaspersky.com
+s17.upd.kaspersky.com
+# full:s18.upd.kaspersky.com
+s18.upd.kaspersky.com
+# full:s19.upd.kaspersky.com
+s19.upd.kaspersky.com
+# ══ end include: kaspersky ══
+# ══ include: kontur ══
+.kontur.ru
+.kontur.host
+.kontur-inc.com
+# full:metrika.kontur.ru
+metrika.kontur.ru
+# full:sentry.kontur.host
+sentry.kontur.host
+# ══ end include: kontur ══
+# ══ include: mailru-group ══
+# VK Group, formerly known as Mail.ru Group, a Russian technology company
+# ══ include: dzen ══
+.dzen.ru
+# Ads and tracking
+# domain:log.dzen.ru
+.log.dzen.ru
+# domain:ms.dzen.ru
+.ms.dzen.ru
+# CDN
+.dzeninfra.ru
+# ══ end include: dzen ══
+# ══ include: ok ══
+.apiok.ru
+.insideok.ru
+.odkl.ru
+.odnoklasniki.by
+.odnoklasniki.ua
+.odnoklassniki.am
+.odnoklassniki.by
+.odnoklassniki.co.ee
+.odnoklassniki.eu
+.odnoklassniki.lv
+.odnoklassniki.ru
+.odnoklassniki.tj
+.ok.me
+.ok.ru
+.okl.lt
+.oktech.ru
+# CDN
+.okcdn.ru
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
+# ══ end include: ok ══
+# ══ include: vk ══
+# Use `geosite:mailru-group` if you want to match the entire VK Group
+.mvk.com
+.vk.cc
+.vk.com
+.vk.design
+.vk.link
+.vk.ru
+.vkontakte.com
+.vkontakte.ru
+# Ads and tracking
+# domain:adv.vk.com
+.adv.vk.com
+# domain:analytics.vk.com
+.analytics.vk.com
+# domain:ms.vk.com
+.ms.vk.com
+# domain:ms.vk.ru
+.ms.vk.ru
+# domain:target.vk.ru
+.target.vk.ru
+# domain:vk-analytics.ru
+.vk-analytics.ru
+# full:adblogger.vk.com
+adblogger.vk.com
+# full:adblogger.vk.ru
+adblogger.vk.ru
+# full:ads.vk.com
+ads.vk.com
+# full:ads.vk.ru
+ads.vk.ru
+# full:adv.vk.ru
+adv.vk.ru
+# full:advk.vk.ru
+advk.vk.ru
+# full:analytics.vk.ru
+analytics.vk.ru
+# full:stats.vk-portal.net
+stats.vk-portal.net
+# full:target.vk.com
+target.vk.com
+# CDNs
+.cdn-vk.net
+.cdn-vk.ru
+.userapi.com
+.userapi.ru
+.vk-cdn.me
+.vk-cdn.net
+.vk-portal.net
+.vkcache.com
+.vkcdnservice.com
+.vkcloud-static.ru
+.vktech-static.ru
+.vkuser.net
+.vkusercdn.ru
+.vkuserphoto.ru
+.vkuseraudio.com
+.vkuseraudio.net
+.vkuseraudio.ru
+.vkuserlive.com
+.vkuserlive.net
+.vkuservideo.com
+.vkuservideo.net
+.vkuservideo.ru
+# VK Messenger
+.vk.me
+.vkmessenger.app
+.vkmessenger.com
+# VK Pay
+.vkpay.app
+.vkpay.com
+.vkpay.io
+.vkpay.ru
+# ══ end include: vk ══
+.armgs.team
+.bargipsy.com
+.boom.ru
+.boosty.to
+.donationalerts.com
+.hrtek.ru
+.koddobra.ru
+.lovina.app
+.mail.ru
+.mcs.st
+.mediumquality.ru
+.memealerts.com
+.movika.com
+.sportmail.ru
+.summerstage.ru
+.tamtam.chat
+.tech-mail.ru
+.vk-apps.com
+.vk-apps.ru
+.vk-records.ru
+.vk-stadium.ru
+.vk.company
+.vk.kz
+.vk.team
+.vkclips.app
+.vkcs.cloud
+.vkfest.ru
+.vkgo.app
+.vklive.app
+.vkvideo.ru
+.vkworkspace.kz
+.yclients.com
+# IDN ccTLD
+.xn--80asgb.xn--p1ai
+.xn--e1aigb.xn--p1ai
+# Unknown-purpose domains with DGA subdomains
+.justveryok.com
+.keyboardmen.com
+.rabbitcounter.com
+.sayeasy.eu
+# Ads and tracking
+# domain:ad.mail.ru
+.ad.mail.ru
+# domain:ads.viqeo.tv
+.ads.viqeo.tv
+# domain:adsadvisor.io
+.adsadvisor.io
+# domain:alt-ad.mail.ru
+.alt-ad.mail.ru
+# domain:apptracer.ru
+.apptracer.ru
+# domain:cxhub.ru
+.cxhub.ru
+# domain:metrics.viqeo.tv
+.metrics.viqeo.tv
+# domain:myadx.net
+.myadx.net
+.mytrk.link
+# domain:r.mail.ru
+.r.mail.ru
+# domain:radar.imgsmail.ru
+.radar.imgsmail.ru
+# domain:relap.mail.ru
+.relap.mail.ru
+# domain:target.my.com
+.target.my.com
+# domain:top-fwz1.mail.ru
+.top-fwz1.mail.ru
+# domain:trace-flow.ru
+.trace-flow.ru
+# domain:tracker-api.my.com
+.tracker-api.my.com
+# domain:tracker.my.com
+.tracker.my.com
+# full:1l-hit.mail.ru
+1l-hit.mail.ru
+# full:1l-hit.vkplay.ru
+1l-hit.vkplay.ru
+# full:ad4.mail.ru
+ad4.mail.ru
+# full:ads-integration.rustore.ru
+ads-integration.rustore.ru
+# full:ads.dahlmessenger.com
+ads.dahlmessenger.com
+# full:ads.icq.com
+ads.icq.com
+# full:ads.rustore.ru
+ads.rustore.ru
+# full:adsapp.dahlmessenger.com
+adsapp.dahlmessenger.com
+# full:adsapp.telega.info
+adsapp.telega.info
+# full:adsapp.stage.telega.info
+adsapp.stage.telega.info
+# full:adv.rustore.ru
+adv.rustore.ru
+# full:alt-r.my.com
+alt-r.my.com
+# full:an.mail.ru
+an.mail.ru
+# full:b2.mail.ru
+b2.mail.ru
+# full:bs.mail.ru
+bs.mail.ru
+# full:click.rustore.ru
+click.rustore.ru
+# full:pixel.rustore.ru
+pixel.rustore.ru
+# full:r0.mail.ru
+r0.mail.ru
+# full:r0.mradx.net
+r0.mradx.net
+# full:r1.mail.ru
+r1.mail.ru
+# full:reklama.mail.ru
+reklama.mail.ru
+# full:rs.mail.ru
+rs.mail.ru
+# full:sentry-ng.g.smailru.net
+sentry-ng.g.smailru.net
+# full:srch-telemeter10.g.smailru.net
+srch-telemeter10.g.smailru.net
+# full:sentry.dev-my.com
+sentry.dev-my.com
+# full:sentry.dev-my.games
+sentry.dev-my.games
+# full:sentry.rustore.ru
+sentry.rustore.ru
+# full:sentry.viqeo.tv
+sentry.viqeo.tv
+# full:stacks.vk-portal.net
+stacks.vk-portal.net
+# full:stats.dahlmessenger.com
+stats.dahlmessenger.com
+# full:stats.dev.telega.info
+stats.dev.telega.info
+# full:stats.rustore.ru
+stats.rustore.ru
+# full:stats.telega.info
+stats.telega.info
+# full:t.mail.ru
+t.mail.ru
+# full:top-staging.mail.ru
+top-staging.mail.ru
+# full:whiteline.mail.ru
+whiteline.mail.ru
+# full:xray.mail.ru
+xray.mail.ru
+# CDNs
+.appsmail.ru
+.attachmail.ru
+.attachmy.com
+.bizmrg.com
+.cdnmail.ru
+.datacloudmy.com
+.imgsmail.ru
+.mpgw-my.com
+.mradx.net
+.mrgcdn.ru
+.mycdn.me
+.mytopf.com
+.smailru.net
+.staticmy.com
+.vmailru.net
+# Ecosystem
+## Additional mail.ru mail domains
+.bk.ru
+.inbox.ru
+.internet.ru
+.list.ru
+.xmail.ru
+## All Cups
+.cups.online
+.gamescup.ru
+.mlbootcamp.ru
+.russiandesigncup.ru
+## Education
+.algoritmika.org
+.code-class.ru
+.gb.ru
+.lerna.ru
+.skbx.pro
+.skillbox.pro
+.skillbox.ru
+.skillfactory.ru
+.tetrika-school.ru
+.uchi.ru
+.umschool.net
+.yaklass.ru
+## ESforce
+.cybersport.ru
+.epicevents.gg
+.esforce.com
+.esforce.ru
+.ruhub.tv
+## ICQ (deprecated)
+.ciciq.net
+.goicq.org
+.icq-download.com
+.icq-mobile.com
+.icq-online.com
+.icq-phone.com
+.icq-phone.org
+.icq.asia
+.icq.at
+.icq.biz
+.icq.com
+.icq.de
+.icq.fr
+.icq.eu
+.icq.im
+.icq.lt
+.icq.mobi
+.icq.org
+.icq.ru
+.icq.sg
+.icq2mobile.com
+.icq5.com
+.icqanywhere.com
+.icqbrasil.com
+.icqbrazil.com
+.icqchat.com
+.icqflirting.com
+.icqgame.com
+.icqgames.com
+.icqkids.com
+.icqmail.com
+.icqmail.net
+.icqonline.com
+.icqpassword.com
+.icqpeople.com
+.icqservers.com
+.icqservice.com
+.icqsupportteam.com
+.icqsystem.com
+.icqsystems.com
+.icqtoday.com
+.icqtutor.com
+.icqvideo.com
+.mailicq.org
+.mirabilis.com
+.mirandaicq.com
+.mobile-icq.com
+.mobileicq.com
+.xn-----6kc7adj0c9esa.com
+.xn----7sbaba0dc6cdn7cxcj.com
+.xn----7sbabae2a0bnvtsfr4loc.com
+.xn----7sbbab6bregnh7b8if5b.com
+.xn----7sbbamm1bv2bh7i.com
+.xn----8sbaroledu6bi7j.com
+.xn----8sbeoy5bze.com
+.xn--80aqcf7a6do.com
+## Messenger MAX
+.max.ru
+.oneme.ru
+.sferum-dev.ru
+.sferum.ru
+## My.com, myMail
+.dev-my.com
+.my.com
+## My.Games (formally left Russian market)
+.dev-my.games
+.it-territory.com
+.knightspeak.com
+.my.games
+.pixonic.com
+.prod-my.games
+## RuStore
+.rustore.ru
+.rustore.team
+.rustore.tv
+## Tarantool
+.tarantool.io
+.tarantoolplus.ru
+## Telega, an alternative Telegram client
+### CAUTION: SUSPECTED SPYWARE
+### For details see: https://dontusetelega.lol/analysis
+.aodahl.com
+.dahl.su
+.dahlmessenger.com
+.telega.info
+.telega.me
+.tusco.ru
+## UMA (United Media Agency), music distributor
+.uma.media
+## Viqeo
+.viqeo.tv
+.viqeotv.com
+## VK Cloud KZ (joint venture with QazCloud)
+.vkcloud-static.kz
+.vkcloud.kz
+## VK Play
+.vkplay-arena.ru
+.vkplay.ru
+.vkplay.live
+## Youla
+.youla.io
+.youla.ru
+# ══ end include: mailru-group ══
+# ══ include: mindbox ══
+.botmechanic.io
+.ceosummit.ru
+.mind-box.ru
+.mindbox-notifications.ru
+.mindbox.cloud
+.mindbox.group
+.mindbox.ru
+.mindbox.site
+.mindbox.so
+.popmechanic.io
+.popmechanic.ru
+.summitceo.ru
+# Tracking
+# domain:e.mindbox.ru
+.e.mindbox.ru
+# domain:g.mindbox.ru
+.g.mindbox.ru
+# domain:s.mindbox.ru
+.s.mindbox.ru
+# full:api-js.mindbox.ru
+api-js.mindbox.ru
+# full:api-ru.mindbox.cloud
+api-ru.mindbox.cloud
+# full:api-staging.mindbox.ru
+api-staging.mindbox.ru
+# full:api.mindbox.cloud
+api.mindbox.cloud
+# full:api.mindbox.ru
+api.mindbox.ru
+# full:sentry.mindbox.ru
+sentry.mindbox.ru
+# full:sentry.popmechanic.ru
+sentry.popmechanic.ru
+# ══ end include: mindbox ══
+# ══ include: myoffice-ru ══
+.myoffice.ru
+.myoffice.team
+# ══ end include: myoffice-ru ══
+# ══ include: selectel ══
+.chipcore.com
+.chipcore.ru
+.haicomdc.com
+.haicomdc.ru
+.haicomgroup.ru
+.itirex.ru
+.selcdn.net
+.selectel.academy
+.selectel.blog
+.selectel.com
+.selectel.dev
+.selectel.info
+.selectel.io
+.selectel.live
+.selectel.ru
+.selectelix.ru
+.selectelpro.ru
+.servercore.com
+.servercore.live
+.slc.tl
+.tehnodom.com
+.vscale.blog
+.vscale.io
+.vscale.ru
+# ══ end include: selectel ══
+# ══ include: skyeng ══
+.sky.pro
+.skyeng.ru
+# ══ end include: skyeng ══
+# ══ include: tilda ══
+.tilda.cc
+.tilda.ru
+.tilda.ws
+.tildaapi.com
+.tildacdn.com
+# ══ end include: tilda ══
+# ══ include: timeweb ══
+.timeweb.cloud
+.timeweb.com
+.twcstorage.ru
+# ══ end include: timeweb ══
+# ══ include: ucoz ══
+# uCoz, a Russian free web hosting with a built-in content management system
+.ucoz.ae
+.ucoz.club
+.ucoz.co
+.ucoz.co.il
+.ucoz.co.uk
+.ucoz.com
+.ucoz.com.br
+.ucoz.com.ro
+.ucoz.de
+.ucoz.es
+.ucoz.fr
+.ucoz.hu
+.ucoz.kz
+.ucoz.lv
+.ucoz.md
+.ucoz.net
+.ucoz.org
+.ucoz.pl
+.ucoz.ru
+.ucoz.site
+.ucoz.ua
+.ukoz.ru
+# uCozmedia
+.ucozmedia.com
+.ucozmedia.ru
+# uGuide
+.uguide.ru
+.uguide.su
+# uKit
+.ukit.ai
+.ukit.com
+.ukit.group
+.ukit.me
+# Other
+.at.ua
+.narod.ru
+.scripts-for-ucoz.ru
+.ucozmail.com
+.ucoztemplates.com
+.usocial.pro
+.uweb.ru
+# ══ end include: ucoz ══
+# ══ include: whoosh ══
+.whoosh-bike.ru
+.whoosh.bike
+# ══ end include: whoosh ══
+# ══ include: yandex ══
+# ══ include: kinopoisk ══
+# ══ end include: kinopoisk ══
+# All .yandex domains
+# яндекс.рф
+.xn--d1acpjx3f.xn--p1ai
+.berizaryad.ru
+.cabconnect.org
+.clck.ru
+.clstorage.net
+.driveawaytaxi.org
+.elama.ru
+.gogettaxi.org
+.goup.ai
+.hayya.ae
+.meteum.ai
+.my-manager-account.com
+.naydex.net
+.rostaxi.org
+.shedevrum.ai
+.sourcecraft.dev
+.static-storage.net
+.support-uber.com
+.taxiaid.org
+.taxiguru.org
+.taxitax.org
+.turbopages.org
+.ya.cc
+.ya.ru
+.yandex-bank.net
+.yandex-team.ru
+.yandex.aero
+.yandex.asia
+.yandex.az
+.yandex.by
+.yandex.cloud
+.yandex.co.il
+.yandex.com
+.yandex.com.am
+.yandex.com.ge
+.yandex.com.ru
+.yandex.com.tr
+.yandex.com.ua
+.yandex.de
+.yandex.ee
+.yandex.eu
+.yandex.fi
+.yandex.fr
+.yandex.jobs
+.yandex.kg
+.yandex.kz
+.yandex.lt
+.yandex.lv
+.yandex.md
+.yandex.mobi
+.yandex.net
+.yandex.org
+.yandex.pl
+.yandex.ru
+.yandex.st
+.yandex.sx
+.yandex.tj
+.yandex.tm
+.yandex.tr
+.yandex.ua
+.yandex.uz
+.yandexadexchange.net
+.yandexcloud.net
+.yandexcom.net
+.yandexgo.com
+.yandexlyceum.ru
+.yandexwebcache.net
+.yandexwebcache.org
+.yango-b2b.com
+.yango-team.com
+.yango-tech.com
+.yango.africa
+.yango.ao
+.yango.bh
+.yango.co.il
+.yango.com
+.yango.fi
+.yango.qa
+.yango.taxi
+.yango.tech
+.yangofellowship.com
+.yastat.net
+.yastatic-net.ru
+.yastatic.net
+.yccdn.ru
+# Ads and tracking
+# domain:adfox.ru
+.adfox.ru
+# domain:adfox.yandex.ru
+.adfox.yandex.ru
+# domain:admetrica.ru
+.admetrica.ru
+# domain:ads.yandex
+.ads.yandex
+# domain:ads.yandex.ru
+.ads.yandex.ru
+# domain:adv.yandex.com
+.adv.yandex.com
+# domain:adv.yandex.ru
+.adv.yandex.ru
+# domain:an.yandex.ru
+.an.yandex.ru
+# domain:appmetrica.yandex.com
+.appmetrica.yandex.com
+# domain:appmetrica.yandex.net
+.appmetrica.yandex.net
+# domain:appmetrica.yandex.ru
+.appmetrica.yandex.ru
+# domain:appmetrica.yango.com
+.appmetrica.yango.com
+# domain:bs.yandex.ru
+.bs.yandex.ru
+# domain:clck.yandex.ru
+.clck.yandex.ru
+# domain:counter.yandex.ru
+.counter.yandex.ru
+# domain:mc.yandex.ru
+.mc.yandex.ru
+# domain:metrika.yandex.com
+.metrika.yandex.com
+# domain:metrika.yandex.net
+.metrika.yandex.net
+# domain:metrika.yandex.ru
+.metrika.yandex.ru
+# domain:webvisor.com
+.webvisor.com
+# domain:webvisor.org
+.webvisor.org
+# domain:yabs.yandex.ru
+.yabs.yandex.ru
+# domain:yads.tech
+.yads.tech
+# domain:yandex-metrica.ru
+.yandex-metrica.ru
+# domain:yandexmetrica.com
+.yandexmetrica.com
+# domain:yango-ads.com
+.yango-ads.com
+# full:adfstat.yandex.ru
+adfstat.yandex.ru
+# full:ads.yandex.com
+ads.yandex.com
+# full:ads.yango.com
+ads.yango.com
+# full:adsdk.yandex.ru
+adsdk.yandex.ru
+# full:amc.yandex.ru
+amc.yandex.ru
+# full:analytics.mobile.yandex.net
+analytics.mobile.yandex.net
+# full:clck.yandex.com
+clck.yandex.com
+# full:clck.yandex.net
+clck.yandex.net
+# full:clck.yango.com
+clck.yango.com
+# full:informer.yandex.ru
+informer.yandex.ru
+# full:log.strm.yandex.ru
+log.strm.yandex.ru
+# full:mc.yandex.com
+mc.yandex.com
+# full:mc.yandex.net
+mc.yandex.net
+# full:mc.yango.com
+mc.yango.com
+# full:pixel.yandex.com
+pixel.yandex.com
+# full:report.ap.yandex-net.ru
+report.ap.yandex-net.ru
+# ══ end include: yandex ══
+# Bank & Finance & Insurance & Securities
+# ══ include: category-bank-ru ══
+# Alfa Bank
+.alfa.me
+.alfabank.ru
+.alfabank.st
+.alfadirect.ru
+.alfabank.oavdo.amc
+# BBR
+.bbr.ru
+# BCS bank
+.bcs.ru
+.bcs-bank.ru
+.broker.ru
+# Deutsche Bank
+.dbmoscow.ru
+.deutsche-bank.ru
+.deutschebank.ru
+# DOM.RF
+.domrfbank.ru
+.xn--d1aqf.xn--p1ai
+# GazpromBank
+.gazprombank.com
+.gazprombank.investments
+.gazprombank.ru
+.gid.ru
+.gpb.ru
+# Mizuho Bank
+.mhcb.ru
+.mhcbr.ru
+# MKB
+.mkb.ru
+# MTS
+.dbo-dengi.online
+.mtsbank.ru
+.mtsdengi.ru
+# OTP Bank
+# Feature request: implement @ru in otpbank category
+.otpbank.ru
+# PSB Bank
+.payment.ru
+.psb-ocenka.ru
+.psb.ru
+.psbank.ru
+# RUSSIA Bank
+.abr.ru
+# Raiffeisen
+# Feature request: implement @ru in raiffeisenbank category
+.raiffeisen-media.ru
+.raiffeisen.ru
+# Russian Agricultural Bank
+.rshb.ru
+# SberBank
+# ══ include: sber ══
+# ══ include: 2gis ══
+# https://crt.sh/?id=24119301132
+.2gis.ae
+.2gis.am
+.2gis.az
+.2gis.by
+.2gis.com
+.2gis.com.cy
+.2gis.cz
+.2gis.ge
+.2gis.kg
+.2gis.kz
+.2gis.tj
+.2gis.uz
+.2gis.tech
+# ══ end include: 2gis ══
+# ══ include: okko ══
+# ══ end include: okko ══
+.bps-sberbank.by
+.sber-bank.by
+.sberbank.com
+.sberbank.ru
+.sbrf.ru
+# Ads/tracking
+# domain:ads.sber.ru
+.ads.sber.ru
+# domain:clickstream.sberbank.ru
+.clickstream.sberbank.ru
+# domain:neon.click
+.neon.click
+# domain:sbermarketing.ru
+.sbermarketing.ru
+# full:error-tracking.megamarket.tech
+error-tracking.megamarket.tech
+# full:metrics.21-school.ru
+metrics.21-school.ru
+# full:sentry.sberauto.com
+sentry.sberauto.com
+# full:tracing-http.megamarket.tech
+tracing-http.megamarket.tech
+# full:visor.sberbank.ru
+visor.sberbank.ru
+# Business ecosystem
+.id.ru
+.megamarket.ru
+.megamarket.tech
+.sberauto.com
+.sberbank-insurance.ru
+.sbercloud.ru
+.sbercloud.tech
+.sberdevices.ru
+.sberdisk.ru
+.sberfactoring.ru
+.sberindex.ru
+.sberbankaktivno.ru
+.sberbankins.ru
+.sberhealth.ru
+.sberleasing.ru
+.sberlogistics.ru
+.sbermegamarket.ru
+.sbermobile.ru
+.sberpb.ru
+.sbertroika.ru
+## Afisha
+.afisha.ru
+## Citydrive (carsharing)
+.citydrive.ru
+## cloud.ru
+.cloud.ru
+.cloudru.cn
+## EApteka (pharmacy)
+.eaptechka.online
+.eapteka.ru
+## Education
+.21-school.ru
+## Food delivery
+### Kuper
+.kuper.ru
+.restnproducts.ru
+### Samokat (food delivery)
+.samokat.ru
+## GigaChat (AI chat)
+.giga.chat
+## GitVerse
+.gitverse.ru
+## Jivo/Jivochat/Jivosite (chat for website)
+.jivo.chat
+.jivo.ru
+.jivochat.co.in
+.jivochat.co.za
+.jivochat.com
+.jivochat.com.br
+.jivochat.com.co
+.jivochat.com.pe
+.jivochat.com.tr
+.jivochat.de
+.jivochat.es
+.jivochat.ng
+.jivochat.ru
+.jivosite.com
+.jivosite.ru
+## Online payment service
+.payecom.ru
+.platiecom.ru
+## Ottelo (travel agency)
+## Sber Pro
+.sber.pro
+sberpro.vedomosti.ru
+## Sber Spasibo (loyalty service)
+.cplsb.ru
+.sberspasibo.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+## Sber Tech
+.accesspoint.uz
+.getsynapse.io
+.sbertech.ru
+# Zvuk (music streaming)
+.zvuk-b2b.com
+.zvuk.com
+# ══ end include: sber ══
+# Sovcombank
+.sovcombank.ru
+# T-Bank (Tinkoff) and RosBank
+# ══ include: tbank-ru ══
+# IDN ccTLD domains (.рф)
+.xn----7sbhmncai5a0arm7c1e.xn--p1ai
+.xn----8sbkfzespdwig.xn--p1ai
+.xn----8sbwjbxyd.xn--p1ai
+.xn--90aifd0azb.xn--p1acf
+.2w.ru
+.4c.ru
+.4epenaxa.com
+.atomyze.ru
+.atomyze.tech
+.babki.ru
+.bankline.ru
+.booking-tec.ru
+.capitalt.ru
+.cardsmobile.ru
+.cdn-tinkoff.ru
+.codeseason.by
+.custody.ru
+.data-tscbank.ru
+.deltacredit.ru
+.depository.ru
+.dolyame.ru
+.electronicsignature.ru
+.enterly.ru
+.era-invest.ru
+.etna.ai
+.gainstech.ru
+.gosdolgi.ru
+.it-katok.ru
+.it-picnic.ru
+.it-piknik.ru
+.jfn.su
+.jira-tcsbank.ru
+.jump.taxi
+.jumpwork.ru
+.karmahelp.ru
+.karta-banka-rf.ru
+.koshelek.app
+.lifestyle-tec.ru
+.malotogo.ru
+.max-tcs.ru
+.mfk-t-finance.ru
+.my-tbank.ru
+.phoenix-ca.ru
+.private-banking.ru
+.rbcollect.ru
+.rbcredit.ru
+.rf-sim-mobile.ru
+.rosbank-auto.ru
+.rosbank-capital.ru
+.rosbank-credit.com
+.rosbank-dom.ru
+.rosbank-leasing.ru
+.rosbank.ru
+.rusfinance.ru
+.rusfinancebank.ru
+.safeliner.tech
+.sage-observability.tech
+.sgcheck.ru
+.t-access.ru
+.t-bank-app.ru
+.t-bank-app.su
+.t-bank.by
+.t-calls.ru
+.t-capital-funds.ru
+.t-cpa.ru
+.t-dengi.ru
+.t-finance.group
+.t-finance.ru
+.t-human.ru
+.t-investlab.ru
+.t-j.ru
+.t-ofp.ru
+.t-pulse.ru
+.t-static.ru
+.t-stekovka.ru
+.t-tech.dev
+.t-tech.ru
+.t-tech.team
+.t-technologies.ru
+.t-tolk.ru
+.t.finance
+.tb-esim.ru
+.tbank-online.com
+.tbank.ru
+.tconf.ru
+.tcsbank.ru
+.tdev.by
+.time-messenger.ru
+.tinkoff-group.com
+.tinkoff.ai
+.tinkoff.ru
+.tinkoffcapital.ru
+.tinkoffinsurance.ru
+.tinkoffinsurancefuture.ru
+.tinkoffjournal.ru
+.tinkoffmobile.com
+.tinsurance.ru
+.tinsurancefuture.ru
+.tmiaf.ru
+.tpension.ru
+.travel-tec.ru
+.unidraw.io
+.xn--90aifd0az.shop
+.xn--b1aechhj6bof8g5a.site
+.xn--d1abkf4ap.fun
+.xn--h1ao.site
+# Education
+.centraluniversity.ru
+.cu.ru
+.prodcontest.com
+.tinkoff-edu.ru
+edu.tinkoff.ru
+education.tbank.ru
+# ══ end include: tbank-ru ══
+# Tochka bank
+.tochka-tech.com
+.tochka.com
+# VTB Bank
+.pochtabank.ru
+.vtb-direct.com
+.vtb-grants.fut.ru
+.vtb.ru
+.vtbglobalperspectives.com
+# Zenit
+.credit-zenit.ru
+.zenit-card.ru
+.zenit.ru
+# Other
+.absolutbank.ru
+.akbars.ru
+.alefbank.com
+.ankb.ru
+.asia-pay.ru
+.atb.su
+.autokreditbank.ru
+.avangard.ru
+.aversbank.ru
+.bank-arzamas.ru
+.bank-credit-suisse-moscow.ru
+.bank131.com
+.bankermak.ru
+.bfa.ru
+.bm-bank.ru
+.bspb.ru
+.commerzbank.ru
+.finambank.ru
+.forshtadt.ru
+.homecredit.ru
+.ibamoscow.ru
+.jpmorgan.ru
+.korona.com
+.kubankredit.ru
+.mfk-bank.ru
+.mvs-bank.ru
+.noosferabank.ru
+.primbank.ru
+.prvbank.ru
+.pskb.ru
+.pvubank.com
+.rencapbank.ru
+.rencredit.ru
+.rncoluminis.ru
+.ru.ccb.com
+.sbibankllc.ru
+.seb.ru
+.selkombank.ru
+.sinara.ru
+.slavbank.ru
+.smbcr-bank.ru
+.solid.ru
+.ssb.msk.ru
+.tagbank.ru
+.tatsotsbank.ru
+.tkbbank.ru
+.ubs.com
+.uralsib.ru
+.vlb100.ru
+.westernunion.ru
+.yoobusiness.ru
+.ziraatbank.ru
+# ══ end include: category-bank-ru ══
+## Credit History Bureaus
+.credistory.ru
+.nbki.ru
+## Currency and stock exchanges
+.moex.com
+.spvb.ru
+## Card & Document delivery
+.efin.ru
+## Financial marketplace
+.banki.ru
+.finuslugi.ru
+## Investment
+.sistema-capital.com
+## Mir payment system
+.mironline.ru
+.mirpayonline.ru
+## National Payment Card System
+.nspk.ru
+## Tipping service
+.netmonet.co
+.tips.tips
+# Telecom operators
+# ══ include: megafon ══
+.inplat.ru
+.megafon.com
+.megafon.ru
+.megafonpro.ru
+.mgfn.ru
+.report-megafon.ru
+.scartel.ru
+.yota.ru
+.yotagamer.ru
+# IDN ccTLD
+.xn--80a9a4b.xn--p1ai
+.xn--80aj3b.xn--p1ai
+.xn--80arpq.xn--p1ai
+# ══ end include: megafon ══
+# ══ include: mts-ru ══
+.mts-ws.net
+.mts.ru
+.mymts.ru
+# Ads and tracking
+# domain:a.mts.ru
+.a.mts.ru
+# domain:obs.mts.ru
+.obs.mts.ru
+# Ecosystem
+## Finance
+.tvoyodbo.online
+## Kion
+.kion.ru
+## ON Media (MTS Media)
+.mtsmedia.ru
+.on-media.ru
+# ══ end include: mts-ru ══
+# ══ include: rostelecom ══
+# ══ include: wink ══
+# ══ end include: wink ══
+.azbukainterneta.ru
+.rostelecom.ru
+.rt.ru
+# Tracking
+# full:sentry.iptv.rt.ru
+sentry.iptv.rt.ru
+# ══ end include: rostelecom ══
+# ══ include: t2-ru ══
+.b2c-digest.ru
+.t2.ru
+.tele2.ru
+# ══ end include: t2-ru ══
+.adygtelecom.com
+.beeline.ru
+.dom.ru
+# Other services
+.3ebra.net
+.apptrackpets.com
+.flomni.com
+.gazfond-pn.ru
+.kinescopecdn.net
+.litres.ru
+.meteoinfo.ru
+.ngenix.net
+.nplus1.ru
+.ognihome.com
+.pochta.ru
+.ponyexpress.ru
+.qms.ru
+.srv-hub.org
+.t1.cloud
+.taxsee.com
+.yourgood.app
+## Ads and tracking
+# domain:adriver.ru
+.adriver.ru
+# domain:flocktory.com
+.flocktory.com
+# domain:roistat.com
+.roistat.com
+# domain:targetads.io
+.targetads.io
+## Planeta Zdorov'ya pharmacy
+.planetazdorovo.ru
+.pz.help

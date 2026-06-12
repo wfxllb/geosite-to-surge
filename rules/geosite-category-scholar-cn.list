@@ -1,0 +1,112 @@
+# GeoSite: category-scholar-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# This list contains scholarly domains that have access point in China Mainland.
+# ══ include: cas ══
+# some website in China Academy of Science
+.csdl.ac.cn
+.iscas.ac.cn
+.las.ac.cn
+# ══ end include: cas ══
+# ══ include: chaoxing ══
+.16q.cn
+.5read.com
+.aichaoxing.com
+.chaoxing.cc
+.chaoxing.com
+.chaoxingv.com
+.cxbiji.com
+.dayainfo.com
+.hongbo100.com
+.lnlib.net
+.mndqlib.net
+.mti100.com
+.nihaoafrica.org
+.nihaorwanda.cn
+.sslawy.com
+.sslibrary.com
+.ssreader.cn
+.ssreader.com.cn
+.ssvideo.cn
+.ssvideo.com.cn
+.study360.com.cn
+.superlib.com
+.superlib.net
+.uonline-sh.com
+.uonline-sh.net
+.xuexi365.com
+.xuexi365.com.cn
+.xuexi365.net
+.xxtmail.com
+.ylike.net
+.zaifan.com
+.zaifan.com.cn
+.zhihang100.com
+# ══ end include: chaoxing ══
+# ══ include: cnki ══
+.cnki.com.cn
+.cnki.net
+# 国际 DOI 中国注册与服务中心
+.chndoi.org
+# ══ end include: cnki ══
+# ══ include: wanfang ══
+.wanfangdata.com.cn
+.wf.pub
+# ══ end include: wanfang ══
+.51ccd.com
+.airitilibrary.cn
+.ancientbooks.cn
+.apabi.com
+.bjinfobank.com
+# 北京百链网源信息技术有限公司
+.blyun.com
+.medalink.cn
+.chinabooktrading.com
+.cidp.com.cn
+.cnbksy.com
+# CCF 中国计算机学会
+.ccf.org.cn
+.cspro.org
+.noi.cn
+# 中科软股教育科技
+.cnsciedu.com
+.ibcet.org
+.medicexam.net
+.umajor.net
+.vipexam.org
+.cnthinkers.com
+.cqvip.com
+.crggcn.com
+.data.pharmacodia.com
+.drcnet.com.cn
+.duxiu.com
+# 北京爱如生
+.er07.com
+.ersjk.com
+.sbsjk.com
+# CSMAR经济金融研究数据库
+.gtarsc.com
+.htcases.com
+.hwshu.com
+.hytung.cn
+.incopat.com
+.lawyee.org
+.libvideo.com
+.neohytung.com
+.nmrdata.com
+.nssd.cn
+.pishu.com.cn
+.pkulaw.com
+.rdfybk.com
+.resset.com
+.sciencechina.cn
+.tokyotrial.cn
+.tongxianghuicn.com
+.twscholar.com
+.unihan.com.cn
+.wenxin-ge.com
+.wind.com.cn
+.yiigle.com

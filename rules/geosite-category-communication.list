@@ -1,0 +1,201 @@
+# GeoSite: category-communication
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: clubhouse ══
+.clubhouse.com
+.clubhouseapi.com
+.joinclubhouse.com
+# ══ end include: clubhouse ══
+# ══ include: discord ══
+# Core
+.dis.gd
+.discord.co
+.discord.com
+.discord.design
+.discord.dev
+.discord.gg
+.discord.gift
+.discord.gifts
+.discord.media
+.discord.new
+.discord.store
+.discord.tools
+.discord-activities.com
+.discordactivities.com
+.discordapp.com
+.discordapp.net
+.discordmerch.com
+.discordpartygames.com
+.discordsays.com
+.discordstatus.com
+# Other
+.airhorn.solutions
+.airhornbot.com
+.bigbeans.solutions
+.watchanimeattheoffice.com
+# Unused
+.discordapp.io
+.discordcdn.com
+discord-attachments-uploads-prd.storage.googleapis.com
+hammerandchisel.ssl.zendesk.com
+# ══ end include: discord ══
+# ══ include: freenode ══
+.freenode.net
+# ══ end include: freenode ══
+# ══ include: intercom ══
+.intercom.com
+.intercom.io
+.intercomassets.com
+.intercomcdn.com
+# ══ end include: intercom ══
+# ══ include: keybase ══
+.keybase.io
+.keybaseapi.com
+# ══ end include: keybase ══
+# ══ include: line ══
+.gcld-line.com
+.lin.ee
+.line-apps-beta.com
+.line-apps-rc.com
+.line-apps.com
+.line-beta.me
+.line-cdn.net
+.line-scdn.net
+.line.biz
+.line.me
+.line.naver.jp
+.linecorp.com
+.linefriends.com
+.linefriends.com.tw
+.linegame.jp
+.linemobile.com
+.linemyshop.com
+.lineshoppingseller.com
+.linetv.tw
+.nhncorp.jp
+# ══ end include: line ══
+# ══ include: mailcom ══
+# 1&1 Mail & Media GmbH
+.mail.com
+.ui-portal.de
+.uicdn.com
+.uimserv.net
+# ══ end include: mailcom ══
+# ══ include: matrix ══
+.arewereadyyet.com
+.cinny.in
+.element.io
+.fluffychat.im
+.matrix.org
+.matrix.to
+.modular.im
+.riot.im
+.vector.im
+# ══ end include: matrix ══
+# ══ include: messenger ══
+.fbmessenger.com
+.m.me
+.messenger.com
+.nbabot.net
+# ══ end include: messenger ══
+# ══ include: nicegram ══
+.nicegram.app
+.nicegram.cloud
+# Ads
+# domain:adsgram.ai
+.adsgram.ai
+# ══ end include: nicegram ══
+# ══ include: protonmail ══
+.pm.me
+.proton.me
+.protonmail.ch
+.protonmail.com
+.protonstatus.com
+.protontech.ch
+.protonvpn.ch
+.protonvpn.com
+.protonweb.com
+# ══ end include: protonmail ══
+# ══ include: signal ══
+.signal.art
+.signal.group
+.signal.link
+.signal.me
+.signal.tube
+.signal.org
+.signalusers.org
+.whispersystems.org
+# ══ end include: signal ══
+# ══ include: slack ══
+.slack-core.com
+.slack-edge.com
+.slack-files.com
+.slack-imgs.com
+.slack-msgs.com
+.slack-redir.net
+.slack.com
+.slackb.com
+.slackcertified.com
+.slackdemo.com
+.slackhq.com
+# ══ end include: slack ══
+# ══ include: teamspeak ══
+.myteamspeak.com
+.teamspeak.com
+.teamspeak-services.com
+# ══ end include: teamspeak ══
+# ══ include: telegram ══
+.cdn-telegram.org
+.comments.app
+.contest.com
+.fragment.com
+.graph.org
+.quiz.directory
+.t.me
+.tdesktop.com
+.telega.one
+.telegra.ph
+.telegram-cdn.org
+.telegram.dog
+.telegram.me
+.telegram.org
+.telegram.space
+.telesco.pe
+.tg.dev
+.ton.org
+.toncenter.com
+.tx.me
+.usercontent.dev
+# ══ end include: telegram ══
+# ══ include: temp-mail ══
+.temp-mail.org
+# ══ end include: temp-mail ══
+# ══ include: viber ══
+.viber.com
+.viber.co
+.viber.me
+.s-bid.rmp.rakuten.com
+.vbcdn.com
+.vbcdn.net
+# ══ end include: viber ══
+# ══ include: whatsapp ══
+.wa.me
+.whatsapp-plus.info
+.whatsapp-plus.me
+.whatsapp-plus.net
+.whatsapp.cc
+.whatsapp.com
+.whatsapp.info
+.whatsapp.net
+.whatsapp.org
+.whatsapp.tv
+.whatsappbrand.com
+# Ads/tracking
+# domain:graph.whatsapp.com
+.graph.whatsapp.com
+# domain:graph.whatsapp.net
+.graph.whatsapp.net
+# ══ end include: whatsapp ══

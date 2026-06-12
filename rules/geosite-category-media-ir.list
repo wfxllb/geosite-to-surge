@@ -1,0 +1,37 @@
+# GeoSite: category-media-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian media websites
+# ══ include: aparat ══
+.aparat.com
+.aparatkids.com
+.aparatsport.com
+# ══ end include: aparat ══
+# ══ include: filimo ══
+.filimo.com
+.filimo.school
+# ══ end include: filimo ══
+.cinematicket.org
+.filmnet.ir
+.irib.ir
+.iribtv.ir
+.irinn.ir
+.jjtvn.ir
+.namava.ir
+.qurantv.ir
+.radio.ir
+.radioiran.ir
+.radiojavan.ir
+.radiomaaref.ir
+.radiopayam.ir
+.radioquran.ir
+.radiotehran.ir
+.radiovarzesh.ir
+.telewebion.com
+.tmk.ir
+.tv3.ir
+.tv5.ir
+.tv7.ir

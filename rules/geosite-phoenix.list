@@ -1,0 +1,15 @@
+# GeoSite: phoenix
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.fengcx.com
+.ifeng.com
+.ifengimg.com
+# Phoenix Center
+.phoenixcenter.cn
+# Phoenix Education
+.fengedu.com
+# Phoenix Weekly
+.ifengweekly.com

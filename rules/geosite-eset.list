@@ -1,0 +1,19 @@
+# GeoSite: eset
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+# domain:cn.eset.com
+.cn.eset.com
+.e5.sk
+.eset.com
+.eset.eu
+.eset.sk
+.eset.systems
+.esetsoftware.com
+# ESET Password Manager
+eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+# Connection between the Agent and ESET PROTECT
+epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com

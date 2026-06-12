@@ -1,0 +1,22 @@
+# GeoSite: apple-pki
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# full:certs-lb.apple.com.akadns.net
+certs-lb.apple.com.akadns.net
+# full:certs.apple.com
+certs.apple.com
+# full:crl-lb.apple.com.akadns.net
+crl-lb.apple.com.akadns.net
+# full:crl.apple.com
+crl.apple.com
+# full:ocsp.apple.com
+ocsp.apple.com
+# full:ocsp2.apple.com
+ocsp2.apple.com
+# full:valid.apple.com
+valid.apple.com
+# full:valid.origin-apple.com.akadns.net
+valid.origin-apple.com.akadns.net

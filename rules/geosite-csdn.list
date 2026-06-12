@@ -1,0 +1,21 @@
+# GeoSite: csdn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.codechina.net
+.csdn.com
+.csdn.net
+.csdn.net.cn
+.csdnimg.cn
+.csto.com
+.datasea.cn
+.gitbook.cn
+.gitchat.cn
+.gitcode.com
+.gitcode.net
+.iteye.com
+.kaifayun.com
+.programmer.com.cn
+.programmer.net.cn

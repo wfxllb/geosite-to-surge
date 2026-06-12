@@ -1,0 +1,15 @@
+# GeoSite: nytimes
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.nyt.com
+.nyt.net
+.nytchina.com
+.nytcn.me
+.nytco.com
+.nyti.ms
+.nytimes.com
+.nytstyle.com
+.timestalks.com

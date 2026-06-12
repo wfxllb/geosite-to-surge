@@ -1,0 +1,15 @@
+# GeoSite: oneplus
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.oneplus.com
+.oneplus.cn
+.oneplus.net
+.opstatics.com
+.oneplusbbs.com
+.oneplusmobile.com
+.h2os.com
+# full:community.oneplus.com
+community.oneplus.com

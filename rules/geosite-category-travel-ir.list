@@ -1,0 +1,14 @@
+# GeoSite: category-travel-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian travel/trip websites
+.alibaba.ir
+.flightio.com
+.mrbilit.com
+.tap30.services
+.tap33.me
+.tapsi.cab
+.tapsi.ir

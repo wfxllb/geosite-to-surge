@@ -1,0 +1,64 @@
+# GeoSite: umeng
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.cnzz.com
+.mobmore.com
+.puata.info
+.shujupie.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com
+# Ads/tracking
+# domain:aaid.umeng.com
+.aaid.umeng.com
+# domain:alog.umeng.com
+.alog.umeng.com
+# domain:alog.umengcloud.com
+.alog.umengcloud.com
+# domain:alogs.umeng.com
+.alogs.umeng.com
+# domain:alogus.umeng.com
+.alogus.umeng.com
+# domain:ar.umeng.com
+.ar.umeng.com
+# domain:aspect-upush.umeng.com
+.aspect-upush.umeng.com
+# domain:audid.umeng.com
+.audid.umeng.com
+# domain:ccs.umeng.com
+.ccs.umeng.com
+# domain:cnlogs.umeng.com
+.cnlogs.umeng.com
+# domain:cnlogs.umengcloud.com
+.cnlogs.umengcloud.com
+# domain:log.umtrack.com
+.log.umtrack.com
+# domain:new-aaid.umeng.com
+.new-aaid.umeng.com
+# domain:new-aaid.umeng.com.gds.alibabadns.com
+.new-aaid.umeng.com.gds.alibabadns.com
+# domain:oc.umeng.com
+.oc.umeng.com
+# domain:plbslog.umeng.com
+.plbslog.umeng.com
+# domain:resolve.umeng.com
+.resolve.umeng.com
+# domain:ulogs.umeng.com
+.ulogs.umeng.com
+# domain:ulogs.umengcloud.com
+.ulogs.umengcloud.com
+# domain:utoken.umeng.com
+.utoken.umeng.com
+# domain:w.cnzz.com
+.w.cnzz.com
+# domain:z.gds.cnzz.com
+.z.gds.cnzz.com
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com @ads
+# errnewlog.umeng.com @ads

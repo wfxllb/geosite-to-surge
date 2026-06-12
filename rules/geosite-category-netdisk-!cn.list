@@ -1,0 +1,70 @@
+# GeoSite: category-netdisk-!cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: dropbox ══
+# List of all domains being operated by Dorpbox Inc.
+# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+paper-attachments.s3.amazonaws.com
+# ══ end include: dropbox ══
+# ══ include: mega ══
+.mega.co.nz
+.mega.io
+.mega.nz
+# ══ end include: mega ══
+# ══ include: onedrive ══
+.1drv.com
+.1drv.ms
+.livefilestore.com
+.onedrive.co
+.onedrive.co.uk
+.onedrive.com
+.onedrive.eu
+.onedrive.net
+.onedrive.org
+.onedrive.live.com
+.storage.live.com
+# ══ end include: onedrive ══
+# ══ include: pikpak ══
+.mypikpak.com
+.mypikpak.net
+.pickpackapp.com
+.pikpak.io
+.pikpak.me
+.pikpakdrive.com
+# tracking
+# full:o4504926511693824.ingest.sentry.io
+o4504926511693824.ingest.sentry.io
+# ══ end include: pikpak ══
+# ══ include: terabox ══
+.1024terabox.com
+.bestclouddrive.com
+.freeterabox.com
+.nephobox.com
+.terabox.com
+.terabox1024.com
+.teraboxcdn.com
+# ══ end include: terabox ══
+# ══ include: usersdrive ══
+#Domain for generated download links:
+.userdrive.org
+#Main website:
+.usersdrive.com
+# ══ end include: usersdrive ══

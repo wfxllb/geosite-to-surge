@@ -1,0 +1,37 @@
+# GeoSite: blizzard
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.blizzard.com
+.blizzardgearstore.com
+.blz-contentstack.com
+# Battle.Net
+.battle.net
+blizzard.nefficient.co.kr
+blzddist1-a.akamaihd.net
+blzddistkr1-a.akamaihd.net
+bnetcmsus-a.akamaihd.net
+bnetproduct-a.akamaihd.net
+bnetshopus.akamaized.net
+# Diablo
+.diablo3.com
+.diabloimmortal.com
+# Hearthstone
+.firesidegatherings.com
+.playhearthstone.com
+# Hero of the Storm
+.heroesofthestorm.com
+# Overwatch
+.playoverwatch.com
+# Starcraft
+.starcraft.com
+.starcraft2.com
+# Warcraft
+.playwarcraft3.com
+# World of Warcraft
+.worldofwarcraft.com
+blizzcon-a.akamaihd.net
+blzmedia-a.akamaihd.net
+blznav.akamaized.net

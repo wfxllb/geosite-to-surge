@@ -1,0 +1,62 @@
+# GeoSite: youku
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# youku uses some alicdn services, so this must use with domain list "alibaba"
+.9xsecndns.cn
+.kumiao.com
+.mmstat.com
+.soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+# domain:youku.tv
+.youku.tv
+.youkuhonor.com
+# domain:youkuplay.com
+.youkuplay.com
+# Ads/tracking
+# domain:ad.api.3g.youku.com
+.ad.api.3g.youku.com
+# domain:ad.api.mobile.youku.com
+.ad.api.mobile.youku.com
+# domain:ad.mobile.youku.com
+.ad.mobile.youku.com
+# domain:adashx.ut.youku.com
+.adashx.ut.youku.com
+# domain:atm.youku.com
+.atm.youku.com
+# domain:e.stat.ykimg.com
+.e.stat.ykimg.com
+# domain:ems.youku.com
+.ems.youku.com
+# domain:guanggaoad.youku.com
+.guanggaoad.youku.com
+# domain:h-adashx.ut.youku.com
+.h-adashx.ut.youku.com
+# domain:lstat.youku.com
+.lstat.youku.com
+# domain:mobilemsg.youku.com
+.mobilemsg.youku.com
+# domain:msg.youku.com
+.msg.youku.com
+# domain:p-log.ykimg.com
+.p-log.ykimg.com
+# domain:passport-log.youku.com
+.passport-log.youku.com
+# domain:pl.youku.com
+.pl.youku.com
+# domain:s-adashx.ut.youku.com
+.s-adashx.ut.youku.com
+# domain:stat.youku.com
+.stat.youku.com
+# domain:statis.api.3g.youku.com
+.statis.api.3g.youku.com
+# domain:v6-adashx.ut.youku.com
+.v6-adashx.ut.youku.com
+# domain:yk-ssp.ad.youku.com
+.yk-ssp.ad.youku.com
+# domain:ykad-data.youku.com
+.ykad-data.youku.com

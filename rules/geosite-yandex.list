@@ -1,0 +1,182 @@
+# GeoSite: yandex
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: kinopoisk ══
+.kinopoisk.ru
+.kinopoisk-ru.clstorage.net
+# ══ end include: kinopoisk ══
+# All .yandex domains
+# яндекс.рф
+.xn--d1acpjx3f.xn--p1ai
+.berizaryad.ru
+.cabconnect.org
+.clck.ru
+.clstorage.net
+.driveawaytaxi.org
+.elama.ru
+.gogettaxi.org
+.goup.ai
+.hayya.ae
+.meteum.ai
+.my-manager-account.com
+.naydex.net
+.rostaxi.org
+.shedevrum.ai
+.sourcecraft.dev
+.static-storage.net
+.support-uber.com
+.taxiaid.org
+.taxiguru.org
+.taxitax.org
+.turbopages.org
+.ya.cc
+.ya.ru
+.yandex-bank.net
+.yandex-team.ru
+.yandex.aero
+.yandex.asia
+.yandex.az
+.yandex.by
+.yandex.cloud
+.yandex.co.il
+.yandex.com
+.yandex.com.am
+.yandex.com.ge
+.yandex.com.ru
+.yandex.com.tr
+.yandex.com.ua
+.yandex.de
+.yandex.ee
+.yandex.eu
+.yandex.fi
+.yandex.fr
+.yandex.jobs
+.yandex.kg
+.yandex.kz
+.yandex.lt
+.yandex.lv
+.yandex.md
+.yandex.mobi
+.yandex.net
+.yandex.org
+.yandex.pl
+.yandex.ru
+.yandex.st
+.yandex.sx
+.yandex.tj
+.yandex.tm
+.yandex.tr
+.yandex.ua
+.yandex.uz
+.yandexadexchange.net
+.yandexcloud.net
+.yandexcom.net
+.yandexgo.com
+.yandexlyceum.ru
+.yandexwebcache.net
+.yandexwebcache.org
+.yango-b2b.com
+.yango-team.com
+.yango-tech.com
+.yango.africa
+.yango.ao
+.yango.bh
+.yango.co.il
+.yango.com
+.yango.fi
+.yango.qa
+.yango.taxi
+.yango.tech
+.yangofellowship.com
+.yastat.net
+.yastatic-net.ru
+.yastatic.net
+.yccdn.ru
+# Ads and tracking
+# domain:adfox.ru
+.adfox.ru
+# domain:adfox.yandex.ru
+.adfox.yandex.ru
+# domain:admetrica.ru
+.admetrica.ru
+# domain:ads.yandex
+.ads.yandex
+# domain:ads.yandex.ru
+.ads.yandex.ru
+# domain:adv.yandex.com
+.adv.yandex.com
+# domain:adv.yandex.ru
+.adv.yandex.ru
+# domain:an.yandex.ru
+.an.yandex.ru
+# domain:appmetrica.yandex.com
+.appmetrica.yandex.com
+# domain:appmetrica.yandex.net
+.appmetrica.yandex.net
+# domain:appmetrica.yandex.ru
+.appmetrica.yandex.ru
+# domain:appmetrica.yango.com
+.appmetrica.yango.com
+# domain:bs.yandex.ru
+.bs.yandex.ru
+# domain:clck.yandex.ru
+.clck.yandex.ru
+# domain:counter.yandex.ru
+.counter.yandex.ru
+# domain:mc.yandex.ru
+.mc.yandex.ru
+# domain:metrika.yandex.com
+.metrika.yandex.com
+# domain:metrika.yandex.net
+.metrika.yandex.net
+# domain:metrika.yandex.ru
+.metrika.yandex.ru
+# domain:webvisor.com
+.webvisor.com
+# domain:webvisor.org
+.webvisor.org
+# domain:yabs.yandex.ru
+.yabs.yandex.ru
+# domain:yads.tech
+.yads.tech
+# domain:yandex-metrica.ru
+.yandex-metrica.ru
+# domain:yandexmetrica.com
+.yandexmetrica.com
+# domain:yango-ads.com
+.yango-ads.com
+# full:adfstat.yandex.ru
+adfstat.yandex.ru
+# full:ads.yandex.com
+ads.yandex.com
+# full:ads.yango.com
+ads.yango.com
+# full:adsdk.yandex.ru
+adsdk.yandex.ru
+# full:amc.yandex.ru
+amc.yandex.ru
+# full:analytics.mobile.yandex.net
+analytics.mobile.yandex.net
+# full:clck.yandex.com
+clck.yandex.com
+# full:clck.yandex.net
+clck.yandex.net
+# full:clck.yango.com
+clck.yango.com
+# full:informer.yandex.ru
+informer.yandex.ru
+# full:log.strm.yandex.ru
+log.strm.yandex.ru
+# full:mc.yandex.com
+mc.yandex.com
+# full:mc.yandex.net
+mc.yandex.net
+# full:mc.yango.com
+mc.yango.com
+# full:pixel.yandex.com
+pixel.yandex.com
+# full:report.ap.yandex-net.ru
+report.ap.yandex-net.ru

@@ -1,0 +1,16 @@
+# GeoSite: github-copilot
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.githubcopilot.com
+copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
+# Azure Blob Storage
+copilotprodattachments.blob.core.windows.net
+# Ads/tracking
+# full:copilot-telemetry-service.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+# full:copilot-telemetry.githubusercontent.com
+copilot-telemetry.githubusercontent.com

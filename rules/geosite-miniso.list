@@ -1,0 +1,45 @@
+# GeoSite: miniso
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.loveminiso.com.br
+.miniso-au.com
+.miniso-bh.com
+.miniso-np.com
+.miniso-nz.com
+.miniso.by
+.miniso.ca
+# domain:miniso.cn
+.miniso.cn
+.miniso.co
+.miniso.co.id
+.miniso.co.tz
+.miniso.com
+.miniso.com.es
+.miniso.com.gr
+.miniso.com.mx
+.miniso.com.pl
+.miniso.com.py
+.miniso.com.tr
+.miniso.ge
+.miniso.ie
+.miniso.jp
+.miniso.ma
+.miniso.my
+.miniso.pe
+.miniso.pk
+.miniso.ua
+.miniso.uz
+# domain:minisohome.cn
+.minisohome.cn
+.minisoindia.com
+.minisojordan.com
+.minisokorea.com
+.minisolife.co.za
+.minisothailand.com
+.minisovietam.vn
+# domain:minsio.cn
+.minsio.cn
+.myminiso.com

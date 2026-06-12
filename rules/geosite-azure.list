@@ -1,0 +1,238 @@
+# GeoSite: azure
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .azure domains
+# domain:21vbc.com
+.21vbc.com
+# domain:21vbluecloud.com
+.21vbluecloud.com
+# domain:21vbluecloud.net
+.21vbluecloud.net
+# domain:aadrm.cn
+.aadrm.cn
+.aadrm.com
+# domain:aggresmart.com
+.aggresmart.com
+# domain:apihub-internal.cn
+.apihub-internal.cn
+# domain:appserviceenvironment.cn
+.appserviceenvironment.cn
+# domain:azcrmc-test.cn
+.azcrmc-test.cn
+# domain:azcrmc.cn
+.azcrmc.cn
+# domain:azk8s.cn
+.azk8s.cn
+# domain:aznbcontent.cn
+.aznbcontent.cn
+# domain:aztask.cn
+.aztask.cn
+# domain:azure-api.cn
+.azure-api.cn
+# domain:azure-apihub.cn
+.azure-apihub.cn
+# domain:azure-automation.cn
+.azure-automation.cn
+# domain:azure-connectedvehicles-stage.cn
+.azure-connectedvehicles-stage.cn
+# domain:azure-connectedvehicles.cn
+.azure-connectedvehicles.cn
+.azure-devices-int.net
+# domain:azure-devices-provisioning.cn
+.azure-devices-provisioning.cn
+# domain:azure-devices.cn
+.azure-devices.cn
+.azure-devices.net
+.azure-mobile.net
+.azure-sphere.com
+.azure-test.net
+# domain:azure.cn
+.azure.cn
+.azure.com
+.azure.net
+.azurecomcdn.net
+.azurecomm.net
+.azurecontainer.io
+.azurecosmos.net
+.azurecosmosdb.com
+.azurecosmosdb.info
+.azurecosmosdb.net
+# domain:azurecr-test.cn
+.azurecr-test.cn
+# domain:azurecr.cn
+.azurecr.cn
+.azuredatabricks.net
+.azuredevopslaunch.com
+.azuredigitaltwin.com
+.azuredigitaltwins.com
+.azuredigitaltwins.net
+.azuredns-prd.info
+.azuredns-prd.org
+.azureedge-test.net
+.azureedge.net
+.azurefd.net
+# domain:azurehdinsight.cn
+.azurehdinsight.cn
+.azureiotcentral.com
+.azureiotsolutions.com
+# domain:azureiotsuite.cn
+.azureiotsuite.cn
+.azureiotsuite.com
+# domain:azuremresolver.cn
+.azuremresolver.cn
+.azureplanetscale.info
+.azureplanetscale.net
+# domain:azureprivatedns.cn
+.azureprivatedns.cn
+# domain:azurerms.cn
+.azurerms.cn
+# domain:azuresandbox.cn
+.azuresandbox.cn
+.azureserviceprofiler.com
+.azuresmartspaces.net
+.azurestackvalidation.com
+.azurewebsites.net
+# domain:b2clogin.cn
+.b2clogin.cn
+# domain:b3itech.cn
+.b3itech.cn
+# domain:blueaggrestore.com
+.blueaggrestore.com
+# domain:bluecloudprod.com
+.bluecloudprod.com
+.botframework.com
+# domain:cegid-cloud.cn
+.cegid-cloud.cn
+# domain:chinacloud-mobile.cn
+.chinacloud-mobile.cn
+# domain:chinacloudapi.cn
+.chinacloudapi.cn
+# domain:chinacloudapp.cn
+.chinacloudapp.cn
+# domain:chinacloudsites.cn
+.chinacloudsites.cn
+.cosmosdb.info
+.cosmosdb.net
+.devopsms.com
+.gotcosmos.com
+# domain:hdinsightservices.cn
+.hdinsightservices.cn
+.management-azure-devices-int.net
+# domain:management-azure-devices-provisioning.cn
+.management-azure-devices-provisioning.cn
+# domain:management-azure-devices.cn
+.management-azure-devices.cn
+.management-azure-devices.net
+# domain:mcchcdn.com
+.mcchcdn.com
+# domain:mgmt-azure-api.cn
+.mgmt-azure-api.cn
+.microsoftazuread-sso.com
+.microsoftazuresponsorships.com
+# domain:microsoftazurestatus.cn
+.microsoftazurestatus.cn
+.microsofteca.com
+.microsoftiotcentral.com
+# domain:microsoftmetrics.cn
+.microsoftmetrics.cn
+# domain:mncmsidlab1.cn
+.mncmsidlab1.cn
+# domain:msappproxy.cn
+.msappproxy.cn
+# domain:mschcdn.com
+.mschcdn.com
+# domain:msftcloudes.cn
+.msftcloudes.cn
+# domain:msidentity.cn
+.msidentity.cn
+# domain:msidlabpbmc.cn
+.msidlabpbmc.cn
+.msn.net
+.playfab.com
+.playfabapi.com
+.serverlesslibrary.net
+# domain:trafficmanager.cn
+.trafficmanager.cn
+.trafficmanager.net
+# domain:trustcenter.cn
+.trustcenter.cn
+.tryfunctions.com
+# domain:unity3dcloud.cn
+.unity3dcloud.cn
+# domain:windowsazure.cn
+.windowsazure.cn
+.windowsazure.com
+# domain:windowsazurestatus.cn
+.windowsazurestatus.cn
+# regexp:.+\.azchcdn[a-s]\.com$ @cn
+# domain:azchcdna.com
+.azchcdna.com
+# domain:azchcdnb.com
+.azchcdnb.com
+# domain:azchcdnc.com
+.azchcdnc.com
+# domain:azchcdnd.com
+.azchcdnd.com
+# domain:azchcdne.com
+.azchcdne.com
+# domain:azchcdnf.com
+.azchcdnf.com
+# domain:azchcdng.com
+.azchcdng.com
+# domain:azchcdnh.com
+.azchcdnh.com
+# domain:azchcdni.com
+.azchcdni.com
+# domain:azchcdnj.com
+.azchcdnj.com
+# domain:azchcdnk.com
+.azchcdnk.com
+# domain:azchcdnl.com
+.azchcdnl.com
+# domain:azchcdnm.com
+.azchcdnm.com
+# domain:azchcdnn.com
+.azchcdnn.com
+# domain:azchcdno.com
+.azchcdno.com
+# domain:azchcdnp.com
+.azchcdnp.com
+# domain:azchcdnq.com
+.azchcdnq.com
+# domain:azchcdnr.com
+.azchcdnr.com
+# domain:azchcdns.com
+.azchcdns.com
+azure.microsoft.com
+azuremarketplace.microsoft.com
+# Azure DNS
+# domain:azure-dns.cn
+.azure-dns.cn
+.azure-dns.com
+.azure-dns.info
+.azure-dns.net
+.azure-dns.org
+# regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn
+# domain:azure-dns-1.cn
+.azure-dns-1.cn
+# domain:azure-dns-2.cn
+.azure-dns-2.cn
+# domain:azure-dns-3.cn
+.azure-dns-3.cn
+# domain:azure-dns-4.cn
+.azure-dns-4.cn
+# domain:azure-dns-5.cn
+.azure-dns-5.cn
+# domain:azure-dns-6.cn
+.azure-dns-6.cn
+# domain:azure-dns-7.cn
+.azure-dns-7.cn
+# domain:azure-dns-8.cn
+.azure-dns-8.cn
+# domain:azure-dns-9.cn
+.azure-dns-9.cn
+# domain:azure-dns-10.cn
+.azure-dns-10.cn

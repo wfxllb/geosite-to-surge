@@ -1,0 +1,156 @@
+# GeoSite: category-forums
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Forums & Social network
+# ══ include: 4chan ══
+.4cdn.org
+.4chan.org
+.4channel.org
+# ══ end include: 4chan ══
+# ══ include: 5ch ══
+.2ch.net
+.5ch.net
+# ══ end include: 5ch ══
+# ══ include: 6park ══
+.6park.com
+.6parkbbs.com
+.6parknews.com
+.cool18.com
+.popo8.com
+.parkvv.com
+.xwbo.com
+# ══ end include: 6park ══
+# ══ include: ck101 ══
+.ck101.com
+.ckcdn.com
+.ckck.fun
+# ══ end include: ck101 ══
+# ══ include: dcard ══
+.dcard.cc
+.dcard.io
+.dcard.link
+.dcard.tw
+# ══ end include: dcard ══
+# ══ include: dslreports ══
+.broadbandreports.com
+.dslr.net
+.dslreports.com
+# ══ end include: dslreports ══
+# ══ include: dzen ══
+.dzen.ru
+# Ads and tracking
+# domain:log.dzen.ru
+.log.dzen.ru
+# domain:ms.dzen.ru
+.ms.dzen.ru
+# CDN
+.dzeninfra.ru
+# ══ end include: dzen ══
+# ══ include: habr ══
+.habr.com
+.habrastorage.org
+# ══ end include: habr ══
+# ══ include: hkgolden ══
+.hkgolden.com
+.hkgolden.media
+# ══ end include: hkgolden ══
+# ══ include: lihkg ══
+.lih.kg
+.lihkg.com
+# ══ end include: lihkg ══
+# ══ include: linuxdo ══
+.linux.do
+.ldstatic.com
+# ══ end include: linuxdo ══
+# ══ include: mobile01 ══
+.5i01.com
+.mobile01.com
+# ══ end include: mobile01 ══
+# ══ include: nodeseek ══
+.22112211.xyz
+.deepflood.com
+.nodeget.com
+.nodeimage.com
+.nodequality.com
+.nodeseek.com
+# ══ end include: nodeseek ══
+# ══ include: pixnet ══
+.pimg.tw
+.pixanalytics.com
+.pixfs.net
+.pixinsight.com.tw
+.pixnet.cc
+.pixnet.net
+.pixnet.pro
+.pixnet.tw
+.pixplug.in
+# ══ end include: pixnet ══
+# ══ include: ptt ══
+.ptt.cc
+.ptt2.cc
+.ptt3.cc
+# ══ end include: ptt ══
+# ══ include: quora ══
+# ══ include: poe ══
+.poe.com
+.poecdn.net
+# ══ end include: poe ══
+.qr.ae
+.quora.com
+.quoracdn.net
+www.quora.com.cdn.cloudflare.net
+# ══ end include: quora ══
+# ══ include: reddit ══
+.redd.it
+.reddit.app.link
+.reddit.com
+.redditblog.com
+.reddithelp.com
+.redditinc.com
+.redditmail.com
+.redditmedia.com
+.redditspace.com
+.redditstatic.com
+.redditstatus.com
+.reddit.map.fastly.net
+# ══ end include: reddit ══
+# ══ include: rutracker ══
+.maintracker.org
+.rutracker.cc
+.rutracker.cr
+.rutracker.me
+.rutracker.net
+.rutracker.nl
+.rutracker.org
+.rutrk.org
+# ══ end include: rutracker ══
+# ══ include: soyjakparty ══
+.soyjak.party
+.soyjak.st
+# ══ end include: soyjakparty ══
+# ══ include: xda ══
+.xda-cdn.com
+.xda-developers.com
+.xdaforums.com
+.xdaimages.com
+# ══ end include: xda ══
+bbs.boingboing.net
+.18p2p.com
+.8chan.moe
+.avsforum.com
+.disp.cc
+.doom9.org
+.eyny.com
+.gab.com
+.hydrogenaud.io
+.livejournal.com
+.livejournal.net
+.mewe.com
+.parler.com
+.pincong.rocks
+.safechat.com
+.sis001.com
+.v2ex.com

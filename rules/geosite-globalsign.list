@@ -1,0 +1,34 @@
+# GeoSite: globalsign
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# domain:alphassl.com
+.alphassl.com
+# domain:easy-signing.com
+.easy-signing.com
+.globalsign-media.com
+.globalsign.be
+.globalsign.ch
+.globalsign.cloud
+# domain:globalsign.cn
+.globalsign.cn
+.globalsign.co.uk
+# domain:globalsign.com
+.globalsign.com
+.globalsign.com.au
+.globalsign.com.br
+.globalsign.com.hk
+.globalsign.com.sg
+.globalsign.es
+.globalsign.eu
+.globalsign.fr
+.globalsign.net
+.globalsign.nl
+# domain:globalsigncdn.com
+.globalsigncdn.com
+# full:cdn.globalsigncdn.com.cdn.cloudflare.net
+cdn.globalsigncdn.com.cdn.cloudflare.net
+# full:crl.globalsign.net
+crl.globalsign.net

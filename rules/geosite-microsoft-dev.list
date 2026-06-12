@@ -1,0 +1,80 @@
+# GeoSite: microsoft-dev
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.adaptivecards.io
+.api-extractor.com
+.apisof.net
+.appcenter.ms
+.blazor.net
+.botframework.com
+.codethemicrobit.com
+.devopsassessment.net
+.dot.net
+.gamesstack.com
+.graphengine.io
+.insiderdevtour.com
+.jwt.ms
+.microbit.org
+.microsoftadc.com
+.microsoftgamestack.com
+.microsoftiotinsiderlabs.com
+# domain:microsoftreactor.cn
+.microsoftreactor.cn
+# domain:microsoftreactor.com.cn
+.microsoftreactor.com.cn
+.microsoftreactor.info
+.microsoftreactor.net
+.microsoftreactor.org
+.microsoftsilverlight.com
+.microsoftsilverlight.org
+.microsoftsilverlight.net
+.microsoftsqlserver.com
+.mmdnn.com
+.mono-project.com
+.msdn.com
+.msinnovationchallenge.com
+.mspairlift.com
+.msropendata.com
+.nuget.org
+.nugettest.org
+.opentranslatorstothings.org
+.poshtestgallery.com
+.pwabuilder.com
+# domain:reactorms.com.cn
+.reactorms.com.cn
+.sankie.net
+.sqlserveronlinux.com
+.timelinestoryteller.com
+.uwpcommunitytoolkit.com
+.visualstudio-staging.com
+.visualstudio.com
+.visualstudio.co
+.visualstudio.co.uk
+.visualstudio.eu
+.visualstudio.net
+.vfsforgit.com
+.vfsforgit.org
+.vsassets.io
+.vscode.dev
+.vscode-cdn.net
+.vscode-unpkg.net
+.xamarin.com
+az764295.vo.msecnd.net
+bingsettingssearch.trafficmanager.net
+default.exp-tas.com
+developer.microsoft.com
+download.visualstudio.microsoft.com
+dtlgalleryint.cloudapp.net
+packages.microsoft.com
+poshtestgallery.cloudapp.net
+psg-int-centralus.cloudapp.net
+psg-int-eastus.cloudapp.net
+rink.hockeyapp.net
+vscode-sync-insiders.trafficmanager.net
+vscode-sync.trafficmanager.net
+vscode.blob.core.windows.net
+vscode.search.windows.net
+vsmarketplacebadge.apphb.com

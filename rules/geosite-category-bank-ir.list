@@ -1,0 +1,39 @@
+# GeoSite: category-bank-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian bank websites
+.agri-bank.com
+.ansarbank.com
+.bank-maskan.ir
+.bankmellat.ir
+.banksepah.ir
+.bim.ir
+.blubank.com
+.bmi.ir
+.bpi.ir
+.bsi.ir
+.cbi.ir
+.day24.ir
+.edbi.ir
+.enbank.ir
+.ghbi.ir
+.hibank24.com
+.izbank.ir
+.karafarinbank.ir
+.mebank.ir
+.mresalat.ir
+.parsian-bank.com
+.postbank.ir
+.qmb.ir
+.rb24.ir
+.refah-bank.ir
+.rqbank.ir
+.sb24.com
+.sbank.ir
+.shahr-bank.ir
+.shaparak.ir
+.sinabank.ir
+.tejaratbank.ir

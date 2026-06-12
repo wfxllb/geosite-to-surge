@@ -1,0 +1,92 @@
+# GeoSite: sina
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.97973.com
+# domain:hk.weibo.com
+.hk.weibo.com
+# domain:my.weibo.com
+.my.weibo.com
+# domain:overseas.weibo.com
+.overseas.weibo.com
+.picself.cn
+# domain:sg.weibo.com
+.sg.weibo.com
+.sina.cn
+.sina.com
+.sina.com.cn
+.sina.net
+.sinaapp.com
+.sinaedge.com
+.sinaimg.cn
+.sinaimg.com
+.sinajs.cn
+.sinajs.com
+.t.cn
+# domain:th.weibo.com
+.th.weibo.com
+# domain:tw.weibo.com
+.tw.weibo.com
+# domain:us.weibo.com
+.us.weibo.com
+.videoself.cn
+.wbimg.cn
+.wbimg.com
+.wcdn.cn
+.weibo.cn
+.weibo.com
+.weibo.com.cn
+.weibocdn.com
+.weibopay.com
+.xhaiwai.com
+# Ads/tracking
+# domain:ad.sina.com.cn
+.ad.sina.com.cn
+# domain:ad.us.sinaimg.cn
+.ad.us.sinaimg.cn
+# domain:adbox.sina.com.cn
+.adbox.sina.com.cn
+# domain:adimg.mobile.sina.cn
+.adimg.mobile.sina.cn
+# domain:adimg.uve.weibo.com
+.adimg.uve.weibo.com
+# domain:ads.sina.com
+.ads.sina.com
+# domain:alitui.weibo.com
+.alitui.weibo.com
+# domain:beacon.sina.com.cn
+.beacon.sina.com.cn
+# domain:biz.weibo.com
+.biz.weibo.com
+# domain:click.uve.mobile.sina.cn
+.click.uve.mobile.sina.cn
+# domain:click.uve.weibo.com
+.click.uve.weibo.com
+# domain:log.mix.sina.com.cn
+.log.mix.sina.com.cn
+# domain:log.sina.cn
+.log.sina.cn
+# domain:log2.sina.cn
+.log2.sina.cn
+# domain:mixer.sina.cn
+.mixer.sina.cn
+# domain:p4p.sina.com.cn
+.p4p.sina.com.cn
+# domain:rs.sinajs.cn
+.rs.sinajs.cn
+# domain:sa.sina.cn
+.sa.sina.cn
+# domain:sbeacon.sina.com.cn
+.sbeacon.sina.com.cn
+# domain:sdkclick.mobile.sina.cn
+.sdkclick.mobile.sina.cn
+# domain:slog.sina.cn
+.slog.sina.cn
+# domain:slog.sina.com.cn
+.slog.sina.com.cn
+# domain:wapwbclick.mobile.sina.cn
+.wapwbclick.mobile.sina.cn
+# domain:wbclick.mobile.sina.cn
+.wbclick.mobile.sina.cn

@@ -1,0 +1,14 @@
+# GeoSite: headhunter
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.hh.by
+.hh.kz
+.hh.ru
+.hhcdn.ru
+.rabota.by
+.setka.ru
+.talantix.ru
+.zarplata.ru

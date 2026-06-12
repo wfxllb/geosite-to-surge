@@ -1,0 +1,26 @@
+# GeoSite: category-insurance-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian insurance websites
+.alborzinsurance.ir
+.bimeh.com
+.bimehasia.com
+.bimeonline.com
+.dana-insurance.com
+.dayins.com
+.hafezinsurance.ir
+.ihio.gov.ir
+.iraninsurance.ir
+.karafarin-insurance.ir
+.mellatinsurance.com
+.novininsurance.com
+.omid-insurance.ir
+.parsianinsurance.ir
+.razi-insurance.ir
+.risc.ir
+.sinainsurance.com
+.tamin.ir
+.tins.ir

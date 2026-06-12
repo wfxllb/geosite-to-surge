@@ -1,0 +1,15 @@
+# GeoSite: vodafone
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.myvodafone.com.au
+.myvodafone.com.ws
+.vodafone.co.uk
+.vodafone.com
+.vodafone.com.au
+.vodafone.com.tr
+.vodafone.de
+.vodafone.it
+.vodafone.nl

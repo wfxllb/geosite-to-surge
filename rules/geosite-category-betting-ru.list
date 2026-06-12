@@ -1,0 +1,27 @@
+# GeoSite: category-betting-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: betboom ══
+.betboom.ru
+.mobile-bb.com
+# ══ end include: betboom ══
+# ══ include: fonbet ══
+.bk6bba-resources.com
+.bk6bba-resources.ru
+.fon.bet
+.fon.promo
+# ══ end include: fonbet ══
+# ══ include: ligastavok ══
+.ligadobra.ru
+.ligastavok-csr.ru
+.ligastavok.ru
+.sozvezdie-dobra.ru
+# ══ end include: ligastavok ══
+# ══ include: winline ══
+.win-line.ru
+.winline.ru
+.winlinebet.ru
+# ══ end include: winline ══

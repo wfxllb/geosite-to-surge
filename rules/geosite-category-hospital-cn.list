@@ -1,0 +1,17 @@
+# GeoSite: category-hospital-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.fuwai.com
+.pkuh6.cn
+.puh3.net.cn
+hospital.pku.edu.cn
+ss.bjmu.edu.cn
+# 运城同德医院 晋ICP备15008538号-1
+.yctdyy.com
+# 南方医科大学深圳医院
+.smuszh.com
+# 四川大学华西医院
+.cd120.com

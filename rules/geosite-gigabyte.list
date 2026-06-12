@@ -1,0 +1,15 @@
+# GeoSite: gigabyte
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.aorus.com
+# domain:aoruszone.cn
+.aoruszone.cn
+# domain:gigabyte.cn
+.gigabyte.cn
+.gigabyte.com
+gigabyte2.azureedge.net
+sa78gs.wpc.edgecastcdn.net
+sni1dcb6gl.wpc.edgecastcdn.net

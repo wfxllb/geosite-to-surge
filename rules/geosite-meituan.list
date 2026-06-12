@@ -1,0 +1,25 @@
+# GeoSite: meituan
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: ddmaicai ══
+# 叮咚买菜 上海壹佰米网络科技有限公司
+.100.me
+.ddcorp.net
+.ddfresh.net
+.ddimg.mobi
+.ddmaicai.net
+.ddmc.mobi
+.dduser.mobi
+.ddxq.mobi
+.imaicai.mobi
+# ══ end include: ddmaicai ══
+.dianping.com
+.maoyan.com
+.meituan.com
+.meituan.net
+.mtyun.com
+.neixin.cn
+.sankuai.com

@@ -1,0 +1,30 @@
+# GeoSite: category-web-archive
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: 4plebs ══
+.4pcdn.org
+.4plebs.org
+# ══ end include: 4plebs ══
+# ══ include: archivetoday ══
+.archive.today
+.archive.fo
+.archive.is
+.archive.li
+.archive.md
+.archive.ph
+.archive.vn
+# ══ end include: archivetoday ══
+# ══ include: internet-archive ══
+.archive-it.org
+.archive.org
+.openlibrary.org
+# ══ end include: internet-archive ══
+.eotarchive.org
+.ghostarchive.org
+.megalodon.jp
+.mementoweb.org
+.perma.cc
+.webcitation.org

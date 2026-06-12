@@ -1,0 +1,175 @@
+# GeoSite: category-orgs
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# This list contains organizations outside China mainland.
+# ══ include: creativecommons ══
+.ccstatic.org
+.creativecommons.org
+.creativecommons.engineering
+.licensebuttons.net
+# ══ end include: creativecommons ══
+# ══ include: csis ══
+.csis.org
+csis-prod.s3.amazonaws.com
+# ══ end include: csis ══
+# ══ include: emojipedia ══
+.emojipedia.org
+.worldemojiawards.com
+.worldemojiday.com
+.xn--yt8h.la
+# ══ end include: emojipedia ══
+# ══ include: f-droid ══
+.f-dro1d.org
+.f-droid.com
+.f-droid.org
+.fdroid.org
+# ══ end include: f-droid ══
+# ══ include: grapheneos ══
+.attestation.app
+.grapheneos.app
+.grapheneos.ca
+.grapheneos.com
+.grapheneos.dev
+.grapheneos.foundation
+.grapheneos.info
+.grapheneos.net
+.grapheneos.network
+.grapheneos.online
+.grapheneos.org
+.grapheneos.ovh
+.grapheneos.page
+.grapheneos.social
+.seamlessupdate.app
+.vanadium.app
+# ══ end include: grapheneos ══
+# ══ include: ieee ══
+.ieee.org
+.ieee.tv
+# Co-sponsored
+.tryengineering.org
+# Conference & Event
+.ieee-ccnc.org
+.ieee-ecce.org
+.ieeemce.org
+# Education and career
+.standardsuniversity.org
+# Geographic Activities
+.ieee-region6.org
+.ieee.ca
+.ieeer10.org
+.ieeer5.org
+.ieeer8.org
+.ieeeusa.org
+# Humanitarian Program
+.ieeefoundation.org
+# Other
+.ieee-into-focus.org
+.ieee-vics.org
+.ieeeday.org
+# Publications, Products, & Services
+.datasheets360.com
+.globalspec.com
+.ieee-isto.org
+.techstreet.com
+# Society & Council
+.computer.org
+.comsoc.org
+.embs.org
+.emcs.org
+.grss-ieee.org
+.ieee-aess.org
+.ieee-cas.org
+.ieee-ceda.org
+.ieee-edusociety.org
+.ieee-ies.org
+.ieee-ims.org
+.ieee-npss.org
+.ieee-pels.org
+.ieee-pes.org
+.ieee-ras.org
+.ieee-sensors.org
+.ieee-tems.org
+.ieee-uffc.org
+.ieeeaps.org
+.ieeecsc.org
+.ieeecss.org
+.ieeedeis.org
+.ieeemagnetics.org
+.ieeenano.org
+.ieeeoes.org
+.ieeesmc.org
+.ieeesystemscouncil.org
+.itsoc.org
+.mtt.org
+.photonicssociety.org
+.signalprocessingsociety.org
+.technologyandsociety.org
+.vtsociety.org
+# ══ end include: ieee ══
+# ══ include: metabrainz ══
+.acousticbrainz.org
+.bookbrainz.org
+.coverartarchive.org
+.critiquebrainz.org
+.listenbrainz.org
+.messybrainz.org
+.metabrainz.org
+.musicbrainz.org
+# ══ end include: metabrainz ══
+# ══ include: nist ══
+.nist.gov
+.time.gov
+# ══ end include: nist ══
+# ══ include: openstreetmap ══
+.openmaps.org
+.openstreetmap.com
+.openstreetmap.net
+.openstreetmap.org
+.openstreetmaps.org
+.osm.org
+.osmfoundation.org
+# State of the Map
+.stateofthemap.com
+.stateofthemap.org
+# ══ end include: openstreetmap ══
+# ══ include: paskoocheh ══
+.paskoocheh.com
+# ══ end include: paskoocheh ══
+# ══ include: peppy ══
+# ══ include: osu ══
+# osu
+a.ppy.sh
+assets.ppy.sh
+c.ppy.sh
+osu.ppy.sh
+m1.ppy.sh
+# osu lazer
+lazer.ppy.sh
+notify.ppy.sh
+sentry.ppy.sh
+spectator.ppy.sh
+# ══ end include: osu ══
+.ppy.sh
+# ══ end include: peppy ══
+# ══ include: ruleoflaw ══
+.rolfoundation.org
+.rolsociety.org
+# ══ end include: ruleoflaw ══
+.aomedia.org
+.atypi.org
+.change.org
+.globalsecurity.org
+.iana.org
+.iccf.com
+.ietf.org
+.itu.int
+.opte.org
+.smpte.org
+.un.org
+.w3.org
+.who.int
+.wi-fi.org
+.wto.org

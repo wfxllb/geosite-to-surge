@@ -1,0 +1,27 @@
+# GeoSite: nbcuniversal
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# DreamWorks
+.dreamworks.com
+# NBC
+.cnbc.com
+.cnbcfm.com
+.msnbc.com
+.nbc.co
+.nbc.com
+.nbcnews.com
+.nbcolympics.com
+.nbcsports.com
+.nbcuni.com
+.nbcuniversal.com
+.s-nbcnews.com
+# Peacock
+.peacocktv.com
+# Universal
+.universalorlando.com
+.universalpictures.com
+.universalpicturesinternational.com
+.universalstudioshollywood.com

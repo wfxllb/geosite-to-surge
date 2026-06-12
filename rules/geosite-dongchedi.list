@@ -1,0 +1,15 @@
+# GeoSite: dongchedi
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 渝ICP备2023013619号
+.dcarapi.com
+.dcarimg.com
+.dcarlive.com
+.dcarstatic.com
+.dcarvod.com
+.dcdapp.com
+.dongchedi.com
+.dongchediapp.com

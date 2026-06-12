@@ -1,0 +1,26 @@
+# GeoSite: calgoncarbon
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.calgon.at
+.calgon.be
+.calgon.ch
+# domain:calgon.cn
+.calgon.cn
+.calgon.co.uk
+.calgon.com
+.calgon.com.tr
+.calgon.de
+.calgon.es
+.calgon.fr
+.calgon.ie
+.calgon.it
+.calgon.nl
+.calgon.pt
+.calgon.ru
+.calgon.tv
+.calgoncarbon-china.com
+.calgoncarbon.com
+.calgonit.com

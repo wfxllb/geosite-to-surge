@@ -1,0 +1,13 @@
+# GeoSite: bandwagonhost
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bandwagonhost.com
+.bwh1.net
+.bwh8.net
+.bwh81.net
+.bwh88.net
+.bwh89.net
+.bwhstatus.com

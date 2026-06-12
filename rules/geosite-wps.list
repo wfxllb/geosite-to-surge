@@ -1,0 +1,27 @@
+# GeoSite: wps
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.wps.cn
+.wps.com
+.wpscdn.cn
+.wpscdn.com
+.qwps.cn
+# Big Data Platform
+.kscord.com
+# Dazitong
+.51dzt.com
+# Dictionary
+.iciba.com
+# Docer
+.docer.com
+# Documents
+.kdocs.cn
+# Mail
+.wpsmail.net
+# PAPocket
+.papocket.com
+# PDF
+.wpspdf.cn

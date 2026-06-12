@@ -1,0 +1,16 @@
+# GeoSite: openstreetmap
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.openmaps.org
+.openstreetmap.com
+.openstreetmap.net
+.openstreetmap.org
+.openstreetmaps.org
+.osm.org
+.osmfoundation.org
+# State of the Map
+.stateofthemap.com
+.stateofthemap.org

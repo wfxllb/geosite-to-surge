@@ -1,0 +1,23 @@
+# GeoSite: oculus
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.binoculus.com
+.buyoculus.com
+.ocul.us
+.oculus-china.com
+.oculus.com
+.oculus2014.com
+.oculus3d.com
+.oculusblog.com
+.oculusbrand.com
+.oculuscasino.net
+.oculuscdn.com
+.oculusconnect.com
+.oculusdiving.com
+.oculusforbusiness.com
+.oculusrift.com
+.oculusvr.com
+.powersunitedvr.com

@@ -1,0 +1,17 @@
+# GeoSite: onedrive
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.1drv.com
+.1drv.ms
+.livefilestore.com
+.onedrive.co
+.onedrive.co.uk
+.onedrive.com
+.onedrive.eu
+.onedrive.net
+.onedrive.org
+.onedrive.live.com
+.storage.live.com

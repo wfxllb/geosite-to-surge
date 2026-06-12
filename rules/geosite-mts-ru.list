@@ -1,0 +1,25 @@
+# GeoSite: mts-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.mts-ws.net
+.mts.ru
+.mymts.ru
+# Ads and tracking
+# domain:a.mts.ru
+.a.mts.ru
+# domain:obs.mts.ru
+.obs.mts.ru
+# Ecosystem
+## Finance
+.dbo-dengi.online
+.mtsbank.ru
+.mtsdengi.ru
+.tvoyodbo.online
+## Kion
+.kion.ru
+## ON Media (MTS Media)
+.mtsmedia.ru
+.on-media.ru

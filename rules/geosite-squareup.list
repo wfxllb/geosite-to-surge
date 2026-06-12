@@ -1,0 +1,18 @@
+# GeoSite: squareup
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.cash.app
+.cashbycashapp.com
+.gosq.co
+.gosq.com
+.issquaredown.com
+.issquareup.com
+.mkt.com
+.sellercommunity.com
+.squarecapital.com
+.squarecdn.com
+.squarecloudservices.com
+.squareup.com

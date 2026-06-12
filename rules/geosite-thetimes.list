@@ -1,0 +1,15 @@
+# GeoSite: thetimes
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.driving.co.uk
+.mytimesplus.co.uk
+.sportswomanoftheyear.co.uk
+.sportswomenoftheyear.co.uk
+.the-tls.co.uk
+.thesundaytimes.co.uk
+.thetimes.co.uk
+.thetimes.ie
+.timesmembership.com

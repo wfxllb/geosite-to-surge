@@ -1,0 +1,17 @@
+# GeoSite: yundaex
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.ydsys.cn
+.yundaex.cn
+.yundaex.com
+.yundasys.com
+# 韵达快运
+.yunda56.com
+.yundalog.com
+.yundaltl.com
+# 韵达国际
+.udalogistic.com
+.udalogistic.cn

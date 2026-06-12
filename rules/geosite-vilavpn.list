@@ -1,0 +1,15 @@
+# GeoSite: vilavpn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.vilavpn.com
+.vilavpn.xyz
+.vilavpn1.xyz
+.vilavpn2.xyz
+.vilavpn3.xyz
+.vilavpn4.xyz
+.vilavpn5.xyz
+.vilavpn6.xyz
+.vilavpn7.xyz

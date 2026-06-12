@@ -1,0 +1,1196 @@
+# GeoSite: category-entertainment-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Entertainment & Videos & Games & Music & Podcasts
+# ══ include: category-games-cn ══
+# ══ include: 4399 ══
+.3304399.com
+.3304399.net
+.3839.com
+.3839apk.com
+.3839app.com
+.3839app.net
+.3839img.com
+.3839pay.com
+.3839pic.com
+.3839vc.com
+.3839video.com
+.4399.cn
+.4399.com
+.4399.net
+.4399api.com
+.4399api.net
+.4399biule.com
+.4399dmw.com
+.4399er.com
+.4399hdhh.com
+.4399hhh.com
+.4399inc.com
+.4399mail.com
+.4399pk.com
+.4399sj.cn
+.4399sj.com
+.4399swf.com
+.4399wanju.com
+.4399youpai.com
+.4399youxi.com
+.4399yyy.com
+.5054399.com
+.5054399.net
+.5wyxi.com
+.71acg.com
+.71acg.net
+.abdf002.com
+.appeeres.com
+.buke999.com
+.bx1k.com
+.edu4399.com
+.funnycore.com
+.guoping123.com
+.haohaowan.net
+.i3839.com
+.ihykb.com
+.img4399.com
+.mail4399.com
+.maindown4399.com
+.me4399.com
+.my4399.com
+.mysiteres.com
+.nzsiteres.com
+.qq163.com
+.qq163.net
+.tuer123.com
+.wanwan4399.com
+.we4399.com
+.webgame163.com
+.youba.com
+.yxhapi.com
+.yxhhdl.com
+.yxhimg.com
+# ══ end include: 4399 ══
+# ══ include: aligames ══
+.9game.cn
+.aligames.com
+.jiaoyimao.cn
+.jiaoyimao.com
+.lingxigames.com
+# ══ end include: aligames ══
+# ══ include: bilibili-game ══
+.bilibiligame.cn
+.bilibiligame.co
+.bilibiligame.net
+.biligame.co
+.biligame.com
+.biligame.net
+# ══ end include: bilibili-game ══
+# ══ include: bluepoch-games ══
+# From reverse 1999
+.sl916.com
+# ══ end include: bluepoch-games ══
+# ══ include: cowlevel ══
+.cowlevel.net
+.cdncl.net
+# ══ end include: cowlevel ══
+# ══ include: herogame ══
+# 英雄游戏(英雄互娱)
+.hero.com
+.herogame.com
+.heroesports.com
+.shyxhy.com
+.yingxiong.com
+# ══ end include: herogame ══
+# ══ include: kurogames ══
+.kurogames.com
+.kurogames.net
+# Wuthering Waves
+.aki-game.com
+# ══ end include: kurogames ══
+# ══ include: mihoyo-cn ══
+# 米哈游
+.mhystatic.com
+.mhyurl.cn
+.mihayo.com
+.mihayou.com
+.mihoyo.com
+.mihoyocg.com
+.mihoyogift.com
+.mihoyomall.com
+.miyoushe.com
+# 崩坏2
+.benghuai.com
+# 崩坏3
+.bh3.com
+# 星穹铁道
+.bhsr.com
+# 未定事件簿
+.themisweeps.com
+# 原神
+.yuanshen.com
+#绝区零
+.juequling.com
+# Akamai
+# [skip] regexp:^.+-mihayo\.akamaized\.net$ — 无法转为 Surge .list
+# Ads/tracking
+# domain:log-upload.mihoyo.com
+.log-upload.mihoyo.com
+# ══ end include: mihoyo-cn ══
+# ══ include: tencent-games ══
+.battlecare.net
+.gameitop.com
+.gameloop.com
+.gcloudcs.com
+.gcloudcstest.com
+.gcloudcstestonly.com
+.gclouddolphin.com
+.gcloudsdk.com
+.gcloudsvcs.com
+.gdtimg.com
+.goto-game.com
+.goto-game.mobi
+.goto-game.net.cn
+.goto-game.org
+.happyhlddz.com
+.hdyxgame.com
+.hkgcloudcs.com
+.ihappystudio.cn
+.ihappystudio.com
+.in.th
+.ludosuperstar.cn
+.ludoworld.net
+.mahjongai.net
+.mahjongcup.cn
+.mahjongcup.com
+.mahjongcup.net
+.metalrevolution.com
+.midasbuy.com
+.nagcloudcs.com
+.proximabeta.com
+.pubghelper.com
+.pubgno1.cn
+.pubgtool.com
+.qqgameapp.com
+.rmwxgame.com
+.skydweller.cn
+.syxlgame.com
+.tencent-gcloud.com
+.tencentstart.com
+.texasholdemcup.cn
+.texasholdemcup.com
+.texasholdemcup.net
+.timibase.com
+.videoxiaoyouxi.com
+.wcbygame.com
+.yxdmgame.com
+.yximg.cn
+.yxwsgame.com
+.yzyxgame.com
+.zcjbgame.com
+.zhuoyuegame.com
+.xn--owtw8cc49ajfl.cn
+# Roblox
+.roblox.cn
+.roblox.qq.com
+.robloxdev.cn
+# NExT Studios
+.nextstudios.com
+.nextworkshop.net
+# 迷失之地
+.mszdld.cn
+.mszdld.com
+.mszdld.net
+# 篝火营地
+.gamebonfire.com
+.gouhuo.qq.com
+# WeGame
+.ffbuddy.com
+.gotolink.net
+.gtgres.com
+.realcybertron.com
+.wegame.com
+.wegame.com.cn
+.wegameplus.com
+.werepository.com.cn
+# Supercell cn (data/supercell is for non-cn domains)
+.brawlstars.cn
+.haydaypop.cn
+.labycore.cn
+.sccreator.cn
+.sccreators.cn
+.scescdn.cn
+.scid.cn
+.scsentry.cn
+.supercellcommunity.cn
+.supercellsupport.cn
+# 使命召唤
+.codm.com
+# 穿越火线
+.bcfmglobal.com
+.tcfmglobal.com
+# 腾讯游戏安全专家
+.anticheatexpert.com
+# 洛克王国
+.17roco.com
+.roco.qq.com
+# ══ end include: tencent-games ══
+# ══ include: tiancity ══
+.tiancity.com
+.tiancitycdn.com
+# ══ end include: tiancity ══
+# ══ include: vrzwk ══
+# vr中文库
+.vrzwk.cn
+# quest助手文件下载
+.vrzwk.com
+.vrzwk.net
+.vrzwk.top
+# ══ end include: vrzwk ══
+# ══ include: xd ══
+# ══ include: taptap ══
+.tapapks.com
+.tapimg.com
+.tapimg.net
+.taptap.cn
+.taptap.com
+# domain:taptap.io
+.taptap.io
+.taptapdada.com
+# ══ end include: taptap ══
+.ro.com
+.xd.cn
+.xd.com
+.xdcdn.net
+.xindong.com
+# ══ end include: xd ══
+# ══ include: yokaverse ══
+# 游卡
+.dobest.com
+.langrenclub.com
+.sanguosha.com
+.xhlsgs.com
+.xinwuji.com
+.yokaverse.com
+.zhuoyou.com
+# ══ end include: yokaverse ══
+# 北京奇客创想科技有限公司
+.7k7k.com
+# 刀锋盒子 皖B2-20190103-4
+.9xgame.com
+# 韵律谱面研究站 桂ICP备20001846号-3
+.arcaea.cn
+# 《异象回声》游戏官网 沪ICP备2023010411号-1
+.astral-vector.com
+# 终末地-协议终端
+end-api.shallow.ink
+end.shallow.ink
+# 飞火游戏
+.feihuo.com
+# 九九互动 粤ICP备19068416号
+.forevernine.com
+# 互动游戏对战平台 粤ICP备18006390号-1
+.fxt365.com
+# 边锋游戏 浙B2-20090273-1
+.gameabc.com
+# 游戏魅 合肥启云软件 皖B2-20160087-3
+.gamemei.com
+# Enhance Gaming
+.heavenlywind.cc
+# 乐都网 浙ICP备2024091002号-2
+.ledu.com
+# 龙图游戏 京ICP备11023195号
+.longtugame.com
+# 北京慕飞科技 京ICP备20006112号-2
+.morefreegame.com
+# Phira
+.phira.cn
+# 盛趣游戏 浙ICP备17039406号-1
+.sdo.com
+.shengqugames.com
+.zjshulong.com
+# 沪ICP备18041304号-1
+.tgpro.top
+.tgprocs.net
+# 途游
+.tuyoo.com
+# 完美世界
+.wanmei.com
+.wmsj.cn
+# Wine游戏助手 京ICP备18041936号
+.winegame.net
+# 畅玩空间 冀ICP备20019223号
+.wo1wan.com
+# 云蟾游戏 沪ICP备11009299号
+.ycgame.com
+# ══ end include: category-games-cn ══
+# ══ include: aamgame ══
+# 广州市艾美娱乐设备有限公司
+# 粤ICP备09210476号
+.aamgame.net
+.aamgame.com
+.aamgame.mobi
+.aamsmart.com
+# 舞推 (E舞成名)
+.singworld.net
+# ══ end include: aamgame ══
+# ══ include: acfun ══
+# Beijing Danmu Network Technology Co., Ltd.
+.ac.fun
+.acfun.cn
+.acfun.net
+.acfunchina.cn
+.acfunchina.com
+.acfunchina.net
+.aixifan.com
+# Ads/tracking
+# full:apilog-web.acfun.cn
+apilog-web.acfun.cn
+# ══ end include: acfun ══
+# ══ include: acplay ══
+.acplay.net
+.dandanplay.com
+# ══ end include: acplay ══
+# ══ include: bilibili ══
+# ══ include: bilibili-cdn ══
+.bilicdn1.com
+.bilicdn2.com
+.bilicdn3.com
+.bilicdn4.com
+.bilicdn5.com
+.biliimg.com
+.bilivideo.cn
+.bilivideo.com
+.bilivideo.net
+.hdslb.com
+.hdslb.org
+.maoercdn.com
+.mincdn.com
+# full:upos-hz-mirrorakam.akamaized.net
+upos-hz-mirrorakam.akamaized.net
+# ══ end include: bilibili-cdn ══
+# ══ include: bilibili-game ══
+# ══ end include: bilibili-game ══
+# 哔哩哔哩漫画
+.bilicomic.com
+.bilicomics.com
+# 猫耳FM
+.maoer.com
+.missevan.com
+.acg.tv
+.acgvideo.com
+.animetamashi.cn
+.animetamashi.com
+.anitama.cn
+.anitama.net
+.b23.tv
+.bigfun.cn
+.bigfunapp.cn
+.bili22.cn
+.bili2233.cn
+.bili23.cn
+.bili33.cn
+.biliapi.com
+.biliapi.net
+.bilibili.cc
+.bilibili.cn
+.bilibili.com
+.bilibili.net
+# domain:bilibili.tv
+.bilibili.tv
+.bilibilipay.cn
+.bilibilipay.com
+.biligo.com
+# domain:biliintl.com
+.biliintl.com
+# domain:dreamcast.hk
+.dreamcast.hk
+.huasheng.cn
+.im9.com
+.yo9.com
+# ══ end include: bilibili ══
+# ══ include: ciweimao ══
+.ciweimao.com
+.hbooker.com
+.kuangxiangit.com
+# ══ end include: ciweimao ══
+# ══ include: dedao ══
+# 得到
+.biji.com
+.ddmogo.com
+.igetget.cn
+.igetget.com
+.luojilab.com
+.mogoo.com
+.sao.cn
+.saolife.com
+# ══ end include: dedao ══
+# ══ include: douyin ══
+# 北京抖音科技有限公司 京ICP备16016397号
+# 抖音、抖音火山版、汽水音乐
+.activity-wbsj.com
+.aihst8.com
+.amemv.cn
+.amemv.com
+.amemv.net
+.awemeughun.com
+.awemeuglang.com
+.awemeugsoul.com
+.awemeugwave.com
+.betastar.cn
+.boxdouyin.com
+.cookicut.com
+.douyin.com
+.douyinact.com
+.douyinact.net
+.douyincdn.com
+.douyinfe.com
+.douyinliving.com
+.douyinpic.com
+.douyinstatic.com
+.douyinvod.com
+.duoshan.com
+.huoshan.com
+.huoshancdn.com
+.huoshangroup.com
+.huoshanimg.com
+.huoshanlive.com
+.huoshanparty.com
+.huoshanstatic.com
+.huoshante8.com
+.huoshanvideo.cn
+.huoshanvideo.net
+.huoshanvod.com
+.huoshanxiaoshipin.cn
+.huoshanxiaoshipin.net
+.huoshanzhibo.cn
+.huoshanzhibo.com
+.huoshanzhibo.net
+.idouyinliving.com
+.idouyinpic.com
+.idouyinstatic.com
+.idouyinvod.com
+.iesdouyin.com
+.iesdouyin.net
+.ieshuodong.cn
+.ieshuodong.net
+.ihst8.com
+.ihuoshanimg.com
+.ihuoshanlive.com
+.ihuoshanstatic.com
+.ihuoshanvod.com
+.kesong.co
+.kolbuyer.cn
+.nextvid.net
+.ppkankan01.com
+.qishui.cn
+.qishui.com
+.qishui.com.cn
+.qishuimusic.cn
+.qishuimusic.com.cn
+.supercachenet.com
+.supercachenode.com
+.ultracachenode.com
+.woaihuoshan.com
+.wohst8.com
+# 抖音支付
+.douyinpay.com
+# ══ end include: douyin ══
+# ══ include: douyu ══
+.douyu.com
+.douyu.tv
+.douyucdn.cn
+.douyucdn2.cn
+.douyuscdn.com
+.douyutv.com
+.edgesrv.com
+# ══ end include: douyu ══
+# ══ include: duitang ══
+.dtstatic.com
+.duitang.com
+# ══ end include: duitang ══
+# ══ include: fengxing ══
+.fspcdn.com
+.fun.tv
+.funshion.com
+.funshion.net
+.ibidian.com
+.jvcsmart.cn
+.jvcsmart.com.cn
+# ══ end include: fengxing ══
+# ══ include: fqnovel ══
+.activity-zhendingtech.com
+.changdunovel.com
+.fanqiecopyright.com
+.fanqienovel.com
+.fanqieopen.com
+.fanqieopenpic.com
+.fanqieopenstatic.com
+.fanqieopenvod.com
+.fanqiesdk.com
+.fanqiesdkpic.com
+.fanqiesdkstatic.com
+.fanqiesdkvod.com
+.fqnovel-op.com
+.fqnovel.com
+.fqnovelim.com
+.fqnovelop.com
+.fqnovelpic.com
+.fqnovelstatic.com
+.fqnovelvod.com
+.fqopenplatform.com
+.ihaohaoxuexi.com
+.muyewx.com
+.novelfm.com
+.novelfmpic.com
+.novelfmstatic.com
+.novelfmvod.com
+.qznovel.com
+.qznovelpic.com
+.qznovelstatic.com
+.qznovelvod.com
+p3-novel.byteimg.com
+p6-novel.byteimg.com
+# Ads/tracking
+# full:ads3-normal-hl.zijieapi.com
+ads3-normal-hl.zijieapi.com
+# full:ads3-normal.zijieapi.com
+ads3-normal.zijieapi.com
+# full:ads5-normal-hl.zijieapi.com
+ads5-normal-hl.zijieapi.com
+# full:ads5-normal.zijieapi.com
+ads5-normal.zijieapi.com
+# full:log3-applog-hl.fqnovel.com
+log3-applog-hl.fqnovel.com
+# full:log3-applog.fqnovel.com
+log3-applog.fqnovel.com
+# full:log5-applog-hl.fqnovel.com
+log5-applog-hl.fqnovel.com
+# full:log5-applog.fqnovel.com
+log5-applog.fqnovel.com
+# full:p3-ad-sign.byteimg.com
+p3-ad-sign.byteimg.com
+# full:p6-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+# full:p9-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+# full:rtlog3-applog-hl.fqnovel.com
+rtlog3-applog-hl.fqnovel.com
+# full:rtlog3-applog.fqnovel.com
+rtlog3-applog.fqnovel.com
+# full:rtlog5-applog-hl.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+# full:rtlog5-applog.fqnovel.com
+rtlog5-applog.fqnovel.com
+# ══ end include: fqnovel ══
+# ══ include: gamersky ══
+.gamersky.com
+# domain:click.gamersky.com
+.click.gamersky.com
+# domain:ja.gamersky.com
+.ja.gamersky.com
+# domain:ja1.gamersky.com
+.ja1.gamersky.com
+# domain:ja2.gamersky.com
+.ja2.gamersky.com
+# domain:wmbd.gamersky.com
+.wmbd.gamersky.com
+# ══ end include: gamersky ══
+# ══ include: huya ══
+.huya.com
+.msstatic.com
+# ══ end include: huya ══
+# ══ include: iqiyi ══
+.71.am
+# domain:iq.com
+.iq.com
+.iqiyi.com
+.iqiyipic.com
+.pps.tv
+.ppsimg.com
+.qiyi.com
+.qiyipic.com
+.qy.net
+# CDN used by iqiyi
+.71edge.com
+# Ads/tracking
+# domain:ad.m.iqiyi.com
+.ad.m.iqiyi.com
+# domain:afp.iqiyi.com
+.afp.iqiyi.com
+# domain:c.uaa.iqiyi.com
+.c.uaa.iqiyi.com
+# domain:cloudpush.iqiyi.com
+.cloudpush.iqiyi.com
+# domain:cupid.iqiyi.com
+.cupid.iqiyi.com
+# domain:ifacelog.iqiyi.com
+.ifacelog.iqiyi.com
+# domain:mbdlog.iqiyi.com
+.mbdlog.iqiyi.com
+# domain:msg.video.qiyi.com
+.msg.video.qiyi.com
+# domain:msg2.video.qiyi.com
+.msg2.video.qiyi.com
+# domain:policy.video.iqiyi.com
+.policy.video.iqiyi.com
+# ══ end include: iqiyi ══
+# ══ include: ku6 ══
+.ku6.com
+.ku6cdn.com
+.ku6img.com
+# ══ end include: ku6 ══
+# ══ include: kuaikan ══
+.kkmh.com
+.kuaikanmanhua.com
+# ══ end include: kuaikan ══
+# ══ include: kuaishou ══
+.ecukwai.com
+.gifshow.com
+.inkuai.com
+.inkwai.com
+.ksapisrv.com
+.kskwai.com
+.kspkg.com
+.kuaishou.cn
+.kuaishou.com
+.kuaishouapps.com
+.kuaishoupay.com
+.kuaishouzt.com
+.kwaicdn.com
+.kwaizt.com
+.kwimgs.com
+.qingque.cn
+.viviv.com
+.wsukwai.com
+.yximgs.com
+# Ads/tracking
+# domain:adbkwai.com
+.adbkwai.com
+# domain:adkwai.com
+.adkwai.com
+# domain:adukwai.com
+.adukwai.com
+# domain:e.kuaishou.cn
+.e.kuaishou.cn
+# domain:e.kuaishou.com
+.e.kuaishou.com
+# full:log-sdk.gifshow.com
+log-sdk.gifshow.com
+# full:wlog.kuaishou.com
+wlog.kuaishou.com
+# ══ end include: kuaishou ══
+# ══ include: le ══
+.le.com
+.leautolink.com
+.lecloud.com
+.lecloudapi.com
+.lemall.com
+.leso.cn
+.letv.com
+.letvcdn.com
+.letvimg.com
+# Ads/tracking
+# domain:apple.www.letv.com
+.apple.www.letv.com
+# domain:ark.letv.com
+.ark.letv.com
+# domain:dc.letv.com
+.dc.letv.com
+# domain:g3.letv.com
+.g3.letv.com
+# ══ end include: le ══
+# ══ include: lizhi ══
+.lizhi.fm
+.lizhifm.com
+# ══ end include: lizhi ══
+# ══ include: pptv ══
+.pplive.cn
+.pplive.com
+.pptv.com
+# ══ end include: pptv ══
+# ══ include: qimao ══
+.jiuyue919.com
+.qimao.com
+.qm989.com
+.qmniu.com
+.quehu.com
+.wtzw.com
+# ══ end include: qimao ══
+# ══ include: qingtingfm ══
+.qingting.fm
+.qtfm.cn
+# ══ end include: qingtingfm ══
+# ══ include: sakurafrp ══
+# Sakura Frp 由 南京帕斯琪信息科技有限公司 运营
+# 苏ICP备2020068177号
+.13a.com
+.natfrp.com
+# VIP节点(内地)
+.frp-air.com
+.frp-all.com
+.frp-arm.com
+.frp-bag.com
+.frp-bid.com
+.frp-dog.com
+.frp-egg.com
+.frp-era.com
+.frp-fan.com
+.frp-fee.com
+.frp-fog.com
+.frp-fox.com
+.frp-gas.com
+.frp-gym.com
+.frp-hat.com
+.frp-hen.com
+.frp-hip.com
+.frp-hub.com
+.frp-ice.com
+.frp-jar.com
+.frp-key.com
+.frp-kit.com
+.frp-lab.com
+.frp-leg.com
+.frp-mad.com
+.frp-mix.com
+.frp-mom.com
+.frp-nut.com
+.frp-one.com
+.frp-own.com
+.frp-pen.com
+.frp-rug.com
+.frp-run.com
+.frp-say.com
+.frp-shy.com
+.frp-sun.com
+.frp-tag.com
+# 普通节点(内地)
+.frp-act.com
+.frp-any.com
+.frp-bar.com
+.frp-box.com
+.frp-boy.com
+.frp-bus.com
+.frp-dad.com
+.frp-end.com
+.frp-fun.com
+.frp-gap.com
+.frp-net.com
+.frp-now.com
+.frp-off.com
+.frp-oil.com
+.frp-put.com
+.frp-rib.com
+.frp-sea.com
+.frp-six.com
+.frp-ski.com
+# ══ end include: sakurafrp ══
+# ══ include: shuqi ══
+# 书旗/阿里文学
+.11222.cn
+.aliwx.com.cn
+.aliwx.net
+.ishuqi.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
+.sqreader.com
+# ══ end include: shuqi ══
+# ══ include: taomee ══
+.61.com
+.taomee.com
+# ══ end include: taomee ══
+# ══ include: tencent-tme ══
+# 腾讯音乐娱乐集团/TME
+# ══ include: kugou ══
+.fanxingliveshow.com
+.kgimg.com
+.kglink.cn
+.ktv.com
+.kugoo.com
+.kugou.com
+.kugou.net
+.kugouaudio.com
+.kugouipv6.com
+.kugoukid.com
+.kugouliveshow.com
+.kugouringtone.com
+.kugousenior.com
+.kugoustore.com
+.kugouvoice.com
+.kugouyouth.com
+# Ads/tracking
+# domain:ads.service.kugou.com
+.ads.service.kugou.com
+# domain:adserviceretry.kglink.cn
+.adserviceretry.kglink.cn
+# domain:adserviceretry.kugou.com
+.adserviceretry.kugou.com
+# ══ end include: kugou ══
+# ══ include: kuwo ══
+.koowo.cn
+.koowo.com
+.kuwo.cn
+# ══ end include: kuwo ══
+# ══ include: ximalaya ══
+.ximalaya.com
+.xmcdn.com
+# Ads/tracking
+# domain:adbehavior.ximalaya.com
+.adbehavior.ximalaya.com
+# domain:adse.wsa.ximalaya.com
+.adse.wsa.ximalaya.com
+# domain:adse.ximalaya.com
+.adse.ximalaya.com
+# ══ end include: ximalaya ══
+.lrts.me
+.qqmusic.com
+.tencentmusic.com
+.kg.qq.com
+.music.qq.com
+.y.qq.com
+# 爱听卓乐
+.97ting.com
+.tingmall.com
+.ultimatemusic.cn
+# Ads/tracking
+# domain:ad.tencentmusic.com
+.ad.tencentmusic.com
+# domain:adstats.tencentmusic.com
+.adstats.tencentmusic.com
+# domain:monitor.music.qq.com
+.monitor.music.qq.com
+# domain:report.tencentmusic.com
+.report.tencentmusic.com
+# domain:stat.y.qq.com
+.stat.y.qq.com
+# domain:tmead.y.qq.com
+.tmead.y.qq.com
+# domain:tmeadcomm.y.qq.com
+.tmeadcomm.y.qq.com
+# ══ end include: tencent-tme ══
+# ══ include: u17 ══
+.u17.com
+.u17i.com
+.u17t.com
+# ══ end include: u17 ══
+# ══ include: xiaoheihe ══
+# 清枫（北京）科技有限公司
+# 京ICP备15018522号
+.1xhh.cn
+.accxiaoheihe.com
+.chat.top
+.debugmode.cn
+.max-c.com
+.maxadmin.cn
+.maxjia.com
+.xiaoheihe.cn
+# ══ end include: xiaoheihe ══
+# ══ include: xiaoyuzhou ══
+# 小宇宙 上海追光瞬间网络科技
+.xyzfm.space
+.xyzfm.link
+.xyzcdn.net
+.xiaoyuzhoufm.com
+.podcast.xyz
+# ══ end include: xiaoyuzhou ══
+# ══ include: youku ══
+# youku uses some alicdn services, so this must use with domain list "alibaba"
+.9xsecndns.cn
+.kumiao.com
+.mmstat.com
+.soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+# domain:youku.tv
+.youku.tv
+.youkuhonor.com
+# domain:youkuplay.com
+.youkuplay.com
+# Ads/tracking
+# domain:ad.api.3g.youku.com
+.ad.api.3g.youku.com
+# domain:ad.api.mobile.youku.com
+.ad.api.mobile.youku.com
+# domain:ad.mobile.youku.com
+.ad.mobile.youku.com
+# domain:adashx.ut.youku.com
+.adashx.ut.youku.com
+# domain:atm.youku.com
+.atm.youku.com
+# domain:e.stat.ykimg.com
+.e.stat.ykimg.com
+# domain:ems.youku.com
+.ems.youku.com
+# domain:guanggaoad.youku.com
+.guanggaoad.youku.com
+# domain:h-adashx.ut.youku.com
+.h-adashx.ut.youku.com
+# domain:lstat.youku.com
+.lstat.youku.com
+# domain:mobilemsg.youku.com
+.mobilemsg.youku.com
+# domain:msg.youku.com
+.msg.youku.com
+# domain:p-log.ykimg.com
+.p-log.ykimg.com
+# domain:passport-log.youku.com
+.passport-log.youku.com
+# domain:pl.youku.com
+.pl.youku.com
+# domain:s-adashx.ut.youku.com
+.s-adashx.ut.youku.com
+# domain:stat.youku.com
+.stat.youku.com
+# domain:statis.api.3g.youku.com
+.statis.api.3g.youku.com
+# domain:v6-adashx.ut.youku.com
+.v6-adashx.ut.youku.com
+# domain:yk-ssp.ad.youku.com
+.yk-ssp.ad.youku.com
+# domain:ykad-data.youku.com
+.ykad-data.youku.com
+# ══ end include: youku ══
+# ══ include: yuewen ══
+# ══ include: webnovel ══
+# domain:webnovel.com
+.webnovel.com
+# ══ end include: webnovel ══
+.hongxiu.com
+.qdmm.com
+.qidian.com
+.readnovel.com
+.rongshuxia.com
+.tingbook.com
+.wting.info
+.xs.cn
+.xs8.cn
+.xxsy.net
+.yuewen.com
+# ══ end include: yuewen ══
+# ══ include: yy ══
+# ══ include: duowan ══
+.duowan.com
+.dwstatic.com
+# ══ end include: duowan ══
+.yy.com
+.yystatic.com
+# ══ end include: yy ══
+# Android Emulator
+.ldmnq.com
+.lsplayer.com
+.yeshen.com
+# 互联网电视
+## 广东南方新媒体/SMC
+.aisee.tv
+.atianqi.com
+## 百视通
+# ══ include: bestv ══
+# 百视通
+.bbtv.cn
+.bestv.com.cn
+.bestvcdn.cn
+.bestvcdn.com
+.bestvcdn.com.cn
+.bestvcdn.net
+.smgbb.cn
+# ══ end include: bestv ══
+## 国广东方/CIBN
+.cibn.cc
+.cibntv.net
+## 银河电视
+# ══ include: gitv ══
+.gitv.cn
+.gitv.tv
+# ══ end include: gitv ══
+## 芒果TV‌
+# ══ include: hunantv ══
+# 湖南广电（芒果TV）
+.hifuntv.com
+.hitv.com
+.hnbntv.com
+.hunaniptv.com
+.hunantv.com
+.imgo.tv
+.mgtv.com
+# Ads/tracking
+# domain:click.hunantv.com
+.click.hunantv.com
+# domain:da.hunantv.com
+.da.hunantv.com
+# domain:da.mgtv.com
+.da.mgtv.com
+# domain:log.hunantv.com
+.log.hunantv.com
+# domain:log.v2.hunantv.com
+.log.v2.hunantv.com
+# domain:res.hunantv.com
+.res.hunantv.com
+# ══ end include: hunantv ══
+## 华数TV
+# ══ include: wasu ══
+# 华数传媒
+.aichongzoo.cn
+.hzdtv.tv
+.hzman.net
+.wasu.cn
+.wasu.tv
+.wasumedia.cn
+# ══ end include: wasu ══
+# 172Mix 舞曲音乐
+.172mix.com
+# 17K小说
+.17k.com
+# https://github.com/supzhang/epg
+.51zmt.top
+# 动画巡礼
+.anitabi.cn
+# 暴风影音
+.baofeng.com
+.baofeng.net
+# 暴走漫画
+.baozou.com
+.baozoumanhua.com
+# 街机地图
+.bemanicn.com
+# 布咕阅读
+.bgwxc.com
+# B站空降助手
+.bsbsb.top
+# 共创世界
+.ccw.site
+# CdkeyNoGap
+.cdkeynogap.com
+# 酷音铃声
+.diyring.cc
+.kuyin123.com
+.kuyinxiu.com
+.kuyinyun.com
+# 动漫之家 #703
+.dmzj.com
+.muwai.com
+# 懂球帝
+.dongdianqiu.com
+.dongqiudi.com
+# 飞卢小说
+.faloo.com
+# 三国杀打小抄官网
+.goka.top
+# 海读文学
+.haidubooks.com
+# 黑岩小说
+.heiyan.com
+.heiyanimg.com
+# 红薯中文网
+.hongshu.com
+# 火星小说
+.hotread.com
+# 花椒直播
+.huajiao.com
+# 映客直播
+.inke.cn
+.ikstatic.cn
+# 晋江文学城
+.jjwxc.net
+# 咔叽相机
+.kajicam.com
+# 酷匠网
+.kjcdn.com
+.kujiang.com
+# 1905电影网
+.1905.com
+.m1905.cn
+.m1905.com
+# 喵御宅
+.mfuns.cn
+.mfuns.net
+# 秒拍
+.miaopai.com
+# 磨铁文学
+.motie.com
+.motieimg.com
+# Mtime时光网
+.mtime.cn
+.mtime.com
+# 梨视频
+.pearvideo.com
+# 皮皮网
+.pipi.cn
+# SF轻小说二次元
+.sfacg.com
+# 书海小说
+.shuhai.com
+# 塔读小说
+.tadu.com
+# 江山文学
+.vsread.com
+# 树梦
+.xinlishumeng.com
+# 祥云游社
+.xyys.com
+# 百合会
+.yamibo.com
+# 易有料
+.yiyouliao.com
+# 游迅网
+.yxdown.com
+# 战旗直播
+.zhanqi.tv
+# 逐浪小说
+.zhulang.com
+# 纵横小说
+.zongheng.com
+# 娱乐资讯媒体
+# 该部分参考了中文维基百科的「来源考量」：
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
+# ══ include: tgbus ══
+.tgbus.com
+# ══ end include: tgbus ══
+# ══ include: vgtime ══
+.vgtime.com
+# ══ end include: vgtime ══
+## 17173网
+.17173.com
+## 18183网
+.18183.com
+## 3DM游戏网
+.3dmgame.com
+## 游侠网
+.ali213.net
+## 竞核
+.cgames.com
+## 触乐
+.chuapp.com
+## DataEye
+.dataeye.com
+## GameDiary
+.gamediary.cn
+## GameLook
+.gamelook.com.cn
+## GameRes游资网
+.gameres.com
+## 游戏价值论
+.gamewower.com
+## 机核
+.gcores.com
+## IGN中国
+.ign.com.cn
+## 手游那点事
+.nadianshi.com
+## 游戏日报
+.news.yxrb.net
+## 手谈姬
+.shoutanjjj.com
+## 游戏机实用技术
+.ucg.cn
+## 游戏茶馆
+.youxichaguan.com
+## 游戏葡萄
+.youxiputao.com
+## 游戏陀螺
+.youxituoluo.com
+## 游研社
+.yystv.cn

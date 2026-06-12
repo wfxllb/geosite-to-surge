@@ -1,0 +1,14 @@
+# GeoSite: niconico
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .nico domains
+.nicodic.jp
+.nicomanga.jp
+.niconico.com
+.nicoseiga.jp
+.nicovideo.jp
+.nimg.jp
+.simg.jp

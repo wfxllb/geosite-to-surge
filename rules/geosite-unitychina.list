@@ -1,0 +1,21 @@
+# GeoSite: unitychina
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 优三缔 / 优美缔 / 团结引擎
+.u3d.cn
+.unity.cn
+.unitychina.cn
+# Ads/tracking
+# domain:ads.unitychina.cn
+.ads.unitychina.cn
+# domain:splash-ads.cdn.unity.cn
+.splash-ads.cdn.unity.cn
+# domain:splash-ads.unitychina.cn
+.splash-ads.unitychina.cn
+# domain:unityads.unity.cn
+.unityads.unity.cn
+# domain:unityads.unitychina.cn
+.unityads.unitychina.cn

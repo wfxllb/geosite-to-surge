@@ -1,0 +1,12 @@
+# GeoSite: nikke
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.nikke-de.com
+.nikke-en.com
+.nikke-fr.com
+.nikke-jp.com
+.nikke-kr.com
+.nikke-sea.com

@@ -1,0 +1,32 @@
+# GeoSite: msn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.microsoftnews.cc
+# domain:microsoftnews.cn
+.microsoftnews.cn
+.microsoftnews.com
+.microsoftnews.net
+.microsoftnews.org
+.microsoftnewsforkids.com
+.microsoftnewsforkids.net
+.microsoftnewsforkids.org
+.microsoftnewskids.com
+.microsoftnewskids.net
+.microsoftnewskids.org
+# domain:msn.cn
+.msn.cn
+.msn.com
+.msnewskids.com
+.msnewskids.net
+.msnewskids.org
+.msnkids.com
+.microsoftstart.com
+.start.com
+# Ads/tracking
+# domain:browser.events.data.msn.cn
+.browser.events.data.msn.cn
+# domain:browser.events.data.msn.com
+.browser.events.data.msn.com

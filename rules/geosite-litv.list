@@ -1,0 +1,18 @@
+# GeoSite: litv
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# TGC Taiwan Inc.
+.litv.tv
+.litvfreepc.akamaized.net
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
+.ofiii.com
+ntdofifreemobile-tgc.cdn.hinet.net
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net

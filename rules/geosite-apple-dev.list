@@ -1,0 +1,62 @@
+# GeoSite: apple-dev
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: swift ══
+.appleswift.com
+.swift.org
+# domain:swiftui.cn
+.swiftui.cn
+# domain:swiftui.com.cn
+.swiftui.com.cn
+# ══ end include: swift ══
+# Calendar and Contact Server
+.calendarserver.org
+# CloudKit
+.apple-cloudkit.com
+# CUPS
+.cups.org
+# Developer
+.developer.apple.com
+.devimages-cdn.apple.com
+.devstreaming-cdn.apple.com
+.developerservices2.apple.com
+.timestamp.apple.com
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
+# FoundationDB
+.foundationdb.org
+# macOS forge
+.macosforge.org
+# MacRuby
+.macruby.com
+.macruby.net
+.macruby.org
+# MapKit
+.apple-mapkit.com
+# Playgrounds
+.playgrounds-cdn.apple.com
+# Research & Care
+.carekit.org
+.researchandcare.org
+# domain:researchkit.cn
+.researchkit.cn
+# domain:researchkit.com.cn
+.researchkit.com.cn
+.researchkit.hk
+.researchkit.net
+.researchkit.org
+.researchkit.tv
+# ServiceTalk
+.servicetalk.io
+# WebKit
+.webkit.org
+.webkitgtk.org
+.wpewebkit.org
+# Other
+.webobjects.com
+appleworldwidedeveloper.hb-api.omtrdc.net
+appleworldwidedeveloper.sc.omtrdc.net
+p-events-delivery.akamaized.net

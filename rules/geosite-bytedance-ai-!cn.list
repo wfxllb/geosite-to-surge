@@ -1,0 +1,25 @@
+# GeoSite: bytedance-ai-!cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: dola ══
+# Dola, formly ciciai, an AI service of bytedance
+# domain:cici.com
+.cici.com
+# domain:ciciai.com
+.ciciai.com
+# domain:ciciaicdn.com
+.ciciaicdn.com
+# domain:dola.com
+.dola.com
+# ══ end include: dola ══
+# related to doubao
+# domain:coze.com
+.coze.com
+# related to trae
+# domain:marscode.com
+.marscode.com
+# domain:trae.ai
+.trae.ai

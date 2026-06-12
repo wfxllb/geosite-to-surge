@@ -1,0 +1,61 @@
+# GeoSite: kingsoft
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: cheetahmobile ══
+.cmcm.com
+.cmcmcdn.com
+.liebao.cn
+# Antivirus
+.duba.com
+.duba.net
+.ijinshan.com
+# ══ end include: cheetahmobile ══
+# ══ include: seasun ══
+.seasungames.com
+.xishanju.com
+.xoyo.com
+.xoyocdn.com
+# 尘白禁区
+.cbjq.com
+# Testplus
+.testplus.cn
+# ══ end include: seasun ══
+# ══ include: wps ══
+.wps.cn
+.wps.com
+.wpscdn.cn
+.wpscdn.com
+.qwps.cn
+# Big Data Platform
+.kscord.com
+# Dazitong
+.51dzt.com
+# Dictionary
+.iciba.com
+# Docer
+.docer.com
+# Documents
+.kdocs.cn
+# Mail
+.wpsmail.net
+# PAPocket
+.papocket.com
+# PDF
+.wpspdf.cn
+# ══ end include: wps ══
+.kimg.cn
+.kingsoft-office-service.com
+.kingsoft.com
+.ks-live.com
+.ksmobile.com
+.ksosoft.com
+# Kingsoft Cloud
+.kcdnvip.com
+.ks-cdn.com
+.ks-cdn1.com
+.ksyun.com
+.ksyuncdn.com
+.ksyungslb.com

@@ -1,0 +1,41 @@
+# GeoSite: strepsils
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.cepacol.ca
+.cepacol.com
+.dobendan.de
+.graneodin.com.mx
+.repsils.no
+.strepsils.at
+.strepsils.ch
+# domain:strepsils.cn
+.strepsils.cn
+.strepsils.co.kr
+.strepsils.co.nz
+.strepsils.co.za
+.strepsils.com.ar
+.strepsils.com.br
+# domain:strepsils.com.cn
+.strepsils.com.cn
+.strepsils.com.co
+.strepsils.com.au
+.strepsils.com.hk
+.strepsils.com.ph
+.strepsils.com.tw
+.strepsils.es
+.strepsils.fi
+.strepsils.fr
+.strepsils.hr
+.strepsils.hu
+.strepsils.ie
+.strepsils.net
+.strepsils.pl
+.strepsils.pt
+.strepsils.ro
+.strepsils.ru
+.strepsils.si
+.strepsils.us
+.strepsilsarabia.com

@@ -1,0 +1,12 @@
+# GeoSite: disqus
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Disqus, Inc.
+# Disqus offers the best add-on tools for websites to increase engagement.
+.disq.us
+.disqus.com
+.disquscdn.com
+.disqusservice.com

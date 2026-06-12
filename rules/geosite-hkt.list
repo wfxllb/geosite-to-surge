@@ -1,0 +1,18 @@
+# GeoSite: hkt
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.1010.com.hk
+.esmarthealth.com
+.hkcsl.com
+.hkt-enterprise.com
+.hkt-eye.com
+.hkt.com
+.hkteducation.com
+.hktpremier.com
+.hktshop.com
+.netvigator.com
+.theclub.com.hk
+.uhub.com

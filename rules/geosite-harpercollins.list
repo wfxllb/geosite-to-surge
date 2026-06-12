@@ -1,0 +1,26 @@
+# GeoSite: harpercollins
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bookclubgirl.com
+.collins.co.uk
+.collins.in
+.egmontbooks.co.uk
+.epicreads.com
+.harperacademic.com
+.harperapps.com
+.harpercollins.ca
+.harpercollins.co.in
+.harpercollins.co.uk
+.harpercollins.com
+.harpercollins.com.au
+.harpercollinsadvantage.com
+.harpercollinschildrensbooks.co.uk
+.harpercollinschristian.com
+.harpercollinsspeakersbureau.com
+.hcpdts.com
+.librarylovefest.com
+.natgeokidsbooks.co.uk
+.shelfstuff.com

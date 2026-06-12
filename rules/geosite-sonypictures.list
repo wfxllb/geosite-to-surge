@@ -1,0 +1,20 @@
+# GeoSite: sonypictures
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.imageworks.com
+.motionpictureser.com
+.playshow.io
+.playshowtv.com
+.sonyclassics.com
+.sonypictures.com
+.sonypicturesanimation.com
+.sonypicturesmuseum.com
+.sonypicturesstudios.com
+.sonypicturestelevision.com
+.sonypicturestelevisiongames.com
+.wheelpop.com
+.wwtbam.com
+.yourfantasybeginsnow.com

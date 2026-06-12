@@ -1,0 +1,55 @@
+# GeoSite: sogou
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.binglianhuajianzhan.com
+.ggoplay.com
+.ggowan.com
+.go2map.com
+.pinyin.cn
+.qd.ink
+.sg.cn
+.sgtmos.com
+.sgyeyou.com
+.sgyouxi.com
+.sogo.com
+.sogou.cn
+.sogou.com
+.sogou.com.cn
+.sogou.net
+.sogoucdn.com
+.sogoucdndl.com
+.sogouimecdn.com
+.sogou-inc.com
+.sogou-op.org
+.soso.com
+.soso.com.cn
+.sososnap.com
+.teemo.cn
+.wannianqingjianzhan.com
+.xiangrikuijianzhan.com
+.xiangrikuisite.com
+.xinyan.cn
+.yeyousg.com
+.yidianliulan.cn
+.yidianliulan.com
+.yuweikuijianzhan.com
+# Ads/tracking
+# domain:inte.sogou.com
+.inte.sogou.com
+# domain:inte.sogoucdn.com
+.inte.sogoucdn.com
+# domain:lu.sogou.com
+.lu.sogou.com
+# domain:lu.sogoucdn.com
+.lu.sogoucdn.com
+# domain:pb.i.sogou.com
+.pb.i.sogou.com
+# domain:theta.sogoucdn.com
+.theta.sogoucdn.com
+# domain:uranus.sogou.com
+.uranus.sogou.com
+# domain:wuliao.epro.sogou.com
+.wuliao.epro.sogou.com

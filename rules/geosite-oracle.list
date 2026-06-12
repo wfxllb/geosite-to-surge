@@ -1,0 +1,29 @@
+# GeoSite: oracle
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# All .oracle domains
+# ══ include: addthis ══
+.addthis.com
+.addthiscdn.com
+.addthisedge.com
+# ══ end include: addthis ══
+# ══ include: java ══
+# All .java domains
+.java.com
+.java.net
+# ══ end include: java ══
+.ateam-oracle.com
+.bronto.com
+.covid19-rx.org
+.covid19rx.org
+.custhelp.com
+.oracle.com
+.oraclecloud.com
+.oraclefoundation.org
+.oracleimg.com
+.oracleinfinity.io
+.sun.com
+.virtualbox.org

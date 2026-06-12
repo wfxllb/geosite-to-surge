@@ -1,0 +1,15 @@
+# GeoSite: uc
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.uc.cn
+.uc123.com
+.ucweb.com
+.uczzd.cn
+# Ads/tracking
+# domain:ads.uc.cn
+.ads.uc.cn
+# domain:adslot.uc.cn
+.adslot.uc.cn

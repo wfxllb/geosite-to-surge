@@ -1,0 +1,28 @@
+# GeoSite: envybox
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bananacall.ru
+.beesbfl.ru
+.beescrm.ru
+.bimsaas.ru
+.callbackkiller.com
+.cbkiller.com
+.envybox.company
+.envybox.family
+.envybox.io
+.envybox.kg
+.envybox.su
+.envycdp.com
+.envycdp.ru
+.envycrm.com
+.envyday.ru
+.killercb.ru
+.myenvy.ru
+.quizlink.ru
+.saas-support.com
+.whitesaas.com
+# IDN ccTLD
+.xn--90absjljw3g.xn--p1ai

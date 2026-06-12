@@ -1,0 +1,62 @@
+# GeoSite: qualcomm
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.airgonetworks.com
+.berkanawireless.com
+.cdmatech.com
+.dragoniscoming.com
+.gobianywhere.com
+# domain:gpsonextra.net
+.gpsonextra.net
+.hellosmartbook.com
+.imod.com
+.ipleadership.org
+.iskoot.com
+# domain:izatcloud.net
+.izatcloud.net
+.meetsmartbook.com
+.patenttruth.org
+.pixtronix.com
+# domain:qceventscenter.com.cn
+.qceventscenter.com.cn
+.qcomgeo2.com
+.qctconnect.com
+.qprize.com
+.qualcomm-email.com
+.qualcomm-inc.com
+# domain:qualcomm.cn
+.qualcomm.cn
+# domain:qualcomm.cn.cdn.cloudflare.net
+.qualcomm.cn.cdn.cloudflare.net
+.qualcomm.co.id
+.qualcomm.co.in
+.qualcomm.co.jp
+.qualcomm.co.kr
+.qualcomm.co.uk
+.qualcomm.com
+.qualcomm.com.br
+.qualcomm.com.tw
+.qualcomm.de
+.qualcomm.fr
+.qualcommhalo.com
+.qualcommlabs.com
+.qualcommmea.com
+.qualcommretail.com
+.qualcommventures.cn
+.qualcommventures.com
+.qualphone.com
+.quicinc.com
+.snapdragon.cn
+.snapdragonbooth.com
+.uplinq.com
+.wipower.com
+.wirelessreach.com
+# domain:xtracloud.cn
+.xtracloud.cn
+.xtracloud.net
+# brew
+.brewmp.com
+qualcomm.sc.omtrdc.net

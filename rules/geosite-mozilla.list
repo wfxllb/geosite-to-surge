@@ -1,0 +1,90 @@
+# GeoSite: mozilla
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
+# https://support.mozilla.org/fr/questions/1352614
+# ══ include: firefox ══
+.extendfirefox.com
+.firefox.com
+.firefox.hu
+.firefoxtweetmachine.com
+.firefoxusercontent.com
+mozilla-ohttp.fastly-edge.com
+# ══ end include: firefox ══
+# ══ include: mdn ══
+.developer.allizom.org
+.developer.mozilla.org
+.mdn.allizom.net
+.mdn.dev
+.mdn.mozilla.net
+.mdn.mozit.cloud
+.mdnplay.dev
+.mdnyalp.dev
+mdn.mozillademos.org
+# ══ end include: mdn ══
+.allizom.net
+.allizom.org
+.bugzilla.org
+.detodosparatodos.org
+.discovershiretoko.org
+.ecmascript.org
+.extensionworkshop.com
+.foxkeh.com
+.foxkeh.jp
+.getfirebug.com
+.getpersonas.com
+.getpocket.com
+.hackasaurus.org
+.interforest.org
+.itisatrap.org
+.learningfreedomandtheweb.org
+.lizardwrangler.com
+.mecha-mozilla.org
+.mozaws.net
+.mozgcp.net
+.mozilla-europe.org
+.mozilla-hispano.org
+.mozilla-mexico.org
+.mozilla.ai
+.mozilla.com
+.mozilla.community
+.mozilla.cz
+.mozilla.de
+.mozilla.jp
+.mozilla.lt
+.mozilla.net
+.mozilla.org
+.mozilla.org.uk
+.mozilla.pe
+.mozilla.pt
+.mozilla.ro
+.mozillabd.org
+.mozillademos.org
+.mozillafactory.org
+.mozillafoundation.org
+.mozillaignite.org
+.mozillalabs.com
+.mozillaquebec.org
+.mozillazine.jp
+.mozillians.org
+.mozit.cloud
+.mzl.la
+.onemozilla.org
+.opentimetable.jp
+.popcornjs.org
+.publicsuffix.org
+.seamonkey-project.org
+.thunderbird.net
+.webmademovies.org
+# Ads/tracking
+# full:ads-img.mozilla.org
+ads-img.mozilla.org
+# full:ads.mozilla.org
+ads.mozilla.org
+# full:incoming.telemetry.mozilla.org
+incoming.telemetry.mozilla.org
+# full:incoming-telemetry.thunderbird.net
+incoming-telemetry.thunderbird.net

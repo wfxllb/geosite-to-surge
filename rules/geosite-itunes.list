@@ -1,0 +1,63 @@
+# GeoSite: itunes
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.12diasdepresentesdeitunes.com
+.12diasderegalosdeitunes.cl
+.12diasderegalosdeitunes.co
+.12diasderegalosdeitunes.co.cr
+.12diasderegalosdeitunes.co.ni
+.12diasderegalosdeitunes.co.ve
+.12diasderegalosdeitunes.com
+.12diasderegalosdeitunes.com.co
+.12diasderegalosdeitunes.com.hn
+.12diasderegalosdeitunes.com.ni
+.12diasderegalosdeitunes.com.ve
+.12diasderegalosdeitunes.cr
+.12diasderegalosdeitunes.gt
+.12diasderegalosdeitunes.hn
+.12diasderegalosdeitunes.pe
+.12joursdecadeauxdeitunes.com
+# domain:apple-itunes.cn
+.apple-itunes.cn
+.itun.es
+.itunbes.com
+.ituneas.com
+# domain:itunes-apple.cn
+.itunes-apple.cn
+.itunes-apple.com.akadns.net
+.itunes-radio.net
+.itunes.ca
+.itunes.co
+.itunes.co.th
+.itunes.com
+.itunes.hk
+.itunes.mx
+.itunes.org
+.itunes.rio
+.itunes.us
+.itunes12days.com
+# domain:itunesapple.cn
+.itunesapple.cn
+.itunesessentials.com
+.itunesfestivals.com
+.itunesiradio.com
+.ituneslatino.com
+.ituneslogin.net
+.itunesmatch.com
+.itunesparty.com
+# domain:itunesradio.cn
+.itunesradio.cn
+.itunesradio.com
+# domain:itunesradio.com.cn
+.itunesradio.com.cn
+.itunesradio.rio
+.itunesradio.tv
+.itunesradio.tw
+.itunesstore.co
+.itunesu.com
+.itunesu.net
+.iutunes.com
+.wwwitunes.com

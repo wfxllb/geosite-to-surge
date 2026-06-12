@@ -1,0 +1,26 @@
+# GeoSite: line
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.gcld-line.com
+.lin.ee
+.line-apps-beta.com
+.line-apps-rc.com
+.line-apps.com
+.line-beta.me
+.line-cdn.net
+.line-scdn.net
+.line.biz
+.line.me
+.line.naver.jp
+.linecorp.com
+.linefriends.com
+.linefriends.com.tw
+.linegame.jp
+.linemobile.com
+.linemyshop.com
+.lineshoppingseller.com
+.linetv.tw
+.nhncorp.jp

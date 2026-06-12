@@ -1,0 +1,14 @@
+# GeoSite: pinduoduo
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 上海寻梦信息技术有限公司 沪ICP备15010535号
+.pddcdn.com
+.pddim.com
+.pddpic.com
+.pddugc.com
+.pinduoduo.com
+.pinduoduo.net
+.yangkeduo.com

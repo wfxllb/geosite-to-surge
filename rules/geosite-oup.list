@@ -1,0 +1,35 @@
+# GeoSite: oup
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.amamanualofstyle.com
+.anb.org
+.blackstonespoliceservice.com
+.epigeum.com
+.oed.com
+.omscr.com
+.oup.com
+.ouplaw.com
+.ox.ac.uk
+.oxfordaasc.com
+.oxfordartonline.com
+.oxfordbibliographies.com
+.oxfordclinicalpsych.com
+.oxforddnb.com
+.oxfordfirstsource.com
+.oxfordhandbooks.com
+.oxfordlawtrove.com
+.oxfordmedicine.com
+.oxfordmusiconline.com
+.oxfordpoliticstrove.com
+.oxfordre.com
+.oxfordreference.com
+.oxfordscholarlyeditions.com
+.oxfordscholarship.com
+.oxfordwesternmusic.com
+.sipriyearbook.org
+.ukwhoswho.com
+.universitypressscholarship.com
+.veryshortintroductions.com

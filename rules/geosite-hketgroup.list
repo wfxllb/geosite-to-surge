@@ -1,0 +1,21 @@
+# GeoSite: hketgroup
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.apexprint.com.hk
+.eprc.com.hk
+.etbc.com.hk
+# domain:etnet.com.cn
+.etnet.com.cn
+.etnet.com.hk
+# domain:etnetchina.com.cn
+.etnetchina.com.cn
+.etpress.com.hk
+.ettrade.com.hk
+.etwealth.com
+.hket.com
+.hketgroup.com
+.ulifestyle.com.hk
+.umagazine.com.hk

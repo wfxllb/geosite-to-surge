@@ -1,0 +1,13 @@
+# GeoSite: canva
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# affinity
+.affinity.api.serifservices.com
+.affinity.studio
+.affinity-beta.s3.amazonaws.com
+.affinity-lessons.s3.amazonaws.com
+.canva.com
+.canvastatus.com

@@ -1,0 +1,14 @@
+# GeoSite: qianxin
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# 奇安信 奇安信科技集团股份有限公司 京ICP备16020626号
+.95015.com
+.ceati.org.cn
+.datacon.org.cn
+.qianxin.com
+.qianxincdn.com
+.seclab.online
+.tianshucup.com

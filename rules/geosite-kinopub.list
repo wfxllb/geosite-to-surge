@@ -1,0 +1,20 @@
+# GeoSite: kinopub
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.kino.pub
+.kinopub.online
+.kpdl.link
+# Mirror sites
+.ahc.ovh
+.gfw.ovh
+.mos-gorsud.co
+# kinopub CDN servers
+.cdn-service.space
+.cdn2cdn.com
+.cdn2site.com
+.pushbr.com
+.smarttvcdn.online
+# [skip] regexp:(\w+)-static-[0-9]+\.cdntogo\.net$ — 无法转为 Surge .list

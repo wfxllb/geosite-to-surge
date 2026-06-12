@@ -1,0 +1,15 @@
+# GeoSite: cityu-hk
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# City University of Hong Kong (CityU)
+.cityu.hk
+.cityu.edu.hk
+# https://www.whois.com/whois/cityu.hk
+# 城大.香港
+.xn--uis44a.xn--j6w193g
+# https://www.whois.com/whois/cityu.edu.hk
+# 城市大學-香港.教育.香港
+.xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g

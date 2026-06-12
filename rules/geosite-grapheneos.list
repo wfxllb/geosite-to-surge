@@ -1,0 +1,22 @@
+# GeoSite: grapheneos
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.attestation.app
+.grapheneos.app
+.grapheneos.ca
+.grapheneos.com
+.grapheneos.dev
+.grapheneos.foundation
+.grapheneos.info
+.grapheneos.net
+.grapheneos.network
+.grapheneos.online
+.grapheneos.org
+.grapheneos.ovh
+.grapheneos.page
+.grapheneos.social
+.seamlessupdate.app
+.vanadium.app

@@ -1,0 +1,25 @@
+# GeoSite: anker
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# domain:anker-in.com
+.anker-in.com
+# domain:anker.com
+.anker.com
+.anker.com.cn
+# domain:ankersolix.com
+.ankersolix.com
+.ankerwork.cn
+# domain:eufy.com
+.eufy.com
+.eufycn.com
+# domain:eufylife.com
+.eufylife.com
+# domain:eufymake.com
+.eufymake.com
+.eufymake.com.cn
+# domain:soundcore.com
+.soundcore.com
+.soundcore.com.cn

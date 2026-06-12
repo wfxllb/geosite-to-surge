@@ -1,0 +1,24 @@
+# GeoSite: le
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.le.com
+.leautolink.com
+.lecloud.com
+.lecloudapi.com
+.lemall.com
+.leso.cn
+.letv.com
+.letvcdn.com
+.letvimg.com
+# Ads/tracking
+# domain:apple.www.letv.com
+.apple.www.letv.com
+# domain:ark.letv.com
+.ark.letv.com
+# domain:dc.letv.com
+.dc.letv.com
+# domain:g3.letv.com
+.g3.letv.com

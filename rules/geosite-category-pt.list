@@ -1,0 +1,156 @@
+# GeoSite: category-pt
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+## TODO: add annotations
+.52pt.site
+.audiences.me
+.carpt.net
+.ccfbits.org
+.dicmusic.com
+.eastgame.org
+.et8.org
+.greatposterwall.com
+.haidan.video
+.hdarea.club
+.hdatmos.club
+.hdcity.city
+.hddolby.com
+.hdfans.org
+.hdmayi.com
+.hdpt.xyz
+.hdtime.org
+.hdvideo.one
+.hhan.club
+.hhanclub.top
+.ianon.app
+.kufei.com
+.kufei.org
+.leaves.red
+.nicept.net
+.open.cd
+.piggo.me
+.pt.0ff.cc
+.pt.btschool.club
+.pt.eastgame.org
+.pt.hd4fans.org
+.pt.soulvoice.club
+.ptchina.org
+.pthome.net
+.ptsbao.club
+.pttime.org
+.pttime.top
+.rousi.zip
+.share.ilolicon.com
+.sharkpt.net
+.zhuque.in
+# Non-Chinese trackers
+# domain:myanonamouse.net
+.myanonamouse.net
+# domain:nebulance.io
+.nebulance.io
+# domain:torrentleech.org
+.torrentleech.org
+## TODO: add annotations
+.avistaz.to
+.beyond-hd.me
+.bibliotik.me
+.blutopia.cc
+.broadcasthe.net
+.cinemaz.to
+.exoticaz.to
+.filelist.io
+.hdbits.org
+.iptorrents.com
+.jpopsuki.eu
+.jptv.club
+.morethantv.me
+.passthepopcorn.me
+.privatehd.to
+.uhdbits.org
+# To Chinese Users:
+#    The following domains are not supposed to be proxied
+# 天雪论坛
+# domain:skyey2.com
+.skyey2.com
+# domain:skyeysnow.com
+.skyeysnow.com
+# M-Team
+# domain:m-team.cc
+.m-team.cc
+# domain:m-team.io
+.m-team.io
+# domain:mt.cc
+.mt.cc
+# U2
+# domain:dmhy.best
+.dmhy.best
+# domain:dmhy.org
+.dmhy.org
+# 北邮人
+.bt.byr.cn
+.byr.pt
+# 北洋园PT
+.tju.pt
+.tjupt.org
+# CHD
+.chdbits.co
+.chdbits.xyz
+.chddiy.xyz
+.ptchdbits.co
+.rainbowisland.co
+# HDKylin
+.hdkyl.in
+.hdkylin.top
+.hdkylin.work
+# 好多油
+.pt.hdupt.com
+.pt.upxin.net
+# ubits 你堡
+.ubits.club
+# UltraHD
+.ultrahd.net
+# 咖啡
+.ptcafe.club
+# 织匿名
+.zmpt.cc
+# 冬樱
+.wintersakura.net
+# 熊猫
+.pandapt.net
+# 壹PT
+.1ptba.com
+# 冰激淋
+.icc2022.com
+# 大青虫
+.cyanbug.net
+# 柠檬PT
+.ilovelemonhd.me
+.lemonhd.club
+.lemonhd.net
+.lemonhd.org
+# 备胎
+.beitai.pt
+# NexusHD
+.nexushd.org
+.bitpt.cn
+.hdchina.org
+.hdcmct.org
+.hdhome.org
+.hdsky.me
+.hdzone.me
+.hitpt.com
+.hudbt.hust.edu.cn
+.keepfrds.com
+.nanyangpt.com
+.neu6.edu.cn
+.npupt.com
+.ourbits.club
+.pt.nwsuaf6.edu.cn
+.pt.sjtu.edu.cn
+.pt.xauat.edu.cn
+.pterclub.com
+.springsunday.net
+.totheglory.im

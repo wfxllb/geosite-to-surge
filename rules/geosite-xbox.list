@@ -1,0 +1,62 @@
+# GeoSite: xbox
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: asobo ══
+.asobostudio.com
+.flightsimulator.com
+flightsimulator.azureedge.net
+# ══ end include: asobo ══
+# ══ include: bethesda ══
+.beth.games
+.bethesda.net
+.bethesdagamestudios.com
+.bethsoft.com
+# Doom
+.doom.com
+# The Elder Scrolls
+.elderscrolls.com
+# ══ end include: bethesda ══
+# ══ include: forza ══
+.forza.net
+.forzamotorsport.net
+.forzaracingchampionship.com
+.forzarc.com
+prodforza.blob.core.windows.net
+# ══ end include: forza ══
+# ══ include: mojang ══
+.callersbane.com
+.minecraft-services.net
+.minecraft.net
+.minecraftservices.com
+.minecraftshop.com
+.mojang.com
+# ══ end include: mojang ══
+# All .xbox domains
+.gamepass.com
+.orithegame.com
+.renovacionxboxlive.com
+.tellmewhygame.com
+.xbox.co
+.xbox.com
+.xbox.eu
+.xbox.org
+.xbox360.co
+.xbox360.com
+.xbox360.eu
+.xbox360.org
+.xboxab.com
+.xboxgamepass.com
+.xboxgamestudios.com
+# domain:xboxlive.cn
+.xboxlive.cn
+.xboxlive.com
+.xboxone.co
+.xboxone.com
+.xboxone.eu
+.xboxplayanywhere.com
+.xboxservices.com
+.xboxstudios.com
+.xbx.lv

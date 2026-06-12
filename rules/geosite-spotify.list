@@ -1,0 +1,36 @@
+# GeoSite: spotify
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.byspotify.com
+.pscdn.co
+.scdn.co
+.spoti.fi
+.spotify-everywhere.com
+.spotify.com
+.spotify.design
+.spotifycdn.com
+.spotifycdn.net
+.spotifycharts.com
+.spotifycodes.com
+.spotifyforbrands.com
+.spotifyjobs.com
+.spotify.link
+.tospotify.com
+audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
+cdn-spotify-experiments.conductrics.com
+heads-ak-spotify-com.akamaized.net
+heads4-ak-spotify-com.akamaized.net
+spotify.com.edgesuite.net
+spotify.map.fastly.net
+spotify.map.fastlylb.net
+# Ads/tracking
+# full:adeventtracker.spotify.com
+adeventtracker.spotify.com
+# full:adstudio-assets.scdn.co
+adstudio-assets.scdn.co
+# full:bloodhound.spotify.com
+bloodhound.spotify.com

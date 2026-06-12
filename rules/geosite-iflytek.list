@@ -1,0 +1,20 @@
+# GeoSite: iflytek
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.iflyink.com
+.iflyrec.com
+.iflysec.com
+.iflytek.com
+.xfyun.cn
+.xunfei.cn
+# e听说中学
+.ets100.com
+# 智学网
+.zhixue.com
+#畅言教育开放平台
+.changyan.com
+#科大讯飞AI学习机官网
+.xunfeixxj.com

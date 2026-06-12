@@ -1,0 +1,141 @@
+# GeoSite: category-cdn-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: baishancloud ══
+.bsclink.cn
+.qingcdn.com
+.trpcdn.net
+# ══ end include: baishancloud ══
+# ══ include: bootcdn ══
+.bootcdn.cn
+.bootcdn.net
+# BootCSS
+.bootcss.com
+# Packagist / Composer
+.phpcomposer.com
+# ══ end include: bootcdn ══
+# ══ include: cloudflare-cn ══
+# domain:cf-china.info
+.cf-china.info
+# domain:cf-ns.com
+.cf-ns.com
+# domain:cf-ns.net
+.cf-ns.net
+# domain:cf-ns.site
+.cf-ns.site
+# domain:cf-ns.tech
+.cf-ns.tech
+# domain:cftest5.cn
+.cftest5.cn
+# domain:cftest6.cn
+.cftest6.cn
+# domain:cftest7.com
+.cftest7.com
+# domain:cftest8.com
+.cftest8.com
+# domain:cloudflare-cn.com
+.cloudflare-cn.com
+# domain:cloudflareanycast.net
+.cloudflareanycast.net
+# domain:cloudflarechina.cn
+.cloudflarechina.cn
+# domain:cloudflarecn.net
+.cloudflarecn.net
+# domain:cloudflareglobal.net
+.cloudflareglobal.net
+# domain:cloudflareinsights-cn.com
+.cloudflareinsights-cn.com
+# domain:cloudflareperf.com
+.cloudflareperf.com
+# domain:cloudflareprod.com
+.cloudflareprod.com
+# domain:cloudflarestaging.com
+.cloudflarestaging.com
+# domain:cloudflarestoragegw.com
+.cloudflarestoragegw.com
+# ══ end include: cloudflare-cn ══
+# ══ include: dwion ══
+# 上海帝联网络科技有限公司
+.acadn.cn
+.acadn.com
+.bbbcdns.com
+.dlgslb.cn
+.dlgslb.net
+.dwion.com
+.fastcdn.com
+.fastcdn.com.cn
+.flxdns.cn
+.flxdns.com
+.globalcdn.cn
+.mcadn.cn
+.tlgslb.cn
+.tlgslb.com
+# ══ end include: dwion ══
+# ══ include: qiniu ══
+# ══ include: staticfile ══
+.staticfile.net
+.staticfile.org
+# ══ end include: staticfile ══
+.qbox.me
+.qiniu.com
+.qiniucdn.com
+.qiniudn.com
+.qiniudns.com
+.qiniup.com
+.qnsdk.com
+.qnssl.com
+# ══ end include: qiniu ══
+# ══ include: upai ══
+.aicdn.com
+.upai.com
+.upaiyun.com
+.upcdn.net
+.upyun.com
+.oncdp.com
+# ══ end include: upai ══
+# ══ include: wangsu ══
+.51cdn.com
+.8686c.com
+.cdn20.com
+.cdn30.org
+.cdnmg.com
+.chinanetcenter.com
+.lxdns.cn
+.lxdns.com
+.lxdns.info
+.lxdns.net
+.lxdns.org
+.mwcdns.com
+.mwcloudcdn.com
+.npsv6.com
+.ourdvsss.com
+.qtlcdn.cn
+.qtlcdn.com
+.qtlcdn.net
+.speedws.info
+.speedws.org
+.wangsu.com
+.wscdns.com
+.wscdns.info
+.wscdns.org
+.wsdvs.com
+.wsglb.com
+.wsglb.net
+.wswebcdn.com
+.wswebpic.com
+# ══ end include: wangsu ══
+# 创世云
+.aocde.com
+.chuangcache.com
+.chuangcdn.com
+# 大风云CDN
+.dfyun.com.cn
+# FUNCDN
+.funcdn.com
+# 北京知道创宇信息技术股份有限公司
+.jiashule.com
+.jiasule.com
+.yunaq.com

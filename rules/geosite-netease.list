@@ -1,0 +1,69 @@
+# GeoSite: netease
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.126.com
+.126.link
+.126.net
+.127.com
+.127.net
+.163.com
+.163cn.tv
+.163industry.com
+.163jiasu.com
+.163mail.com
+.163qiyukf.com
+.163yun.com
+.166.com
+.166.net
+.188.com
+.321fenx.com
+# domain:easebar.com
+.easebar.com
+.haowu.link
+.icourse163.org
+.lf126.net
+.lf127.net
+.lofter.com
+.nease.net
+.netease-inc.com
+.netease.com
+.netease.im
+.netstatic.net
+.qiyukf.com
+.qiyukf.net
+.qiyukf.net.cn
+.static163.net
+.ydstatic.com
+.yeah.net
+.youdao.com
+.yunxindns.com
+.yunxinfw.com
+.zhuanzfx.com
+# Ads/tracking
+# domain:a.youdao.com
+.a.youdao.com
+# domain:admusicpic.music.126.net
+.admusicpic.music.126.net
+# domain:ads.music.126.net
+.ads.music.126.net
+# domain:analytics.163.com
+.analytics.163.com
+# domain:crash.163.com
+.crash.163.com
+# domain:crashlytics.163.com
+.crashlytics.163.com
+# domain:g.163.com
+.g.163.com
+# domain:iadmat.nosdn.127.net
+.iadmat.nosdn.127.net
+# domain:iadmatapk.nosdn.127.net
+.iadmatapk.nosdn.127.net
+# domain:iadmusicmat.music.126.net
+.iadmusicmat.music.126.net
+# domain:iadmusicmatvideo.music.126.net
+.iadmusicmatvideo.music.126.net
+# domain:sentry.music.163.com
+.sentry.music.163.com

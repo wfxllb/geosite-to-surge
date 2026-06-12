@@ -1,0 +1,30 @@
+# GeoSite: netcup
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bestsrv.de
+.customercontrolpanel.de
+.dnsserver1.de
+.dnsserver2.de
+.goodsrv.de
+.happysrv.de
+.hotsrv.de
+.luckysrv.de
+.megasrv.de
+.netcup.cafe
+.netcup.com
+.netcup.de
+.netcup.eu
+.netcup.net
+.netcup-news.de
+.netcup-sonderangebote.de
+.netcup-wiki.de
+.nicesrv.de
+.powersrv.de
+.quicksrv.de
+.servercontrolpanel.de
+.supersrv.de
+.ultrasrv.de
+.yourvserver.net

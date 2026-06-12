@@ -1,0 +1,14 @@
+# GeoSite: adjust
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# domain:adjust.com
+.adjust.com
+# domain:adjust.io
+.adjust.io
+# domain:adjust.net.in
+.adjust.net.in
+# domain:adjust.world
+.adjust.world

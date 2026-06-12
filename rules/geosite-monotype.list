@@ -1,0 +1,32 @@
+# GeoSite: monotype
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: fontexplorer ══
+.fontexplorerx.com
+# ══ end include: fontexplorer ══
+# ══ include: fonts ══
+.fonts.com
+.fonts.net
+# ══ end include: fonts ══
+# ══ include: fontshop ══
+.fontbook.com
+.fontshop.com
+.fstopimages.com
+fontshop-prod-responsive-images.s3.amazonaws.com
+# ══ end include: fontshop ══
+# ══ include: linotype ══
+.linotype.com
+# ══ end include: linotype ══
+# ══ include: myfonts ══
+.myfonts.com
+.myfonts.net
+# ══ end include: myfonts ══
+.monotype.com
+.monotypeimaging.com
+# Bitstream
+.bitstream.com
+# International Typeface Corporation
+.itcfonts.com

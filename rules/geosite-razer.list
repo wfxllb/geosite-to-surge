@@ -1,0 +1,18 @@
+# GeoSite: razer
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.razer.com
+# domain:razerapi.com
+.razerapi.com
+.razerofficial.com
+# domain:razersynapse.com
+.razersynapse.com
+.razersupport.com
+# domain:razerzone.com
+.razerzone.com
+.razerzone.jp
+.respawnbyrazer.com
+.rzr.to

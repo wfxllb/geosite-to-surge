@@ -1,0 +1,13 @@
+# GeoSite: cnblogs
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.blogjava.net
+.cnblogs.com
+.cnitblog.com
+.cnweblog.com
+.cppblog.com
+.phpweblog.net
+.teachblog.net

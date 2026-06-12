@@ -1,0 +1,25 @@
+# GeoSite: category-shopping-ir
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Iranian shopping websites
+# ══ include: divar ══
+.divar.cloud
+.divar.ir
+.divarcdn.com
+# ══ end include: divar ══
+.digi-kala.com
+.emalls.ir
+.esam.ir
+.janebi.com
+.janebi.ir
+.sheypoor.com
+.torob.com
+.zanbil.ir
+# Digikala
+.digikala.com
+.digikalabusiness.com
+.digikalajet.com
+.digistyle.com

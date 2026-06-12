@@ -1,0 +1,17 @@
+# GeoSite: qnap
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Global
+.myqnapcloud.com
+.qlink.to
+.qnap.com
+# China Mainland
+# domain:myqnapcloud.cn
+.myqnapcloud.cn
+# domain:qlinkto.cn
+.qlinkto.cn
+# domain:qnap.com.cn
+.qnap.com.cn

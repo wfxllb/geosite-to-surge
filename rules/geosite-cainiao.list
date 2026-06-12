@@ -1,0 +1,18 @@
+# GeoSite: cainiao
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.56xiniao.com
+.cainiao-inc.com
+.cainiao.com
+.cainiao.com.cn
+.cainiaoyizhan.com
+.danniao.com
+.dianwoda.cn
+.dianwoda.com
+.guoguo-app.com
+# Ads/tracking
+# domain:v6-adashx.ut.cainiao.com
+.v6-adashx.ut.cainiao.com

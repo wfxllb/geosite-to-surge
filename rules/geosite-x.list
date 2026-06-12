@@ -1,0 +1,38 @@
+# GeoSite: x
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: twitter ══
+# domain:ads-twitter.com
+.ads-twitter.com
+.cms-twdigitalassets.com
+.periscope.tv
+.pscp.tv
+.t.co
+.tellapart.com
+.tweetdeck.com
+.twimg.com
+.twitpic.com
+.twitter.biz
+.twitter.com
+.twitter.jp
+.twitter.map.fastly.net
+.twittercommunity.com
+.twitterflightschool.com
+.twitterinc.com
+.twitteroauth.com
+.twitterstat.us
+.twtrdns.net
+.twttr.com
+.twttr.net
+.twvid.com
+.vine.co
+.x.com
+# ══ end include: twitter ══
+# ══ include: xai ══
+.grok.com
+.grok.x.com
+.x.ai
+# ══ end include: xai ══

@@ -1,0 +1,17 @@
+# GeoSite: category-mooc-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.chinesemooc.org
+.cnmooc.org
+.icourse163.org
+.icourses.cn
+.icve.com.cn
+.mooc.cn
+.openlearning.com
+.pmphmooc.com
+moocs.unipus.cn
+opencourse.pku.edu.cn
+study.163.com

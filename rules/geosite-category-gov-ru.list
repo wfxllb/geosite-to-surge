@@ -1,0 +1,156 @@
+# GeoSite: category-gov-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Federal Gov.
+.government.ru
+.gov.ru
+# Federal Public Services
+.gosuslugi.ru
+.gu-st.ru
+# Federal Healthcare Services
+.emias.info
+.mgfoms.ru
+# Federal Educational Services
+.edu.ru
+# Other Federal Resources
+.cbr.ru
+.cikrf.ru
+.ebs.ru
+.goskey.ru
+.grfc.ru
+.izbirkom.ru
+.kremlin.ru
+.mil.ru
+.nalog.ru
+.xn--80ajghhoc2aj1c8b.xn--p1ai
+.xn--b1afabzvcegckfhg.xn--p1ai
+#
+# Regional sites and Public Services
+# Reminder on federal subjects naming:
+# | English name        | RU transliteration    | RU naming         |
+# | Region, Province    | Oblast                | Область           |
+# | Territory           | Krai                  | Край              |
+# | Autonomous Region,  | Avtonomniy Okrug      | Автономный Округ  |
+# | Autonomous Area     |                       |                   |
+#
+# Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
+# meaning that e.g. Moscow is not part of Moscow Region.
+#
+# Federal Cities (Cities of Federal Importance)
+.mos.ru
+.mosreg.ru
+.spb.ru
+.sevastopol.ru
+# Republics
+.adygeya.ru
+.bashkiria.ru
+.buryatia.ru
+.chuvashia.ru
+.crimea.ru
+.dagestan.ru
+.grozny.ru
+.i-ola.ru
+.izhevsk.ru
+.kalmykia.ru
+.karelia.ru
+.kazan.ru
+.kchr.ru
+.khakassia.ru
+.mari-el.ru
+.mari.ru
+.mordovia.ru
+.nalchik.ru
+.ptz.ru
+.rkomi.ru
+.tatarstan.ru
+.tuva.ru
+.udm.ru
+.udmurtia.ru
+.ulan-ude.ru
+.vladikavkaz.ru
+.yakutia.ru
+# Territories (Krai)
+.altai.ru
+.chita.ru
+.kamchatka.ru
+.khabarovsk.ru
+.khv.ru
+.krasnodar.su
+.krasnoyarsk.ru
+.kuban.ru
+.marine.ru
+.perm.ru
+.stavropol.ru
+.stv.ru
+.vl.ru
+.vladivostok.ru
+# Regions / Provinces (Oblast)
+.amur.ru
+.arkhangelsk.ru
+.astrakhan.ru
+.belgorod.ru
+.bir.ru
+.bryansk.ru
+.cbg.ru
+.chel.ru
+.chelyabinsk.ru
+.ekburg.ru
+.xn--80acgfbsl1azdqr.xn--p1ai
+.irk.ru
+.irkutsk.ru
+.ivanovo.ru
+.jar.ru
+.kaluga.ru
+.kemerovo.ru
+.kirov.ru
+.koenig.ru
+.kostroma.ru
+.kurgan.ru
+.kursk.ru
+.lipetsk.ru
+.magadan.ru
+.murmansk.ru
+.nn.ru
+.nov.ru
+.novosibirsk.ru
+.nsk.ru
+.omsk.ru
+.orb.ru
+.oryol.ru
+.penza.ru
+.psk.ru
+.pskov.ru
+.rnd.ru
+.ryazan.ru
+.sakhalin.ru
+.samara.ru
+.saratov.ru
+.simbirsk.ru
+.smolensk.ru
+.tambov.ru
+.tom.ru
+.tomsk.ru
+.tsaritsyn.ru
+.tsk.ru
+.tula.ru
+.tver.ru
+.tyumen.ru
+.vladimir.ru
+.vlg.ru
+.volgograd.ru
+.vologda.ru
+.voronezh.ru
+.vrn.ru
+.vyatka.ru
+.yaroslavl.ru
+.yuzhno-sakhalinsk.ru
+# Autonomous areas
+.chukotka.ru
+.jamal.ru
+.surgut.ru
+.yamal.ru
+# Regional health services
+.zdrav10.ru

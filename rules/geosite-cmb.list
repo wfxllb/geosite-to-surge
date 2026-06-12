@@ -1,0 +1,31 @@
+# GeoSite: cmb
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.8008205555.cn
+.8008205555.com
+.cignacmb-ipmi.com
+.cignacmb.com
+.cignacmbamc.com
+.cmb-leasing.com
+.cmbchina.biz
+.cmbchina.cn
+.cmbchina.com
+# domain:cmbi.com.hk
+.cmbi.com.hk
+.cmbimg.cn
+.cmbimg.com
+.cmbt.cn
+.cmbuat.com
+.cmburl.cn
+# domain:cmbwinglungbank.com
+.cmbwinglungbank.com
+.cmf.biz
+.cmf.ltd
+.cmfchina.com
+.cmfunds.cn
+.test-cignacmb.com
+# 招赢&玖盈
+.joying.com

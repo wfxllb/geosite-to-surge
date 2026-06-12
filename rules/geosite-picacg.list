@@ -1,0 +1,23 @@
+# GeoSite: picacg
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.bikaa.xyz
+.bikac.xyz
+.bikaios.xyz
+.manhuabika.com
+.picacgp.com
+.picacgy.com
+.picacn.xyz
+.picacomic.com
+.picacomic.xyz
+.wikawika.xyz
+# Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
+.diwodiwo.xyz
+# Ad Domain
+# full:ad-channel.diwodiwo.xyz
+ad-channel.diwodiwo.xyz
+# full:ad-display.diwodiwo.xyz
+ad-display.diwodiwo.xyz

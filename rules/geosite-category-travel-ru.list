@@ -1,0 +1,44 @@
+# GeoSite: category-travel-ru
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# Aviasales
+# ══ include: aviasales ══
+.avs.io
+.aviasales.ru
+.aviasales.com
+# ══ end include: aviasales ══
+# BlaBlaCar
+.blablacar.ru
+# Bus stations
+.avtovokzaly.ru
+# Ostrovok
+.ostrovok.ru
+# Othello / Otello from 2GIS and Sber
+.2gis.ru
+.otello.ru
+.sber.ru
+# Public transport and ticketing
+# ══ include: mosmetro ══
+.mosmetro.ru
+.mosmetro.tech
+# ══ end include: mosmetro ══
+bilet.nspk.ru
+metro.spb.ru
+mos.transport.vtb.ru
+podorozhnik.spb.ru
+transport.mos.ru
+.gorodpay.ru
+.rrtp.ru
+# Russian Railways
+.rzd-bonus.ru
+.rzd.ru
+# Tutu
+.tutu.ru
+# Yandex Rent
+arenda.yandex.ru
+# Yandex Taxi
+taxi.yandex.ru
+.fasten.ru

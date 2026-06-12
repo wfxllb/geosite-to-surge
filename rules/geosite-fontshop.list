@@ -1,0 +1,10 @@
+# GeoSite: fontshop
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.fontbook.com
+.fontshop.com
+.fstopimages.com
+fontshop-prod-responsive-images.s3.amazonaws.com

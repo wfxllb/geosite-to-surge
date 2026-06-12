@@ -1,0 +1,10 @@
+# GeoSite: cnki
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.cnki.com.cn
+.cnki.net
+# 国际 DOI 中国注册与服务中心
+.chndoi.org

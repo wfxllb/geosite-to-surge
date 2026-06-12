@@ -1,0 +1,118 @@
+# GeoSite: xiaomi
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+# ══ include: xiaomi-ai ══
+.miaibox.com
+.xiaoaiassist.com
+.xiaomimimo.com
+# ══ end include: xiaomi-ai ══
+# ══ include: xiaomi-iot ══
+# Xiaomi IoT Services
+.account.xiaomi.com
+.cn-ha.mqtt.io.mi.com
+.ha.api.io.mi.com
+.miot-spec.org
+# ══ end include: xiaomi-iot ══
+.mgslb.com
+.mi-dun.com
+.mi-fds.com
+.mi-idc.com
+.mi-img.com
+.mi.com
+.mieco.net
+.mifile.cn
+.mijia.tech
+.mioffice.cn
+.mitvos.com
+.miui.com
+.miwifi.com
+.xiaomi.cn
+.xiaomi.com
+.xiaomi.net
+.xiaomicp.com
+.xiaomidns.cn
+.xiaomidns.com
+.xiaomidns.com.cn
+.xiaomidns.net
+.xiaomiev.com
+.xiaomiinc.cn
+.xiaomiinc.com
+.xiaomiinc.com.cn
+.xiaomiinc.net
+.xiaomimobile.com
+.xiaominr.com
+.xiaomiprint.com
+.xiaomisa.cn
+.xiaomisa.com
+.xiaomisa.net
+.xiaomisa.org
+.xiaomiwear.com
+.xiaomixiaoai.com
+# 北京瓦力网络科技
+.migames.com
+.wali.com
+# 天星数科
+.airstarfinance.net
+.mipay.com
+# 多看
+.duokan.com
+.duokanbox.com
+# 有品
+.xiaomiyoupin.com
+.youpin.cn
+.youpin.com.cn
+# 紫米
+.zmifi.com
+# AppStore CDN
+.saxyit.com
+# Overseas only
+# domain:c.mi.com
+.c.mi.com
+# domain:global.market.xiaomi.com
+.global.market.xiaomi.com
+# Ads/tracking
+# domain:a.market.xiaomi.com
+.a.market.xiaomi.com
+# domain:ad.intl.xiaomi.com
+.ad.intl.xiaomi.com
+# domain:ad.mi.com
+.ad.mi.com
+# domain:ad.xiaomi.com
+.ad.xiaomi.com
+# domain:ad1.xiaomi.com
+.ad1.xiaomi.com
+# domain:admob.xiaomi.com
+.admob.xiaomi.com
+# domain:adv.sec.intl.miui.com
+.adv.sec.intl.miui.com
+# domain:adv.sec.miui.com
+.adv.sec.miui.com
+# domain:data.mistat.india.xiaomi.com
+.data.mistat.india.xiaomi.com
+# domain:data.mistat.intl.xiaomi.com
+.data.mistat.intl.xiaomi.com
+# domain:data.mistat.rus.xiaomi.com
+.data.mistat.rus.xiaomi.com
+# domain:data.mistat.xiaomi.com
+.data.mistat.xiaomi.com
+# domain:logupdate.avlyun.sec.miui.com
+.logupdate.avlyun.sec.miui.com
+# domain:misc.in.duokanbox.com
+.misc.in.duokanbox.com
+# domain:sentry.d.mi.com
+.sentry.d.mi.com
+# domain:sentry.d.xiaomi.net
+.sentry.d.xiaomi.net
+# domain:stats.music.xiaomi.com
+.stats.music.xiaomi.com
+# domain:tjqonline.cn
+.tjqonline.cn
+# domain:tracker.ai.xiaomi.com
+.tracker.ai.xiaomi.com
+# domain:tracker.xiaomixiaoai.com
+.tracker.xiaomixiaoai.com
+# domain:tracking.miui.com
+.tracking.miui.com

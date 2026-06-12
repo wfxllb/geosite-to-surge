@@ -1,0 +1,28 @@
+# GeoSite: category-documents-cn
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.1ppt.com
+.360doc.com
+.51pptmoban.com
+.51wendang.com
+.52ppt.com
+.badou.com
+.book118.com
+.daodoc.com
+.doc88.com
+.docin.com
+.douding.cn
+.goldhoe.com
+.haohaodoc.com
+.jinchutou.com
+.lazyer.net
+.renrendoc.com
+.safewk.com
+.taodocs.com
+.wenkeju.com
+.wenkub.com
+.ypppt.com
+.zhijidoc.com

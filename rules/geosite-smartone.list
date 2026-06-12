@@ -1,0 +1,21 @@
+# GeoSite: smartone
+# Source: v2fly/domain-list-community
+# Format: Surge .list
+#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
+#   无前缀 → 精确匹配
+#
+.barkadahansasmartone.com
+.healthreach.hk
+.hkcircleapp.com
+.homephoneplus.com
+.ip73.com
+.s-cashonmobile.com
+.s-rewards.hk
+.sahabatsetiasmartone.com
+.smartone.com
+.smartoneholdings.com
+.smartonerobotics.com
+.smartonesolutions.com.hk
+.smartonesolutions.hk
+.valuegb.com
+.wise-research.com
