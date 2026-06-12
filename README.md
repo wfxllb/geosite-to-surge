@@ -14,10 +14,10 @@
 有了这个仓库，Surge 也能像 Clash 一样使用 geosite 规则：
 
 ```
-RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/geosite-openai.list,Proxy
-RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/geosite-netflix.list,Proxy
-RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/geosite-telegram.list,Proxy
-RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/geosite-cn.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/openai.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/netflix.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/telegram.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/cn.list,DIRECT
 ```
 
 ## 规则格式
@@ -29,20 +29,20 @@ Surge `.list` 文件，每行一个域名：
 
 ## 可用分类
 
-所有 `rules/geosite-*.list` 文件，例如：
+所有 `rules/*.list` 文件，文件名与 v2fly 上游数据目录一致，例如：
 
 | 分类 | 说明 |
 |------|------|
-| `geosite-openai` | OpenAI / ChatGPT |
-| `geosite-netflix` | Netflix |
-| `geosite-google` | Google 服务 |
-| `geosite-telegram` | Telegram |
-| `geosite-youtube` | YouTube |
-| `geosite-twitter` | Twitter / X |
-| `geosite-cn` | 中国大陆常见域名 |
-| `geosite-geolocation-cn` | 境内 CDN / 服务 |
-| `geosite-geolocation-!cn` | 境外域名 |
-| `geosite-category-ads` | 广告/追踪域名 |
+| `openai` | OpenAI / ChatGPT |
+| `netflix` | Netflix |
+| `google` | Google 服务 |
+| `telegram` | Telegram |
+| `youtube` | YouTube |
+| `twitter` | Twitter / X |
+| `cn` | 中国大陆常见域名 |
+| `geolocation-cn` | 境内 CDN / 服务 |
+| `geolocation-!cn` | 境外域名 |
+| `category-ads` | 广告/追踪域名 |
 | … | （更多见 rules/ 目录） |
 
 ## 更新机制
