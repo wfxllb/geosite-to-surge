@@ -1535,6 +1535,7 @@ DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,itc.cn
@@ -1988,6 +1989,8 @@ DOMAIN-SUFFIX,ccblife-test.com.cn
 DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,ccbtrust.com.cn
 DOMAIN-SUFFIX,ccbxt.com
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,cfc108.com
 DOMAIN-SUFFIX,chinaamc.com
 DOMAIN-SUFFIX,citic-prudential.com.cn
@@ -2028,6 +2031,7 @@ DOMAIN-SUFFIX,joying.com
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,dccnet.com.cn
@@ -4105,6 +4109,10 @@ DOMAIN-SUFFIX,qtyy.cn
 DOMAIN-SUFFIX,akikocorp.cn
 DOMAIN-SUFFIX,emoriko.com
 DOMAIN-SUFFIX,sukasuka.cn
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -4476,6 +4484,7 @@ DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,syh.zybang.com
+DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,aipage.com
 DOMAIN-SUFFIX,antpcdn.com
@@ -6685,6 +6694,8 @@ DOMAIN-SUFFIX,china-tower.com
 DOMAIN-SUFFIX,tower.com.cn
 DOMAIN-SUFFIX,tower0788.com
 DOMAIN-SUFFIX,tower0788.cn
+DOMAIN-SUFFIX,unicom
+DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10010.com.cn
 DOMAIN-SUFFIX,10155.com

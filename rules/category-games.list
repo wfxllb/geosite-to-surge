@@ -537,6 +537,7 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN,hb.imgix.net
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kiwi.jp
@@ -709,6 +710,7 @@ DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,pandanet-igs.com
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
+DOMAIN-SUFFIX,playstation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
@@ -997,6 +999,7 @@ DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,renovacionxboxlive.com

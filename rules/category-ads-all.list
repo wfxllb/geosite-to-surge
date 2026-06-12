@@ -277,6 +277,10 @@ DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -724,6 +728,7 @@ DOMAIN-SUFFIX,amzndns-cn.biz
 DOMAIN-SUFFIX,amzndns-cn.cn
 DOMAIN-SUFFIX,amzndns-cn.com
 DOMAIN-SUFFIX,amzndns-cn.net
+DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
@@ -771,10 +776,12 @@ DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,amzndns.org
+DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,kindle
 DOMAIN-SUFFIX,kindle.cn
 DOMAIN-SUFFIX,kindle.co.jp
 DOMAIN-SUFFIX,kindle.co.uk
@@ -824,6 +831,11 @@ DOMAIN-SUFFIX,wholefoodsmarket.co.uk
 DOMAIN-SUFFIX,wholefoodsmarket.com
 DOMAIN-SUFFIX,wholekidsfoundation.org
 DOMAIN-SUFFIX,wholeplanetfoundation.org
+DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,xn--cckwcxetd
+DOMAIN-SUFFIX,xn--jlq480n2rg
+DOMAIN-SUFFIX,yamaxun
+DOMAIN-SUFFIX,zappos
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,aboutamazon.co.uk
@@ -1830,6 +1842,7 @@ DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net
 DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,wwwitunes.com
+DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
 DOMAIN-SUFFIX,apple.be
@@ -2750,6 +2763,7 @@ DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,syh.zybang.com
+DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,aipage.com
 DOMAIN-SUFFIX,antpcdn.com
@@ -4095,6 +4109,7 @@ DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com
@@ -4382,6 +4397,7 @@ DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
+DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -4559,6 +4575,19 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,dclk
+DOMAIN-SUFFIX,gbiz
+DOMAIN-SUFFIX,gle
+DOMAIN-SUFFIX,gmail
+DOMAIN-SUFFIX,goo
+DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,guge
+DOMAIN-SUFFIX,hangout
+DOMAIN-SUFFIX,nexus
+DOMAIN-SUFFIX,xn--flw351e
+DOMAIN-SUFFIX,xn--qcka1pmc
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
 DOMAIN-SUFFIX,google.al
@@ -6710,6 +6739,7 @@ DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -6853,6 +6883,7 @@ DOMAIN-SUFFIX,azure-dns-7.cn
 DOMAIN-SUFFIX,azure-dns-8.cn
 DOMAIN-SUFFIX,azure-dns-9.cn
 DOMAIN-SUFFIX,azure-dns-10.cn
+DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -7080,6 +7111,7 @@ DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -7104,6 +7136,11 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN-SUFFIX,microsoft
+DOMAIN-SUFFIX,hotmail
+DOMAIN-SUFFIX,office
+DOMAIN-SUFFIX,skype
+DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,microsoft.az
 DOMAIN-SUFFIX,microsoft.be
 DOMAIN-SUFFIX,microsoft.by
@@ -7843,6 +7880,8 @@ DOMAIN-SUFFIX,azbukainterneta.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rt.ru
 DOMAIN,sentry.iptv.rt.ru
+DOMAIN-SUFFIX,samsung
+DOMAIN-SUFFIX,xn--cg4bki
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
 DOMAIN-SUFFIX,game-platform.net
@@ -8062,6 +8101,7 @@ DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,itc.cn
@@ -9046,10 +9086,12 @@ DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,yahoo
 DOMAIN-SUFFIX,yahoo.ae
 DOMAIN-SUFFIX,yahoo.am
 DOMAIN-SUFFIX,yahoo.as
@@ -9221,6 +9263,7 @@ DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,cabconnect.org

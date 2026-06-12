@@ -1,4 +1,12 @@
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,example
+DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,test
+DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,2.0.192.in-addr.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,16.172.in-addr.arpa

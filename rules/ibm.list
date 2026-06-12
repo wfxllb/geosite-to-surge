@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,terraform.io
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,vaultproject.io
+DOMAIN-SUFFIX,ibm
+DOMAIN-SUFFIX,weatherchannel
+DOMAIN-SUFFIX,weather
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,bluemix.com
 DOMAIN-SUFFIX,bluemix.net

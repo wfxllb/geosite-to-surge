@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -141,6 +142,7 @@ DOMAIN-SUFFIX,azure-dns-7.cn
 DOMAIN-SUFFIX,azure-dns-8.cn
 DOMAIN-SUFFIX,azure-dns-9.cn
 DOMAIN-SUFFIX,azure-dns-10.cn
+DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -368,6 +370,7 @@ DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -392,6 +395,11 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN-SUFFIX,microsoft
+DOMAIN-SUFFIX,hotmail
+DOMAIN-SUFFIX,office
+DOMAIN-SUFFIX,skype
+DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,microsoft.az
 DOMAIN-SUFFIX,microsoft.be
 DOMAIN-SUFFIX,microsoft.by

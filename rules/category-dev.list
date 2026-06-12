@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com
@@ -293,6 +294,7 @@ DOMAIN-SUFFIX,acpica.com
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
+DOMAIN-SUFFIX,java
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,datalore.io

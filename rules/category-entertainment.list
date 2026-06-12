@@ -335,6 +335,7 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN,hb.imgix.net
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kiwi.jp
@@ -507,6 +508,7 @@ DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,pandanet-igs.com
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
+DOMAIN-SUFFIX,playstation
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
@@ -795,6 +797,7 @@ DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -1201,6 +1204,7 @@ DOMAIN,tlmr-hamivideo2.cdn.hinet.net
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,weblive-hamivideo.cdn.hinet.net
 DOMAIN,webvodad-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,cinemax.com
@@ -1312,6 +1316,7 @@ DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN,hulu.playback.edge.bamgrid.com
+DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
@@ -1382,6 +1387,7 @@ DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,nico
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com
@@ -1637,6 +1643,7 @@ DOMAIN-SUFFIX,whvn.cc
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwe9.com
+DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com

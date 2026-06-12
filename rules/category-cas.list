@@ -129,6 +129,7 @@ DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.globalsign.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,x.co
+DOMAIN-SUFFIX,godaddy
 DOMAIN-SUFFIX,pki.goog
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog

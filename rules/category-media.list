@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,asahicom.jp
 DOMAIN-SUFFIX,asakonet.co.jp
 DOMAIN-SUFFIX,nikkansports.com
 DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN-SUFFIX,bbc
 DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -121,6 +122,7 @@ DOMAIN,vs-cmaf-push-uk-live.akamaized.net
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
 DOMAIN,vs-hls-push-uk-live.akamaized.net
 DOMAIN,vs-hls-pushb-uk-live.akamaized.net
+DOMAIN-SUFFIX,bloomberg
 DOMAIN-SUFFIX,bbgevent.com
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bbthat.com
@@ -386,6 +388,7 @@ DOMAIN-SUFFIX,shenyuncreations.com
 DOMAIN-SUFFIX,shenyunperformingarts.org
 DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,forbesimg.com
+DOMAIN-SUFFIX,fox
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubi.tv
 DOMAIN-SUFFIX,tubi.video
@@ -1019,6 +1022,7 @@ DOMAIN-SUFFIX,andysparis.com
 DOMAIN-SUFFIX,newsmax.com
 DOMAIN-SUFFIX,newsmax.in
 DOMAIN-SUFFIX,newsmaxtv.com
+DOMAIN-SUFFIX,nhk
 DOMAIN-SUFFIX,nhk.jp
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nhkworld.jp
@@ -1281,6 +1285,7 @@ DOMAIN-SUFFIX,headlinejobs.hk
 DOMAIN-SUFFIX,jobmarket.com.hk
 DOMAIN-SUFFIX,my-magazine.me
 DOMAIN-SUFFIX,pcmarket.com.hk
+DOMAIN-SUFFIX,sky
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skyassets.com
 DOMAIN-SUFFIX,skymansion.net
