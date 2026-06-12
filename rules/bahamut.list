@@ -1,11 +1,5 @@
-# GeoSite: bahamut
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.bahamut.akamaized.net
-.bahamut.com.tw
-.gamer.com.tw
-gamer2-cds.cdn.hinet.net
-gamer-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net

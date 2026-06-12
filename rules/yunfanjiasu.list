@@ -1,14 +1,8 @@
-# GeoSite: yunfanjiasu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.yfcache.com
-.yfcalc.com
-.yfcdn.net
-.yfcloud.com
-.yfdts.net
-.yfp2p.net
-.yfscdn.net
-.yunfancdn.com
+DOMAIN-SUFFIX,yfcache.com
+DOMAIN-SUFFIX,yfcalc.com
+DOMAIN-SUFFIX,yfcdn.net
+DOMAIN-SUFFIX,yfcloud.com
+DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,yfp2p.net
+DOMAIN-SUFFIX,yfscdn.net
+DOMAIN-SUFFIX,yunfancdn.com

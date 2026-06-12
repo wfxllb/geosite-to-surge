@@ -1,13 +1,4 @@
-# GeoSite: louisvuitton
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:louisvuitton.cn
-.louisvuitton.cn
-.louisvuitton.com
-# domain:lvcampaign.com
-.lvcampaign.com
-# full:tp.louisvuitton.com
-tp.louisvuitton.com
+DOMAIN-SUFFIX,louisvuitton.cn
+DOMAIN-SUFFIX,louisvuitton.com
+DOMAIN-SUFFIX,lvcampaign.com
+DOMAIN,tp.louisvuitton.com

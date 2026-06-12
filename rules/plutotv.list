@@ -1,8 +1,2 @@
-# GeoSite: plutotv
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.pluto.tv
-.plutotv.net
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net

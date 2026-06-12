@@ -1,238 +1,143 @@
-# GeoSite: azure
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# All .azure domains
-# domain:21vbc.com
-.21vbc.com
-# domain:21vbluecloud.com
-.21vbluecloud.com
-# domain:21vbluecloud.net
-.21vbluecloud.net
-# domain:aadrm.cn
-.aadrm.cn
-.aadrm.com
-# domain:aggresmart.com
-.aggresmart.com
-# domain:apihub-internal.cn
-.apihub-internal.cn
-# domain:appserviceenvironment.cn
-.appserviceenvironment.cn
-# domain:azcrmc-test.cn
-.azcrmc-test.cn
-# domain:azcrmc.cn
-.azcrmc.cn
-# domain:azk8s.cn
-.azk8s.cn
-# domain:aznbcontent.cn
-.aznbcontent.cn
-# domain:aztask.cn
-.aztask.cn
-# domain:azure-api.cn
-.azure-api.cn
-# domain:azure-apihub.cn
-.azure-apihub.cn
-# domain:azure-automation.cn
-.azure-automation.cn
-# domain:azure-connectedvehicles-stage.cn
-.azure-connectedvehicles-stage.cn
-# domain:azure-connectedvehicles.cn
-.azure-connectedvehicles.cn
-.azure-devices-int.net
-# domain:azure-devices-provisioning.cn
-.azure-devices-provisioning.cn
-# domain:azure-devices.cn
-.azure-devices.cn
-.azure-devices.net
-.azure-mobile.net
-.azure-sphere.com
-.azure-test.net
-# domain:azure.cn
-.azure.cn
-.azure.com
-.azure.net
-.azurecomcdn.net
-.azurecomm.net
-.azurecontainer.io
-.azurecosmos.net
-.azurecosmosdb.com
-.azurecosmosdb.info
-.azurecosmosdb.net
-# domain:azurecr-test.cn
-.azurecr-test.cn
-# domain:azurecr.cn
-.azurecr.cn
-.azuredatabricks.net
-.azuredevopslaunch.com
-.azuredigitaltwin.com
-.azuredigitaltwins.com
-.azuredigitaltwins.net
-.azuredns-prd.info
-.azuredns-prd.org
-.azureedge-test.net
-.azureedge.net
-.azurefd.net
-# domain:azurehdinsight.cn
-.azurehdinsight.cn
-.azureiotcentral.com
-.azureiotsolutions.com
-# domain:azureiotsuite.cn
-.azureiotsuite.cn
-.azureiotsuite.com
-# domain:azuremresolver.cn
-.azuremresolver.cn
-.azureplanetscale.info
-.azureplanetscale.net
-# domain:azureprivatedns.cn
-.azureprivatedns.cn
-# domain:azurerms.cn
-.azurerms.cn
-# domain:azuresandbox.cn
-.azuresandbox.cn
-.azureserviceprofiler.com
-.azuresmartspaces.net
-.azurestackvalidation.com
-.azurewebsites.net
-# domain:b2clogin.cn
-.b2clogin.cn
-# domain:b3itech.cn
-.b3itech.cn
-# domain:blueaggrestore.com
-.blueaggrestore.com
-# domain:bluecloudprod.com
-.bluecloudprod.com
-.botframework.com
-# domain:cegid-cloud.cn
-.cegid-cloud.cn
-# domain:chinacloud-mobile.cn
-.chinacloud-mobile.cn
-# domain:chinacloudapi.cn
-.chinacloudapi.cn
-# domain:chinacloudapp.cn
-.chinacloudapp.cn
-# domain:chinacloudsites.cn
-.chinacloudsites.cn
-.cosmosdb.info
-.cosmosdb.net
-.devopsms.com
-.gotcosmos.com
-# domain:hdinsightservices.cn
-.hdinsightservices.cn
-.management-azure-devices-int.net
-# domain:management-azure-devices-provisioning.cn
-.management-azure-devices-provisioning.cn
-# domain:management-azure-devices.cn
-.management-azure-devices.cn
-.management-azure-devices.net
-# domain:mcchcdn.com
-.mcchcdn.com
-# domain:mgmt-azure-api.cn
-.mgmt-azure-api.cn
-.microsoftazuread-sso.com
-.microsoftazuresponsorships.com
-# domain:microsoftazurestatus.cn
-.microsoftazurestatus.cn
-.microsofteca.com
-.microsoftiotcentral.com
-# domain:microsoftmetrics.cn
-.microsoftmetrics.cn
-# domain:mncmsidlab1.cn
-.mncmsidlab1.cn
-# domain:msappproxy.cn
-.msappproxy.cn
-# domain:mschcdn.com
-.mschcdn.com
-# domain:msftcloudes.cn
-.msftcloudes.cn
-# domain:msidentity.cn
-.msidentity.cn
-# domain:msidlabpbmc.cn
-.msidlabpbmc.cn
-.msn.net
-.playfab.com
-.playfabapi.com
-.serverlesslibrary.net
-# domain:trafficmanager.cn
-.trafficmanager.cn
-.trafficmanager.net
-# domain:trustcenter.cn
-.trustcenter.cn
-.tryfunctions.com
-# domain:unity3dcloud.cn
-.unity3dcloud.cn
-# domain:windowsazure.cn
-.windowsazure.cn
-.windowsazure.com
-# domain:windowsazurestatus.cn
-.windowsazurestatus.cn
-# regexp:.+\.azchcdn[a-s]\.com$ @cn
-# domain:azchcdna.com
-.azchcdna.com
-# domain:azchcdnb.com
-.azchcdnb.com
-# domain:azchcdnc.com
-.azchcdnc.com
-# domain:azchcdnd.com
-.azchcdnd.com
-# domain:azchcdne.com
-.azchcdne.com
-# domain:azchcdnf.com
-.azchcdnf.com
-# domain:azchcdng.com
-.azchcdng.com
-# domain:azchcdnh.com
-.azchcdnh.com
-# domain:azchcdni.com
-.azchcdni.com
-# domain:azchcdnj.com
-.azchcdnj.com
-# domain:azchcdnk.com
-.azchcdnk.com
-# domain:azchcdnl.com
-.azchcdnl.com
-# domain:azchcdnm.com
-.azchcdnm.com
-# domain:azchcdnn.com
-.azchcdnn.com
-# domain:azchcdno.com
-.azchcdno.com
-# domain:azchcdnp.com
-.azchcdnp.com
-# domain:azchcdnq.com
-.azchcdnq.com
-# domain:azchcdnr.com
-.azchcdnr.com
-# domain:azchcdns.com
-.azchcdns.com
-azure.microsoft.com
-azuremarketplace.microsoft.com
-# Azure DNS
-# domain:azure-dns.cn
-.azure-dns.cn
-.azure-dns.com
-.azure-dns.info
-.azure-dns.net
-.azure-dns.org
-# regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn
-# domain:azure-dns-1.cn
-.azure-dns-1.cn
-# domain:azure-dns-2.cn
-.azure-dns-2.cn
-# domain:azure-dns-3.cn
-.azure-dns-3.cn
-# domain:azure-dns-4.cn
-.azure-dns-4.cn
-# domain:azure-dns-5.cn
-.azure-dns-5.cn
-# domain:azure-dns-6.cn
-.azure-dns-6.cn
-# domain:azure-dns-7.cn
-.azure-dns-7.cn
-# domain:azure-dns-8.cn
-.azure-dns-8.cn
-# domain:azure-dns-9.cn
-.azure-dns-9.cn
-# domain:azure-dns-10.cn
-.azure-dns-10.cn
+DOMAIN-SUFFIX,21vbc.com
+DOMAIN-SUFFIX,21vbluecloud.com
+DOMAIN-SUFFIX,21vbluecloud.net
+DOMAIN-SUFFIX,aadrm.cn
+DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,aggresmart.com
+DOMAIN-SUFFIX,apihub-internal.cn
+DOMAIN-SUFFIX,appserviceenvironment.cn
+DOMAIN-SUFFIX,azcrmc-test.cn
+DOMAIN-SUFFIX,azcrmc.cn
+DOMAIN-SUFFIX,azk8s.cn
+DOMAIN-SUFFIX,aznbcontent.cn
+DOMAIN-SUFFIX,aztask.cn
+DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-apihub.cn
+DOMAIN-SUFFIX,azure-automation.cn
+DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
+DOMAIN-SUFFIX,azure-connectedvehicles.cn
+DOMAIN-SUFFIX,azure-devices-int.net
+DOMAIN-SUFFIX,azure-devices-provisioning.cn
+DOMAIN-SUFFIX,azure-devices.cn
+DOMAIN-SUFFIX,azure-devices.net
+DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,azure-sphere.com
+DOMAIN-SUFFIX,azure-test.net
+DOMAIN-SUFFIX,azure.cn
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecomm.net
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,azurecosmos.net
+DOMAIN-SUFFIX,azurecosmosdb.com
+DOMAIN-SUFFIX,azurecosmosdb.info
+DOMAIN-SUFFIX,azurecosmosdb.net
+DOMAIN-SUFFIX,azurecr-test.cn
+DOMAIN-SUFFIX,azurecr.cn
+DOMAIN-SUFFIX,azuredatabricks.net
+DOMAIN-SUFFIX,azuredevopslaunch.com
+DOMAIN-SUFFIX,azuredigitaltwin.com
+DOMAIN-SUFFIX,azuredigitaltwins.com
+DOMAIN-SUFFIX,azuredigitaltwins.net
+DOMAIN-SUFFIX,azuredns-prd.info
+DOMAIN-SUFFIX,azuredns-prd.org
+DOMAIN-SUFFIX,azureedge-test.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,azurehdinsight.cn
+DOMAIN-SUFFIX,azureiotcentral.com
+DOMAIN-SUFFIX,azureiotsolutions.com
+DOMAIN-SUFFIX,azureiotsuite.cn
+DOMAIN-SUFFIX,azureiotsuite.com
+DOMAIN-SUFFIX,azuremresolver.cn
+DOMAIN-SUFFIX,azureplanetscale.info
+DOMAIN-SUFFIX,azureplanetscale.net
+DOMAIN-SUFFIX,azureprivatedns.cn
+DOMAIN-SUFFIX,azurerms.cn
+DOMAIN-SUFFIX,azuresandbox.cn
+DOMAIN-SUFFIX,azureserviceprofiler.com
+DOMAIN-SUFFIX,azuresmartspaces.net
+DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,b2clogin.cn
+DOMAIN-SUFFIX,b3itech.cn
+DOMAIN-SUFFIX,blueaggrestore.com
+DOMAIN-SUFFIX,bluecloudprod.com
+DOMAIN-SUFFIX,botframework.com
+DOMAIN-SUFFIX,cegid-cloud.cn
+DOMAIN-SUFFIX,chinacloud-mobile.cn
+DOMAIN-SUFFIX,chinacloudapi.cn
+DOMAIN-SUFFIX,chinacloudapp.cn
+DOMAIN-SUFFIX,chinacloudsites.cn
+DOMAIN-SUFFIX,cosmosdb.info
+DOMAIN-SUFFIX,cosmosdb.net
+DOMAIN-SUFFIX,devopsms.com
+DOMAIN-SUFFIX,gotcosmos.com
+DOMAIN-SUFFIX,hdinsightservices.cn
+DOMAIN-SUFFIX,management-azure-devices-int.net
+DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
+DOMAIN-SUFFIX,management-azure-devices.cn
+DOMAIN-SUFFIX,management-azure-devices.net
+DOMAIN-SUFFIX,mcchcdn.com
+DOMAIN-SUFFIX,mgmt-azure-api.cn
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,microsoftazuresponsorships.com
+DOMAIN-SUFFIX,microsoftazurestatus.cn
+DOMAIN-SUFFIX,microsofteca.com
+DOMAIN-SUFFIX,microsoftiotcentral.com
+DOMAIN-SUFFIX,microsoftmetrics.cn
+DOMAIN-SUFFIX,mncmsidlab1.cn
+DOMAIN-SUFFIX,msappproxy.cn
+DOMAIN-SUFFIX,mschcdn.com
+DOMAIN-SUFFIX,msftcloudes.cn
+DOMAIN-SUFFIX,msidentity.cn
+DOMAIN-SUFFIX,msidlabpbmc.cn
+DOMAIN-SUFFIX,msn.net
+DOMAIN-SUFFIX,playfab.com
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,serverlesslibrary.net
+DOMAIN-SUFFIX,trafficmanager.cn
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,trustcenter.cn
+DOMAIN-SUFFIX,tryfunctions.com
+DOMAIN-SUFFIX,unity3dcloud.cn
+DOMAIN-SUFFIX,windowsazure.cn
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,windowsazurestatus.cn
+DOMAIN-SUFFIX,azchcdna.com
+DOMAIN-SUFFIX,azchcdnb.com
+DOMAIN-SUFFIX,azchcdnc.com
+DOMAIN-SUFFIX,azchcdnd.com
+DOMAIN-SUFFIX,azchcdne.com
+DOMAIN-SUFFIX,azchcdnf.com
+DOMAIN-SUFFIX,azchcdng.com
+DOMAIN-SUFFIX,azchcdnh.com
+DOMAIN-SUFFIX,azchcdni.com
+DOMAIN-SUFFIX,azchcdnj.com
+DOMAIN-SUFFIX,azchcdnk.com
+DOMAIN-SUFFIX,azchcdnl.com
+DOMAIN-SUFFIX,azchcdnm.com
+DOMAIN-SUFFIX,azchcdnn.com
+DOMAIN-SUFFIX,azchcdno.com
+DOMAIN-SUFFIX,azchcdnp.com
+DOMAIN-SUFFIX,azchcdnq.com
+DOMAIN-SUFFIX,azchcdnr.com
+DOMAIN-SUFFIX,azchcdns.com
+DOMAIN,azure.microsoft.com
+DOMAIN,azuremarketplace.microsoft.com
+DOMAIN-SUFFIX,azure-dns.cn
+DOMAIN-SUFFIX,azure-dns.com
+DOMAIN-SUFFIX,azure-dns.info
+DOMAIN-SUFFIX,azure-dns.net
+DOMAIN-SUFFIX,azure-dns.org
+DOMAIN-SUFFIX,azure-dns-1.cn
+DOMAIN-SUFFIX,azure-dns-2.cn
+DOMAIN-SUFFIX,azure-dns-3.cn
+DOMAIN-SUFFIX,azure-dns-4.cn
+DOMAIN-SUFFIX,azure-dns-5.cn
+DOMAIN-SUFFIX,azure-dns-6.cn
+DOMAIN-SUFFIX,azure-dns-7.cn
+DOMAIN-SUFFIX,azure-dns-8.cn
+DOMAIN-SUFFIX,azure-dns-9.cn
+DOMAIN-SUFFIX,azure-dns-10.cn

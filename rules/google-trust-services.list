@@ -1,28 +1,12 @@
-# GeoSite: google-trust-services
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.pki.goog
-# full:pki-goog.l.google.com
-pki-goog.l.google.com
-# full:c.pki.goog
-c.pki.goog
-# full:i.pki.goog
-i.pki.goog
-# full:o.pki.goog
-o.pki.goog
-# Google Public CA API Endpoint
-publicca.googleapis.com
-preprod-publicca.googleapis.com
-# Deprecated earlier
-clients1.google.com
-pki.google.com
-# Deprecated recently
-# full:crl.pki.goog
-crl.pki.goog
-# full:crls.pki.goog
-crls.pki.goog
-# full:ocsp.pki.goog
-ocsp.pki.goog
+DOMAIN-SUFFIX,pki.goog
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
+DOMAIN,publicca.googleapis.com
+DOMAIN,preprod-publicca.googleapis.com
+DOMAIN,clients1.google.com
+DOMAIN,pki.google.com
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,ocsp.pki.goog

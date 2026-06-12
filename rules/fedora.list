@@ -1,12 +1,6 @@
-# GeoSite: fedora
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.fedoraforum.org
-.fedorainfracloud.org
-.fedoramagazine.org
-.fedorapeople.org
-.fedoraproject.org
-.getfedora.org
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedorainfracloud.org
+DOMAIN-SUFFIX,fedoramagazine.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,getfedora.org

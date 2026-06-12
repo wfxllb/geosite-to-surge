@@ -1,14 +1,6 @@
-# GeoSite: icable
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: cabletv ══
-.cabletv.com.hk
-.fantv.hk
-.hkopentv.com
-.hoy.tv
-.i-cable.com
-# ══ end include: cabletv ══
-.i-cablecomm.com
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,i-cablecomm.com

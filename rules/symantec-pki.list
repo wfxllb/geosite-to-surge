@@ -1,12 +1,5 @@
-# GeoSite: symantec-pki
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Symantec CA
-.pki.symantec.com
-.symauth.com
-.symcb.com
-.symcd.com
-.ws.symantec.com
+DOMAIN-SUFFIX,pki.symantec.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ws.symantec.com

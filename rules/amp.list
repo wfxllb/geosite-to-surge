@@ -1,13 +1,6 @@
-# GeoSite: amp
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.amp.dev
-.ampproject.com
-.ampproject.net
-.ampproject.org
-# full:cdn.ampproject.org
-cdn.ampproject.org
-amp.akamaized.net
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN,cdn.ampproject.org
+DOMAIN,amp.akamaized.net

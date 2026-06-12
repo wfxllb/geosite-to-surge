@@ -1,19 +1,9 @@
-# GeoSite: rostelecom
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: wink ══
-.restream-media.net
-.restream.ru
-.more.tv
-.wink.am
-.wink.ru
-# ══ end include: wink ══
-.azbukainterneta.ru
-.rostelecom.ru
-.rt.ru
-# Tracking
-# full:sentry.iptv.rt.ru
-sentry.iptv.rt.ru
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+DOMAIN,sentry.iptv.rt.ru

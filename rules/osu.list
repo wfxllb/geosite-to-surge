@@ -1,17 +1,9 @@
-# GeoSite: osu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# osu
-a.ppy.sh
-assets.ppy.sh
-c.ppy.sh
-osu.ppy.sh
-m1.ppy.sh
-# osu lazer
-lazer.ppy.sh
-notify.ppy.sh
-sentry.ppy.sh
-spectator.ppy.sh
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,m1.ppy.sh
+DOMAIN,lazer.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh

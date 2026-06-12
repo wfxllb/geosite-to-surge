@@ -1,19 +1,10 @@
-# GeoSite: hinet
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: hinet-eca ══
-# Chunghwa Telecom PKI
-.eca.hinet.net
-.gtlsca.nat.gov.tw
-.pki.hinet.net
-.publicca.hinet.net
-.tls.hinet.net
-# ══ end include: hinet-eca ══
-.cht.com.tw
-.chtf.org.tw
-.emome.net
-.hinet.net
-.xuite.net
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,pki.hinet.net
+DOMAIN-SUFFIX,publicca.hinet.net
+DOMAIN-SUFFIX,tls.hinet.net
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,xuite.net

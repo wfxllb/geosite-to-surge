@@ -1,16 +1,5 @@
-# GeoSite: duolingo
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.duolingo.com
-# domain:duolingo.cn
-.duolingo.cn
-# Ads/tracking
-# domain:ads-api.duolingo.com
-.ads-api.duolingo.com
-# domain:analytics.vpc.duolingo.com
-.analytics.vpc.duolingo.com
-# domain:metrics.duolingo.com
-.metrics.duolingo.com
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

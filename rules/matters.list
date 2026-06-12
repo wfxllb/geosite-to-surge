@@ -1,10 +1,4 @@
-# GeoSite: matters
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.matters.news
-.matters.one
-.matters.town
-.mattersprotocol.io
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.one
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,mattersprotocol.io

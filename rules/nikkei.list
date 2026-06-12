@@ -1,12 +1,6 @@
-# GeoSite: nikkei
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.nikkei-cnbc.co.jp
-.nikkei.co.jp
-.nikkei.com
-.nikkei.jp
-.nikkei4946.com
-.nikkeibp.co.jp
+DOMAIN-SUFFIX,nikkei-cnbc.co.jp
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,nikkei4946.com
+DOMAIN-SUFFIX,nikkeibp.co.jp

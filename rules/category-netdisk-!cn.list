@@ -1,70 +1,46 @@
-# GeoSite: category-netdisk-!cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: dropbox ══
-# List of all domains being operated by Dorpbox Inc.
-# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
-.db.tt
-.dropbox-dns.com
-.dropbox.com
-.dropbox.tech
-.dropboxapi.com
-.dropboxbusiness.com
-.dropboxcaptcha.com
-.dropboxforum.com
-.dropboxforums.com
-.dropboxinsiders.com
-.dropboxmail.com
-.dropboxpartners.com
-.dropboxstatic.com
-.dropboxusercontent.com
-.getdropbox.com
-paper-attachments.s3.amazonaws.com
-# ══ end include: dropbox ══
-# ══ include: mega ══
-.mega.co.nz
-.mega.io
-.mega.nz
-# ══ end include: mega ══
-# ══ include: onedrive ══
-.1drv.com
-.1drv.ms
-.livefilestore.com
-.onedrive.co
-.onedrive.co.uk
-.onedrive.com
-.onedrive.eu
-.onedrive.net
-.onedrive.org
-.onedrive.live.com
-.storage.live.com
-# ══ end include: onedrive ══
-# ══ include: pikpak ══
-.mypikpak.com
-.mypikpak.net
-.pickpackapp.com
-.pikpak.io
-.pikpak.me
-.pikpakdrive.com
-# tracking
-# full:o4504926511693824.ingest.sentry.io
-o4504926511693824.ingest.sentry.io
-# ══ end include: pikpak ══
-# ══ include: terabox ══
-.1024terabox.com
-.bestclouddrive.com
-.freeterabox.com
-.nephobox.com
-.terabox.com
-.terabox1024.com
-.teraboxcdn.com
-# ══ end include: terabox ══
-# ══ include: usersdrive ══
-#Domain for generated download links:
-.userdrive.org
-#Main website:
-.usersdrive.com
-# ══ end include: usersdrive ══
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN,paper-attachments.s3.amazonaws.com
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,pikpak.io
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN,o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,1024terabox.com
+DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,nephobox.com
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,terabox1024.com
+DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,userdrive.org
+DOMAIN-SUFFIX,usersdrive.com

@@ -1,10 +1,4 @@
-# GeoSite: economist
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.economist.com
-.economistgroup.com
-.economistgroupcareers.com
-.eiu.com
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,economistgroup.com
+DOMAIN-SUFFIX,economistgroupcareers.com
+DOMAIN-SUFFIX,eiu.com

@@ -1,10 +1,2 @@
-# GeoSite: schoopia
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 翻转校园 河南昱荣教育科技有限公司 豫ICP备2021021028号
-.schoopia.com
-# 同学派 翻转校园app内置服务
-.tongxuepie.com
+DOMAIN-SUFFIX,schoopia.com
+DOMAIN-SUFFIX,tongxuepie.com

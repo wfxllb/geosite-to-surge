@@ -11,9 +11,9 @@ GeoSite → Surge Rule Set Converter
     python convert.py --output /path/to/rules  # 指定输出目录
 
 输出格式:
-    Surge .list — 每行一个域名规则
-    .domain.com  → 匹配 domain.com 及所有子域名
-    exact.host   → 精确匹配
+    Surge RULE-SET (.list) — 标准 DOMAIN-SUFFIX, / DOMAIN, 格式
+    DOMAIN-SUFFIX,domain.com  → 匹配 domain.com 及所有子域名
+    DOMAIN,exact.host         → 精确匹配
 """
 
 import os
@@ -71,21 +71,20 @@ def parse_line(line: str) -> Tuple[str, str, str]:
 
 def rule_to_surge(rule_type: str, value: str) -> Optional[str]:
     """
-    将 geosite 规则转为 Surge .list 格式。
-    返回 None 表示无法转换（如 keyword）。
+    将 geosite 规则转为 Surge RULE-SET 标准格式。
+    返回 None 表示无法转换（如 keyword、复杂正则）。
     """
     if rule_type == "domain":
-        # domain:google.com → .google.com
-        # Surge 中 .开头表示 DOMAIN-SUFFIX
-        return f".{value}"
+        # domain:google.com → DOMAIN-SUFFIX,google.com
+        return f"DOMAIN-SUFFIX,{value}"
 
     elif rule_type == "full":
-        # full:www.google.com → www.google.com (精确匹配)
-        return value
+        # full:www.google.com → DOMAIN,www.google.com (精确匹配)
+        return f"DOMAIN,{value}"
 
     elif rule_type == "regexp":
-        # 尝试转换简单正则为域名后缀
-        # .*\.domain\.com → .domain.com
+        # 尝试转换简单正则为 DOMAIN-SUFFIX
+        # .*\.domain\.com → DOMAIN-SUFFIX,domain.com
         # 复杂的正则（含 | 选择、\d 等）直接放弃
         if "|" in value or "(" in value or ")" in value:
             return None
@@ -95,11 +94,11 @@ def rule_to_surge(rule_type: str, value: str) -> Optional[str]:
         m = re.match(r"^\.\*((?:\\\.[a-z0-9][-a-z0-9]*)+)$", value, re.IGNORECASE)
         if m:
             suffix = m.group(1).replace("\\.", ".")
-            return suffix  # 已是 .domain.com 格式
+            return f"DOMAIN-SUFFIX,{suffix}"
         return None
 
     elif rule_type == "keyword":
-        # Surge .list 不支持关键字匹配
+        # Surge RULE-SET 不支持关键字匹配
         return None
 
     return None
@@ -141,14 +140,11 @@ def load_category(
                 continue
 
             if rt == "comment":
-                rules.append((val, None))
                 continue
 
             if rt == "include":
-                rules.append((f"# ══ include: {val} ══", None))
                 sub = load_category(data_dir, val, resolved.copy(), cache, depth + 1)
                 rules.extend(sub)
-                rules.append((f"# ══ end include: {val} ══", None))
                 continue
 
             if rt in ("unknown", "skip"):
@@ -156,34 +152,26 @@ def load_category(
 
             surge = rule_to_surge(rt, val)
             if surge:
-                rules.append((f"# {rt}:{val}" if attrs else "", surge))
-            else:
-                rules.append((f"# [skip] {rt}:{val} — 无法转为 Surge .list", None))
+                rules.append(("", surge))
 
     cache[category] = rules
     return rules
 
 
 def deduplicate(rules: List[Tuple[str, Optional[str]]]) -> List[str]:
-    """去除重复域名，保留注释行、保持顺序。"""
+    """去除重复域名，保持首次出现顺序。"""
     seen: Set[str] = set()
     result: List[str] = []
-    for comment, surge in rules:
-        if surge is None:
-            if comment:
-                result.append(comment)
-        else:
-            if surge not in seen:
-                seen.add(surge)
-                if comment:
-                    result.append(comment)
-                result.append(surge)
+    for _, surge in rules:
+        if surge and surge not in seen:
+            seen.add(surge)
+            result.append(surge)
     return result
 
 
 def count_domains(lines: List[str]) -> int:
-    """统计非注释的域名规则数量。"""
-    return sum(1 for l in lines if l and not l.startswith("#"))
+    """统计域名规则数量。"""
+    return sum(1 for l in lines if l)
 
 
 def main():
@@ -247,13 +235,7 @@ def main():
             continue
 
         output_file = output_dir / f"{cat}.list"
-        with open(output_file, "w", encoding="utf-8") as f:
-            f.write(f"# GeoSite: {cat}\n")
-            f.write(f"# Source: v2fly/domain-list-community\n")
-            f.write(f"# Format: Surge .list\n")
-            f.write(f"#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)\n")
-            f.write(f"#   无前缀 → 精确匹配\n")
-            f.write(f"#\n")
+        with open(output_file, "w", encoding="utf-8", newline="\n") as f:
             for line in lines:
                 f.write(line + "\n")
 

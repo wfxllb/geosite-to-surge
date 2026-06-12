@@ -1,15 +1,7 @@
-# GeoSite: avaxhome
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# AvaxHome main site:
-.avxhm.se
-# AvaxHome mirror sites:
-.avh.world
-.avxde.org
-.avxhm.is
-.avxlive.icu
-.xsava.xyz
-.zavat.pw
+DOMAIN-SUFFIX,avxhm.se
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw

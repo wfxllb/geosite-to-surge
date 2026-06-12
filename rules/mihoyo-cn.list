@@ -1,33 +1,16 @@
-# GeoSite: mihoyo-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 米哈游
-.mhystatic.com
-.mhyurl.cn
-.mihayo.com
-.mihayou.com
-.mihoyo.com
-.mihoyocg.com
-.mihoyogift.com
-.mihoyomall.com
-.miyoushe.com
-# 崩坏2
-.benghuai.com
-# 崩坏3
-.bh3.com
-# 星穹铁道
-.bhsr.com
-# 未定事件簿
-.themisweeps.com
-# 原神
-.yuanshen.com
-#绝区零
-.juequling.com
-# Akamai
-# [skip] regexp:^.+-mihayo\.akamaized\.net$ — 无法转为 Surge .list
-# Ads/tracking
-# domain:log-upload.mihoyo.com
-.log-upload.mihoyo.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,mhyurl.cn
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,mihoyogift.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com

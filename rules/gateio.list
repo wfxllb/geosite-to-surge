@@ -1,11 +1,5 @@
-# GeoSite: gateio
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.gate.io
-.gatedata.org
-.gateimg.com
-.gateio.live
-.gateio.services
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services

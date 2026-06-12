@@ -1,13 +1,6 @@
-# GeoSite: cern
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# All .cern domains
-.ams02.space
-.cern.ch
-.cixp.net
-.dotcernpilot.info
-.ippog.org
-.linearcollider.org
+DOMAIN-SUFFIX,ams02.space
+DOMAIN-SUFFIX,cern.ch
+DOMAIN-SUFFIX,cixp.net
+DOMAIN-SUFFIX,dotcernpilot.info
+DOMAIN-SUFFIX,ippog.org
+DOMAIN-SUFFIX,linearcollider.org

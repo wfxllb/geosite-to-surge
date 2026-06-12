@@ -1,11 +1,5 @@
-# GeoSite: gitlab
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.gitlab.com
-.gitlab.io
-.gitlab.net
-.gitlab-static.net
-gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

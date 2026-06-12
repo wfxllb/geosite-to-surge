@@ -1,13 +1,4 @@
-# GeoSite: purikonejp
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# `purikone` is for `purinsesukonekuto` (プリンセスコネクト)
-# Home page
-.priconne-redive.jp
-# API, resources, etc.
-.api-priconne-redive.cygames.jp
-.omotenashi.cygames.jp
-prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,priconne-redive.jp
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN,prd-priconne-redive.akamaized.net

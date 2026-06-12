@@ -1,10 +1,4 @@
-# GeoSite: 2ch
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.2ch.hk
-.2ch.life
-.2ch.org
-.2ch.su
+DOMAIN-SUFFIX,2ch.hk
+DOMAIN-SUFFIX,2ch.life
+DOMAIN-SUFFIX,2ch.org
+DOMAIN-SUFFIX,2ch.su

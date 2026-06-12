@@ -1,39 +1,20 @@
-# GeoSite: iqiyi
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.71.am
-# domain:iq.com
-.iq.com
-.iqiyi.com
-.iqiyipic.com
-.pps.tv
-.ppsimg.com
-.qiyi.com
-.qiyipic.com
-.qy.net
-# CDN used by iqiyi
-.71edge.com
-# Ads/tracking
-# domain:ad.m.iqiyi.com
-.ad.m.iqiyi.com
-# domain:afp.iqiyi.com
-.afp.iqiyi.com
-# domain:c.uaa.iqiyi.com
-.c.uaa.iqiyi.com
-# domain:cloudpush.iqiyi.com
-.cloudpush.iqiyi.com
-# domain:cupid.iqiyi.com
-.cupid.iqiyi.com
-# domain:ifacelog.iqiyi.com
-.ifacelog.iqiyi.com
-# domain:mbdlog.iqiyi.com
-.mbdlog.iqiyi.com
-# domain:msg.video.qiyi.com
-.msg.video.qiyi.com
-# domain:msg2.video.qiyi.com
-.msg2.video.qiyi.com
-# domain:policy.video.iqiyi.com
-.policy.video.iqiyi.com
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,pps.tv
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,ad.m.iqiyi.com
+DOMAIN-SUFFIX,afp.iqiyi.com
+DOMAIN-SUFFIX,c.uaa.iqiyi.com
+DOMAIN-SUFFIX,cloudpush.iqiyi.com
+DOMAIN-SUFFIX,cupid.iqiyi.com
+DOMAIN-SUFFIX,ifacelog.iqiyi.com
+DOMAIN-SUFFIX,mbdlog.iqiyi.com
+DOMAIN-SUFFIX,msg.video.qiyi.com
+DOMAIN-SUFFIX,msg2.video.qiyi.com
+DOMAIN-SUFFIX,policy.video.iqiyi.com

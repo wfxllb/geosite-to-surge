@@ -1,10 +1,4 @@
-# GeoSite: dlercloud
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.dlercloud.com
-.dlercloud.org
-.dlercloud.me
-.dleris.best
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dleris.best

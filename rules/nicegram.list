@@ -1,11 +1,3 @@
-# GeoSite: nicegram
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.nicegram.app
-.nicegram.cloud
-# Ads
-# domain:adsgram.ai
-.adsgram.ai
+DOMAIN-SUFFIX,nicegram.app
+DOMAIN-SUFFIX,nicegram.cloud
+DOMAIN-SUFFIX,adsgram.ai

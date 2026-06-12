@@ -1,11 +1,5 @@
-# GeoSite: metart
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.metart.com
-.metartnetwork.com
-.metcams.com
-.naiadsystems.com
-.nsimg.net
+DOMAIN-SUFFIX,metart.com
+DOMAIN-SUFFIX,metartnetwork.com
+DOMAIN-SUFFIX,metcams.com
+DOMAIN-SUFFIX,naiadsystems.com
+DOMAIN-SUFFIX,nsimg.net

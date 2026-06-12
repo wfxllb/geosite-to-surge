@@ -1,8 +1,2 @@
-# GeoSite: softether
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.softether.org
-.softether-download.com
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,softether-download.com

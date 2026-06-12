@@ -1,12 +1,6 @@
-# GeoSite: wbgames
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-datarouter.apps.netherrealm.com
-wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-.warnerbrosgames.com
-.wbagora.com
-.wbgames.com
-.wbinsights.com
+DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+DOMAIN-SUFFIX,warnerbrosgames.com
+DOMAIN-SUFFIX,wbagora.com
+DOMAIN-SUFFIX,wbgames.com
+DOMAIN-SUFFIX,wbinsights.com

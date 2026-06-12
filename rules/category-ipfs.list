@@ -1,30 +1,21 @@
-# GeoSite: category-ipfs
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Reference: https://ipfs.github.io/public-gateway-checker/
-# ══ include: cloudflare-ipfs ══
-.cf-ipfs.com
-.cloudflare-ipfs.com
-# ══ end include: cloudflare-ipfs ══
-.4everland.io
-.c4rex.co
-.crustwebsites.net
-.dweb.link
-.gateway.pinata.cloud
-.ipfs-gateway.cloud
-.ipfs.anonymize.com
-.ipfs.best-practice.se
-.ipfs.eternum.io
-.ipfs.eth.aragon.network
-.ipfs.fleek.co
-.ipfs.io
-.ipfs.lain.la
-.ipfs.runfission.com
-.ipfs.tech
-.ipns.co
-.jorropo.net
-.nftstorage.link
-.via0.com
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,ipfs-gateway.cloud
+DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,ipfs.best-practice.se
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,ipfs.eth.aragon.network
+DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,ipfs.tech
+DOMAIN-SUFFIX,ipns.co
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,nftstorage.link
+DOMAIN-SUFFIX,via0.com

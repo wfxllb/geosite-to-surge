@@ -1,14 +1,8 @@
-# GeoSite: signal
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.signal.art
-.signal.group
-.signal.link
-.signal.me
-.signal.tube
-.signal.org
-.signalusers.org
-.whispersystems.org
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.group
+DOMAIN-SUFFIX,signal.link
+DOMAIN-SUFFIX,signal.me
+DOMAIN-SUFFIX,signal.tube
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org

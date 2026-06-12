@@ -1,41 +1,29 @@
-# GeoSite: cbs
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# https://www.iana.org/domains/root/db/cbs.html
-# cbs (Revoked)
-# https://www.iana.org/domains/root/db/showtime.html
-# showtime (Revoked)
-.cbs.com
-.cbscorporation.com
-.cbsi.com
-.cbsi.video
-.cbsiam.com
-.cbsig.net
-.cbsimg.net
-.cbsinteractive.com
-.cbsistatic.com
-.cbsivideo.com
-.cbsnews.com
-.cbspressexpress.com
-.cbssports.com
-.cbsstatic.com
-.cbssvideo.com
-.viacbs.com
-.viacom.com
-.viacomcbs.com
-.viacomcbspressexpress.com
-# Paramount
-.paramount.com
-# Paramount Plus
-.amlg.io
-.cbsaavideo.com
-.mtvnservices.com
-.paramountplus.com
-.pplusstatic.com
-cbsi.live.ott.irdeto.com
-cbsplaylistserver.aws.syncbak.com
-cbsservice.aws.syncbak.com
-link.theplatform.com
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbscorporation.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,cbsiam.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsimg.net
+DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbsistatic.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,viacomcbspressexpress.com
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,amlg.io
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com

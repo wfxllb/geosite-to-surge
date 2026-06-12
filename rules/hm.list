@@ -1,9 +1,2 @@
-# GeoSite: hm
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.hm.com
-# domain:hm.com.cn
-.hm.com.cn
+DOMAIN-SUFFIX,hm.com
+DOMAIN-SUFFIX,hm.com.cn

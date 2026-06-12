@@ -1,17 +1,5 @@
-# GeoSite: category-urlshortner
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: bitly ══
-.bit.ly
-.bitly.com
-.bitly.is
-# ══ end include: bitly ══
-# ══ include: shorturl ══
-.shorturl.at
-# ══ end include: shorturl ══
-# ══ include: tinyurl ══
-.tinyurl.com
-# ══ end include: tinyurl ══
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+DOMAIN-SUFFIX,shorturl.at
+DOMAIN-SUFFIX,tinyurl.com

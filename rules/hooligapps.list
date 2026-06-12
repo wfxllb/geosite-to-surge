@@ -1,14 +1,8 @@
-# GeoSite: hooligapps
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.cuntempire.com
-.cuntwars.com
-.dirtyleague.com
-.faptitans.com
-.hooligapps.com
-.slotbitches.com
-.smutstone.com
-.townofsins.com
+DOMAIN-SUFFIX,cuntempire.com
+DOMAIN-SUFFIX,cuntwars.com
+DOMAIN-SUFFIX,dirtyleague.com
+DOMAIN-SUFFIX,faptitans.com
+DOMAIN-SUFFIX,hooligapps.com
+DOMAIN-SUFFIX,slotbitches.com
+DOMAIN-SUFFIX,smutstone.com
+DOMAIN-SUFFIX,townofsins.com

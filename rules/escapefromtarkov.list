@@ -1,9 +1,3 @@
-# GeoSite: escapefromtarkov
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.tarkov.com
-.eft-store.com
-.escapefromtarkov.com
+DOMAIN-SUFFIX,tarkov.com
+DOMAIN-SUFFIX,eft-store.com
+DOMAIN-SUFFIX,escapefromtarkov.com

@@ -1,19 +1,7 @@
-# GeoSite: skyperfect
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# SKY Perfect JSAT Holdings Inc.
-.skyperfectjsat.space
-# SKY Perfect Broadcasting Corporation
-.sptvbroadcast.com
-# SKY Perfect Costomer-relations Corporation
-.spcc-sp.com
-# SKY Perfect Entertainment Corporation.
-.skyperfectv.co.jp
-.hominis.media
-# JSAT International Inc.
-.jsati.com
-# JSAT MOBILE Communications Inc.
-.jsatmobile.com
+DOMAIN-SUFFIX,skyperfectjsat.space
+DOMAIN-SUFFIX,sptvbroadcast.com
+DOMAIN-SUFFIX,spcc-sp.com
+DOMAIN-SUFFIX,skyperfectv.co.jp
+DOMAIN-SUFFIX,hominis.media
+DOMAIN-SUFFIX,jsati.com
+DOMAIN-SUFFIX,jsatmobile.com

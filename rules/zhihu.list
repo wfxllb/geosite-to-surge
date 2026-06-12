@@ -1,12 +1,4 @@
-# GeoSite: zhihu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.zhihu.com
-.zhimg.com
-# domain:crash2.zhihu.com
-.crash2.zhihu.com
-# domain:zhihu-web-analytics.zhihu.com
-.zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

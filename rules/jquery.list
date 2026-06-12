@@ -1,9 +1,3 @@
-# GeoSite: jquery
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.jquery.com
-.jquerymobile.com
-.jqueryui.com
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com

@@ -1,48 +1,37 @@
-# GeoSite: ucoz
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# uCoz, a Russian free web hosting with a built-in content management system
-.ucoz.ae
-.ucoz.club
-.ucoz.co
-.ucoz.co.il
-.ucoz.co.uk
-.ucoz.com
-.ucoz.com.br
-.ucoz.com.ro
-.ucoz.de
-.ucoz.es
-.ucoz.fr
-.ucoz.hu
-.ucoz.kz
-.ucoz.lv
-.ucoz.md
-.ucoz.net
-.ucoz.org
-.ucoz.pl
-.ucoz.ru
-.ucoz.site
-.ucoz.ua
-.ukoz.ru
-# uCozmedia
-.ucozmedia.com
-.ucozmedia.ru
-# uGuide
-.uguide.ru
-.uguide.su
-# uKit
-.ukit.ai
-.ukit.com
-.ukit.group
-.ukit.me
-# Other
-.at.ua
-.narod.ru
-.scripts-for-ucoz.ru
-.ucozmail.com
-.ucoztemplates.com
-.usocial.pro
-.uweb.ru
+DOMAIN-SUFFIX,ucoz.ae
+DOMAIN-SUFFIX,ucoz.club
+DOMAIN-SUFFIX,ucoz.co
+DOMAIN-SUFFIX,ucoz.co.il
+DOMAIN-SUFFIX,ucoz.co.uk
+DOMAIN-SUFFIX,ucoz.com
+DOMAIN-SUFFIX,ucoz.com.br
+DOMAIN-SUFFIX,ucoz.com.ro
+DOMAIN-SUFFIX,ucoz.de
+DOMAIN-SUFFIX,ucoz.es
+DOMAIN-SUFFIX,ucoz.fr
+DOMAIN-SUFFIX,ucoz.hu
+DOMAIN-SUFFIX,ucoz.kz
+DOMAIN-SUFFIX,ucoz.lv
+DOMAIN-SUFFIX,ucoz.md
+DOMAIN-SUFFIX,ucoz.net
+DOMAIN-SUFFIX,ucoz.org
+DOMAIN-SUFFIX,ucoz.pl
+DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucoz.site
+DOMAIN-SUFFIX,ucoz.ua
+DOMAIN-SUFFIX,ukoz.ru
+DOMAIN-SUFFIX,ucozmedia.com
+DOMAIN-SUFFIX,ucozmedia.ru
+DOMAIN-SUFFIX,uguide.ru
+DOMAIN-SUFFIX,uguide.su
+DOMAIN-SUFFIX,ukit.ai
+DOMAIN-SUFFIX,ukit.com
+DOMAIN-SUFFIX,ukit.group
+DOMAIN-SUFFIX,ukit.me
+DOMAIN-SUFFIX,at.ua
+DOMAIN-SUFFIX,narod.ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
+DOMAIN-SUFFIX,ucozmail.com
+DOMAIN-SUFFIX,ucoztemplates.com
+DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,uweb.ru

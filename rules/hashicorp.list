@@ -1,14 +1,8 @@
-# GeoSite: hashicorp
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.consul.io
-.hashicorp.com
-.nomadproject.io
-.packer.io
-.terraform.io
-.vagrantcloud.com
-.vagrantup.com
-.vaultproject.io
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

@@ -1,17 +1,9 @@
-# GeoSite: okx
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.okex.com
-.okx-dns.com
-.okx-dns1.com
-.okx-dns2.com
-.okx.ac
-.okx.cab
-.okx.com
-.okx.com.cdn.cloudflare.net
-# OKC Browser
-# domain:oklink.com
-.oklink.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.ac
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,oklink.com

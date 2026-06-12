@@ -1,10 +1,4 @@
-# GeoSite: nudevista
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.nudevista.com
-.nudevista.es
-.nudevista.net
-.nudevista.vip
+DOMAIN-SUFFIX,nudevista.com
+DOMAIN-SUFFIX,nudevista.es
+DOMAIN-SUFFIX,nudevista.net
+DOMAIN-SUFFIX,nudevista.vip

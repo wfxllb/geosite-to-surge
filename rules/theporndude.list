@@ -1,13 +1,7 @@
-# GeoSite: theporndude
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.porndude2.com
-.porndudecasting.com
-.pornsites.com
-.pornwebmasters.com
-.theporndude.cc
-.theporndude.com
-.theporndude.vip
+DOMAIN-SUFFIX,porndude2.com
+DOMAIN-SUFFIX,porndudecasting.com
+DOMAIN-SUFFIX,pornsites.com
+DOMAIN-SUFFIX,pornwebmasters.com
+DOMAIN-SUFFIX,theporndude.cc
+DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,theporndude.vip

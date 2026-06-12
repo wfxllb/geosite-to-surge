@@ -1,17 +1,8 @@
-# GeoSite: libgen
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Forum
-.libgen.life
-# Official site
-.libgen.fun
-.library.lol
-# Unofficial sites (forked from the official site)
-.gen.lib.rus.ec
-.libgen.is
-.libgen.me
-.libgen.rs
-.libgen.st
+DOMAIN-SUFFIX,libgen.life
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,library.lol
+DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.me
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st

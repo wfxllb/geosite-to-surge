@@ -1,12 +1,6 @@
-# GeoSite: lumion
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.lumion-la.com
-.lumion.com
-.lumion3d.com.my
-.lumion3d.net
-.lumiontech.net
-.mylumion.com
+DOMAIN-SUFFIX,lumion-la.com
+DOMAIN-SUFFIX,lumion.com
+DOMAIN-SUFFIX,lumion3d.com.my
+DOMAIN-SUFFIX,lumion3d.net
+DOMAIN-SUFFIX,lumiontech.net
+DOMAIN-SUFFIX,mylumion.com

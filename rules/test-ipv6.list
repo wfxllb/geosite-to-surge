@@ -1,35 +1,27 @@
-# GeoSite: test-ipv6
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.ams2.test-ipv6.com
-.fra.test-ipv6.com
-.sixte.st
-.test-ipv6.alpinedc.ch
-.test-ipv6.arauc.br
-.test-ipv6.belwue.net
-.test-ipv6.carnet.hr
-.test-ipv6.cl
-.test-ipv6.com
-.test-ipv6.cs.umd.edu
-.test-ipv6.csclub.uwaterloo.ca
-.test-ipv6.cz
-.test-ipv6.epic.network
-.test-ipv6.fratec.net
-.test-ipv6.freerangecloud.com
-.test-ipv6.go6.si
-.test-ipv6.hu
-.test-ipv6.is
-.test-ipv6.iu13.net
-.test-ipv6.ke.liquidtelecom.net
-.test-ipv6.noroutetohost.net
-.test-ipv6.roedu.net
-.test-ipv6.se
-.test-ipv6.sin.vr.org
-.test-ipv6.ttk.ru
-.testipv6.de
-# 豫ICP备20004384号
-# domain:testipv6.cn
-.testipv6.cn
+DOMAIN-SUFFIX,ams2.test-ipv6.com
+DOMAIN-SUFFIX,fra.test-ipv6.com
+DOMAIN-SUFFIX,sixte.st
+DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
+DOMAIN-SUFFIX,test-ipv6.arauc.br
+DOMAIN-SUFFIX,test-ipv6.belwue.net
+DOMAIN-SUFFIX,test-ipv6.carnet.hr
+DOMAIN-SUFFIX,test-ipv6.cl
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
+DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
+DOMAIN-SUFFIX,test-ipv6.cz
+DOMAIN-SUFFIX,test-ipv6.epic.network
+DOMAIN-SUFFIX,test-ipv6.fratec.net
+DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
+DOMAIN-SUFFIX,test-ipv6.go6.si
+DOMAIN-SUFFIX,test-ipv6.hu
+DOMAIN-SUFFIX,test-ipv6.is
+DOMAIN-SUFFIX,test-ipv6.iu13.net
+DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
+DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
+DOMAIN-SUFFIX,test-ipv6.roedu.net
+DOMAIN-SUFFIX,test-ipv6.se
+DOMAIN-SUFFIX,test-ipv6.sin.vr.org
+DOMAIN-SUFFIX,test-ipv6.ttk.ru
+DOMAIN-SUFFIX,testipv6.de
+DOMAIN-SUFFIX,testipv6.cn

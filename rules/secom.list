@@ -1,12 +1,5 @@
-# GeoSite: secom
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.secom.co.jp
-.secomtrust.net
-# Sub brand
-.cybertrust.co.jp
-.cybertrust.ne.jp
-.managedpki.ne.jp
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp
+DOMAIN-SUFFIX,managedpki.ne.jp

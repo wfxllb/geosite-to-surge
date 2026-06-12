@@ -1,9 +1,3 @@
-# GeoSite: ku6
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.ku6.com
-.ku6cdn.com
-.ku6img.com
+DOMAIN-SUFFIX,ku6.com
+DOMAIN-SUFFIX,ku6cdn.com
+DOMAIN-SUFFIX,ku6img.com

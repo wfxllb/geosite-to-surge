@@ -1,21 +1,11 @@
-# GeoSite: didi
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:didi-food.com
-.didi-food.com
-.didi.cn
-.didialift.com
-# domain:didiaustralia.blog
-.didiaustralia.blog
-.didichuxing.com
-# domain:didiglobal.com
-.didiglobal.com
-# domain:didimobility.co.jp
-.didimobility.co.jp
-.didistatic.com
-.diditaxi.com.cn
-.udache.com
-.xiaojukeji.com
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didi.cn
+DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didichuxing.com
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,diditaxi.com.cn
+DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,xiaojukeji.com

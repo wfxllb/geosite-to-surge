@@ -1,252 +1,164 @@
-# GeoSite: category-education-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: category-mooc-cn ══
-.chinesemooc.org
-.cnmooc.org
-.icourse163.org
-.icourses.cn
-.icve.com.cn
-.mooc.cn
-.openlearning.com
-.pmphmooc.com
-moocs.unipus.cn
-opencourse.pku.edu.cn
-study.163.com
-# ══ end include: category-mooc-cn ══
-# ══ include: 17zuoye ══
-.17zuoye.cn
-.17zuoye.com
-.17zuoye.net
-# ══ end include: 17zuoye ══
-# ══ include: applysquare ══
-.applysquare.com
-.applysquare.net
-# ══ end include: applysquare ══
-# ══ include: hugecore ══
-.hugecore.net
-.shareintelli.com
-# MOJi辞書
-.mojidict.com
-# ══ end include: hugecore ══
-# ══ include: hujiang ══
-.cctalk.com
-.hjapi.com
-.hjfile.cn
-.hujiang.com
-.yeshj.com
-# ══ end include: hujiang ══
-# ══ include: koolearn ══
-.koocdn.com
-.koolearn.com
-.koopass.com
-# ══ end include: koolearn ══
-# ══ include: schoopia ══
-# 翻转校园 河南昱荣教育科技有限公司 豫ICP备2021021028号
-.schoopia.com
-# 同学派 翻转校园app内置服务
-.tongxuepie.com
-# ══ end include: schoopia ══
-# ══ include: shanbay ══
-.baydn.com
-.shanbay.com
-# ══ end include: shanbay ══
-# ══ include: xueersi ══
-# 学而思
-.100tal.com
-.aoshu.com
-.eduu.com
-.eduuu.com
-.gaokao.com
-.speiyou.com
-.tal.com
-.xesimg.com
-.xueersi.com
-.youjiao.com
-.zhongkao.com
-.zuowen.com
-# ══ end include: xueersi ══
-# ══ include: yuanfudao ══
-.banmaaike.com
-.xiaoyuankousuan.com
-.ybccode.com
-.yuanfudao.com
-.yuansouti.com
-.yuantiku.com
-# 粉笔蓝天
-.fbstatic.cn
-.fenbi.com
-.fenbike.cn
-.fenbike.com
-.fenbilantian.cn
-.fenbilantian.com
-# ══ end include: yuanfudao ══
-.edu.cn
-# 雨课堂
-# ══ include: yuketang ══
-.rainclassroom.com
-.yuketang.cn
-# ══ end include: yuketang ══
-## 雨豆课堂
-.yudou.cn
-## 雨实验
-.yushiyan.net
-## 学堂在线
-.xuetangx.com
-# 国家智慧教育公共服务平台
-.cbern.com.cn
-.smartedu.cn
-# 教育部学生服务与素质发展中心
-# 京ICP备19004913号
-.cedf.cn
-.cedf.org.cn
-.chdi.com.cn
-.chei.com.cn
-.chesicc.cn
-.chesicc.com
-.chesicc.com.cn
-.chesicc.net
-.chesicc.net.cn
-.chesicc.org.cn
-.chinayz.com.cn
-.chsi.cn
-.chsi.com.cn
-.gatzs.com.cn
-.gfbzb.cn
-.gfbzb.com
-.gfbzb.com.cn
-.gfbzb.gov.cn
-.gfbzb.net
-.ncss.cn
-.ncss.org.cn
-.qgzb.com.cn
-.qgzb.gov.cn
-.qgzb.net
-.zbbm.gov.cn
-.zbbm.net
-# 中国考试教育网
-# 京ICP备05064772号
-.neea.cn
-# neea.edu.cn
-# 二一教育
-.21cnjy.com
-# 云校
-.91yunxiao.com
-# 爱云校/好分数
-.aiyunxiao.com
-.haofenshu.com
-.iyunxiao.com
-.yunxiao.com
-# 百词斩
-.baicizhan.com
-.baicizhan.org
-.bczcdn.com
-.bczeducation.cn
-# 班小二
-.banxiaoer.com
-.banxiaoer.net
-# 毕业之家科研服务平台
-.biyehome.net
-# Burning Vocabulary
-.burningvocabulary.cn
-.burningvocabulary.com
-# 世纪外语网
-.centuryenglish.com
-# 中国地质大学 继续教育学院
-.cugbonline.cn
-# 第二教育网
-.dearedu.com
-# 莞教通
-.dgjy.net
-# 海词词典
-.dict.cn
-# 在职研究生教育信息网
-.eduei.com
-# 中公
-.eoffcn.com
-.jinrongren.net
-.offcn.com
-.zggqzp.com
-.zgjsks.com
-.zgsydw.com
-# 高考100
-.gk100.com
-# 华图
-.huatu.com
-.sydw8.com
-# 中科大数据研究院，豫ICP备19023555号
-.ictbda.cn
-.ictbda.com
-.modex.com.cn
-.xir.cn
-# 日语测试
-.j-test.com
-.nattest-china.com
-# 菁优网
-.jyeoo.com
-.jyeoo.net
-# 中山市纪雅学校智慧消费平台
-.jzagile.com
-# 课播云校
-.keboyunxiao.com
-# 课堂派
-.ketangpai.com
-# 快对作业
-.kuaiduizuoye.com
-# 流利说
-.liulishuo.com
-.llsapp.com
-.llscdn.com
-.llsserver.com
-# 马哥教育
-.magedu.com
-# 墨墨背单词
-.maimemo.com
-.maimemostatus.com
-# 墨墨记忆卡
-.markji.com
-# CIS NanoMasters
-.neoscholar.com
-.neoschool.com
-# 老男孩教育
-.oldboyedu.com
-# 批改网
-.pigai.org
-# 公考知识库
-.saduck.top
-# 外研在线
-.unipus.cn
-# 未来云校
-.weilaiyunxiao.com
-# 北京嘉瑞新创教育咨询有限公司
-.winyoungreading.com
-# 博茂择优
-.wjwai.com
-.zysn.net
-# 时代行云
-.x-cloud.cc
-# 西瓜创客
-.xiguacity.cn
-# 西柚英语
-.xiyouyingyu.com
-# 学科网
-.xkw.com
-.zxxk.com
-# 云助学
-.yunzhuxue.com
-# “叶圣陶杯”全国中学生新作文大赛
-.ystbds.com
-# 小站教育
-.zhan.com
-# 智慧树
-.zhihuishu.com
-# 浙江省教育考试院
-.zjzs.net
-# 作文素材类
-.zuowen8.com
-.zuowenjun.com
-.zuowenku.net
-.zuowenwang.net
+DOMAIN-SUFFIX,chinesemooc.org
+DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icourses.cn
+DOMAIN-SUFFIX,icve.com.cn
+DOMAIN-SUFFIX,mooc.cn
+DOMAIN-SUFFIX,openlearning.com
+DOMAIN-SUFFIX,pmphmooc.com
+DOMAIN,moocs.unipus.cn
+DOMAIN,opencourse.pku.edu.cn
+DOMAIN,study.163.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,schoopia.com
+DOMAIN-SUFFIX,tongxuepie.com
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,100tal.com
+DOMAIN-SUFFIX,aoshu.com
+DOMAIN-SUFFIX,eduu.com
+DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,gaokao.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,youjiao.com
+DOMAIN-SUFFIX,zhongkao.com
+DOMAIN-SUFFIX,zuowen.com
+DOMAIN-SUFFIX,banmaaike.com
+DOMAIN-SUFFIX,xiaoyuankousuan.com
+DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com
+DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,yudou.cn
+DOMAIN-SUFFIX,yushiyan.net
+DOMAIN-SUFFIX,xuetangx.com
+DOMAIN-SUFFIX,cbern.com.cn
+DOMAIN-SUFFIX,smartedu.cn
+DOMAIN-SUFFIX,cedf.cn
+DOMAIN-SUFFIX,cedf.org.cn
+DOMAIN-SUFFIX,chdi.com.cn
+DOMAIN-SUFFIX,chei.com.cn
+DOMAIN-SUFFIX,chesicc.cn
+DOMAIN-SUFFIX,chesicc.com
+DOMAIN-SUFFIX,chesicc.com.cn
+DOMAIN-SUFFIX,chesicc.net
+DOMAIN-SUFFIX,chesicc.net.cn
+DOMAIN-SUFFIX,chesicc.org.cn
+DOMAIN-SUFFIX,chinayz.com.cn
+DOMAIN-SUFFIX,chsi.cn
+DOMAIN-SUFFIX,chsi.com.cn
+DOMAIN-SUFFIX,gatzs.com.cn
+DOMAIN-SUFFIX,gfbzb.cn
+DOMAIN-SUFFIX,gfbzb.com
+DOMAIN-SUFFIX,gfbzb.com.cn
+DOMAIN-SUFFIX,gfbzb.gov.cn
+DOMAIN-SUFFIX,gfbzb.net
+DOMAIN-SUFFIX,ncss.cn
+DOMAIN-SUFFIX,ncss.org.cn
+DOMAIN-SUFFIX,qgzb.com.cn
+DOMAIN-SUFFIX,qgzb.gov.cn
+DOMAIN-SUFFIX,qgzb.net
+DOMAIN-SUFFIX,zbbm.gov.cn
+DOMAIN-SUFFIX,zbbm.net
+DOMAIN-SUFFIX,neea.cn
+DOMAIN-SUFFIX,21cnjy.com
+DOMAIN-SUFFIX,91yunxiao.com
+DOMAIN-SUFFIX,aiyunxiao.com
+DOMAIN-SUFFIX,haofenshu.com
+DOMAIN-SUFFIX,iyunxiao.com
+DOMAIN-SUFFIX,yunxiao.com
+DOMAIN-SUFFIX,baicizhan.com
+DOMAIN-SUFFIX,baicizhan.org
+DOMAIN-SUFFIX,bczcdn.com
+DOMAIN-SUFFIX,bczeducation.cn
+DOMAIN-SUFFIX,banxiaoer.com
+DOMAIN-SUFFIX,banxiaoer.net
+DOMAIN-SUFFIX,biyehome.net
+DOMAIN-SUFFIX,burningvocabulary.cn
+DOMAIN-SUFFIX,burningvocabulary.com
+DOMAIN-SUFFIX,centuryenglish.com
+DOMAIN-SUFFIX,cugbonline.cn
+DOMAIN-SUFFIX,dearedu.com
+DOMAIN-SUFFIX,dgjy.net
+DOMAIN-SUFFIX,dict.cn
+DOMAIN-SUFFIX,eduei.com
+DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,jinrongren.net
+DOMAIN-SUFFIX,offcn.com
+DOMAIN-SUFFIX,zggqzp.com
+DOMAIN-SUFFIX,zgjsks.com
+DOMAIN-SUFFIX,zgsydw.com
+DOMAIN-SUFFIX,gk100.com
+DOMAIN-SUFFIX,huatu.com
+DOMAIN-SUFFIX,sydw8.com
+DOMAIN-SUFFIX,ictbda.cn
+DOMAIN-SUFFIX,ictbda.com
+DOMAIN-SUFFIX,modex.com.cn
+DOMAIN-SUFFIX,xir.cn
+DOMAIN-SUFFIX,j-test.com
+DOMAIN-SUFFIX,nattest-china.com
+DOMAIN-SUFFIX,jyeoo.com
+DOMAIN-SUFFIX,jyeoo.net
+DOMAIN-SUFFIX,jzagile.com
+DOMAIN-SUFFIX,keboyunxiao.com
+DOMAIN-SUFFIX,ketangpai.com
+DOMAIN-SUFFIX,kuaiduizuoye.com
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,llsapp.com
+DOMAIN-SUFFIX,llscdn.com
+DOMAIN-SUFFIX,llsserver.com
+DOMAIN-SUFFIX,magedu.com
+DOMAIN-SUFFIX,maimemo.com
+DOMAIN-SUFFIX,maimemostatus.com
+DOMAIN-SUFFIX,markji.com
+DOMAIN-SUFFIX,neoscholar.com
+DOMAIN-SUFFIX,neoschool.com
+DOMAIN-SUFFIX,oldboyedu.com
+DOMAIN-SUFFIX,pigai.org
+DOMAIN-SUFFIX,saduck.top
+DOMAIN-SUFFIX,unipus.cn
+DOMAIN-SUFFIX,weilaiyunxiao.com
+DOMAIN-SUFFIX,winyoungreading.com
+DOMAIN-SUFFIX,wjwai.com
+DOMAIN-SUFFIX,zysn.net
+DOMAIN-SUFFIX,x-cloud.cc
+DOMAIN-SUFFIX,xiguacity.cn
+DOMAIN-SUFFIX,xiyouyingyu.com
+DOMAIN-SUFFIX,xkw.com
+DOMAIN-SUFFIX,zxxk.com
+DOMAIN-SUFFIX,yunzhuxue.com
+DOMAIN-SUFFIX,ystbds.com
+DOMAIN-SUFFIX,zhan.com
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,zjzs.net
+DOMAIN-SUFFIX,zuowen8.com
+DOMAIN-SUFFIX,zuowenjun.com
+DOMAIN-SUFFIX,zuowenku.net
+DOMAIN-SUFFIX,zuowenwang.net

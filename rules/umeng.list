@@ -1,64 +1,32 @@
-# GeoSite: umeng
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.cnzz.com
-.mobmore.com
-.puata.info
-.shujupie.com
-.umeng.com
-.umengcloud.com
-.umsns.com
-.umtrack.com
-.uyunad.com
-.whalecloud.com
-# Ads/tracking
-# domain:aaid.umeng.com
-.aaid.umeng.com
-# domain:alog.umeng.com
-.alog.umeng.com
-# domain:alog.umengcloud.com
-.alog.umengcloud.com
-# domain:alogs.umeng.com
-.alogs.umeng.com
-# domain:alogus.umeng.com
-.alogus.umeng.com
-# domain:ar.umeng.com
-.ar.umeng.com
-# domain:aspect-upush.umeng.com
-.aspect-upush.umeng.com
-# domain:audid.umeng.com
-.audid.umeng.com
-# domain:ccs.umeng.com
-.ccs.umeng.com
-# domain:cnlogs.umeng.com
-.cnlogs.umeng.com
-# domain:cnlogs.umengcloud.com
-.cnlogs.umengcloud.com
-# domain:log.umtrack.com
-.log.umtrack.com
-# domain:new-aaid.umeng.com
-.new-aaid.umeng.com
-# domain:new-aaid.umeng.com.gds.alibabadns.com
-.new-aaid.umeng.com.gds.alibabadns.com
-# domain:oc.umeng.com
-.oc.umeng.com
-# domain:plbslog.umeng.com
-.plbslog.umeng.com
-# domain:resolve.umeng.com
-.resolve.umeng.com
-# domain:ulogs.umeng.com
-.ulogs.umeng.com
-# domain:ulogs.umengcloud.com
-.ulogs.umengcloud.com
-# domain:utoken.umeng.com
-.utoken.umeng.com
-# domain:w.cnzz.com
-.w.cnzz.com
-# domain:z.gds.cnzz.com
-.z.gds.cnzz.com
-# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
-# errlog.umeng.com @ads
-# errnewlog.umeng.com @ads
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,mobmore.com
+DOMAIN-SUFFIX,puata.info
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,umtrack.com
+DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,whalecloud.com
+DOMAIN-SUFFIX,aaid.umeng.com
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,ar.umeng.com
+DOMAIN-SUFFIX,aspect-upush.umeng.com
+DOMAIN-SUFFIX,audid.umeng.com
+DOMAIN-SUFFIX,ccs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,log.umtrack.com
+DOMAIN-SUFFIX,new-aaid.umeng.com
+DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com
+DOMAIN-SUFFIX,oc.umeng.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,resolve.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
+DOMAIN-SUFFIX,w.cnzz.com
+DOMAIN-SUFFIX,z.gds.cnzz.com

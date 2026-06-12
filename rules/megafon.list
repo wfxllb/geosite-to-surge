@@ -1,19 +1,12 @@
-# GeoSite: megafon
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.inplat.ru
-.megafon.com
-.megafon.ru
-.megafonpro.ru
-.mgfn.ru
-.report-megafon.ru
-.scartel.ru
-.yota.ru
-.yotagamer.ru
-# IDN ccTLD
-.xn--80a9a4b.xn--p1ai
-.xn--80aj3b.xn--p1ai
-.xn--80arpq.xn--p1ai
+DOMAIN-SUFFIX,inplat.ru
+DOMAIN-SUFFIX,megafon.com
+DOMAIN-SUFFIX,megafon.ru
+DOMAIN-SUFFIX,megafonpro.ru
+DOMAIN-SUFFIX,mgfn.ru
+DOMAIN-SUFFIX,report-megafon.ru
+DOMAIN-SUFFIX,scartel.ru
+DOMAIN-SUFFIX,yota.ru
+DOMAIN-SUFFIX,yotagamer.ru
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai

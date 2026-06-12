@@ -1,16 +1,10 @@
-# GeoSite: huobi
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.htx.com
-.hbabit.com
-.hbfile.net
-.huobi.com
-.huobi.me
-.huobi.pro
-.huobi.sc
-.huobiasia.vip
-.huobigroup.com
-.huobitoken.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,hbabit.com
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.me
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobi.sc
+DOMAIN-SUFFIX,huobiasia.vip
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobitoken.com

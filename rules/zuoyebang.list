@@ -1,12 +1,4 @@
-# GeoSite: zuoyebang
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.zuoyebang.cc
-.zuoyebang.com
-.zybang.com
-# Ads/tracking
-# domain:syh.zybang.com
-.syh.zybang.com
+DOMAIN-SUFFIX,zuoyebang.cc
+DOMAIN-SUFFIX,zuoyebang.com
+DOMAIN-SUFFIX,zybang.com
+DOMAIN-SUFFIX,syh.zybang.com

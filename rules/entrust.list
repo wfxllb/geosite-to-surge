@@ -1,18 +1,10 @@
-# GeoSite: entrust
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.entrust.cn
-.entrust.com
-.entrust.net
-.entrustdatacard.com
-# full:www.entrust.cn
-www.entrust.cn
-# Sub brand
-.affirmtrust.com
-.atos.net
-.myatos.net
-.certificat2.com
-.trendmicro.com
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN,www.entrust.cn
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,trendmicro.com

@@ -1,13 +1,5 @@
-# GeoSite: kontur
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.kontur.ru
-.kontur.host
-.kontur-inc.com
-# full:metrika.kontur.ru
-metrika.kontur.ru
-# full:sentry.kontur.host
-sentry.kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

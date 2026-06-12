@@ -1,9 +1,3 @@
-# GeoSite: amazontrust
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.amazontrust.com
-.awstrust.com
-.ss2.us
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,ss2.us

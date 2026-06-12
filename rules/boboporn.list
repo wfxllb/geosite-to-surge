@@ -1,10 +1,4 @@
-# GeoSite: boboporn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.boboporn.com
-.boboporn.net
-.bobovip.cc
-.sesez.com
+DOMAIN-SUFFIX,boboporn.com
+DOMAIN-SUFFIX,boboporn.net
+DOMAIN-SUFFIX,bobovip.cc
+DOMAIN-SUFFIX,sesez.com

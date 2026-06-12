@@ -1,90 +1,73 @@
-# GeoSite: mozilla
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
-# https://support.mozilla.org/fr/questions/1352614
-# ══ include: firefox ══
-.extendfirefox.com
-.firefox.com
-.firefox.hu
-.firefoxtweetmachine.com
-.firefoxusercontent.com
-mozilla-ohttp.fastly-edge.com
-# ══ end include: firefox ══
-# ══ include: mdn ══
-.developer.allizom.org
-.developer.mozilla.org
-.mdn.allizom.net
-.mdn.dev
-.mdn.mozilla.net
-.mdn.mozit.cloud
-.mdnplay.dev
-.mdnyalp.dev
-mdn.mozillademos.org
-# ══ end include: mdn ══
-.allizom.net
-.allizom.org
-.bugzilla.org
-.detodosparatodos.org
-.discovershiretoko.org
-.ecmascript.org
-.extensionworkshop.com
-.foxkeh.com
-.foxkeh.jp
-.getfirebug.com
-.getpersonas.com
-.getpocket.com
-.hackasaurus.org
-.interforest.org
-.itisatrap.org
-.learningfreedomandtheweb.org
-.lizardwrangler.com
-.mecha-mozilla.org
-.mozaws.net
-.mozgcp.net
-.mozilla-europe.org
-.mozilla-hispano.org
-.mozilla-mexico.org
-.mozilla.ai
-.mozilla.com
-.mozilla.community
-.mozilla.cz
-.mozilla.de
-.mozilla.jp
-.mozilla.lt
-.mozilla.net
-.mozilla.org
-.mozilla.org.uk
-.mozilla.pe
-.mozilla.pt
-.mozilla.ro
-.mozillabd.org
-.mozillademos.org
-.mozillafactory.org
-.mozillafoundation.org
-.mozillaignite.org
-.mozillalabs.com
-.mozillaquebec.org
-.mozillazine.jp
-.mozillians.org
-.mozit.cloud
-.mzl.la
-.onemozilla.org
-.opentimetable.jp
-.popcornjs.org
-.publicsuffix.org
-.seamonkey-project.org
-.thunderbird.net
-.webmademovies.org
-# Ads/tracking
-# full:ads-img.mozilla.org
-ads-img.mozilla.org
-# full:ads.mozilla.org
-ads.mozilla.org
-# full:incoming.telemetry.mozilla.org
-incoming.telemetry.mozilla.org
-# full:incoming-telemetry.thunderbird.net
-incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN-SUFFIX,developer.allizom.org
+DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,mdn.allizom.net
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mdn.mozilla.net
+DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev
+DOMAIN,mdn.mozillademos.org
+DOMAIN-SUFFIX,allizom.net
+DOMAIN-SUFFIX,allizom.org
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,detodosparatodos.org
+DOMAIN-SUFFIX,discovershiretoko.org
+DOMAIN-SUFFIX,ecmascript.org
+DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,foxkeh.com
+DOMAIN-SUFFIX,foxkeh.jp
+DOMAIN-SUFFIX,getfirebug.com
+DOMAIN-SUFFIX,getpersonas.com
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,hackasaurus.org
+DOMAIN-SUFFIX,interforest.org
+DOMAIN-SUFFIX,itisatrap.org
+DOMAIN-SUFFIX,learningfreedomandtheweb.org
+DOMAIN-SUFFIX,lizardwrangler.com
+DOMAIN-SUFFIX,mecha-mozilla.org
+DOMAIN-SUFFIX,mozaws.net
+DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla-europe.org
+DOMAIN-SUFFIX,mozilla-hispano.org
+DOMAIN-SUFFIX,mozilla-mexico.org
+DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.cz
+DOMAIN-SUFFIX,mozilla.de
+DOMAIN-SUFFIX,mozilla.jp
+DOMAIN-SUFFIX,mozilla.lt
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozilla.org.uk
+DOMAIN-SUFFIX,mozilla.pe
+DOMAIN-SUFFIX,mozilla.pt
+DOMAIN-SUFFIX,mozilla.ro
+DOMAIN-SUFFIX,mozillabd.org
+DOMAIN-SUFFIX,mozillademos.org
+DOMAIN-SUFFIX,mozillafactory.org
+DOMAIN-SUFFIX,mozillafoundation.org
+DOMAIN-SUFFIX,mozillaignite.org
+DOMAIN-SUFFIX,mozillalabs.com
+DOMAIN-SUFFIX,mozillaquebec.org
+DOMAIN-SUFFIX,mozillazine.jp
+DOMAIN-SUFFIX,mozillians.org
+DOMAIN-SUFFIX,mozit.cloud
+DOMAIN-SUFFIX,mzl.la
+DOMAIN-SUFFIX,onemozilla.org
+DOMAIN-SUFFIX,opentimetable.jp
+DOMAIN-SUFFIX,popcornjs.org
+DOMAIN-SUFFIX,publicsuffix.org
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,webmademovies.org
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net

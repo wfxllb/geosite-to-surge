@@ -1,8 +1,2 @@
-# GeoSite: organicmaps
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.omaps.app
-.organicmaps.app
+DOMAIN-SUFFIX,omaps.app
+DOMAIN-SUFFIX,organicmaps.app

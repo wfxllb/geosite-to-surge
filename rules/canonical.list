@@ -1,24 +1,12 @@
-# GeoSite: canonical
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: launchpad ══
-.launchpad.net
-.launchpadcontent.net
-.launchpadlibrarian.com
-.launchpadlibrarian.net
-.launchpadlibrarian.org
-# ══ end include: launchpad ══
-# ══ include: snapcraft ══
-.snapcraft.io
-.snapstore.io
-# ══ end include: snapcraft ══
-# ══ include: ubuntu ══
-.ubuntu.com
-.ubuntu.net
-.ubuntuforums.org
-.ubuntu-touch.io
-# ══ end include: ubuntu ══
-.canonical.com
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
+DOMAIN-SUFFIX,canonical.com

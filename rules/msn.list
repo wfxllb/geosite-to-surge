@@ -1,32 +1,21 @@
-# GeoSite: msn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.microsoftnews.cc
-# domain:microsoftnews.cn
-.microsoftnews.cn
-.microsoftnews.com
-.microsoftnews.net
-.microsoftnews.org
-.microsoftnewsforkids.com
-.microsoftnewsforkids.net
-.microsoftnewsforkids.org
-.microsoftnewskids.com
-.microsoftnewskids.net
-.microsoftnewskids.org
-# domain:msn.cn
-.msn.cn
-.msn.com
-.msnewskids.com
-.msnewskids.net
-.msnewskids.org
-.msnkids.com
-.microsoftstart.com
-.start.com
-# Ads/tracking
-# domain:browser.events.data.msn.cn
-.browser.events.data.msn.cn
-# domain:browser.events.data.msn.com
-.browser.events.data.msn.com
+DOMAIN-SUFFIX,microsoftnews.cc
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,microsoftnews.com
+DOMAIN-SUFFIX,microsoftnews.net
+DOMAIN-SUFFIX,microsoftnews.org
+DOMAIN-SUFFIX,microsoftnewsforkids.com
+DOMAIN-SUFFIX,microsoftnewsforkids.net
+DOMAIN-SUFFIX,microsoftnewsforkids.org
+DOMAIN-SUFFIX,microsoftnewskids.com
+DOMAIN-SUFFIX,microsoftnewskids.net
+DOMAIN-SUFFIX,microsoftnewskids.org
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msnewskids.com
+DOMAIN-SUFFIX,msnewskids.net
+DOMAIN-SUFFIX,msnewskids.org
+DOMAIN-SUFFIX,msnkids.com
+DOMAIN-SUFFIX,microsoftstart.com
+DOMAIN-SUFFIX,start.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com

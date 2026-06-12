@@ -1,10 +1,4 @@
-# GeoSite: anaconda
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.anaconda.cloud
-.anaconda.com
-.anaconda.org
-.conda.io
+DOMAIN-SUFFIX,anaconda.cloud
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,conda.io

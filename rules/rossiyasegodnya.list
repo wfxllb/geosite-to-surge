@@ -1,34 +1,18 @@
-# GeoSite: rossiyasegodnya
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
-.jinrieluosi.cn
-.pressria.ru
-.rossiyasegodnya.com
-.xn--c1acbl2abdlkab1og.xn--p1ai
-# Media brands
-## Arctic.ru
-.arctic.ru
-## Baltnews
-.baltnews.com
-.baltnews.lt
-## InoSMI
-.inosmi.ru
-## Prime
-.1prime.ru
-## RIA Novosti
-.ria.ru
-## Sputnik
-.radiosputnik.ria.ru
-.radiosputnik.ru
-.sputnikglobe.com
-.sputnikimages.com
-.sputnikmediabank.com
-.sputniknews.com
-## TOK
-.tok.media
-## Ukraina.ru
-.ukraina.ru
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
+DOMAIN-SUFFIX,arctic.ru
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+DOMAIN-SUFFIX,inosmi.ru
+DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,ria.ru
+DOMAIN-SUFFIX,radiosputnik.ria.ru
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,ukraina.ru

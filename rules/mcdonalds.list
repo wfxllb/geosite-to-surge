@@ -1,65 +1,43 @@
-# GeoSite: mcdonalds
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# https://www.iana.org/domains/root/db/mcd.html
-# mcd (Revoked)
-# https://www.iana.org/domains/root/db/mcdonalds.html
-# mcdonalds (Revoked)
-# McDonald's Australia
-.happymeal.com.au
-.mcdelivery.com.au
-.mcdonalds.com.au
-# McDonald's China
-# domain:4008-517-517.cn
-.4008-517-517.cn
-# domain:mcd.cn
-.mcd.cn
-# domain:mcdchina.net
-.mcdchina.net
-# domain:mcdonalds.com.cn
-.mcdonalds.com.cn
-# McDonald's Hong Kong
-.mcdonalds.hk
-.mcdonalds.com.hk
-# McDonald's India
-.mcdelivery.co.in
-.mcdindia.com
-# McDonald's Indonesia
-.mcdelivery.co.id
-.mcdindonesia.com
-.mcdonalds.co.id
-# McDonald's Japan
-.mcdonalds.co.jp
-.mcdonalds-online.com
-.mcd-holdings.co.jp
-# McDonald's Korea
-.mcdelivery.co.kr
-.mcdonalds.co.kr
-# McDonald's Taiwan
-.mcdelivery.com.tw
-.mcdonalds.com.tw
-.aboutmcdonalds.com
-.happymeal.co.nz
-.happymeal.com
-.happymealdigital.com
-.mcd.com
-.mcdelivery.com.my
-.mcdelivery.com.ph
-.mcdelivery.com.sg
-.mcdonalds.be
-.mcdonalds.ca
-.mcdonalds.it
-.mcdonalds.no
-.mcdonalds.se
-.mcdonalds.co.nz
-.mcdonalds.co.uk
-.mcdonalds.com
-.mcdonalds.com.lb
-.mcdonalds.com.my
-.mcdonalds.com.ph
-.mcdonaldsapps.com
-.mcdonaldsarabia.com
-.mcdonaldsparties.co.nz
+DOMAIN-SUFFIX,happymeal.com.au
+DOMAIN-SUFFIX,mcdelivery.com.au
+DOMAIN-SUFFIX,mcdonalds.com.au
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdchina.net
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,mcdonalds.hk
+DOMAIN-SUFFIX,mcdonalds.com.hk
+DOMAIN-SUFFIX,mcdelivery.co.in
+DOMAIN-SUFFIX,mcdindia.com
+DOMAIN-SUFFIX,mcdelivery.co.id
+DOMAIN-SUFFIX,mcdindonesia.com
+DOMAIN-SUFFIX,mcdonalds.co.id
+DOMAIN-SUFFIX,mcdonalds.co.jp
+DOMAIN-SUFFIX,mcdonalds-online.com
+DOMAIN-SUFFIX,mcd-holdings.co.jp
+DOMAIN-SUFFIX,mcdelivery.co.kr
+DOMAIN-SUFFIX,mcdonalds.co.kr
+DOMAIN-SUFFIX,mcdelivery.com.tw
+DOMAIN-SUFFIX,mcdonalds.com.tw
+DOMAIN-SUFFIX,aboutmcdonalds.com
+DOMAIN-SUFFIX,happymeal.co.nz
+DOMAIN-SUFFIX,happymeal.com
+DOMAIN-SUFFIX,happymealdigital.com
+DOMAIN-SUFFIX,mcd.com
+DOMAIN-SUFFIX,mcdelivery.com.my
+DOMAIN-SUFFIX,mcdelivery.com.ph
+DOMAIN-SUFFIX,mcdelivery.com.sg
+DOMAIN-SUFFIX,mcdonalds.be
+DOMAIN-SUFFIX,mcdonalds.ca
+DOMAIN-SUFFIX,mcdonalds.it
+DOMAIN-SUFFIX,mcdonalds.no
+DOMAIN-SUFFIX,mcdonalds.se
+DOMAIN-SUFFIX,mcdonalds.co.nz
+DOMAIN-SUFFIX,mcdonalds.co.uk
+DOMAIN-SUFFIX,mcdonalds.com
+DOMAIN-SUFFIX,mcdonalds.com.lb
+DOMAIN-SUFFIX,mcdonalds.com.my
+DOMAIN-SUFFIX,mcdonalds.com.ph
+DOMAIN-SUFFIX,mcdonaldsapps.com
+DOMAIN-SUFFIX,mcdonaldsarabia.com
+DOMAIN-SUFFIX,mcdonaldsparties.co.nz

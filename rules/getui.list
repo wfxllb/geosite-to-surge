@@ -1,14 +1,7 @@
-# GeoSite: getui
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 每日互动股份有限公司 浙ICP备14019898号
-.gepush.com
-.getui.cn
-.getui.com
-.getui.net
-.igehuo.com
-.igetui.com
-.igexin.com
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.cn
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,igehuo.com
+DOMAIN-SUFFIX,igetui.com
+DOMAIN-SUFFIX,igexin.com

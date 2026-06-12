@@ -1,40 +1,17 @@
-# GeoSite: thelinuxfoundation
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: kernel ══
-.kernel.org
-# ══ end include: kernel ══
-# ══ include: linux ══
-.linux.org
-# ══ end include: linux ══
-# ══ include: openjsfoundation ══
-# ══ include: amp ══
-.amp.dev
-.ampproject.com
-.ampproject.net
-.ampproject.org
-# full:cdn.ampproject.org
-cdn.ampproject.org
-amp.akamaized.net
-# ══ end include: amp ══
-# ══ include: electron ══
-.electronjs.org
-# ══ end include: electron ══
-# ══ include: jquery ══
-.jquery.com
-.jquerymobile.com
-.jqueryui.com
-# ══ end include: jquery ══
-# ══ include: mocha ══
-.mochajs.org
-# ══ end include: mocha ══
-# ══ include: nodejs ══
-.nodejs.org
-# ══ end include: nodejs ══
-.openjsf.org
-# ══ end include: openjsfoundation ══
-.lfai.foundation
-.linuxfoundation.org
+DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,linux.org
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN,cdn.ampproject.org
+DOMAIN,amp.akamaized.net
+DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
+DOMAIN-SUFFIX,mochajs.org
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,openjsf.org
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org

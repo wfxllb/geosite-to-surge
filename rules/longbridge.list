@@ -1,17 +1,10 @@
-# GeoSite: longbridge
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.longbridge.cloud
-.longbridge.com
-.longbridge.global
-.longbridge.hk
-.longbridge.sg
-.longbridgeapp.com
-.longportapp.com
-# Site Assets
-.lbctrl.com
-.lbkrs.com
-.wbrks.com
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,wbrks.com

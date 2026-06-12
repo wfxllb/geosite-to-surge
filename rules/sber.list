@@ -1,136 +1,97 @@
-# GeoSite: sber
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: 2gis ══
-# https://crt.sh/?id=24119301132
-.2gis.ae
-.2gis.am
-.2gis.az
-.2gis.by
-.2gis.com
-.2gis.com.cy
-.2gis.cz
-.2gis.ge
-.2gis.kg
-.2gis.kz
-.2gis.ru
-.2gis.tj
-.2gis.uz
-.2gis.tech
-# ══ end include: 2gis ══
-# ══ include: okko ══
-.okkoapi.tv
-.playfamily.ru
-.okko.sport
-.okko.tv
-# ══ end include: okko ══
-.bps-sberbank.by
-.sber-bank.by
-.sber.ru
-.sberbank.com
-.sberbank.ru
-.sbrf.ru
-# Ads/tracking
-# domain:ads.sber.ru
-.ads.sber.ru
-# domain:clickstream.sberbank.ru
-.clickstream.sberbank.ru
-# domain:neon.click
-.neon.click
-# domain:sbermarketing.ru
-.sbermarketing.ru
-# full:error-tracking.megamarket.tech
-error-tracking.megamarket.tech
-# full:metrics.21-school.ru
-metrics.21-school.ru
-# full:sentry.sberauto.com
-sentry.sberauto.com
-# full:tracing-http.megamarket.tech
-tracing-http.megamarket.tech
-# full:visor.sberbank.ru
-visor.sberbank.ru
-# Business ecosystem
-.id.ru
-.megamarket.ru
-.megamarket.tech
-.sberauto.com
-.sberbank-insurance.ru
-.sbercloud.ru
-.sbercloud.tech
-.sberdevices.ru
-.sberdisk.ru
-.sberfactoring.ru
-.sberindex.ru
-.sberbankaktivno.ru
-.sberbankins.ru
-.sberhealth.ru
-.sberleasing.ru
-.sberlogistics.ru
-.sbermegamarket.ru
-.sbermobile.ru
-.sberpb.ru
-.sbertroika.ru
-## Afisha
-.afisha.ru
-## Citydrive (carsharing)
-.citydrive.ru
-## cloud.ru
-.cloud.ru
-.cloudru.cn
-## EApteka (pharmacy)
-.eaptechka.online
-.eapteka.ru
-## Education
-.21-school.ru
-## Food delivery
-### Kuper
-.kuper.ru
-.restnproducts.ru
-### Samokat (food delivery)
-.samokat.ru
-## GigaChat (AI chat)
-.giga.chat
-## GitVerse
-.gitverse.ru
-## Jivo/Jivochat/Jivosite (chat for website)
-.jivo.chat
-.jivo.ru
-.jivochat.co.in
-.jivochat.co.za
-.jivochat.com
-.jivochat.com.br
-.jivochat.com.co
-.jivochat.com.pe
-.jivochat.com.tr
-.jivochat.de
-.jivochat.es
-.jivochat.ng
-.jivochat.ru
-.jivosite.com
-.jivosite.ru
-## Online payment service
-.payecom.ru
-.platiecom.ru
-## Ottelo (travel agency)
-.otello.ru
-## Sber Pro
-.sber.pro
-sberpro.vedomosti.ru
-## Sber Spasibo (loyalty service)
-.cplsb.ru
-.sberspasibo.ru
-.spasibo.digital
-.spasibo.market
-.spasibobonus.ru
-.spasibosb.ru
-.spasibosberbank.ru
-## Sber Tech
-.accesspoint.uz
-.getsynapse.io
-.sbertech.ru
-# Zvuk (music streaming)
-.zvuk-b2b.com
-.zvuk.com
+DOMAIN-SUFFIX,2gis.ae
+DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,2gis.az
+DOMAIN-SUFFIX,2gis.by
+DOMAIN-SUFFIX,2gis.com
+DOMAIN-SUFFIX,2gis.com.cy
+DOMAIN-SUFFIX,2gis.cz
+DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.kg
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tech
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sbrf.ru
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,id.ru
+DOMAIN-SUFFIX,megamarket.ru
+DOMAIN-SUFFIX,megamarket.tech
+DOMAIN-SUFFIX,sberauto.com
+DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sbercloud.ru
+DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,sberdevices.ru
+DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberfactoring.ru
+DOMAIN-SUFFIX,sberindex.ru
+DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,sberbankins.ru
+DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberleasing.ru
+DOMAIN-SUFFIX,sberlogistics.ru
+DOMAIN-SUFFIX,sbermegamarket.ru
+DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,sberpb.ru
+DOMAIN-SUFFIX,sbertroika.ru
+DOMAIN-SUFFIX,afisha.ru
+DOMAIN-SUFFIX,citydrive.ru
+DOMAIN-SUFFIX,cloud.ru
+DOMAIN-SUFFIX,cloudru.cn
+DOMAIN-SUFFIX,eaptechka.online
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,21-school.ru
+DOMAIN-SUFFIX,kuper.ru
+DOMAIN-SUFFIX,restnproducts.ru
+DOMAIN-SUFFIX,samokat.ru
+DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,gitverse.ru
+DOMAIN-SUFFIX,jivo.chat
+DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,jivosite.ru
+DOMAIN-SUFFIX,payecom.ru
+DOMAIN-SUFFIX,platiecom.ru
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,sber.pro
+DOMAIN,sberpro.vedomosti.ru
+DOMAIN-SUFFIX,cplsb.ru
+DOMAIN-SUFFIX,sberspasibo.ru
+DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,spasibobonus.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,accesspoint.uz
+DOMAIN-SUFFIX,getsynapse.io
+DOMAIN-SUFFIX,sbertech.ru
+DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,zvuk.com

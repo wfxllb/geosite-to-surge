@@ -1,15 +1,9 @@
-# GeoSite: comssone
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.comss.club
-.comss.info
-.comss.me
-.comss.net
-.comss.news
-.comss.one
-.comss.online
-.comss.org
-.comss.ru
+DOMAIN-SUFFIX,comss.club
+DOMAIN-SUFFIX,comss.info
+DOMAIN-SUFFIX,comss.me
+DOMAIN-SUFFIX,comss.net
+DOMAIN-SUFFIX,comss.news
+DOMAIN-SUFFIX,comss.one
+DOMAIN-SUFFIX,comss.online
+DOMAIN-SUFFIX,comss.org
+DOMAIN-SUFFIX,comss.ru

@@ -1,10 +1,4 @@
-# GeoSite: kaggle
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.kaggle.com
-.kaggle.io
-.kaggle.net
-.kaggleusercontent.com
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggle.net
+DOMAIN-SUFFIX,kaggleusercontent.com

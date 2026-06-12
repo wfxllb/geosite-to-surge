@@ -1,17 +1,8 @@
-# GeoSite: category-remote-control
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: teamviewer ══
-# domain:teamviewer.cn
-.teamviewer.cn
-.teamviewer.com
-.teamviewer.us
-client-teamviewer-com.trafficmanager.net
-teamviewer.com.cdn.cloudflare.net
-# ══ end include: teamviewer ══
-.anydesk.com
-.nomachine.com
-.rustdesk.com
+DOMAIN-SUFFIX,teamviewer.cn
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.us
+DOMAIN,client-teamviewer-com.trafficmanager.net
+DOMAIN,teamviewer.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,anydesk.com
+DOMAIN-SUFFIX,nomachine.com
+DOMAIN-SUFFIX,rustdesk.com

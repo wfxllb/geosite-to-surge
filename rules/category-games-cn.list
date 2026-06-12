@@ -1,323 +1,239 @@
-# GeoSite: category-games-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: 4399 ══
-.3304399.com
-.3304399.net
-.3839.com
-.3839apk.com
-.3839app.com
-.3839app.net
-.3839img.com
-.3839pay.com
-.3839pic.com
-.3839vc.com
-.3839video.com
-.4399.cn
-.4399.com
-.4399.net
-.4399api.com
-.4399api.net
-.4399biule.com
-.4399dmw.com
-.4399er.com
-.4399hdhh.com
-.4399hhh.com
-.4399inc.com
-.4399mail.com
-.4399pk.com
-.4399sj.cn
-.4399sj.com
-.4399swf.com
-.4399wanju.com
-.4399youpai.com
-.4399youxi.com
-.4399yyy.com
-.5054399.com
-.5054399.net
-.5wyxi.com
-.71acg.com
-.71acg.net
-.abdf002.com
-.appeeres.com
-.buke999.com
-.bx1k.com
-.edu4399.com
-.funnycore.com
-.guoping123.com
-.haohaowan.net
-.i3839.com
-.ihykb.com
-.img4399.com
-.mail4399.com
-.maindown4399.com
-.me4399.com
-.my4399.com
-.mysiteres.com
-.nzsiteres.com
-.qq163.com
-.qq163.net
-.tuer123.com
-.wanwan4399.com
-.we4399.com
-.webgame163.com
-.youba.com
-.yxhapi.com
-.yxhhdl.com
-.yxhimg.com
-# ══ end include: 4399 ══
-# ══ include: aligames ══
-.9game.cn
-.aligames.com
-.jiaoyimao.cn
-.jiaoyimao.com
-.lingxigames.com
-# ══ end include: aligames ══
-# ══ include: bilibili-game ══
-.bilibiligame.cn
-.bilibiligame.co
-.bilibiligame.net
-.biligame.co
-.biligame.com
-.biligame.net
-# ══ end include: bilibili-game ══
-# ══ include: bluepoch-games ══
-# From reverse 1999
-.sl916.com
-# ══ end include: bluepoch-games ══
-# ══ include: cowlevel ══
-.cowlevel.net
-.cdncl.net
-# ══ end include: cowlevel ══
-# ══ include: herogame ══
-# 英雄游戏(英雄互娱)
-.hero.com
-.herogame.com
-.heroesports.com
-.shyxhy.com
-.yingxiong.com
-# ══ end include: herogame ══
-# ══ include: kurogames ══
-.kurogames.com
-.kurogames.net
-# Wuthering Waves
-.aki-game.com
-# ══ end include: kurogames ══
-# ══ include: mihoyo-cn ══
-# 米哈游
-.mhystatic.com
-.mhyurl.cn
-.mihayo.com
-.mihayou.com
-.mihoyo.com
-.mihoyocg.com
-.mihoyogift.com
-.mihoyomall.com
-.miyoushe.com
-# 崩坏2
-.benghuai.com
-# 崩坏3
-.bh3.com
-# 星穹铁道
-.bhsr.com
-# 未定事件簿
-.themisweeps.com
-# 原神
-.yuanshen.com
-#绝区零
-.juequling.com
-# Akamai
-# [skip] regexp:^.+-mihayo\.akamaized\.net$ — 无法转为 Surge .list
-# Ads/tracking
-# domain:log-upload.mihoyo.com
-.log-upload.mihoyo.com
-# ══ end include: mihoyo-cn ══
-# ══ include: tencent-games ══
-.battlecare.net
-.gameitop.com
-.gameloop.com
-.gcloudcs.com
-.gcloudcstest.com
-.gcloudcstestonly.com
-.gclouddolphin.com
-.gcloudsdk.com
-.gcloudsvcs.com
-.gdtimg.com
-.goto-game.com
-.goto-game.mobi
-.goto-game.net.cn
-.goto-game.org
-.happyhlddz.com
-.hdyxgame.com
-.hkgcloudcs.com
-.ihappystudio.cn
-.ihappystudio.com
-.in.th
-.ludosuperstar.cn
-.ludoworld.net
-.mahjongai.net
-.mahjongcup.cn
-.mahjongcup.com
-.mahjongcup.net
-.metalrevolution.com
-.midasbuy.com
-.nagcloudcs.com
-.proximabeta.com
-.pubghelper.com
-.pubgno1.cn
-.pubgtool.com
-.qqgameapp.com
-.rmwxgame.com
-.skydweller.cn
-.syxlgame.com
-.tencent-gcloud.com
-.tencentstart.com
-.texasholdemcup.cn
-.texasholdemcup.com
-.texasholdemcup.net
-.timibase.com
-.videoxiaoyouxi.com
-.wcbygame.com
-.yxdmgame.com
-.yximg.cn
-.yxwsgame.com
-.yzyxgame.com
-.zcjbgame.com
-.zhuoyuegame.com
-.xn--owtw8cc49ajfl.cn
-# Roblox
-.roblox.cn
-.roblox.qq.com
-.robloxdev.cn
-# NExT Studios
-.nextstudios.com
-.nextworkshop.net
-# 迷失之地
-.mszdld.cn
-.mszdld.com
-.mszdld.net
-# 篝火营地
-.gamebonfire.com
-.gouhuo.qq.com
-# WeGame
-.ffbuddy.com
-.gotolink.net
-.gtgres.com
-.realcybertron.com
-.wegame.com
-.wegame.com.cn
-.wegameplus.com
-.werepository.com.cn
-# Supercell cn (data/supercell is for non-cn domains)
-.brawlstars.cn
-.haydaypop.cn
-.labycore.cn
-.sccreator.cn
-.sccreators.cn
-.scescdn.cn
-.scid.cn
-.scsentry.cn
-.supercellcommunity.cn
-.supercellsupport.cn
-# 使命召唤
-.codm.com
-# 穿越火线
-.bcfmglobal.com
-.tcfmglobal.com
-# 腾讯游戏安全专家
-.anticheatexpert.com
-# 洛克王国
-.17roco.com
-.roco.qq.com
-# ══ end include: tencent-games ══
-# ══ include: tiancity ══
-.tiancity.com
-.tiancitycdn.com
-# ══ end include: tiancity ══
-# ══ include: vrzwk ══
-# vr中文库
-.vrzwk.cn
-# quest助手文件下载
-.vrzwk.com
-.vrzwk.net
-.vrzwk.top
-# ══ end include: vrzwk ══
-# ══ include: xd ══
-# ══ include: taptap ══
-.tapapks.com
-.tapimg.com
-.tapimg.net
-.taptap.cn
-.taptap.com
-# domain:taptap.io
-.taptap.io
-.taptapdada.com
-# ══ end include: taptap ══
-.ro.com
-.xd.cn
-.xd.com
-.xdcdn.net
-.xindong.com
-# ══ end include: xd ══
-# ══ include: yokaverse ══
-# 游卡
-.dobest.com
-.langrenclub.com
-.sanguosha.com
-.xhlsgs.com
-.xinwuji.com
-.yokaverse.com
-.zhuoyou.com
-# ══ end include: yokaverse ══
-# 北京奇客创想科技有限公司
-.7k7k.com
-# 刀锋盒子 皖B2-20190103-4
-.9xgame.com
-# 韵律谱面研究站 桂ICP备20001846号-3
-.arcaea.cn
-# 《异象回声》游戏官网 沪ICP备2023010411号-1
-.astral-vector.com
-# 终末地-协议终端
-end-api.shallow.ink
-end.shallow.ink
-# 飞火游戏
-.feihuo.com
-# 九九互动 粤ICP备19068416号
-.forevernine.com
-# 互动游戏对战平台 粤ICP备18006390号-1
-.fxt365.com
-# 边锋游戏 浙B2-20090273-1
-.gameabc.com
-# 游戏魅 合肥启云软件 皖B2-20160087-3
-.gamemei.com
-# Enhance Gaming
-.heavenlywind.cc
-# 乐都网 浙ICP备2024091002号-2
-.ledu.com
-# 龙图游戏 京ICP备11023195号
-.longtugame.com
-# 北京慕飞科技 京ICP备20006112号-2
-.morefreegame.com
-# Phira
-.phira.cn
-# 盛趣游戏 浙ICP备17039406号-1
-.sdo.com
-.shengqugames.com
-.zjshulong.com
-# 沪ICP备18041304号-1
-.tgpro.top
-.tgprocs.net
-# 途游
-.tuyoo.com
-# 完美世界
-.wanmei.com
-.wmsj.cn
-# Wine游戏助手 京ICP备18041936号
-.winegame.net
-# 畅玩空间 冀ICP备20019223号
-.wo1wan.com
-# 云蟾游戏 沪ICP备11009299号
-.ycgame.com
+DOMAIN-SUFFIX,3304399.com
+DOMAIN-SUFFIX,3304399.net
+DOMAIN-SUFFIX,3839.com
+DOMAIN-SUFFIX,3839apk.com
+DOMAIN-SUFFIX,3839app.com
+DOMAIN-SUFFIX,3839app.net
+DOMAIN-SUFFIX,3839img.com
+DOMAIN-SUFFIX,3839pay.com
+DOMAIN-SUFFIX,3839pic.com
+DOMAIN-SUFFIX,3839vc.com
+DOMAIN-SUFFIX,3839video.com
+DOMAIN-SUFFIX,4399.cn
+DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,4399.net
+DOMAIN-SUFFIX,4399api.com
+DOMAIN-SUFFIX,4399api.net
+DOMAIN-SUFFIX,4399biule.com
+DOMAIN-SUFFIX,4399dmw.com
+DOMAIN-SUFFIX,4399er.com
+DOMAIN-SUFFIX,4399hdhh.com
+DOMAIN-SUFFIX,4399hhh.com
+DOMAIN-SUFFIX,4399inc.com
+DOMAIN-SUFFIX,4399mail.com
+DOMAIN-SUFFIX,4399pk.com
+DOMAIN-SUFFIX,4399sj.cn
+DOMAIN-SUFFIX,4399sj.com
+DOMAIN-SUFFIX,4399swf.com
+DOMAIN-SUFFIX,4399wanju.com
+DOMAIN-SUFFIX,4399youpai.com
+DOMAIN-SUFFIX,4399youxi.com
+DOMAIN-SUFFIX,4399yyy.com
+DOMAIN-SUFFIX,5054399.com
+DOMAIN-SUFFIX,5054399.net
+DOMAIN-SUFFIX,5wyxi.com
+DOMAIN-SUFFIX,71acg.com
+DOMAIN-SUFFIX,71acg.net
+DOMAIN-SUFFIX,abdf002.com
+DOMAIN-SUFFIX,appeeres.com
+DOMAIN-SUFFIX,buke999.com
+DOMAIN-SUFFIX,bx1k.com
+DOMAIN-SUFFIX,edu4399.com
+DOMAIN-SUFFIX,funnycore.com
+DOMAIN-SUFFIX,guoping123.com
+DOMAIN-SUFFIX,haohaowan.net
+DOMAIN-SUFFIX,i3839.com
+DOMAIN-SUFFIX,ihykb.com
+DOMAIN-SUFFIX,img4399.com
+DOMAIN-SUFFIX,mail4399.com
+DOMAIN-SUFFIX,maindown4399.com
+DOMAIN-SUFFIX,me4399.com
+DOMAIN-SUFFIX,my4399.com
+DOMAIN-SUFFIX,mysiteres.com
+DOMAIN-SUFFIX,nzsiteres.com
+DOMAIN-SUFFIX,qq163.com
+DOMAIN-SUFFIX,qq163.net
+DOMAIN-SUFFIX,tuer123.com
+DOMAIN-SUFFIX,wanwan4399.com
+DOMAIN-SUFFIX,we4399.com
+DOMAIN-SUFFIX,webgame163.com
+DOMAIN-SUFFIX,youba.com
+DOMAIN-SUFFIX,yxhapi.com
+DOMAIN-SUFFIX,yxhhdl.com
+DOMAIN-SUFFIX,yxhimg.com
+DOMAIN-SUFFIX,9game.cn
+DOMAIN-SUFFIX,aligames.com
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
+DOMAIN-SUFFIX,lingxigames.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,shyxhy.com
+DOMAIN-SUFFIX,yingxiong.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,kurogames.net
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,mhyurl.cn
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,mihoyogift.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,battlecare.net
+DOMAIN-SUFFIX,gameitop.com
+DOMAIN-SUFFIX,gameloop.com
+DOMAIN-SUFFIX,gcloudcs.com
+DOMAIN-SUFFIX,gcloudcstest.com
+DOMAIN-SUFFIX,gcloudcstestonly.com
+DOMAIN-SUFFIX,gclouddolphin.com
+DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gcloudsvcs.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,goto-game.com
+DOMAIN-SUFFIX,goto-game.mobi
+DOMAIN-SUFFIX,goto-game.net.cn
+DOMAIN-SUFFIX,goto-game.org
+DOMAIN-SUFFIX,happyhlddz.com
+DOMAIN-SUFFIX,hdyxgame.com
+DOMAIN-SUFFIX,hkgcloudcs.com
+DOMAIN-SUFFIX,ihappystudio.cn
+DOMAIN-SUFFIX,ihappystudio.com
+DOMAIN-SUFFIX,in.th
+DOMAIN-SUFFIX,ludosuperstar.cn
+DOMAIN-SUFFIX,ludoworld.net
+DOMAIN-SUFFIX,mahjongai.net
+DOMAIN-SUFFIX,mahjongcup.cn
+DOMAIN-SUFFIX,mahjongcup.com
+DOMAIN-SUFFIX,mahjongcup.net
+DOMAIN-SUFFIX,metalrevolution.com
+DOMAIN-SUFFIX,midasbuy.com
+DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,pubghelper.com
+DOMAIN-SUFFIX,pubgno1.cn
+DOMAIN-SUFFIX,pubgtool.com
+DOMAIN-SUFFIX,qqgameapp.com
+DOMAIN-SUFFIX,rmwxgame.com
+DOMAIN-SUFFIX,skydweller.cn
+DOMAIN-SUFFIX,syxlgame.com
+DOMAIN-SUFFIX,tencent-gcloud.com
+DOMAIN-SUFFIX,tencentstart.com
+DOMAIN-SUFFIX,texasholdemcup.cn
+DOMAIN-SUFFIX,texasholdemcup.com
+DOMAIN-SUFFIX,texasholdemcup.net
+DOMAIN-SUFFIX,timibase.com
+DOMAIN-SUFFIX,videoxiaoyouxi.com
+DOMAIN-SUFFIX,wcbygame.com
+DOMAIN-SUFFIX,yxdmgame.com
+DOMAIN-SUFFIX,yximg.cn
+DOMAIN-SUFFIX,yxwsgame.com
+DOMAIN-SUFFIX,yzyxgame.com
+DOMAIN-SUFFIX,zcjbgame.com
+DOMAIN-SUFFIX,zhuoyuegame.com
+DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX,roblox.cn
+DOMAIN-SUFFIX,roblox.qq.com
+DOMAIN-SUFFIX,robloxdev.cn
+DOMAIN-SUFFIX,nextstudios.com
+DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,mszdld.cn
+DOMAIN-SUFFIX,mszdld.com
+DOMAIN-SUFFIX,mszdld.net
+DOMAIN-SUFFIX,gamebonfire.com
+DOMAIN-SUFFIX,gouhuo.qq.com
+DOMAIN-SUFFIX,ffbuddy.com
+DOMAIN-SUFFIX,gotolink.net
+DOMAIN-SUFFIX,gtgres.com
+DOMAIN-SUFFIX,realcybertron.com
+DOMAIN-SUFFIX,wegame.com
+DOMAIN-SUFFIX,wegame.com.cn
+DOMAIN-SUFFIX,wegameplus.com
+DOMAIN-SUFFIX,werepository.com.cn
+DOMAIN-SUFFIX,brawlstars.cn
+DOMAIN-SUFFIX,haydaypop.cn
+DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,sccreator.cn
+DOMAIN-SUFFIX,sccreators.cn
+DOMAIN-SUFFIX,scescdn.cn
+DOMAIN-SUFFIX,scid.cn
+DOMAIN-SUFFIX,scsentry.cn
+DOMAIN-SUFFIX,supercellcommunity.cn
+DOMAIN-SUFFIX,supercellsupport.cn
+DOMAIN-SUFFIX,codm.com
+DOMAIN-SUFFIX,bcfmglobal.com
+DOMAIN-SUFFIX,tcfmglobal.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,17roco.com
+DOMAIN-SUFFIX,roco.qq.com
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,tiancitycdn.com
+DOMAIN-SUFFIX,vrzwk.cn
+DOMAIN-SUFFIX,vrzwk.com
+DOMAIN-SUFFIX,vrzwk.net
+DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,tapapks.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptapdada.com
+DOMAIN-SUFFIX,ro.com
+DOMAIN-SUFFIX,xd.cn
+DOMAIN-SUFFIX,xd.com
+DOMAIN-SUFFIX,xdcdn.net
+DOMAIN-SUFFIX,xindong.com
+DOMAIN-SUFFIX,dobest.com
+DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,sanguosha.com
+DOMAIN-SUFFIX,xhlsgs.com
+DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,yokaverse.com
+DOMAIN-SUFFIX,zhuoyou.com
+DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,9xgame.com
+DOMAIN-SUFFIX,arcaea.cn
+DOMAIN-SUFFIX,astral-vector.com
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
+DOMAIN-SUFFIX,feihuo.com
+DOMAIN-SUFFIX,forevernine.com
+DOMAIN-SUFFIX,fxt365.com
+DOMAIN-SUFFIX,gameabc.com
+DOMAIN-SUFFIX,gamemei.com
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,ledu.com
+DOMAIN-SUFFIX,longtugame.com
+DOMAIN-SUFFIX,morefreegame.com
+DOMAIN-SUFFIX,phira.cn
+DOMAIN-SUFFIX,sdo.com
+DOMAIN-SUFFIX,shengqugames.com
+DOMAIN-SUFFIX,zjshulong.com
+DOMAIN-SUFFIX,tgpro.top
+DOMAIN-SUFFIX,tgprocs.net
+DOMAIN-SUFFIX,tuyoo.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,winegame.net
+DOMAIN-SUFFIX,wo1wan.com
+DOMAIN-SUFFIX,ycgame.com

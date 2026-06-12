@@ -1,30 +1,20 @@
-# GeoSite: boc
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.boc.cn
-# BOC International
-.bank-of-china.com
-.bankofchina.com
-# BOC Fullerton Community Bank
-.bocfullertonbank.com
-# Comprehensive management
-.bocamchina.com
-.bocaviation.com
-.boccfc.cc
-.boccfc.cn
-.bocgi.com
-.bocgins.com
-# domain:bochk.com
-.bochk.com
-.bocichina.cn
-.bocichina.com
-.bocichina.com.cn
-.bocifunds.cn
-.bocifunds.com
-.bocifunds.com.cn
-.bocigroup.com
-.bocim.com
-.bocservices.com.cn
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn

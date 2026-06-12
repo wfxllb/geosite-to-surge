@@ -1,47 +1,28 @@
-# GeoSite: category-entertainment-ru
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# CDNvideo is a leading CDN provider in Russia and the CIS
-.cdnvideo.ru
-.cdnvideohub.com
-.trbcdn.net
-# Information about films and series
-.kinorium.com
-# Streaming services for watching TV series and movies
-# ══ include: kinopoisk ══
-.kinopoisk.ru
-.kinopoisk-ru.clstorage.net
-# ══ end include: kinopoisk ══
-# ══ include: okko ══
-.okkoapi.tv
-.playfamily.ru
-.okko.sport
-.okko.tv
-# ══ end include: okko ══
-# ══ include: wink ══
-.restream-media.net
-.restream.ru
-.more.tv
-.wink.am
-.wink.ru
-# ══ end include: wink ══
-.24h.tv
-.amediateka.ru
-.beeline.tv
-.ivi.ru
-.premier.one
-.smotreshka.tv
-.start.ru
-.tvigle.ru
-.viju.ru
-# Music
-.promodj.com
-# Video hosting
-# ══ include: rutube ══
-.rutube.ru
-.rutubelist.ru
-.rtbcdn.ru
-# ══ end include: rutube ══
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,kinorium.com
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,amediateka.ru
+DOMAIN-SUFFIX,beeline.tv
+DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,smotreshka.tv
+DOMAIN-SUFFIX,start.ru
+DOMAIN-SUFFIX,tvigle.ru
+DOMAIN-SUFFIX,viju.ru
+DOMAIN-SUFFIX,promodj.com
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru

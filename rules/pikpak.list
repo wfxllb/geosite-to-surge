@@ -1,15 +1,7 @@
-# GeoSite: pikpak
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.mypikpak.com
-.mypikpak.net
-.pickpackapp.com
-.pikpak.io
-.pikpak.me
-.pikpakdrive.com
-# tracking
-# full:o4504926511693824.ingest.sentry.io
-o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,pikpak.io
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN,o4504926511693824.ingest.sentry.io

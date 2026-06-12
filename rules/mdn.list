@@ -1,15 +1,9 @@
-# GeoSite: mdn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.developer.allizom.org
-.developer.mozilla.org
-.mdn.allizom.net
-.mdn.dev
-.mdn.mozilla.net
-.mdn.mozit.cloud
-.mdnplay.dev
-.mdnyalp.dev
-mdn.mozillademos.org
+DOMAIN-SUFFIX,developer.allizom.org
+DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,mdn.allizom.net
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mdn.mozilla.net
+DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev
+DOMAIN,mdn.mozillademos.org

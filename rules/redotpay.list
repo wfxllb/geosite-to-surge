@@ -1,11 +1,5 @@
-# GeoSite: redotpay
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.redotpay.com
-.redotpay.zendesk.com
-.pod-15-sunco-ws.zendesk.com
-.xhpjc6-cdn-settings.appsflyersdk.com
-.rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com

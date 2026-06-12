@@ -1,11 +1,5 @@
-# GeoSite: kodik
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.kodik-storage.com
-.kodik.biz
-.kodik.cc
-.kodik.info
-.kodikplayer.com
+DOMAIN-SUFFIX,kodik-storage.com
+DOMAIN-SUFFIX,kodik.biz
+DOMAIN-SUFFIX,kodik.cc
+DOMAIN-SUFFIX,kodik.info
+DOMAIN-SUFFIX,kodikplayer.com

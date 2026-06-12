@@ -1,21 +1,14 @@
-# GeoSite: ifast
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.fsmone.com
-.fsmone.com.hk
-.fsmone.com.my
-.fundsupermart.com
-.ifastcapital.com.my
-.ifastcorp.com
-.ifastfinancial.com.hk
-.ifastfinancial.co.in
-.ifastgb.com
-.ifastgp.com
-.ifastgp.com.hk
-.ifastnetwork.com
-# domain:ifastps.com.cn
-.ifastps.com.cn
-.ifasttv.com
+DOMAIN-SUFFIX,fsmone.com
+DOMAIN-SUFFIX,fsmone.com.hk
+DOMAIN-SUFFIX,fsmone.com.my
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,ifastcapital.com.my
+DOMAIN-SUFFIX,ifastcorp.com
+DOMAIN-SUFFIX,ifastfinancial.com.hk
+DOMAIN-SUFFIX,ifastfinancial.co.in
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastgp.com
+DOMAIN-SUFFIX,ifastgp.com.hk
+DOMAIN-SUFFIX,ifastnetwork.com
+DOMAIN-SUFFIX,ifastps.com.cn
+DOMAIN-SUFFIX,ifasttv.com

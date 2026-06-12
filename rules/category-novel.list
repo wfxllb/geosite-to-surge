@@ -1,10 +1,3 @@
-# GeoSite: category-novel
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# This file contains domains of pirate chinese online novel sites that are blocked by GFW
-.ptzwx.com
-.quanben-xiaoshuo.com
-.quanben.io
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

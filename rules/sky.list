@@ -1,21 +1,12 @@
-# GeoSite: sky
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# All .sky domains
-.sky.com
-.skyassets.com
-.skymansion.net
-.skyoceanrescue.com
-.skyoceanrescue.de
-.skyoceanrescue.it
-.skysports.com
-.skysports.fr
-.skysports.ie
-.skysportsonline.com
-.skysportsracing.com
-# CDN
-# domain:cn-cdn1.skymansion.net
-.cn-cdn1.skymansion.net
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skyassets.com
+DOMAIN-SUFFIX,skymansion.net
+DOMAIN-SUFFIX,skyoceanrescue.com
+DOMAIN-SUFFIX,skyoceanrescue.de
+DOMAIN-SUFFIX,skyoceanrescue.it
+DOMAIN-SUFFIX,skysports.com
+DOMAIN-SUFFIX,skysports.fr
+DOMAIN-SUFFIX,skysports.ie
+DOMAIN-SUFFIX,skysportsonline.com
+DOMAIN-SUFFIX,skysportsracing.com
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net

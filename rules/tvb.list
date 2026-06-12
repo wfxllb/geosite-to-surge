@@ -1,22 +1,13 @@
-# GeoSite: tvb
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: mytvsuper ══
-.mytvsuper.com
-.tvb.com
-# ══ end include: mytvsuper ══
-.bigbigchannel.com.hk
-.bigbigshop.com
-.encoretvb.com
-.tvb.com.au
-.tvbanywhere.com
-.tvbanywhere.com.sg
-# domain:tvbc.com.cn
-.tvbc.com.cn
-.tvbeventpower.com.hk
-.tvbusa.com
-.tvbweekly.com
-.tvmedia.net.au
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au

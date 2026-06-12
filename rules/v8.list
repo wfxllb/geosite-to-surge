@@ -1,8 +1,2 @@
-# GeoSite: v8
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.v8.dev
-.v8project.org
+DOMAIN-SUFFIX,v8.dev
+DOMAIN-SUFFIX,v8project.org

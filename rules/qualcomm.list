@@ -1,62 +1,49 @@
-# GeoSite: qualcomm
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.airgonetworks.com
-.berkanawireless.com
-.cdmatech.com
-.dragoniscoming.com
-.gobianywhere.com
-# domain:gpsonextra.net
-.gpsonextra.net
-.hellosmartbook.com
-.imod.com
-.ipleadership.org
-.iskoot.com
-# domain:izatcloud.net
-.izatcloud.net
-.meetsmartbook.com
-.patenttruth.org
-.pixtronix.com
-# domain:qceventscenter.com.cn
-.qceventscenter.com.cn
-.qcomgeo2.com
-.qctconnect.com
-.qprize.com
-.qualcomm-email.com
-.qualcomm-inc.com
-# domain:qualcomm.cn
-.qualcomm.cn
-# domain:qualcomm.cn.cdn.cloudflare.net
-.qualcomm.cn.cdn.cloudflare.net
-.qualcomm.co.id
-.qualcomm.co.in
-.qualcomm.co.jp
-.qualcomm.co.kr
-.qualcomm.co.uk
-.qualcomm.com
-.qualcomm.com.br
-.qualcomm.com.tw
-.qualcomm.de
-.qualcomm.fr
-.qualcommhalo.com
-.qualcommlabs.com
-.qualcommmea.com
-.qualcommretail.com
-.qualcommventures.cn
-.qualcommventures.com
-.qualphone.com
-.quicinc.com
-.snapdragon.cn
-.snapdragonbooth.com
-.uplinq.com
-.wipower.com
-.wirelessreach.com
-# domain:xtracloud.cn
-.xtracloud.cn
-.xtracloud.net
-# brew
-.brewmp.com
-qualcomm.sc.omtrdc.net
+DOMAIN-SUFFIX,airgonetworks.com
+DOMAIN-SUFFIX,berkanawireless.com
+DOMAIN-SUFFIX,cdmatech.com
+DOMAIN-SUFFIX,dragoniscoming.com
+DOMAIN-SUFFIX,gobianywhere.com
+DOMAIN-SUFFIX,gpsonextra.net
+DOMAIN-SUFFIX,hellosmartbook.com
+DOMAIN-SUFFIX,imod.com
+DOMAIN-SUFFIX,ipleadership.org
+DOMAIN-SUFFIX,iskoot.com
+DOMAIN-SUFFIX,izatcloud.net
+DOMAIN-SUFFIX,meetsmartbook.com
+DOMAIN-SUFFIX,patenttruth.org
+DOMAIN-SUFFIX,pixtronix.com
+DOMAIN-SUFFIX,qceventscenter.com.cn
+DOMAIN-SUFFIX,qcomgeo2.com
+DOMAIN-SUFFIX,qctconnect.com
+DOMAIN-SUFFIX,qprize.com
+DOMAIN-SUFFIX,qualcomm-email.com
+DOMAIN-SUFFIX,qualcomm-inc.com
+DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
+DOMAIN-SUFFIX,qualcomm.co.id
+DOMAIN-SUFFIX,qualcomm.co.in
+DOMAIN-SUFFIX,qualcomm.co.jp
+DOMAIN-SUFFIX,qualcomm.co.kr
+DOMAIN-SUFFIX,qualcomm.co.uk
+DOMAIN-SUFFIX,qualcomm.com
+DOMAIN-SUFFIX,qualcomm.com.br
+DOMAIN-SUFFIX,qualcomm.com.tw
+DOMAIN-SUFFIX,qualcomm.de
+DOMAIN-SUFFIX,qualcomm.fr
+DOMAIN-SUFFIX,qualcommhalo.com
+DOMAIN-SUFFIX,qualcommlabs.com
+DOMAIN-SUFFIX,qualcommmea.com
+DOMAIN-SUFFIX,qualcommretail.com
+DOMAIN-SUFFIX,qualcommventures.cn
+DOMAIN-SUFFIX,qualcommventures.com
+DOMAIN-SUFFIX,qualphone.com
+DOMAIN-SUFFIX,quicinc.com
+DOMAIN-SUFFIX,snapdragon.cn
+DOMAIN-SUFFIX,snapdragonbooth.com
+DOMAIN-SUFFIX,uplinq.com
+DOMAIN-SUFFIX,wipower.com
+DOMAIN-SUFFIX,wirelessreach.com
+DOMAIN-SUFFIX,xtracloud.cn
+DOMAIN-SUFFIX,xtracloud.net
+DOMAIN-SUFFIX,brewmp.com
+DOMAIN,qualcomm.sc.omtrdc.net

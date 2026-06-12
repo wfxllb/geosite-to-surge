@@ -1,10 +1,4 @@
-# GeoSite: kuaidi100
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.ckd.im
-.kd100.com
-.kuaidi100.com
-.kuaidilab.com
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com

@@ -1,9 +1,2 @@
-# GeoSite: morisawa
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.morisawa.co.jp
-# TypeSquare
-.typesquare.com
+DOMAIN-SUFFIX,morisawa.co.jp
+DOMAIN-SUFFIX,typesquare.com

@@ -1,14 +1,7 @@
-# GeoSite: bestv
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 百视通
-.bbtv.cn
-.bestv.com.cn
-.bestvcdn.cn
-.bestvcdn.com
-.bestvcdn.com.cn
-.bestvcdn.net
-.smgbb.cn
+DOMAIN-SUFFIX,bbtv.cn
+DOMAIN-SUFFIX,bestv.com.cn
+DOMAIN-SUFFIX,bestvcdn.cn
+DOMAIN-SUFFIX,bestvcdn.com
+DOMAIN-SUFFIX,bestvcdn.com.cn
+DOMAIN-SUFFIX,bestvcdn.net
+DOMAIN-SUFFIX,smgbb.cn

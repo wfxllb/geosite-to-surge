@@ -1,11 +1,5 @@
-# GeoSite: zhimeishe
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.168sex.top
-.a7sex.com
-.ctotires.com
-.ferryclean.com
-.zhimeishe888.com
+DOMAIN-SUFFIX,168sex.top
+DOMAIN-SUFFIX,a7sex.com
+DOMAIN-SUFFIX,ctotires.com
+DOMAIN-SUFFIX,ferryclean.com
+DOMAIN-SUFFIX,zhimeishe888.com

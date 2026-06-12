@@ -1,9 +1,3 @@
-# GeoSite: t2-ru
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.b2c-digest.ru
-.t2.ru
-.tele2.ru
+DOMAIN-SUFFIX,b2c-digest.ru
+DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,tele2.ru

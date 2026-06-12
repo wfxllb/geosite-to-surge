@@ -1,15 +1,5 @@
-# GeoSite: ximalaya
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.ximalaya.com
-.xmcdn.com
-# Ads/tracking
-# domain:adbehavior.ximalaya.com
-.adbehavior.ximalaya.com
-# domain:adse.wsa.ximalaya.com
-.adse.wsa.ximalaya.com
-# domain:adse.ximalaya.com
-.adse.ximalaya.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com

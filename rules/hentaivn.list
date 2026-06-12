@@ -1,10 +1,4 @@
-# GeoSite: hentaivn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.hentaivn.de
-.hentaivn.la
-.hentaivn.net
-.htvncdn.net
+DOMAIN-SUFFIX,hentaivn.de
+DOMAIN-SUFFIX,hentaivn.la
+DOMAIN-SUFFIX,hentaivn.net
+DOMAIN-SUFFIX,htvncdn.net

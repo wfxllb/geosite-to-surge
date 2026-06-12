@@ -1,9 +1,3 @@
-# GeoSite: hcaptcha
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.botstop.com
-.hcaptcha.com
-.hcaptchastatus.com
+DOMAIN-SUFFIX,botstop.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,hcaptchastatus.com

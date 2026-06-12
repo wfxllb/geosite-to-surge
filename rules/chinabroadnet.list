@@ -1,20 +1,8 @@
-# GeoSite: chinabroadnet
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.10099.com.cn
-.chn.cn
-# 安徽省
-.ahitv.com
-# 重慶市
-.cqccn.com
-# 廣東廣電網路
-.gcable.com.cn
-# 四川省
-.sc96655.com
-# 山西省
-.isxtv.com
-# 山東省
-.sdgdwljt.com
+DOMAIN-SUFFIX,10099.com.cn
+DOMAIN-SUFFIX,chn.cn
+DOMAIN-SUFFIX,ahitv.com
+DOMAIN-SUFFIX,cqccn.com
+DOMAIN-SUFFIX,gcable.com.cn
+DOMAIN-SUFFIX,sc96655.com
+DOMAIN-SUFFIX,isxtv.com
+DOMAIN-SUFFIX,sdgdwljt.com

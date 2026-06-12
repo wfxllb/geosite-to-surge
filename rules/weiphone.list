@@ -1,10 +1,4 @@
-# GeoSite: weiphone
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.feng.com
-.fengimg.com
-.weiphone.net
-.wfdata.club
+DOMAIN-SUFFIX,feng.com
+DOMAIN-SUFFIX,fengimg.com
+DOMAIN-SUFFIX,weiphone.net
+DOMAIN-SUFFIX,wfdata.club

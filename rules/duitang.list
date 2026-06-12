@@ -1,8 +1,2 @@
-# GeoSite: duitang
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.dtstatic.com
-.duitang.com
+DOMAIN-SUFFIX,dtstatic.com
+DOMAIN-SUFFIX,duitang.com

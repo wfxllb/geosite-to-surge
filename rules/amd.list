@@ -1,13 +1,6 @@
-# GeoSite: amd
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.amd.com
-.amd.com.cn
-.amdfanstore.com
-.amdgaming.com
-.radeon.com
-# full:www.amd.com
-www.amd.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
+DOMAIN-SUFFIX,radeon.com
+DOMAIN,www.amd.com

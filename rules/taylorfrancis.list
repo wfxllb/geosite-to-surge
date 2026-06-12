@@ -1,10 +1,4 @@
-# GeoSite: taylorfrancis
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.tandf.co.uk
-.tandfonline.com
-.taylorandfrancis.com
-.taylorfrancis.com
+DOMAIN-SUFFIX,tandf.co.uk
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,taylorandfrancis.com
+DOMAIN-SUFFIX,taylorfrancis.com

@@ -1,12 +1,6 @@
-# GeoSite: aliyun-drive
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.alicloudccp.com
-.alipan.com
-.aliyundrive.cloud
-.aliyundrive.com
-.aliyundrive.net
-.yunpan.aliyun.com
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,yunpan.aliyun.com

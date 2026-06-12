@@ -1,14 +1,7 @@
-# GeoSite: gree
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 珠海格力
-.gree.cn
-.gree.com
-.gree.com.cn
-.greeyun.com
-.kinghomechina.com
-.tosot.com.cn
-.zhlyen.com
+DOMAIN-SUFFIX,gree.cn
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,gree.com.cn
+DOMAIN-SUFFIX,greeyun.com
+DOMAIN-SUFFIX,kinghomechina.com
+DOMAIN-SUFFIX,tosot.com.cn
+DOMAIN-SUFFIX,zhlyen.com

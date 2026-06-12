@@ -1,44 +1,24 @@
-# GeoSite: category-travel-ru
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Aviasales
-# ══ include: aviasales ══
-.avs.io
-.aviasales.ru
-.aviasales.com
-# ══ end include: aviasales ══
-# BlaBlaCar
-.blablacar.ru
-# Bus stations
-.avtovokzaly.ru
-# Ostrovok
-.ostrovok.ru
-# Othello / Otello from 2GIS and Sber
-.2gis.ru
-.otello.ru
-.sber.ru
-# Public transport and ticketing
-# ══ include: mosmetro ══
-.mosmetro.ru
-.mosmetro.tech
-# ══ end include: mosmetro ══
-bilet.nspk.ru
-metro.spb.ru
-mos.transport.vtb.ru
-podorozhnik.spb.ru
-transport.mos.ru
-.gorodpay.ru
-.rrtp.ru
-# Russian Railways
-.rzd-bonus.ru
-.rzd.ru
-# Tutu
-.tutu.ru
-# Yandex Rent
-arenda.yandex.ru
-# Yandex Taxi
-taxi.yandex.ru
-.fasten.ru
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,blablacar.ru
+DOMAIN-SUFFIX,avtovokzaly.ru
+DOMAIN-SUFFIX,ostrovok.ru
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech
+DOMAIN,bilet.nspk.ru
+DOMAIN,metro.spb.ru
+DOMAIN,mos.transport.vtb.ru
+DOMAIN,podorozhnik.spb.ru
+DOMAIN,transport.mos.ru
+DOMAIN-SUFFIX,gorodpay.ru
+DOMAIN-SUFFIX,rrtp.ru
+DOMAIN-SUFFIX,rzd-bonus.ru
+DOMAIN-SUFFIX,rzd.ru
+DOMAIN-SUFFIX,tutu.ru
+DOMAIN,arenda.yandex.ru
+DOMAIN,taxi.yandex.ru
+DOMAIN-SUFFIX,fasten.ru

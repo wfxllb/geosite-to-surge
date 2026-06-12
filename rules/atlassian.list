@@ -1,19 +1,11 @@
-# GeoSite: atlassian
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: trello ══
-.trello.com
-.trellocdn.com
-# ══ end include: trello ══
-.atl-paas.net
-.atlassian-dev.net
-.atlassian.com
-.atlassian.net
-.bitbucket.io
-.bitbucket.org
-.jira.com
-.ss-inf.net
-.statuspage.io
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,atlassian-dev.net
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,ss-inf.net
+DOMAIN-SUFFIX,statuspage.io

@@ -1,34 +1,25 @@
-# GeoSite: stackexchange
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# References:
-# https://stackexchange.com/sites
-# https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
-.askubuntu.com
-.blogoverflow.com
-.codeforaliving.io
-.mathoverflow.net
-.serverfault.com
-.sstatic.net
-.stackapps.com
-.stackauth.com
-.stackexchange.com
-.stackmod.blog
-.stackoverflow.blog
-.stackoverflow.co
-.stackoverflow.com
-.stackoverflow.email
-.stackoverflow.help
-.stackoverflow.net
-.stackoverflowbusiness.com
-.stackoverflowcareers.com
-.stackoverflowjobs.com
-.stackoverflowsolutions.com
-.stackoverflowteams.com
-.stacksnippets.net
-.superuser.com
-.tex-talk.net
-.thesffblog.com
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,blogoverflow.com
+DOMAIN-SUFFIX,codeforaliving.io
+DOMAIN-SUFFIX,mathoverflow.net
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,stackapps.com
+DOMAIN-SUFFIX,stackauth.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackmod.blog
+DOMAIN-SUFFIX,stackoverflow.blog
+DOMAIN-SUFFIX,stackoverflow.co
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackoverflow.email
+DOMAIN-SUFFIX,stackoverflow.help
+DOMAIN-SUFFIX,stackoverflow.net
+DOMAIN-SUFFIX,stackoverflowbusiness.com
+DOMAIN-SUFFIX,stackoverflowcareers.com
+DOMAIN-SUFFIX,stackoverflowjobs.com
+DOMAIN-SUFFIX,stackoverflowsolutions.com
+DOMAIN-SUFFIX,stackoverflowteams.com
+DOMAIN-SUFFIX,stacksnippets.net
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,tex-talk.net
+DOMAIN-SUFFIX,thesffblog.com

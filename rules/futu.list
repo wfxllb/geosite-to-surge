@@ -1,24 +1,12 @@
-# GeoSite: futu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 富途证券
-# domain:futuesop.com
-.futuesop.com
-.futufin.com
-.futuhk.com
-.futuhkapp.com
-.futuhn.com
-.futuholdings.com
-# domain:futuniuniu.com
-.futuniuniu.com
-# domain:futunn.com
-.futunn.com
-# domain:futustatic.com
-.futustatic.com
-# 富途 moomoo 证券
-.moomoo.com
-.moomooequity.com
-.moomootrustee.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com

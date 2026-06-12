@@ -1,9 +1,3 @@
-# GeoSite: deviantart
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.deviantart.com
-.deviantart.net
-.da-files.com
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,da-files.com

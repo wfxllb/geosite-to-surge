@@ -1,44 +1,28 @@
-# GeoSite: pccw
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: hkt ══
-.1010.com.hk
-.esmarthealth.com
-.hkcsl.com
-.hkt-enterprise.com
-.hkt-eye.com
-.hkt.com
-.hkteducation.com
-.hktpremier.com
-.hktshop.com
-.netvigator.com
-.theclub.com.hk
-.uhub.com
-# ══ end include: hkt ══
-# ══ include: now ══
-.now.com
-.now.com.hk
-.nowe.com
-.nowe.hk
-.now-tv.com
-.now-ashare.com
-# ══ end include: now ══
-# ══ include: viu ══
-# viu.tv
-.viu.tv
-api.viu.now.com
-# [skip] regexp:^ewcdn[0-9]+\.nowe\.com$ — 无法转为 Surge .list
-# viu.com
-.viu.com
-dfp6rglgjqszk.cloudfront.net
-d1k2us671qcoau.cloudfront.net
-d2anahhhmp1ffz.cloudfront.net
-# ══ end include: viu ══
-.pccw.com
-.pccwglobal.com
-.pccwsolutions.com
-# Moov
-.moov.hk
+DOMAIN-SUFFIX,1010.com.hk
+DOMAIN-SUFFIX,esmarthealth.com
+DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,hkt-enterprise.com
+DOMAIN-SUFFIX,hkt-eye.com
+DOMAIN-SUFFIX,hkt.com
+DOMAIN-SUFFIX,hkteducation.com
+DOMAIN-SUFFIX,hktpremier.com
+DOMAIN-SUFFIX,hktshop.com
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,theclub.com.hk
+DOMAIN-SUFFIX,uhub.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN-SUFFIX,pccw.com
+DOMAIN-SUFFIX,pccwglobal.com
+DOMAIN-SUFFIX,pccwsolutions.com
+DOMAIN-SUFFIX,moov.hk

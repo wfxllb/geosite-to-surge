@@ -1,23 +1,11 @@
-# GeoSite: xiaohongshu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: askdiandian ══
-# 点点 Ai
-.askdiandian.com
-.diandianlife.top
-# ══ end include: askdiandian ══
-.redelight.cn
-# domain:rednote.com
-.rednote.com
-# domain:rednote.com.my
-.rednote.com.my
-# domain:rednotecdn.com
-.rednotecdn.com
-.xhscdn.com
-.xhscdn.net
-.xhslink.com
-.xhsrcdn.com
-.xiaohongshu.com
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,redelight.cn
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,rednote.com.my
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsrcdn.com
+DOMAIN-SUFFIX,xiaohongshu.com

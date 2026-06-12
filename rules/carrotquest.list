@@ -1,41 +1,23 @@
-# GeoSite: carrotquest
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.carrot-mail.io
-.carrotquest-mail.io
-.carrotquest.app
-.carrotquest.io
-.carrottrack.app
-.dashly.app
-.dashly.help
-.dashly.io
-.dashly.me
-.dashlytrack.app
-.mail-carrotquest.io
-.pushgrow.io
-# Tracking
-# full:api-eu.carrotquest.app
-api-eu.carrotquest.app
-# full:api-eu.carrotquest.io
-api-eu.carrotquest.io
-# full:api-ru.carrotquest.app
-api-ru.carrotquest.app
-# full:api-ru.carrotquest.io
-api-ru.carrotquest.io
-# full:api-secure.carrotquest.app
-api-secure.carrotquest.app
-# full:api-secure.carrottrack.app
-api-secure.carrottrack.app
-# full:api.carrotquest.app
-api.carrotquest.app
-# full:api.carrotquest.io
-api.carrotquest.io
-# full:api.carrottrack.app
-api.carrottrack.app
-# full:api.dashly.app
-api.dashly.app
-# full:api.dashlytrack.app
-api.dashlytrack.app
+DOMAIN-SUFFIX,carrot-mail.io
+DOMAIN-SUFFIX,carrotquest-mail.io
+DOMAIN-SUFFIX,carrotquest.app
+DOMAIN-SUFFIX,carrotquest.io
+DOMAIN-SUFFIX,carrottrack.app
+DOMAIN-SUFFIX,dashly.app
+DOMAIN-SUFFIX,dashly.help
+DOMAIN-SUFFIX,dashly.io
+DOMAIN-SUFFIX,dashly.me
+DOMAIN-SUFFIX,dashlytrack.app
+DOMAIN-SUFFIX,mail-carrotquest.io
+DOMAIN-SUFFIX,pushgrow.io
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app

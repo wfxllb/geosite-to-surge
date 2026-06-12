@@ -1,13 +1,7 @@
-# GeoSite: ifanr
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.coolbuy.com
-.ifanr.cn
-.ifanr.com
-.ifanr.in
-.ifanrusercontent.com
-.ifanrx.com
-.minapp.com
+DOMAIN-SUFFIX,coolbuy.com
+DOMAIN-SUFFIX,ifanr.cn
+DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,ifanr.in
+DOMAIN-SUFFIX,ifanrusercontent.com
+DOMAIN-SUFFIX,ifanrx.com
+DOMAIN-SUFFIX,minapp.com

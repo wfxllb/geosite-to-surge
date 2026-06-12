@@ -1,109 +1,76 @@
-# GeoSite: category-electronic-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Electronic store/company's website with access point in China
-# Analog
-.analog.com
-# 艾睿电子
-.arrow.cn
-# 圆刚科技
-.avermedia.cn
-# 京东方
-.boe.com
-.boe.com.cn
-# 博流智能
-.bouffalolab.com
-# 长鑫存储
-.cxmt.com
-# 乐鑫信息科技
-#include:espressif
-.esp8266.cn
-.esp8266.com.cn
-.espressif.cn
-.espressif.com.cn
-# 华秋电子
-.eda.cn
-.elecfans.com
-.hqchip.com
-.hqdoc.com
-.hqpcb.com
-# 英飞凌
-.infineon.cn
-#infineon.com
-# 嘉立创集团
-# ══ include: jlc ══
-# 嘉立创
-.fa-part.com
-.forface3d.com
-.jlc-3dp.cn
-.jlc-3dp.com
-.jlc-bbs.com
-.jlc-cad.com
-.jlc-cam.com
-.jlc-cnc.com
-.jlc-dfm.com
-.jlc-drm.com
-.jlc-ecad.com
-.jlc-erp.com
-.jlc-fpc.com
-.jlc-gw.com
-.jlc-jh.com
-.jlc-layout.com
-.jlc-pcb.com
-.jlc-smt.com
-.jlc-zh.com
-.jlc.com
-.jlc3dp.cn
-.jlccad.com
-.jlccam.com
-.jlccnc.com
-.jlcdfm.com
-.jlcecad.com
-.jlceda.cn
-.jlceda.com
-.jlcerp.com
-.jlcfa.com
-.jlcgroup.cn
-.jlcops.com
-.jlcsj.com
-.jlcsmt.com
-.lceda.cn
-.lckfb.com
-.oshwhub.com
-.sanweihou.com
-.sz-jlc.com
-.szjlc.cn
-.szlcsc.com
-.zs-jlc.com
-.zxhgroup.com
-# ══ end include: jlc ══
-# 移远通信
-.quecmall.cn
-.quectel.com.cn
-.iotronic.tech
-# 瑞芯微电子
-.rock-chips.com
-# 矽递科技
-.seeed.cn
-.seeed.cc
-.seeed.com.cn
-.seeedstudio.com.cn
-# 矽速科技
-.sipeed.com
-.maixhub.com
-# 德州仪器
-#ti.com
-.ti.com.cn
-# 沁恒微电子
-.wch.cn
-.wch-ic.com
-# 长江存储
-# ══ include: ymtc ══
-# 长江存储
-.ymtc.com
-.ymtc.com.cn
-.ymtc.cn
-# ══ end include: ymtc ══
+DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,arrow.cn
+DOMAIN-SUFFIX,avermedia.cn
+DOMAIN-SUFFIX,boe.com
+DOMAIN-SUFFIX,boe.com.cn
+DOMAIN-SUFFIX,bouffalolab.com
+DOMAIN-SUFFIX,cxmt.com
+DOMAIN-SUFFIX,esp8266.cn
+DOMAIN-SUFFIX,esp8266.com.cn
+DOMAIN-SUFFIX,espressif.cn
+DOMAIN-SUFFIX,espressif.com.cn
+DOMAIN-SUFFIX,eda.cn
+DOMAIN-SUFFIX,elecfans.com
+DOMAIN-SUFFIX,hqchip.com
+DOMAIN-SUFFIX,hqdoc.com
+DOMAIN-SUFFIX,hqpcb.com
+DOMAIN-SUFFIX,infineon.cn
+DOMAIN-SUFFIX,fa-part.com
+DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,jlc-3dp.cn
+DOMAIN-SUFFIX,jlc-3dp.com
+DOMAIN-SUFFIX,jlc-bbs.com
+DOMAIN-SUFFIX,jlc-cad.com
+DOMAIN-SUFFIX,jlc-cam.com
+DOMAIN-SUFFIX,jlc-cnc.com
+DOMAIN-SUFFIX,jlc-dfm.com
+DOMAIN-SUFFIX,jlc-drm.com
+DOMAIN-SUFFIX,jlc-ecad.com
+DOMAIN-SUFFIX,jlc-erp.com
+DOMAIN-SUFFIX,jlc-fpc.com
+DOMAIN-SUFFIX,jlc-gw.com
+DOMAIN-SUFFIX,jlc-jh.com
+DOMAIN-SUFFIX,jlc-layout.com
+DOMAIN-SUFFIX,jlc-pcb.com
+DOMAIN-SUFFIX,jlc-smt.com
+DOMAIN-SUFFIX,jlc-zh.com
+DOMAIN-SUFFIX,jlc.com
+DOMAIN-SUFFIX,jlc3dp.cn
+DOMAIN-SUFFIX,jlccad.com
+DOMAIN-SUFFIX,jlccam.com
+DOMAIN-SUFFIX,jlccnc.com
+DOMAIN-SUFFIX,jlcdfm.com
+DOMAIN-SUFFIX,jlcecad.com
+DOMAIN-SUFFIX,jlceda.cn
+DOMAIN-SUFFIX,jlceda.com
+DOMAIN-SUFFIX,jlcerp.com
+DOMAIN-SUFFIX,jlcfa.com
+DOMAIN-SUFFIX,jlcgroup.cn
+DOMAIN-SUFFIX,jlcops.com
+DOMAIN-SUFFIX,jlcsj.com
+DOMAIN-SUFFIX,jlcsmt.com
+DOMAIN-SUFFIX,lceda.cn
+DOMAIN-SUFFIX,lckfb.com
+DOMAIN-SUFFIX,oshwhub.com
+DOMAIN-SUFFIX,sanweihou.com
+DOMAIN-SUFFIX,sz-jlc.com
+DOMAIN-SUFFIX,szjlc.cn
+DOMAIN-SUFFIX,szlcsc.com
+DOMAIN-SUFFIX,zs-jlc.com
+DOMAIN-SUFFIX,zxhgroup.com
+DOMAIN-SUFFIX,quecmall.cn
+DOMAIN-SUFFIX,quectel.com.cn
+DOMAIN-SUFFIX,iotronic.tech
+DOMAIN-SUFFIX,rock-chips.com
+DOMAIN-SUFFIX,seeed.cn
+DOMAIN-SUFFIX,seeed.cc
+DOMAIN-SUFFIX,seeed.com.cn
+DOMAIN-SUFFIX,seeedstudio.com.cn
+DOMAIN-SUFFIX,sipeed.com
+DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,ti.com.cn
+DOMAIN-SUFFIX,wch.cn
+DOMAIN-SUFFIX,wch-ic.com
+DOMAIN-SUFFIX,ymtc.com
+DOMAIN-SUFFIX,ymtc.com.cn
+DOMAIN-SUFFIX,ymtc.cn

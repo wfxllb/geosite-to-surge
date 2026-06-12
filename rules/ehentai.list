@@ -1,14 +1,8 @@
-# GeoSite: ehentai
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.e-hentai.org
-.ehgt.org
-.ehtracker.org
-.ehwiki.org
-.exhentai.org
-.hath.network
-.hentaiathome.net
-.hentaiverse.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,ehtracker.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,hentaiathome.net
+DOMAIN-SUFFIX,hentaiverse.org

@@ -1,8 +1,2 @@
-# GeoSite: tube8
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.tube8.com
-.tube8.fr
+DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,tube8.fr

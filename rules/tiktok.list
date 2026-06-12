@@ -1,81 +1,37 @@
-# GeoSite: tiktok
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:bytedapm.com
-.bytedapm.com
-# domain:byteoversea.com
-.byteoversea.com
-# domain:muscdn.com
-.muscdn.com
-# domain:musical.ly
-.musical.ly
-# domain:tik-tokapi.com
-.tik-tokapi.com
-# domain:tiktok-minis.com
-.tiktok-minis.com
-# domain:tiktok-row.net
-.tiktok-row.net
-# domain:tiktok.com
-.tiktok.com
-# domain:tiktokcdn-eu.com
-.tiktokcdn-eu.com
-# domain:tiktokcdn-us.com
-.tiktokcdn-us.com
-# domain:tiktokcdn.com
-.tiktokcdn.com
-# domain:tiktokd.net
-.tiktokd.net
-# domain:tiktokd.org
-.tiktokd.org
-# domain:tiktokeu-cdn.com
-.tiktokeu-cdn.com
-# domain:tiktokglobalshopv.com
-.tiktokglobalshopv.com
-# domain:tiktokminis.us
-.tiktokminis.us
-# domain:tiktokrow-cdn.com
-.tiktokrow-cdn.com
-# domain:tiktokv.com
-.tiktokv.com
-# domain:tiktokv.eu
-.tiktokv.eu
-# domain:tiktokv.us
-.tiktokv.us
-# domain:tiktokw.eu
-.tiktokw.eu
-# domain:tiktokw.us
-.tiktokw.us
-# domain:ttcdn-us.com
-.ttcdn-us.com
-# domain:ttlivecdn.com
-.ttlivecdn.com
-# domain:ttoverseaus.net
-.ttoverseaus.net
-# domain:ttwstatic.com
-.ttwstatic.com
-# domain:tiktokcdn-us.com.edgesuite.net
-.tiktokcdn-us.com.edgesuite.net
-# domain:tiktokcdn.com.akamaized.net
-.tiktokcdn.com.akamaized.net
-# domain:tiktokcdn.com.edgesuite.net
-.tiktokcdn.com.edgesuite.net
-# domain:tiktokv.com.edgekey.net
-.tiktokv.com.edgekey.net
-# domain:tiktokv.com.edgesuite.net
-.tiktokv.com.edgesuite.net
-# full:p16-tiktokcdn-com.akamaized.net
-p16-tiktokcdn-com.akamaized.net
-# full:roovza-launches.appsflyersdk.com
-roovza-launches.appsflyersdk.com
-# full:roovza.inapps.appsflyersdk.com
-roovza.inapps.appsflyersdk.com
-# full:roovza.launches.appsflyersdk.com
-roovza.launches.appsflyersdk.com
-# full:roovza.skadsdk.appsflyersdk.com
-roovza.skadsdk.appsflyersdk.com
-# Ads/tracking
-# domain:analytics.tiktok.com
-.analytics.tiktok.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokeu-cdn.com
+DOMAIN-SUFFIX,tiktokglobalshopv.com
+DOMAIN-SUFFIX,tiktokminis.us
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.eu
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.eu
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
+DOMAIN-SUFFIX,ttlivecdn.com
+DOMAIN-SUFFIX,ttoverseaus.net
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
+DOMAIN-SUFFIX,analytics.tiktok.com

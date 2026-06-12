@@ -1,8 +1,2 @@
-# GeoSite: camwhores
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.camwhores.tv
-.camwhores.video
+DOMAIN-SUFFIX,camwhores.tv
+DOMAIN-SUFFIX,camwhores.video

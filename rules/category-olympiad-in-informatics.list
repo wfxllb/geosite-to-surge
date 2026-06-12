@@ -1,23 +1,16 @@
-# GeoSite: category-olympiad-in-informatics
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# LeetCode 中国站
-.leetcode.cn
-.leetcode-cn.com
-.lingkou.xyz
-.lingkou.com
-.lingkou.cn
-.51nod.com
-.acwing.com
-.hihocoder.com
-.jisuanke.com
-.kidsccshow.com
-.luogu.com.cn
-.oi-wiki.com
-.openjudge.cn
-.rqnoj.cn
-.uoj.ac
-.vijos.org
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,lingkou.xyz
+DOMAIN-SUFFIX,lingkou.com
+DOMAIN-SUFFIX,lingkou.cn
+DOMAIN-SUFFIX,51nod.com
+DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,hihocoder.com
+DOMAIN-SUFFIX,jisuanke.com
+DOMAIN-SUFFIX,kidsccshow.com
+DOMAIN-SUFFIX,luogu.com.cn
+DOMAIN-SUFFIX,oi-wiki.com
+DOMAIN-SUFFIX,openjudge.cn
+DOMAIN-SUFFIX,rqnoj.cn
+DOMAIN-SUFFIX,uoj.ac
+DOMAIN-SUFFIX,vijos.org

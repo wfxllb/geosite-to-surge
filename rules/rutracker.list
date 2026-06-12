@@ -1,14 +1,8 @@
-# GeoSite: rutracker
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.maintracker.org
-.rutracker.cc
-.rutracker.cr
-.rutracker.me
-.rutracker.net
-.rutracker.nl
-.rutracker.org
-.rutrk.org
+DOMAIN-SUFFIX,maintracker.org
+DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,rutracker.cr
+DOMAIN-SUFFIX,rutracker.me
+DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutrk.org

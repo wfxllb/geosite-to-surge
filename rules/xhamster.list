@@ -1,24 +1,15 @@
-# GeoSite: xhamster
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.xhamster.com
-.xhamster.desi
-.xhamster.xxx
-.xhamster18.com
-.xhamster18.desi
-.xhamster19.com
-.xhamster2.com
-.xhamster3.com
-.xhamsterlive.com
-.xhcdn.com
-.xhnews.live
-.xhpingcdn.com
-.xhreal5.com
-# xhamsterlive thumbnails
-widgets.stripst.com
-# Ads/tracking
-# domain:collector.xhamster.com
-.collector.xhamster.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhamster.desi
+DOMAIN-SUFFIX,xhamster.xxx
+DOMAIN-SUFFIX,xhamster18.com
+DOMAIN-SUFFIX,xhamster18.desi
+DOMAIN-SUFFIX,xhamster19.com
+DOMAIN-SUFFIX,xhamster2.com
+DOMAIN-SUFFIX,xhamster3.com
+DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhnews.live
+DOMAIN-SUFFIX,xhpingcdn.com
+DOMAIN-SUFFIX,xhreal5.com
+DOMAIN,widgets.stripst.com
+DOMAIN-SUFFIX,collector.xhamster.com

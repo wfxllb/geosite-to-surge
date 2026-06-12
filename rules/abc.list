@@ -1,10 +1,3 @@
-# GeoSite: abc
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# American Broadcasting Company
-.abc-studios.com
-.abc.com
-.edgedatg.com
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,edgedatg.com

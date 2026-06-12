@@ -1,10 +1,4 @@
-# GeoSite: readthedocs
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.readthedocs-hosted.com
-.readthedocs.com
-.readthedocs.io
-.readthedocs.org
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

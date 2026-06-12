@@ -1,8 +1,2 @@
-# GeoSite: hitun
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.hitun.io
-.xn--90wwvt03e.com
+DOMAIN-SUFFIX,hitun.io
+DOMAIN-SUFFIX,xn--90wwvt03e.com

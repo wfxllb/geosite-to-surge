@@ -1,12 +1,6 @@
-# GeoSite: firefox
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.extendfirefox.com
-.firefox.com
-.firefox.hu
-.firefoxtweetmachine.com
-.firefoxusercontent.com
-mozilla-ohttp.fastly-edge.com
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN,mozilla-ohttp.fastly-edge.com

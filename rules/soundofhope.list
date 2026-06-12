@@ -1,14 +1,8 @@
-# GeoSite: soundofhope
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.bayvoice.net
-.ozvoice.org
-.sohcradio.com
-.sohfrance.org
-.soundofhope.eu
-.soundofhope.kr
-.soundofhope.org
-.wanokokorosoh.com
+DOMAIN-SUFFIX,bayvoice.net
+DOMAIN-SUFFIX,ozvoice.org
+DOMAIN-SUFFIX,sohcradio.com
+DOMAIN-SUFFIX,sohfrance.org
+DOMAIN-SUFFIX,soundofhope.eu
+DOMAIN-SUFFIX,soundofhope.kr
+DOMAIN-SUFFIX,soundofhope.org
+DOMAIN-SUFFIX,wanokokorosoh.com

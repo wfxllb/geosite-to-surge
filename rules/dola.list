@@ -1,15 +1,4 @@
-# GeoSite: dola
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Dola, formly ciciai, an AI service of bytedance
-# domain:cici.com
-.cici.com
-# domain:ciciai.com
-.ciciai.com
-# domain:ciciaicdn.com
-.ciciaicdn.com
-# domain:dola.com
-.dola.com
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com

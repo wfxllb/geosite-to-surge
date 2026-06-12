@@ -1,37 +1,23 @@
-# GeoSite: blizzard
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.blizzard.com
-.blizzardgearstore.com
-.blz-contentstack.com
-# Battle.Net
-.battle.net
-blizzard.nefficient.co.kr
-blzddist1-a.akamaihd.net
-blzddistkr1-a.akamaihd.net
-bnetcmsus-a.akamaihd.net
-bnetproduct-a.akamaihd.net
-bnetshopus.akamaized.net
-# Diablo
-.diablo3.com
-.diabloimmortal.com
-# Hearthstone
-.firesidegatherings.com
-.playhearthstone.com
-# Hero of the Storm
-.heroesofthestorm.com
-# Overwatch
-.playoverwatch.com
-# Starcraft
-.starcraft.com
-.starcraft2.com
-# Warcraft
-.playwarcraft3.com
-# World of Warcraft
-.worldofwarcraft.com
-blizzcon-a.akamaihd.net
-blzmedia-a.akamaihd.net
-blznav.akamaized.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetcmsus-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+DOMAIN,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN,blizzcon-a.akamaihd.net
+DOMAIN,blzmedia-a.akamaihd.net
+DOMAIN,blznav.akamaized.net

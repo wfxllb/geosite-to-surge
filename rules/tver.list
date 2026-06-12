@@ -1,11 +1,5 @@
-# GeoSite: tver
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.dogatch.jp
-.gorin.jp
-.screens-lab.jp
-.tver.co.jp
-.tver.jp
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp

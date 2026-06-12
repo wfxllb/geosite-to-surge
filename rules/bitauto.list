@@ -1,11 +1,5 @@
-# GeoSite: bitauto
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.bitauto.com
-.bitautoimg.com
-.cheyisou.com
-.yiche.com
-.yccdn.com
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,yccdn.com

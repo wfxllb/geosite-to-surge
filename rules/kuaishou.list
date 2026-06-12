@@ -1,40 +1,26 @@
-# GeoSite: kuaishou
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.ecukwai.com
-.gifshow.com
-.inkuai.com
-.inkwai.com
-.ksapisrv.com
-.kskwai.com
-.kspkg.com
-.kuaishou.cn
-.kuaishou.com
-.kuaishouapps.com
-.kuaishoupay.com
-.kuaishouzt.com
-.kwaicdn.com
-.kwaizt.com
-.kwimgs.com
-.qingque.cn
-.viviv.com
-.wsukwai.com
-.yximgs.com
-# Ads/tracking
-# domain:adbkwai.com
-.adbkwai.com
-# domain:adkwai.com
-.adkwai.com
-# domain:adukwai.com
-.adukwai.com
-# domain:e.kuaishou.cn
-.e.kuaishou.cn
-# domain:e.kuaishou.com
-.e.kuaishou.com
-# full:log-sdk.gifshow.com
-log-sdk.gifshow.com
-# full:wlog.kuaishou.com
-wlog.kuaishou.com
+DOMAIN-SUFFIX,ecukwai.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,inkwai.com
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,kspkg.com
+DOMAIN-SUFFIX,kuaishou.cn
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuaishouapps.com
+DOMAIN-SUFFIX,kuaishoupay.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaizt.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,qingque.cn
+DOMAIN-SUFFIX,viviv.com
+DOMAIN-SUFFIX,wsukwai.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com

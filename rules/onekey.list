@@ -1,10 +1,4 @@
-# GeoSite: onekey
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.onekey-asset.com
-.onekey.so
-.onekeycn.com
-onekey.zendesk.com
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com
+DOMAIN,onekey.zendesk.com

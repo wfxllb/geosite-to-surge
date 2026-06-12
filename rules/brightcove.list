@@ -1,20 +1,14 @@
-# GeoSite: brightcove
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.bcove.video
-.bcovlive.io
-.bcvp0rtal.com
-.boltdns.net
-.brightcove.com
-.brightcove.net
-.brightcove.services
-.brightcovecdn.com
-.videojs.com
-.zencdn.net
-.zencoder.com
-bcovlive-a.akamaihd.net
-bcsecure01-a.akamaihd.net
-brightcove.imgix.net
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com
+DOMAIN,bcovlive-a.akamaihd.net
+DOMAIN,bcsecure01-a.akamaihd.net
+DOMAIN,brightcove.imgix.net

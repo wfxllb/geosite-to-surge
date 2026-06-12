@@ -1,29 +1,20 @@
-# GeoSite: firebase
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.crashlytics.com
-.firebase.com
-.firebase.io
-.firebaseapp.com
-.firebaseio.com
-# full:crashlyticsreports-pa.googleapis.com
-crashlyticsreports-pa.googleapis.com
-# full:firebase-settings.crashlytics.com
-firebase-settings.crashlytics.com
-firebase.google.com
-firebase.googleapis.com
-firebaseappcheck.googleapis.com
-firebasedynamiclinks-ipv4.googleapis.com
-firebasedynamiclinks-ipv6.googleapis.com
-firebasedynamiclinks.googleapis.com
-firebaseinappmessaging.googleapis.com
-firebaseinstallations.googleapis.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
-firebaseperusertopics-pa.googleapis.com
-firebaseremoteconfig.googleapis.com
-# full:update.crashlytics.com
-update.crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebase.google.com
+DOMAIN,firebase.googleapis.com
+DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN,firebasedynamiclinks.googleapis.com
+DOMAIN,firebaseinappmessaging.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseperusertopics-pa.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,update.crashlytics.com

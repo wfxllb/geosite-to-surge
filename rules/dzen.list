@@ -1,14 +1,4 @@
-# GeoSite: dzen
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.dzen.ru
-# Ads and tracking
-# domain:log.dzen.ru
-.log.dzen.ru
-# domain:ms.dzen.ru
-.ms.dzen.ru
-# CDN
-.dzeninfra.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru

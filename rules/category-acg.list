@@ -1,18 +1,9 @@
-# GeoSite: category-acg
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Game
-.bestdori.com
-.colorfulstage.com
-# Idol
-.crypton.co.jp
-.lapriere.jp
-.magicalmirai.com
-.mikuexpo.com
-.piapro.net
-.snowmiku.com
-# Resource sharing
-.bowlroll.net
+DOMAIN-SUFFIX,bestdori.com
+DOMAIN-SUFFIX,colorfulstage.com
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,bowlroll.net

@@ -1,17 +1,10 @@
-# GeoSite: sumkoo
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 北京尚古创新科技有限公司 (京ICP备14013186号)
-.gongqingyun.cn
-.jzfz.net
-.sumkoo.cn
-.sumkoo.com
-.sumkoo.net
-.veeqi.net
-.wenmingban.com
-.zhiyuanhe.cn
-.zhiyuanyun.com.cn
-.zyhe.com.cn
+DOMAIN-SUFFIX,gongqingyun.cn
+DOMAIN-SUFFIX,jzfz.net
+DOMAIN-SUFFIX,sumkoo.cn
+DOMAIN-SUFFIX,sumkoo.com
+DOMAIN-SUFFIX,sumkoo.net
+DOMAIN-SUFFIX,veeqi.net
+DOMAIN-SUFFIX,wenmingban.com
+DOMAIN-SUFFIX,zhiyuanhe.cn
+DOMAIN-SUFFIX,zhiyuanyun.com.cn
+DOMAIN-SUFFIX,zyhe.com.cn

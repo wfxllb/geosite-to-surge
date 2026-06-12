@@ -1,14 +1,6 @@
-# GeoSite: seasun
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.seasungames.com
-.xishanju.com
-.xoyo.com
-.xoyocdn.com
-# 尘白禁区
-.cbjq.com
-# Testplus
-.testplus.cn
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
+DOMAIN-SUFFIX,cbjq.com
+DOMAIN-SUFFIX,testplus.cn

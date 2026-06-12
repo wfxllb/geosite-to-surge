@@ -1,15 +1,9 @@
-# GeoSite: midea
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.irsnp.com
-.mdcdn.cn
-.midea.cn
-.midea.com
-.midea.com.cn
-.mideaepayuat.com
-.msmartlife.cn
-.msmartlife.com
-.smartmidea.net
+DOMAIN-SUFFIX,irsnp.com
+DOMAIN-SUFFIX,mdcdn.cn
+DOMAIN-SUFFIX,midea.cn
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,midea.com.cn
+DOMAIN-SUFFIX,mideaepayuat.com
+DOMAIN-SUFFIX,msmartlife.cn
+DOMAIN-SUFFIX,msmartlife.com
+DOMAIN-SUFFIX,smartmidea.net

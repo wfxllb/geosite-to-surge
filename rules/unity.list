@@ -1,28 +1,11 @@
-# GeoSite: unity
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.unity.com
-.unity3d.com
-# Ads/tracking
-# https://github.com/v2fly/domain-list-community/pull/3716
-# domain:analytics.cloud.unity3d.com
-.analytics.cloud.unity3d.com
-# domain:api2.amplitude.com
-.api2.amplitude.com
-# domain:config.uca.cloud.unity3d.com
-.config.uca.cloud.unity3d.com
-# domain:cdp.cloud.unity3d.com
-.cdp.cloud.unity3d.com
-# domain:prd-lender.cdp.internal.unity3d.com
-.prd-lender.cdp.internal.unity3d.com
-# domain:iads.unity3d.com
-.iads.unity3d.com
-# domain:perf.cloud.unity3d.com
-.perf.cloud.unity3d.com
-# domain:perf-events.cloud.unity3d.com
-.perf-events.cloud.unity3d.com
-# domain:unityads.unity3d.com
-.unityads.unity3d.com
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,api2.amplitude.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
+DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,unityads.unity3d.com

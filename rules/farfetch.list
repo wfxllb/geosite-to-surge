@@ -1,17 +1,8 @@
-# GeoSite: farfetch
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.farfetch-apps.com
-.farfetch-contents.com
-# domain:farfetch.cn
-.farfetch.cn
-.farfetch.com
-# domain:farfetch.com.cn
-.farfetch.com.cn
-.farfetch.net
-# domain:farfetch.net.cn
-.farfetch.net.cn
-.fflnk.net
+DOMAIN-SUFFIX,farfetch-apps.com
+DOMAIN-SUFFIX,farfetch-contents.com
+DOMAIN-SUFFIX,farfetch.cn
+DOMAIN-SUFFIX,farfetch.com
+DOMAIN-SUFFIX,farfetch.com.cn
+DOMAIN-SUFFIX,farfetch.net
+DOMAIN-SUFFIX,farfetch.net.cn
+DOMAIN-SUFFIX,fflnk.net

@@ -1,168 +1,97 @@
-# GeoSite: category-social-media-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# This list contains social media platforms inside China mainland.
-# ══ include: coolapk ══
-.coolapk.com
-.coolapkmarket.com
-.coolapkmarket.net
-# ══ end include: coolapk ══
-# ══ include: douban ══
-.douban.com
-.douban.fm
-.doubanio.com
-# ══ end include: douban ══
-# ══ include: gracg ══
-.gracg.com
-.procg.cn
-# ══ end include: gracg ══
-# ══ include: hupu ══
-.hoopchina.com.cn
-.hupu.com
-.hupucdn.com
-.shihuo.cn
-# ══ end include: hupu ══
-# ══ include: meipian ══
-# 美篇
-.ivwen.com
-.meipian.cn
-.meipian.me
-# ══ end include: meipian ══
-# ══ include: okjike ══
-# 即刻 沪ICP备15000478号
-.jike.city
-.jikecdn.com
-.okjike.com
-.okjk.co
-.ruguoapp.com
-# ══ end include: okjike ══
-# ══ include: sina ══
-.97973.com
-# domain:hk.weibo.com
-.hk.weibo.com
-# domain:my.weibo.com
-.my.weibo.com
-# domain:overseas.weibo.com
-.overseas.weibo.com
-.picself.cn
-# domain:sg.weibo.com
-.sg.weibo.com
-.sina.cn
-.sina.com
-.sina.com.cn
-.sina.net
-.sinaapp.com
-.sinaedge.com
-.sinaimg.cn
-.sinaimg.com
-.sinajs.cn
-.sinajs.com
-.t.cn
-# domain:th.weibo.com
-.th.weibo.com
-# domain:tw.weibo.com
-.tw.weibo.com
-# domain:us.weibo.com
-.us.weibo.com
-.videoself.cn
-.wbimg.cn
-.wbimg.com
-.wcdn.cn
-.weibo.cn
-.weibo.com
-.weibo.com.cn
-.weibocdn.com
-.weibopay.com
-.xhaiwai.com
-# Ads/tracking
-# domain:ad.sina.com.cn
-.ad.sina.com.cn
-# domain:ad.us.sinaimg.cn
-.ad.us.sinaimg.cn
-# domain:adbox.sina.com.cn
-.adbox.sina.com.cn
-# domain:adimg.mobile.sina.cn
-.adimg.mobile.sina.cn
-# domain:adimg.uve.weibo.com
-.adimg.uve.weibo.com
-# domain:ads.sina.com
-.ads.sina.com
-# domain:alitui.weibo.com
-.alitui.weibo.com
-# domain:beacon.sina.com.cn
-.beacon.sina.com.cn
-# domain:biz.weibo.com
-.biz.weibo.com
-# domain:click.uve.mobile.sina.cn
-.click.uve.mobile.sina.cn
-# domain:click.uve.weibo.com
-.click.uve.weibo.com
-# domain:log.mix.sina.com.cn
-.log.mix.sina.com.cn
-# domain:log.sina.cn
-.log.sina.cn
-# domain:log2.sina.cn
-.log2.sina.cn
-# domain:mixer.sina.cn
-.mixer.sina.cn
-# domain:p4p.sina.com.cn
-.p4p.sina.com.cn
-# domain:rs.sinajs.cn
-.rs.sinajs.cn
-# domain:sa.sina.cn
-.sa.sina.cn
-# domain:sbeacon.sina.com.cn
-.sbeacon.sina.com.cn
-# domain:sdkclick.mobile.sina.cn
-.sdkclick.mobile.sina.cn
-# domain:slog.sina.cn
-.slog.sina.cn
-# domain:slog.sina.com.cn
-.slog.sina.com.cn
-# domain:wapwbclick.mobile.sina.cn
-.wapwbclick.mobile.sina.cn
-# domain:wbclick.mobile.sina.cn
-.wbclick.mobile.sina.cn
-# ══ end include: sina ══
-# ══ include: xiaohongshu ══
-# ══ include: askdiandian ══
-# 点点 Ai
-.askdiandian.com
-.diandianlife.top
-# ══ end include: askdiandian ══
-.redelight.cn
-# domain:rednote.com
-.rednote.com
-# domain:rednote.com.my
-.rednote.com.my
-# domain:rednotecdn.com
-.rednotecdn.com
-.xhscdn.com
-.xhscdn.net
-.xhslink.com
-.xhsrcdn.com
-.xiaohongshu.com
-# ══ end include: xiaohongshu ══
-# ══ include: zhihu ══
-.zhihu.com
-.zhimg.com
-# domain:crash2.zhihu.com
-.crash2.zhihu.com
-# domain:zhihu-web-analytics.zhihu.com
-.zhihu-web-analytics.zhihu.com
-# ══ end include: zhihu ══
-.tieba.baidu.com
-.tieba.com
-# 杭州蛋蛋语音科技有限公司
-.dandan818.com
-.dandanvoice.com
-# 饭否
-.fanfou.com
-# 脉脉
-.maimai.cn
-.taou.com
-# 知识星球
-.zsxq.com
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,procg.cn
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn
+DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me
+DOMAIN-SUFFIX,jike.city
+DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,okjike.com
+DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,ruguoapp.com
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,picself.cn
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.net
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaedge.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,sinajs.com
+DOMAIN-SUFFIX,t.cn
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com
+DOMAIN-SUFFIX,videoself.cn
+DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,wcdn.cn
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.com.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weibopay.com
+DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,ad.sina.com.cn
+DOMAIN-SUFFIX,ad.us.sinaimg.cn
+DOMAIN-SUFFIX,adbox.sina.com.cn
+DOMAIN-SUFFIX,adimg.mobile.sina.cn
+DOMAIN-SUFFIX,adimg.uve.weibo.com
+DOMAIN-SUFFIX,ads.sina.com
+DOMAIN-SUFFIX,alitui.weibo.com
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,click.uve.mobile.sina.cn
+DOMAIN-SUFFIX,click.uve.weibo.com
+DOMAIN-SUFFIX,log.mix.sina.com.cn
+DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,log2.sina.cn
+DOMAIN-SUFFIX,mixer.sina.cn
+DOMAIN-SUFFIX,p4p.sina.com.cn
+DOMAIN-SUFFIX,rs.sinajs.cn
+DOMAIN-SUFFIX,sa.sina.cn
+DOMAIN-SUFFIX,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
+DOMAIN-SUFFIX,slog.sina.cn
+DOMAIN-SUFFIX,slog.sina.com.cn
+DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
+DOMAIN-SUFFIX,wbclick.mobile.sina.cn
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,redelight.cn
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,rednote.com.my
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsrcdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,dandan818.com
+DOMAIN-SUFFIX,dandanvoice.com
+DOMAIN-SUFFIX,fanfou.com
+DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,zsxq.com

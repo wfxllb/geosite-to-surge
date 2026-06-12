@@ -1,11 +1,5 @@
-# GeoSite: borneoschematics
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.borneo.world
-.borneoasia.com
-.borneoschematic.com
-.bosharso.net
-.hostborneo.org
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,hostborneo.org

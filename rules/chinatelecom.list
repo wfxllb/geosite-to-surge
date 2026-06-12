@@ -1,30 +1,15 @@
-# GeoSite: chinatelecom
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: ctexcel ══
-# domain:ctexcel.ca
-.ctexcel.ca
-# domain:ctexcel.com
-.ctexcel.com
-# domain:ctexcel.com.hk
-.ctexcel.com.hk
-# domain:ctexcel.fr
-.ctexcel.fr
-# domain:ctexcel.us
-.ctexcel.us
-# ══ end include: ctexcel ══
-.189.cn
-.189smarthome.com
-.bestpay.cn
-.bestpay.com.cn
-.chinatelecom-h.com
-.chinatelecom.com.cn
-# domain:chinatelecomglobal.com
-.chinatelecomglobal.com
-# domain:chinatelecomhk.com
-.chinatelecomhk.com
-.chntel.com
-.vnet.cn
+DOMAIN-SUFFIX,ctexcel.ca
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.us
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,189smarthome.com
+DOMAIN-SUFFIX,bestpay.cn
+DOMAIN-SUFFIX,bestpay.com.cn
+DOMAIN-SUFFIX,chinatelecom-h.com
+DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN-SUFFIX,chntel.com
+DOMAIN-SUFFIX,vnet.cn

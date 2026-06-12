@@ -1,13 +1,6 @@
-# GeoSite: oreilly
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.oreil.ly
-.oreilly.com
-# domain:oreilly.com.cn
-.oreilly.com.cn
-.oreilly.review
-.oreillystatic.com
-.orl.ly
+DOMAIN-SUFFIX,oreil.ly
+DOMAIN-SUFFIX,oreilly.com
+DOMAIN-SUFFIX,oreilly.com.cn
+DOMAIN-SUFFIX,oreilly.review
+DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN-SUFFIX,orl.ly

@@ -1,28 +1,10 @@
-# GeoSite: gog
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.gog.com
-.gog-statics.com
-# full:gog.qtlglb.com
-gog.qtlglb.com
-# full:gogalaxy.gog-statics.com
-gogalaxy.gog-statics.com
-# full:menu-static.gog-statics.com
-menu-static.gog-statics.com
-# full:productcard.gog-statics.com
-productcard.gog-statics.com
-# full:static-login.gog-statics.com
-static-login.gog-statics.com
-# full:www4-static.gog-statics.com
-www4-static.gog-statics.com
-# [skip] regexp:^cdn-akamai-.+\.gog-services\.com$ — 无法转为 Surge .list
-# [skip] regexp:^gog-cdn-.+\.footprint\.net$ — 无法转为 Surge .list
-# [skip] regexp:^images(-\d)?\.gog-statics\.com$ — 无法转为 Surge .list
-# CDN available in China mainland
-# full:gog-cdn-fastly.gog.com
-gog-cdn-fastly.gog.com
-# full:gog-cdn.akamaized.net
-gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net

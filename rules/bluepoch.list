@@ -1,12 +1,2 @@
-# GeoSite: bluepoch
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 深蓝互动
-# ══ include: bluepoch-games ══
-# From reverse 1999
-.sl916.com
-# ══ end include: bluepoch-games ══
-.bluepoch.com
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,bluepoch.com

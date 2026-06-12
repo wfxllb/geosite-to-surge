@@ -1,228 +1,165 @@
-# GeoSite: category-food-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: bestore ══
-.517lppz.com
-.lppz.com
-.lppzimg.com
-# ══ end include: bestore ══
-# ══ include: lkcoffee ══
-.lkcoffee.com
-.luckincoffeecdn.com
-.yyds.co
-# ══ end include: lkcoffee ══
-# 麦当劳中国
-# ══ include: mcdonalds ══
-# https://www.iana.org/domains/root/db/mcd.html
-# mcd (Revoked)
-# https://www.iana.org/domains/root/db/mcdonalds.html
-# mcdonalds (Revoked)
-# McDonald's Australia
-.happymeal.com.au
-.mcdelivery.com.au
-.mcdonalds.com.au
-# McDonald's China
-# domain:4008-517-517.cn
-.4008-517-517.cn
-# domain:mcd.cn
-.mcd.cn
-# domain:mcdchina.net
-.mcdchina.net
-# domain:mcdonalds.com.cn
-.mcdonalds.com.cn
-# McDonald's Hong Kong
-.mcdonalds.hk
-.mcdonalds.com.hk
-# McDonald's India
-.mcdelivery.co.in
-.mcdindia.com
-# McDonald's Indonesia
-.mcdelivery.co.id
-.mcdindonesia.com
-.mcdonalds.co.id
-# McDonald's Japan
-.mcdonalds.co.jp
-.mcdonalds-online.com
-.mcd-holdings.co.jp
-# McDonald's Korea
-.mcdelivery.co.kr
-.mcdonalds.co.kr
-# McDonald's Taiwan
-.mcdelivery.com.tw
-.mcdonalds.com.tw
-.aboutmcdonalds.com
-.happymeal.co.nz
-.happymeal.com
-.happymealdigital.com
-.mcd.com
-.mcdelivery.com.my
-.mcdelivery.com.ph
-.mcdelivery.com.sg
-.mcdonalds.be
-.mcdonalds.ca
-.mcdonalds.it
-.mcdonalds.no
-.mcdonalds.se
-.mcdonalds.co.nz
-.mcdonalds.co.uk
-.mcdonalds.com
-.mcdonalds.com.lb
-.mcdonalds.com.my
-.mcdonalds.com.ph
-.mcdonaldsapps.com
-.mcdonaldsarabia.com
-.mcdonaldsparties.co.nz
-# ══ end include: mcdonalds ══
-# 星巴克中国
-# ══ include: starbucks ══
-.sbux.com.my
-.sbuxcard.com
-.starbucks-stars.com
-.starbucks.ad
-.starbucks.at
-.starbucks.be
-.starbucks.bg
-.starbucks.ca
-.starbucks.ch
-.starbucks.co.id
-.starbucks.co.jp
-.starbucks.co.nz
-.starbucks.co.th
-.starbucks.co.uk
-.starbucks.co.za
-.starbucks.com
-.starbucks.com.ar
-.starbucks.com.bn
-# domain:starbucks.com.cn
-.starbucks.com.cn
-.starbucks.com.co
-.starbucks.com.cy
-.starbucks.com.gr
-.starbucks.com.hk
-.starbucks.com.kh
-.starbucks.com.kz
-.starbucks.com.mx
-.starbucks.com.my
-.starbucks.com.pe
-.starbucks.com.sg
-.starbucks.com.tr
-.starbucks.com.uy
-.starbucks.de
-.starbucks.dk
-.starbucks.es
-.starbucks.fr
-.starbucks.hu
-.starbucks.ie
-.starbucks.in
-.starbucks.it
-.starbucks.nl
-.starbucks.no
-.starbucks.ph
-.starbucks.pl
-.starbucks.pt
-.starbucks.rs
-.starbucks.ru
-.starbucks.se
-.starbucks.tt
-.starbucks.vn
-.starbucksathome.com
-.starbucksavie.ca
-.starbuckscard.ph
-.starbuckscardb2b.com
-.starbuckscoffee.cz
-.starbuckscoffeegear.com
-.starbuckscoffeegearstore.com
-.starbucksforlife.ca
-.starbucksforlife.com
-.starbuckspoq.com
-.starbucksreserve.com
-.starbucksrewardsstarland.ca
-.starbucksrewardsstarland.com
-.starbucksromania.ro
-.starbucksrtd.com
-.starbucksslovakia.sk
-.starbuckssummergame.ca
-.starbuckssummergame.com
-# ══ end include: starbucks ══
-# 三只松鼠
-.3songshu.com
-# 百草味
-.vipbcw.com
-# 海底捞
-.haidilao.com
-.hdlcdns.com
-.kiwa-tech.com
-# 喜茶
-.heytea.com
-# 俺来也（上海）网络科技有限公司
-.anlaiye.com
-.anlaiye.com.cn
-.imcoming.com
-.imcome.net
-# 美餐
-.meican.com
-.meicanstatic.com
-# 农夫山泉/养生堂
-.nongfuspring.com
-.yst.com.cn
-# 娃哈哈
-.wahaha.com.cn
-.whhhealth.com
-# 茶百道（四川蜀信云茶）
-.shuxinyc.com
-# 蜜雪冰城
-.mxbc.com
-.mxbc.net
-# 北京吉野家/DQ
-.hophing.cn
-.hophing.com.cn
-# 汉堡王
-.bkchina.cn
-# 肯德基/百胜中国
-.hwwt8.com
-.kfc.com.cn
-.yumchina.com
-# 企迈/智迈（一堆餐饮企业在用的 CRM）
-.qmai.com
-.qmai.cn
-.qmimg.cn
-# 德克士
-.dicos.com.cn
-# 陈克明食品
-.kemen.cn
-# 中粮集团
-.chinatea.com.cn
-.cofco.com
-.greatwallwine.com.cn
-# 北大荒
-.chinabdh.com
-.hacl.cn
-# 光明乳业
-.4008117117.com
-.brightdairy.com
-.brighticecream.com
-.chinacow.com
-# 伊利
-.yili.com
-# 蒙牛
-.mengniu.com.cn
-# 君乐宝
-.junlebaoruye.com
-# 益海嘉里金龙鱼
-.yihaikerry.net.cn
-# 鲁花
-.luhua.cn
-# 双汇集团
-.shuanghui.net
-# Tracking
-# domain:logger.qmai.cn
-.logger.qmai.cn
-# domain:tracking.mcdonalds.com.cn
-.tracking.mcdonalds.com.cn
-# domain:trackingprd.hwwt8.com
-.trackingprd.hwwt8.com
-# domain:trackserver.shuxinyc.com
-.trackserver.shuxinyc.com
+DOMAIN-SUFFIX,517lppz.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,lppzimg.com
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,yyds.co
+DOMAIN-SUFFIX,happymeal.com.au
+DOMAIN-SUFFIX,mcdelivery.com.au
+DOMAIN-SUFFIX,mcdonalds.com.au
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdchina.net
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,mcdonalds.hk
+DOMAIN-SUFFIX,mcdonalds.com.hk
+DOMAIN-SUFFIX,mcdelivery.co.in
+DOMAIN-SUFFIX,mcdindia.com
+DOMAIN-SUFFIX,mcdelivery.co.id
+DOMAIN-SUFFIX,mcdindonesia.com
+DOMAIN-SUFFIX,mcdonalds.co.id
+DOMAIN-SUFFIX,mcdonalds.co.jp
+DOMAIN-SUFFIX,mcdonalds-online.com
+DOMAIN-SUFFIX,mcd-holdings.co.jp
+DOMAIN-SUFFIX,mcdelivery.co.kr
+DOMAIN-SUFFIX,mcdonalds.co.kr
+DOMAIN-SUFFIX,mcdelivery.com.tw
+DOMAIN-SUFFIX,mcdonalds.com.tw
+DOMAIN-SUFFIX,aboutmcdonalds.com
+DOMAIN-SUFFIX,happymeal.co.nz
+DOMAIN-SUFFIX,happymeal.com
+DOMAIN-SUFFIX,happymealdigital.com
+DOMAIN-SUFFIX,mcd.com
+DOMAIN-SUFFIX,mcdelivery.com.my
+DOMAIN-SUFFIX,mcdelivery.com.ph
+DOMAIN-SUFFIX,mcdelivery.com.sg
+DOMAIN-SUFFIX,mcdonalds.be
+DOMAIN-SUFFIX,mcdonalds.ca
+DOMAIN-SUFFIX,mcdonalds.it
+DOMAIN-SUFFIX,mcdonalds.no
+DOMAIN-SUFFIX,mcdonalds.se
+DOMAIN-SUFFIX,mcdonalds.co.nz
+DOMAIN-SUFFIX,mcdonalds.co.uk
+DOMAIN-SUFFIX,mcdonalds.com
+DOMAIN-SUFFIX,mcdonalds.com.lb
+DOMAIN-SUFFIX,mcdonalds.com.my
+DOMAIN-SUFFIX,mcdonalds.com.ph
+DOMAIN-SUFFIX,mcdonaldsapps.com
+DOMAIN-SUFFIX,mcdonaldsarabia.com
+DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+DOMAIN-SUFFIX,sbux.com.my
+DOMAIN-SUFFIX,sbuxcard.com
+DOMAIN-SUFFIX,starbucks-stars.com
+DOMAIN-SUFFIX,starbucks.ad
+DOMAIN-SUFFIX,starbucks.at
+DOMAIN-SUFFIX,starbucks.be
+DOMAIN-SUFFIX,starbucks.bg
+DOMAIN-SUFFIX,starbucks.ca
+DOMAIN-SUFFIX,starbucks.ch
+DOMAIN-SUFFIX,starbucks.co.id
+DOMAIN-SUFFIX,starbucks.co.jp
+DOMAIN-SUFFIX,starbucks.co.nz
+DOMAIN-SUFFIX,starbucks.co.th
+DOMAIN-SUFFIX,starbucks.co.uk
+DOMAIN-SUFFIX,starbucks.co.za
+DOMAIN-SUFFIX,starbucks.com
+DOMAIN-SUFFIX,starbucks.com.ar
+DOMAIN-SUFFIX,starbucks.com.bn
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,starbucks.com.co
+DOMAIN-SUFFIX,starbucks.com.cy
+DOMAIN-SUFFIX,starbucks.com.gr
+DOMAIN-SUFFIX,starbucks.com.hk
+DOMAIN-SUFFIX,starbucks.com.kh
+DOMAIN-SUFFIX,starbucks.com.kz
+DOMAIN-SUFFIX,starbucks.com.mx
+DOMAIN-SUFFIX,starbucks.com.my
+DOMAIN-SUFFIX,starbucks.com.pe
+DOMAIN-SUFFIX,starbucks.com.sg
+DOMAIN-SUFFIX,starbucks.com.tr
+DOMAIN-SUFFIX,starbucks.com.uy
+DOMAIN-SUFFIX,starbucks.de
+DOMAIN-SUFFIX,starbucks.dk
+DOMAIN-SUFFIX,starbucks.es
+DOMAIN-SUFFIX,starbucks.fr
+DOMAIN-SUFFIX,starbucks.hu
+DOMAIN-SUFFIX,starbucks.ie
+DOMAIN-SUFFIX,starbucks.in
+DOMAIN-SUFFIX,starbucks.it
+DOMAIN-SUFFIX,starbucks.nl
+DOMAIN-SUFFIX,starbucks.no
+DOMAIN-SUFFIX,starbucks.ph
+DOMAIN-SUFFIX,starbucks.pl
+DOMAIN-SUFFIX,starbucks.pt
+DOMAIN-SUFFIX,starbucks.rs
+DOMAIN-SUFFIX,starbucks.ru
+DOMAIN-SUFFIX,starbucks.se
+DOMAIN-SUFFIX,starbucks.tt
+DOMAIN-SUFFIX,starbucks.vn
+DOMAIN-SUFFIX,starbucksathome.com
+DOMAIN-SUFFIX,starbucksavie.ca
+DOMAIN-SUFFIX,starbuckscard.ph
+DOMAIN-SUFFIX,starbuckscardb2b.com
+DOMAIN-SUFFIX,starbuckscoffee.cz
+DOMAIN-SUFFIX,starbuckscoffeegear.com
+DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+DOMAIN-SUFFIX,starbucksforlife.ca
+DOMAIN-SUFFIX,starbucksforlife.com
+DOMAIN-SUFFIX,starbuckspoq.com
+DOMAIN-SUFFIX,starbucksreserve.com
+DOMAIN-SUFFIX,starbucksrewardsstarland.ca
+DOMAIN-SUFFIX,starbucksrewardsstarland.com
+DOMAIN-SUFFIX,starbucksromania.ro
+DOMAIN-SUFFIX,starbucksrtd.com
+DOMAIN-SUFFIX,starbucksslovakia.sk
+DOMAIN-SUFFIX,starbuckssummergame.ca
+DOMAIN-SUFFIX,starbuckssummergame.com
+DOMAIN-SUFFIX,3songshu.com
+DOMAIN-SUFFIX,vipbcw.com
+DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,hdlcdns.com
+DOMAIN-SUFFIX,kiwa-tech.com
+DOMAIN-SUFFIX,heytea.com
+DOMAIN-SUFFIX,anlaiye.com
+DOMAIN-SUFFIX,anlaiye.com.cn
+DOMAIN-SUFFIX,imcoming.com
+DOMAIN-SUFFIX,imcome.net
+DOMAIN-SUFFIX,meican.com
+DOMAIN-SUFFIX,meicanstatic.com
+DOMAIN-SUFFIX,nongfuspring.com
+DOMAIN-SUFFIX,yst.com.cn
+DOMAIN-SUFFIX,wahaha.com.cn
+DOMAIN-SUFFIX,whhhealth.com
+DOMAIN-SUFFIX,shuxinyc.com
+DOMAIN-SUFFIX,mxbc.com
+DOMAIN-SUFFIX,mxbc.net
+DOMAIN-SUFFIX,hophing.cn
+DOMAIN-SUFFIX,hophing.com.cn
+DOMAIN-SUFFIX,bkchina.cn
+DOMAIN-SUFFIX,hwwt8.com
+DOMAIN-SUFFIX,kfc.com.cn
+DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,qmai.com
+DOMAIN-SUFFIX,qmai.cn
+DOMAIN-SUFFIX,qmimg.cn
+DOMAIN-SUFFIX,dicos.com.cn
+DOMAIN-SUFFIX,kemen.cn
+DOMAIN-SUFFIX,chinatea.com.cn
+DOMAIN-SUFFIX,cofco.com
+DOMAIN-SUFFIX,greatwallwine.com.cn
+DOMAIN-SUFFIX,chinabdh.com
+DOMAIN-SUFFIX,hacl.cn
+DOMAIN-SUFFIX,4008117117.com
+DOMAIN-SUFFIX,brightdairy.com
+DOMAIN-SUFFIX,brighticecream.com
+DOMAIN-SUFFIX,chinacow.com
+DOMAIN-SUFFIX,yili.com
+DOMAIN-SUFFIX,mengniu.com.cn
+DOMAIN-SUFFIX,junlebaoruye.com
+DOMAIN-SUFFIX,yihaikerry.net.cn
+DOMAIN-SUFFIX,luhua.cn
+DOMAIN-SUFFIX,shuanghui.net
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com

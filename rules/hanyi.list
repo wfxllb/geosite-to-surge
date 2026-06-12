@@ -1,15 +1,7 @@
-# GeoSite: hanyi
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.hanyi.com
-.hanyi.com.cn
-# Font Star
-.fontstar.com.cn
-# 字由HelloFont
-.hellofont.cn
-.hellowebfont.com
-hellofontpreview.oss-cn-beijing.aliyuncs.com
-hellowebfonts.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+DOMAIN-SUFFIX,fontstar.com.cn
+DOMAIN-SUFFIX,hellofont.cn
+DOMAIN-SUFFIX,hellowebfont.com
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com

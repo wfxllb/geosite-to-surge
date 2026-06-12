@@ -1,10 +1,4 @@
-# GeoSite: smzdm
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.smzdm.com
-.smzdmimg.com
-.zdmimg.com
-.zhidemai.com
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,smzdmimg.com
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,zhidemai.com

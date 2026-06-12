@@ -1,12 +1,5 @@
-# GeoSite: weathercn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 华风爱科气象科技
-.hf-aw.cn
-.hf-aw.com
-.huafeng-accuweather.cn
-.huafengaw.com
-.weathercn.com
+DOMAIN-SUFFIX,hf-aw.cn
+DOMAIN-SUFFIX,hf-aw.com
+DOMAIN-SUFFIX,huafeng-accuweather.cn
+DOMAIN-SUFFIX,huafengaw.com
+DOMAIN-SUFFIX,weathercn.com

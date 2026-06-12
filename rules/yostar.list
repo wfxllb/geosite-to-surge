@@ -1,19 +1,9 @@
-# GeoSite: yostar
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Yostar
-.yo-star.com
-# domain:yostar.cn
-.yostar.cn
-.yostar.co.jp
-.yostar.net
-.yostarplat.com
-# Yostar Pictures
-.yostar-pictures.co.jp
-# Stella Sora
-.stargazer-games.com
-.stellasora.global
-.stellasora.jp
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,stargazer-games.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp

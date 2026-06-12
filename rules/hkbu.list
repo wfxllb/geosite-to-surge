@@ -1,17 +1,8 @@
-# GeoSite: hkbu
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Hong Kong Baptist University (HKBU)
-.hkbu.hk
-.hkbu.edu.hk
-# 浸大.香港 / 浸會大學.香港
-.xn--gdt08a.hk
-.xn--gdt08a.xn--j6w193g
-.xn--fiqs8s1bxp3anr7a.hk
-.xn--fiqs8s1bxp3anr7a.xn--j6w193g
-# 香港浸會大學.香港
-.xn--pssu7cv61ahw8aq79bztd.hk
-.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+DOMAIN-SUFFIX,hkbu.hk
+DOMAIN-SUFFIX,hkbu.edu.hk
+DOMAIN-SUFFIX,xn--gdt08a.hk
+DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g

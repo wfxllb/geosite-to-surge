@@ -1,26 +1,19 @@
-# GeoSite: konami
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# All .konami domains
-.573.jp
-.kgisystems.com
-.kiwi.jp
-.konami-igaming.online
-.konami.co.jp
-.konami.com
-.konami.net
-.konami.org
-.konamicrossmedia.com
-.konamigaming.com
-.konamigaming.net
-.konamigaming.online
-.konamionline.com
-.konamiopen.jp
-.konamisportsclub.jp
-.konamistyle.jp
-.resella.jp
-.resellablue.com
-.yugioh-card.com
+DOMAIN-SUFFIX,573.jp
+DOMAIN-SUFFIX,kgisystems.com
+DOMAIN-SUFFIX,kiwi.jp
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konami.co.jp
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,konami.org
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
+DOMAIN-SUFFIX,yugioh-card.com

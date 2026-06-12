@@ -1,15 +1,9 @@
-# GeoSite: kyodonews
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.47gyosei.jp
-.47news.jp
-.kyodo-d.info
-.kyodo-d.jp
-.kyodoimages.jp
-.kyodonews.jp
-.kyodonews.net
-.newsmart.jp
-.nna.jp
+DOMAIN-SUFFIX,47gyosei.jp
+DOMAIN-SUFFIX,47news.jp
+DOMAIN-SUFFIX,kyodo-d.info
+DOMAIN-SUFFIX,kyodo-d.jp
+DOMAIN-SUFFIX,kyodoimages.jp
+DOMAIN-SUFFIX,kyodonews.jp
+DOMAIN-SUFFIX,kyodonews.net
+DOMAIN-SUFFIX,newsmart.jp
+DOMAIN-SUFFIX,nna.jp

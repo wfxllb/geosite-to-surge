@@ -1,17 +1,11 @@
-# GeoSite: wargaming
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.masteroforion.com
-.wargaming.com
-.wargaming.net
-.wgcdn.co
-.wgcrowd.io
-.worldoftanks.com
-.worldoftanks.eu
-.worldofwarplanes.com
-.worldofwarships.com
-.wotblitz.com
-.wowsblitz.com
+DOMAIN-SUFFIX,masteroforion.com
+DOMAIN-SUFFIX,wargaming.com
+DOMAIN-SUFFIX,wargaming.net
+DOMAIN-SUFFIX,wgcdn.co
+DOMAIN-SUFFIX,wgcrowd.io
+DOMAIN-SUFFIX,worldoftanks.com
+DOMAIN-SUFFIX,worldoftanks.eu
+DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.com
+DOMAIN-SUFFIX,wotblitz.com
+DOMAIN-SUFFIX,wowsblitz.com

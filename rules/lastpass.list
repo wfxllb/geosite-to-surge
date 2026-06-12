@@ -1,9 +1,3 @@
-# GeoSite: lastpass
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.lastpass.com
-.lastpass.eu
-.lputil.com
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,lastpass.eu
+DOMAIN-SUFFIX,lputil.com

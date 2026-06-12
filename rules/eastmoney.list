@@ -1,15 +1,8 @@
-# GeoSite: eastmoney
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.1234567.com.cn
-.18.cn
-.18.com.cn
-.dfcfw.com
-.eastmoney.com
-.eastmoneyfutures.com
-# domain:emsec.hk
-.emsec.hk
-.guba.com.cn
+DOMAIN-SUFFIX,1234567.com.cn
+DOMAIN-SUFFIX,18.cn
+DOMAIN-SUFFIX,18.com.cn
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,eastmoneyfutures.com
+DOMAIN-SUFFIX,emsec.hk
+DOMAIN-SUFFIX,guba.com.cn

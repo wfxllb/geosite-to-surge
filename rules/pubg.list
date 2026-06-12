@@ -1,10 +1,4 @@
-# GeoSite: pubg
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.kraftonde.com
-.playbattlegrounds.com
-.pubg.com
-pubg1.battleye.com
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN,pubg1.battleye.com

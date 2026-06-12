@@ -1,17 +1,11 @@
-# GeoSite: onedrive
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.1drv.com
-.1drv.ms
-.livefilestore.com
-.onedrive.co
-.onedrive.co.uk
-.onedrive.com
-.onedrive.eu
-.onedrive.net
-.onedrive.org
-.onedrive.live.com
-.storage.live.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,storage.live.com

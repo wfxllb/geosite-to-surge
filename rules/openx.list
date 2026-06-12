@@ -1,16 +1,5 @@
-# GeoSite: openx
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:openx.net
-.openx.net
-# domain:openxadexchange.com
-.openxadexchange.com
-# domain:openxcdn.net
-.openxcdn.net
-# domain:openxenterprise.com
-.openxenterprise.com
-# domain:openxmarket.asia
-.openxmarket.asia
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,openxadexchange.com
+DOMAIN-SUFFIX,openxcdn.net
+DOMAIN-SUFFIX,openxenterprise.com
+DOMAIN-SUFFIX,openxmarket.asia

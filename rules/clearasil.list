@@ -1,11 +1,3 @@
-# GeoSite: clearasil
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:clearasil.cn
-.clearasil.cn
-# domain:clearasil.com.cn
-.clearasil.com.cn
-.clearasil.us
+DOMAIN-SUFFIX,clearasil.cn
+DOMAIN-SUFFIX,clearasil.com.cn
+DOMAIN-SUFFIX,clearasil.us

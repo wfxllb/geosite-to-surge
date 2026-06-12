@@ -1,21 +1,8 @@
-# GeoSite: google-play
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.googleplay.com
-.play-fe.googleapis.com
-.play-games.googleusercontent.com
-.play-lh.googleusercontent.com
-.play.google.com
-.play.googleapis.com
-.xn--ngstr-lra8j.com
-# if connect to services.googleapis.cn directly,
-# then these domains will be used.
-# 北京 (2x3)、上海 (ni5)、广州 (j5o)
-# [skip] regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$ — 无法转为 Surge .list
-# the same but DNS pollution in China mainland.
-# [skip] regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$ — 无法转为 Surge .list
-# full:redirector.c.play.google.com
-redirector.c.play.google.com
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN,redirector.c.play.google.com

@@ -1,18 +1,12 @@
-# GeoSite: drweb
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.drweb.by
-.drweb.cn
-.drweb.co.jp
-.drweb.com
-.drweb.fr
-.drweb.kz
-.drweb.ru
-.drweb.uz
-.drweb-av.de
-.drweb-av.es
-.drweb-av.it
-.drweb-av.pl
+DOMAIN-SUFFIX,drweb.by
+DOMAIN-SUFFIX,drweb.cn
+DOMAIN-SUFFIX,drweb.co.jp
+DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,drweb.fr
+DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb-av.pl

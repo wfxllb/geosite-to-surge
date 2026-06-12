@@ -1,12 +1,5 @@
-# GeoSite: zhubajie
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 猪八戒网
-.tianpeng.com
-.zbj.com
-.zbjdev.com
-.zbjimg.com
-.zhubajie.com
+DOMAIN-SUFFIX,tianpeng.com
+DOMAIN-SUFFIX,zbj.com
+DOMAIN-SUFFIX,zbjdev.com
+DOMAIN-SUFFIX,zbjimg.com
+DOMAIN-SUFFIX,zhubajie.com

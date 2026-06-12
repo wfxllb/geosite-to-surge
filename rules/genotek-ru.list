@@ -1,16 +1,9 @@
-# GeoSite: genotek-ru
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.genetic-technologies.am
-.genotek.am
-.genotek.es
-.genotek.eu
-.genotek.health
-.genotek.ru
-# Eligens
-.eligens.cl
-.eligens.com.br
-.eligens.io
+DOMAIN-SUFFIX,genetic-technologies.am
+DOMAIN-SUFFIX,genotek.am
+DOMAIN-SUFFIX,genotek.es
+DOMAIN-SUFFIX,genotek.eu
+DOMAIN-SUFFIX,genotek.health
+DOMAIN-SUFFIX,genotek.ru
+DOMAIN-SUFFIX,eligens.cl
+DOMAIN-SUFFIX,eligens.com.br
+DOMAIN-SUFFIX,eligens.io

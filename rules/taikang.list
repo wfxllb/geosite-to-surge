@@ -1,10 +1,4 @@
-# GeoSite: taikang
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.taikang.com
-.taikanglife.com
-.taikangzhijia.com
-.tkhealthcare.com
+DOMAIN-SUFFIX,taikang.com
+DOMAIN-SUFFIX,taikanglife.com
+DOMAIN-SUFFIX,taikangzhijia.com
+DOMAIN-SUFFIX,tkhealthcare.com

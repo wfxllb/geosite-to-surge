@@ -1,26 +1,13 @@
-# GeoSite: ubiquiti
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.amplifi.com
-# domain:amplifi.com.cn
-.amplifi.com.cn
-# domain:frontrow.com.cn
-.frontrow.com.cn
-.frontrow.com
-.ubncloud.com
-# domain:ubnt.com
-.ubnt.com
-# domain:ubnt.com.cn
-.ubnt.com.cn
-.ui.com
-# domain:ui.com.cn
-.ui.com.cn
-.uisp.com
-# domain:uum.com.cn
-.uum.com.cn
-# domain:uwn.com
-.uwn.com
-.wifiman.com
+DOMAIN-SUFFIX,amplifi.com
+DOMAIN-SUFFIX,amplifi.com.cn
+DOMAIN-SUFFIX,frontrow.com.cn
+DOMAIN-SUFFIX,frontrow.com
+DOMAIN-SUFFIX,ubncloud.com
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubnt.com.cn
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ui.com.cn
+DOMAIN-SUFFIX,uisp.com
+DOMAIN-SUFFIX,uum.com.cn
+DOMAIN-SUFFIX,uwn.com
+DOMAIN-SUFFIX,wifiman.com

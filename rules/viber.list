@@ -1,12 +1,6 @@
-# GeoSite: viber
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.viber.com
-.viber.co
-.viber.me
-.s-bid.rmp.rakuten.com
-.vbcdn.com
-.vbcdn.net
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net

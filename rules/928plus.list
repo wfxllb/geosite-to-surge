@@ -1,8 +1,2 @@
-# GeoSite: 928plus
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.928.plus
-.zind.cloud
+DOMAIN-SUFFIX,928.plus
+DOMAIN-SUFFIX,zind.cloud

@@ -1,12 +1,6 @@
-# GeoSite: upai
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.aicdn.com
-.upai.com
-.upaiyun.com
-.upcdn.net
-.upyun.com
-.oncdp.com
+DOMAIN-SUFFIX,aicdn.com
+DOMAIN-SUFFIX,upai.com
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upcdn.net
+DOMAIN-SUFFIX,upyun.com
+DOMAIN-SUFFIX,oncdp.com

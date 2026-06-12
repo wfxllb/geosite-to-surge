@@ -1,9 +1,3 @@
-# GeoSite: baishancloud
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.bsclink.cn
-.qingcdn.com
-.trpcdn.net
+DOMAIN-SUFFIX,bsclink.cn
+DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,trpcdn.net

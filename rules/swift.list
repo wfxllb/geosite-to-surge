@@ -1,12 +1,4 @@
-# GeoSite: swift
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.appleswift.com
-.swift.org
-# domain:swiftui.cn
-.swiftui.cn
-# domain:swiftui.com.cn
-.swiftui.com.cn
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn

@@ -1,62 +1,44 @@
-# GeoSite: xbox
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: asobo ══
-.asobostudio.com
-.flightsimulator.com
-flightsimulator.azureedge.net
-# ══ end include: asobo ══
-# ══ include: bethesda ══
-.beth.games
-.bethesda.net
-.bethesdagamestudios.com
-.bethsoft.com
-# Doom
-.doom.com
-# The Elder Scrolls
-.elderscrolls.com
-# ══ end include: bethesda ══
-# ══ include: forza ══
-.forza.net
-.forzamotorsport.net
-.forzaracingchampionship.com
-.forzarc.com
-prodforza.blob.core.windows.net
-# ══ end include: forza ══
-# ══ include: mojang ══
-.callersbane.com
-.minecraft-services.net
-.minecraft.net
-.minecraftservices.com
-.minecraftshop.com
-.mojang.com
-# ══ end include: mojang ══
-# All .xbox domains
-.gamepass.com
-.orithegame.com
-.renovacionxboxlive.com
-.tellmewhygame.com
-.xbox.co
-.xbox.com
-.xbox.eu
-.xbox.org
-.xbox360.co
-.xbox360.com
-.xbox360.eu
-.xbox360.org
-.xboxab.com
-.xboxgamepass.com
-.xboxgamestudios.com
-# domain:xboxlive.cn
-.xboxlive.cn
-.xboxlive.com
-.xboxone.co
-.xboxone.com
-.xboxone.eu
-.xboxplayanywhere.com
-.xboxservices.com
-.xboxstudios.com
-.xbx.lv
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
+DOMAIN,flightsimulator.azureedge.net
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
+DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,elderscrolls.com
+DOMAIN-SUFFIX,forza.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com
+DOMAIN,prodforza.blob.core.windows.net
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,orithegame.com
+DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,xbox.co
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.org
+DOMAIN-SUFFIX,xbox360.co
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xbox360.eu
+DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxgamepass.com
+DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxone.co
+DOMAIN-SUFFIX,xboxone.com
+DOMAIN-SUFFIX,xboxone.eu
+DOMAIN-SUFFIX,xboxplayanywhere.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxstudios.com
+DOMAIN-SUFFIX,xbx.lv

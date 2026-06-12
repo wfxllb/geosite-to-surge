@@ -1,16 +1,8 @@
-# GeoSite: hikvision
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 海康威视
-.hik-cloud.com
-.hik-express.com
-.hikiot.com
-.hikmall.com
-.hikvision.com
-# 萤石
-.eziot.com
-.ezviz.com
-.ys7.com
+DOMAIN-SUFFIX,hik-cloud.com
+DOMAIN-SUFFIX,hik-express.com
+DOMAIN-SUFFIX,hikiot.com
+DOMAIN-SUFFIX,hikmall.com
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,eziot.com
+DOMAIN-SUFFIX,ezviz.com
+DOMAIN-SUFFIX,ys7.com

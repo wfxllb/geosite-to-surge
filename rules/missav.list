@@ -1,13 +1,7 @@
-# GeoSite: missav
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.missav.ai
-.missav.com
-.missav.live
-.missav.uno
-.missav.vip
-.missav.ws
-.missav123.com
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav.uno
+DOMAIN-SUFFIX,missav.vip
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav123.com

@@ -1,17 +1,8 @@
-# GeoSite: category-education-ir
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Iranian education and learning websites
-# Course
-.faradars.org
-.git.ir
-.learnby.ir
-.maktabkhooneh.org
-.toplearn.com
-# Webinar
-.done.ir
-.iranlms.org
-.webinarplus.online
+DOMAIN-SUFFIX,faradars.org
+DOMAIN-SUFFIX,git.ir
+DOMAIN-SUFFIX,learnby.ir
+DOMAIN-SUFFIX,maktabkhooneh.org
+DOMAIN-SUFFIX,toplearn.com
+DOMAIN-SUFFIX,done.ir
+DOMAIN-SUFFIX,iranlms.org
+DOMAIN-SUFFIX,webinarplus.online

@@ -1,11 +1,5 @@
-# GeoSite: jkf
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.jkf.net
-.jkface.net
-.jkforum.net
-.jr24h.com
-.jvid.com
+DOMAIN-SUFFIX,jkf.net
+DOMAIN-SUFFIX,jkface.net
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,jr24h.com
+DOMAIN-SUFFIX,jvid.com

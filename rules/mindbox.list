@@ -1,39 +1,22 @@
-# GeoSite: mindbox
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.botmechanic.io
-.ceosummit.ru
-.mind-box.ru
-.mindbox-notifications.ru
-.mindbox.cloud
-.mindbox.group
-.mindbox.ru
-.mindbox.site
-.mindbox.so
-.popmechanic.io
-.popmechanic.ru
-.summitceo.ru
-# Tracking
-# domain:e.mindbox.ru
-.e.mindbox.ru
-# domain:g.mindbox.ru
-.g.mindbox.ru
-# domain:s.mindbox.ru
-.s.mindbox.ru
-# full:api-js.mindbox.ru
-api-js.mindbox.ru
-# full:api-ru.mindbox.cloud
-api-ru.mindbox.cloud
-# full:api-staging.mindbox.ru
-api-staging.mindbox.ru
-# full:api.mindbox.cloud
-api.mindbox.cloud
-# full:api.mindbox.ru
-api.mindbox.ru
-# full:sentry.mindbox.ru
-sentry.mindbox.ru
-# full:sentry.popmechanic.ru
-sentry.popmechanic.ru
+DOMAIN-SUFFIX,botmechanic.io
+DOMAIN-SUFFIX,ceosummit.ru
+DOMAIN-SUFFIX,mind-box.ru
+DOMAIN-SUFFIX,mindbox-notifications.ru
+DOMAIN-SUFFIX,mindbox.cloud
+DOMAIN-SUFFIX,mindbox.group
+DOMAIN-SUFFIX,mindbox.ru
+DOMAIN-SUFFIX,mindbox.site
+DOMAIN-SUFFIX,mindbox.so
+DOMAIN-SUFFIX,popmechanic.io
+DOMAIN-SUFFIX,popmechanic.ru
+DOMAIN-SUFFIX,summitceo.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru

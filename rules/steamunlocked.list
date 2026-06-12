@@ -1,8 +1,1 @@
-# GeoSite: steamunlocked
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Free Steam Games Pre-installed for PC with direct download links.
-.steamunlocked.net
+DOMAIN-SUFFIX,steamunlocked.net

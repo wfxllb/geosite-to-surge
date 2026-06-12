@@ -1,13 +1,4 @@
-# GeoSite: hku
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# The University of Hong Kong (HKU)
-.hku.hk
-.hku.edu.hk
-# https://www.whois.com/whois/hku.hk
-# 香港大學.HK / .香港
-.xn--pssu7cv61af44b.hk
-.xn--pssu7cv61af44b.xn--j6w193g
+DOMAIN-SUFFIX,hku.hk
+DOMAIN-SUFFIX,hku.edu.hk
+DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g

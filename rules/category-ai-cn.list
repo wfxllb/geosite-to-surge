@@ -1,153 +1,102 @@
-# GeoSite: category-ai-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: askdiandian ══
-# 点点 Ai
-.askdiandian.com
-.diandianlife.top
-# ══ end include: askdiandian ══
-# ══ include: deepseek ══
-# Main domain
-.deepseek.com
-# ══ end include: deepseek ══
-# ══ include: doubao ══
-# 北京春田知韵科技有限公司 京ICP备2023020373号
-# non-cn domains is added to bytedance-ai-!cn
-.butterfly-static.cn
-.butterflyai.cn
-.coze-dns-01.com
-.coze.cn
-.coze.email
-.coze.site
-.cozeapp.net
-.cozebaas.cn
-.cozebuild.com
-.cozecdn.com
-.cozedeploy.com
-.cozefn.cn
-.cozeide.cn
-.cozesdk.com
-.cozetest.cn
-.cozetest2.cn
-.cozetest3.cn
-.dbbuilding.fun
-.building.fun
-.instreet.com
-.doubao-dev.com
-.doubao.com
-.doubaocdn.com
-.hi-butterfly.cn
-.maoxiangai.com
-.myparallelstory.com
-.oceancloudapi.com
-.obriccloud.com
-.obricclouddw.com
-.picpic-ai.cn
-.pixeldance.com
-.api-building.fun
-# ══ end include: doubao ══
-# ══ include: trae ══
-# 北京引力弹弓科技有限公司 京ICP备2024062284号
-# non-cn domains is added to bytedance-ai-!cn
-.doudou.com
-.marscode.cn
-.marscode.com.cn
-.mcbaas.work
-.mcdemo.show
-.mchost.guru
-.mcprev.cn
-.tcwqqdy.guru
-.trae.cn
-.trae.com.cn
-.trae.guru
-.yoma.cn
-# ══ end include: trae ══
-# ══ include: xiaomi-ai ══
-.miaibox.com
-.xiaoaiassist.com
-.xiaomimimo.com
-# ══ end include: xiaomi-ai ══
-# LibLibAI
-.liblib.art
-.liblib.cloud
-.liblib.tv
-# RWKV
-.rwkv.cn
-.rwkv.com
-# TapNowAI
-# Only this domain has an access point in mainland China
-.tapnow.top
-# 通义千问
-.qianwen.aliyun.com
-.qianwen.com
-.qwen.ai
-.qwenlm.ai
-.tongyi.aliyun.com
-.tongyi.com
-# 蚂蚁阿福
-.antafu.com
-.antaq.com
-# 文心一言
-.yiyan.baidu.com
-# 天工AI
-.tiangong.cn
-# 智谱
-.bigmodel.cn
-.chatglm.cn
-.z.ai
-.zhipuai.cn
-.zhipucn.com
-# 月之暗面
-.kimi.com
-.moonshot.ai
-.moonshot.cn
-# 讯飞星火
-.xinghuo.xfyun.cn
-# MiniMax
-.hailuoai.com
-.minimaxi.com
-.xingyeai.com
-# WorkBuddy 腾讯云代码助手
-.codebuddy.cn
-# 腾讯混元
-.hunyuan.tencent.com
-# 元宝
-.yuanbao.tencent.com
-# 腾讯元器
-.yuanqi.tencent.com
-# 百川智能
-.baichuan-ai.com
-# 夸克 CueMe
-.cueme.cn
-cueme-api.quark.cn
-# 360 纳米AI搜索
-.n.cn
-.namiso.com
-ai.zhaomi.cn
-# 妙言AI 冀ICP备20012219号-3
-.miaoyanai.com
-# 法行宝 (百度)
-.faxingbao.com
-# 可灵AI（快手）
-.klingai.com
-# 上海秘塔网络科技
-.meta.law
-.metaso.cn
-.xiezuocat.com
-# DUI/思必驰
-.aispeech.com
-.dui.ai
-.duiopen.com
-# ClawHub 中国官方镜像站 (bytedance)
-.clawhub-mirror.com
-# Skillhub (tencent)
-.skillhub.cn
-# SafeSkill (微步在线)
-.safeskill.cn
-# 智合 AI 沪ICP备2024060320号-4
-.zhiexa.com
-# LinkNet 沪ICP备2025147287号-4
-.linka2a.net
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,coze-dns-01.com
+DOMAIN-SUFFIX,coze.cn
+DOMAIN-SUFFIX,coze.email
+DOMAIN-SUFFIX,coze.site
+DOMAIN-SUFFIX,cozeapp.net
+DOMAIN-SUFFIX,cozebaas.cn
+DOMAIN-SUFFIX,cozebuild.com
+DOMAIN-SUFFIX,cozecdn.com
+DOMAIN-SUFFIX,cozedeploy.com
+DOMAIN-SUFFIX,cozefn.cn
+DOMAIN-SUFFIX,cozeide.cn
+DOMAIN-SUFFIX,cozesdk.com
+DOMAIN-SUFFIX,cozetest.cn
+DOMAIN-SUFFIX,cozetest2.cn
+DOMAIN-SUFFIX,cozetest3.cn
+DOMAIN-SUFFIX,dbbuilding.fun
+DOMAIN-SUFFIX,building.fun
+DOMAIN-SUFFIX,instreet.com
+DOMAIN-SUFFIX,doubao-dev.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaocdn.com
+DOMAIN-SUFFIX,hi-butterfly.cn
+DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,myparallelstory.com
+DOMAIN-SUFFIX,oceancloudapi.com
+DOMAIN-SUFFIX,obriccloud.com
+DOMAIN-SUFFIX,obricclouddw.com
+DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,pixeldance.com
+DOMAIN-SUFFIX,api-building.fun
+DOMAIN-SUFFIX,doudou.com
+DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,liblib.tv
+DOMAIN-SUFFIX,rwkv.cn
+DOMAIN-SUFFIX,rwkv.com
+DOMAIN-SUFFIX,tapnow.top
+DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwenlm.ai
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,antafu.com
+DOMAIN-SUFFIX,antaq.com
+DOMAIN-SUFFIX,yiyan.baidu.com
+DOMAIN-SUFFIX,tiangong.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,z.ai
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,zhipucn.com
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,xinghuo.xfyun.cn
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,xingyeai.com
+DOMAIN-SUFFIX,codebuddy.cn
+DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,yuanbao.tencent.com
+DOMAIN-SUFFIX,yuanqi.tencent.com
+DOMAIN-SUFFIX,baichuan-ai.com
+DOMAIN-SUFFIX,cueme.cn
+DOMAIN,cueme-api.quark.cn
+DOMAIN-SUFFIX,n.cn
+DOMAIN-SUFFIX,namiso.com
+DOMAIN,ai.zhaomi.cn
+DOMAIN-SUFFIX,miaoyanai.com
+DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,klingai.com
+DOMAIN-SUFFIX,meta.law
+DOMAIN-SUFFIX,metaso.cn
+DOMAIN-SUFFIX,xiezuocat.com
+DOMAIN-SUFFIX,aispeech.com
+DOMAIN-SUFFIX,dui.ai
+DOMAIN-SUFFIX,duiopen.com
+DOMAIN-SUFFIX,clawhub-mirror.com
+DOMAIN-SUFFIX,skillhub.cn
+DOMAIN-SUFFIX,safeskill.cn
+DOMAIN-SUFFIX,zhiexa.com
+DOMAIN-SUFFIX,linka2a.net

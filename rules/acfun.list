@@ -1,17 +1,8 @@
-# GeoSite: acfun
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Beijing Danmu Network Technology Co., Ltd.
-.ac.fun
-.acfun.cn
-.acfun.net
-.acfunchina.cn
-.acfunchina.com
-.acfunchina.net
-.aixifan.com
-# Ads/tracking
-# full:apilog-web.acfun.cn
-apilog-web.acfun.cn
+DOMAIN-SUFFIX,ac.fun
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.net
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN,apilog-web.acfun.cn

@@ -1,114 +1,49 @@
-# GeoSite: category-httpdns-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Aliyun
-# domain:httpdns-api.aliyuncs.com
-.httpdns-api.aliyuncs.com
-# domain:httpdns-sc.aliyuncs.com
-.httpdns-sc.aliyuncs.com
-# domain:httpdns.alicdn.com
-.httpdns.alicdn.com
-# Baidu
-# domain:httpdns.baidu.com
-.httpdns.baidu.com
-# domain:httpdns.baidubce.com
-.httpdns.baidubce.com
-# domain:httpdns.bcelive.com
-.httpdns.bcelive.com
-# domain:httpdns.n.shifen.com
-.httpdns.n.shifen.com
-# domain:httpsdns.baidu.com
-.httpsdns.baidu.com
-# Huawei Cloud
-# domain:httpdns-browser.platform.dbankcloud.cn
-.httpdns-browser.platform.dbankcloud.cn
-# domain:httpdns.c.cdnhwc2.com
-.httpdns.c.cdnhwc2.com
-# domain:httpdns.huaweicloud.com
-.httpdns.huaweicloud.com
-# domain:httpdns.platform.dbankcloud.cn
-.httpdns.platform.dbankcloud.cn
-# domain:httpdns.platform.dbankcloud.com
-.httpdns.platform.dbankcloud.com
-# domain:httpdns1.cc.cdnhwc5.com
-.httpdns1.cc.cdnhwc5.com
-# iqiyi
-# domain:dns.iqiyi.com
-.dns.iqiyi.com
-# domain:dns.qiyipic.iqiyi.com
-.dns.qiyipic.iqiyi.com
-# domain:doh.iqiyi.com
-.doh.iqiyi.com
-# Kuaishou
-# domain:hdns.ksyun.com
-.hdns.ksyun.com
-# domain:kuaishou.httpdns.pro
-.kuaishou.httpdns.pro
-# Meituan
-# domain:httpdns.meituan.com
-.httpdns.meituan.com
-# domain:httpdnsvip.meituan.com
-.httpdnsvip.meituan.com
-# NetEase
-# domain:httpdns-sdk.n.netease.com
-.httpdns-sdk.n.netease.com
-# domain:httpdns.music.163.com
-.httpdns.music.163.com
-# domain:httpdns.n.netease.com
-.httpdns.n.netease.com
-# domain:lofter.httpdns.c.163.com
-.lofter.httpdns.c.163.com
-# domain:music.httpdns.c.163.com
-.music.httpdns.c.163.com
-# Oppo
-# domain:httpdns.push.oppomobile.com
-.httpdns.push.oppomobile.com
-# domain:httpdns.ocloud.oppomobile.com
-.httpdns.ocloud.oppomobile.com
-# Tencent
-# domain:dns.weixin.qq.com
-.dns.weixin.qq.com
-# domain:dns.weixin.qq.com.cn
-.dns.weixin.qq.com.cn
-# domain:httpdns.kg.qq.com
-.httpdns.kg.qq.com
-# HeyTap
-# domain:httpdns.ocloud.heytapmobi.com
-.httpdns.ocloud.heytapmobi.com
-# domain:httpdns.push.heytapmobi.com
-.httpdns.push.heytapmobi.com
-# domain:apidns.kwd.inkuai.com
-.apidns.kwd.inkuai.com
-# domain:dns.jd.com
-.dns.jd.com
-# domain:dns.weibo.cn
-.dns.weibo.cn
-# domain:doh.ptqy.gitv.tv
-.doh.ptqy.gitv.tv
-# domain:dotserver.douyucdn.cn
-.dotserver.douyucdn.cn
-# domain:httpdns.bilivideo.com
-.httpdns.bilivideo.com
-# domain:httpdns.browser.miui.com
-.httpdns.browser.miui.com
-# domain:httpdns.cctv.com
-.httpdns.cctv.com
-# domain:httpdns.danuoyi.tbcache.com
-.httpdns.danuoyi.tbcache.com
-# domain:httpdns.gslb.yy.com
-.httpdns.gslb.yy.com
-# domain:httpdns.kwd.inkuai.com
-.httpdns.kwd.inkuai.com
-# domain:httpdns.pro
-.httpdns.pro
-# domain:httpdns.volcengineapi.com
-.httpdns.volcengineapi.com
-# domain:httpdns.yunxindns.com
-.httpdns.yunxindns.com
-# domain:httpdns.zhihu.com
-.httpdns.zhihu.com
-# domain:httpdns.zybang.com
-.httpdns.zybang.com
+DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
+DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
+DOMAIN-SUFFIX,httpdns.alicdn.com
+DOMAIN-SUFFIX,httpdns.baidu.com
+DOMAIN-SUFFIX,httpdns.baidubce.com
+DOMAIN-SUFFIX,httpdns.bcelive.com
+DOMAIN-SUFFIX,httpdns.n.shifen.com
+DOMAIN-SUFFIX,httpsdns.baidu.com
+DOMAIN-SUFFIX,httpdns-browser.platform.dbankcloud.cn
+DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+DOMAIN-SUFFIX,httpdns.huaweicloud.com
+DOMAIN-SUFFIX,httpdns.platform.dbankcloud.cn
+DOMAIN-SUFFIX,httpdns.platform.dbankcloud.com
+DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
+DOMAIN-SUFFIX,dns.iqiyi.com
+DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
+DOMAIN-SUFFIX,doh.iqiyi.com
+DOMAIN-SUFFIX,hdns.ksyun.com
+DOMAIN-SUFFIX,kuaishou.httpdns.pro
+DOMAIN-SUFFIX,httpdns.meituan.com
+DOMAIN-SUFFIX,httpdnsvip.meituan.com
+DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
+DOMAIN-SUFFIX,httpdns.music.163.com
+DOMAIN-SUFFIX,httpdns.n.netease.com
+DOMAIN-SUFFIX,lofter.httpdns.c.163.com
+DOMAIN-SUFFIX,music.httpdns.c.163.com
+DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+DOMAIN-SUFFIX,httpdns.kg.qq.com
+DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
+DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
+DOMAIN-SUFFIX,apidns.kwd.inkuai.com
+DOMAIN-SUFFIX,dns.jd.com
+DOMAIN-SUFFIX,dns.weibo.cn
+DOMAIN-SUFFIX,doh.ptqy.gitv.tv
+DOMAIN-SUFFIX,dotserver.douyucdn.cn
+DOMAIN-SUFFIX,httpdns.bilivideo.com
+DOMAIN-SUFFIX,httpdns.browser.miui.com
+DOMAIN-SUFFIX,httpdns.cctv.com
+DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
+DOMAIN-SUFFIX,httpdns.gslb.yy.com
+DOMAIN-SUFFIX,httpdns.kwd.inkuai.com
+DOMAIN-SUFFIX,httpdns.pro
+DOMAIN-SUFFIX,httpdns.volcengineapi.com
+DOMAIN-SUFFIX,httpdns.yunxindns.com
+DOMAIN-SUFFIX,httpdns.zhihu.com
+DOMAIN-SUFFIX,httpdns.zybang.com

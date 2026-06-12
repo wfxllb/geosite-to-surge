@@ -1,14 +1,7 @@
-# GeoSite: schwab
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 嘉信理财
-.aboutschwab.com
-.schwab.co.uk
-.schwab.com
-.schwab.com.hk
-.schwab.com.sg
-.schwabassetmanagement.com
-.schwabplan.com
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabplan.com

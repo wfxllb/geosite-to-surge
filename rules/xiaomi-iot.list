@@ -1,11 +1,4 @@
-# GeoSite: xiaomi-iot
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Xiaomi IoT Services
-.account.xiaomi.com
-.cn-ha.mqtt.io.mi.com
-.ha.api.io.mi.com
-.miot-spec.org
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com
+DOMAIN-SUFFIX,miot-spec.org

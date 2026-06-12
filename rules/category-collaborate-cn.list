@@ -1,51 +1,26 @@
-# GeoSite: category-collaborate-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# 远程桌面/远程组网
-## 连连控
-.asklink.com
-## EasyTier
-.easytier.cn
-## 飞衡HTTP
-.feihengip.com
-## Oray
-.oray.com
-.oray.net
-.orayer.com
-.orayimg.com
-.sunlogin.net
-## 叮当猫脚本管理系统 懒人精灵远程调试
-.privateapi.xyz
-## ToDesk
-.todesk.cn
-.todesk.com
-## xEdge干将互联
-# ══ include: xedge ══
-# xEdge 干将互联
-# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-.xedge.cc
-.glxcc.net
-.xn0.cc
-.ganjiangvpn.com
-# ══ end include: xedge ══
-# 文档协作
-## 语雀
-.nlark.com
-.yuque.com
-## 石墨文档
-.shimo.im
-.shimonote.com
-.smgv.cn
-## Tower 团队协作
-.tower.im
-## 秀米编辑器
-.tritoninfo.net
-.xiumi.us
-.xiumius.com
-## 吾道
-.woodo.cn
-## Worktile
-.worktile.com
+DOMAIN-SUFFIX,asklink.com
+DOMAIN-SUFFIX,easytier.cn
+DOMAIN-SUFFIX,feihengip.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayer.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,privateapi.xyz
+DOMAIN-SUFFIX,todesk.cn
+DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xn0.cc
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,nlark.com
+DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,shimo.im
+DOMAIN-SUFFIX,shimonote.com
+DOMAIN-SUFFIX,smgv.cn
+DOMAIN-SUFFIX,tower.im
+DOMAIN-SUFFIX,tritoninfo.net
+DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,xiumius.com
+DOMAIN-SUFFIX,woodo.cn
+DOMAIN-SUFFIX,worktile.com

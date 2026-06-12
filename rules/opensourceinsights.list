@@ -1,10 +1,4 @@
-# GeoSite: opensourceinsights
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.deps.dev
-.deps.info
-.opensourceinsight.dev
-.opensourceinsights.dev
+DOMAIN-SUFFIX,deps.dev
+DOMAIN-SUFFIX,deps.info
+DOMAIN-SUFFIX,opensourceinsight.dev
+DOMAIN-SUFFIX,opensourceinsights.dev

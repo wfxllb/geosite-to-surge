@@ -1,10 +1,4 @@
-# GeoSite: cnbc
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.cnbc.com
-.cnbcfm.com
-.nbcuni.com
-.nbcudigitaladops.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,nbcudigitaladops.com

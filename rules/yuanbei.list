@@ -1,11 +1,5 @@
-# GeoSite: yuanbei
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.i2oo.cn
-.laoban100.com
-.shengyi.ai
-.shengyizhuanjia.com
-.yuanbei.biz
+DOMAIN-SUFFIX,i2oo.cn
+DOMAIN-SUFFIX,laoban100.com
+DOMAIN-SUFFIX,shengyi.ai
+DOMAIN-SUFFIX,shengyizhuanjia.com
+DOMAIN-SUFFIX,yuanbei.biz

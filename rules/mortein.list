@@ -1,18 +1,11 @@
-# GeoSite: mortein
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:mortein.cn
-.mortein.cn
-.mortein.co.in
-.mortein.co.nz
-.mortein.co.za
-.mortein.com
-.mortein.com.au
-.mortein.com.br
-.mortein.com.ng
-.mortein.com.pk
-.morteincam.com
-.pifpafarabia.com
+DOMAIN-SUFFIX,mortein.cn
+DOMAIN-SUFFIX,mortein.co.in
+DOMAIN-SUFFIX,mortein.co.nz
+DOMAIN-SUFFIX,mortein.co.za
+DOMAIN-SUFFIX,mortein.com
+DOMAIN-SUFFIX,mortein.com.au
+DOMAIN-SUFFIX,mortein.com.br
+DOMAIN-SUFFIX,mortein.com.ng
+DOMAIN-SUFFIX,mortein.com.pk
+DOMAIN-SUFFIX,morteincam.com
+DOMAIN-SUFFIX,pifpafarabia.com

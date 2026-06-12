@@ -1,13 +1,7 @@
-# GeoSite: copymanga
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.2025copy.com
-.copy-manga.com
-.copy20.com
-.copy2000.online
-.mangacopy.com
-.mangafuna.xyz
-.mangafunb.fun
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mangafunb.fun

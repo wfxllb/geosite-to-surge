@@ -1,9 +1,3 @@
-# GeoSite: nexitally
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.nexitally.com
-.nexitallysafe.com
-.nexitcore.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nexitallysafe.com
+DOMAIN-SUFFIX,nexitcore.com

@@ -1,12 +1,3 @@
-# GeoSite: clearbit
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:clearbit.com
-.clearbit.com
-# domain:clearbitjs.com
-.clearbitjs.com
-# domain:clearbitscripts.com
-.clearbitscripts.com
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,clearbitjs.com
+DOMAIN-SUFFIX,clearbitscripts.com

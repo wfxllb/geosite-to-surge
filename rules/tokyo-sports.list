@@ -1,8 +1,2 @@
-# GeoSite: tokyo-sports
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.tokyo-sports.co.jp
-.tospo-keiba.jp
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+DOMAIN-SUFFIX,tospo-keiba.jp

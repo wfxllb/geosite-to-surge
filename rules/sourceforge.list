@@ -1,10 +1,4 @@
-# GeoSite: sourceforge
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.sourceforge.com
-.sourceforge.net
-.sf.net
-.fsdn.com
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,fsdn.com

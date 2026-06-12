@@ -1,10 +1,4 @@
-# GeoSite: bttzyw
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.btt804.com
-.btt904.com
-.bttzyw.com
-.bttzyw.net
+DOMAIN-SUFFIX,btt804.com
+DOMAIN-SUFFIX,btt904.com
+DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net

@@ -1,9 +1,3 @@
-# GeoSite: u17
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.u17.com
-.u17i.com
-.u17t.com
+DOMAIN-SUFFIX,u17.com
+DOMAIN-SUFFIX,u17i.com
+DOMAIN-SUFFIX,u17t.com

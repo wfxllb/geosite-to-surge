@@ -1,12 +1,5 @@
-# GeoSite: cnet
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.cnet.co.kr
-.cnet.com
-.cnet.de
-.cnetfrance.fr
-# CNET Download
-.download.com
+DOMAIN-SUFFIX,cnet.co.kr
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
+DOMAIN-SUFFIX,download.com

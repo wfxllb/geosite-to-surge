@@ -1,11 +1,4 @@
-# GeoSite: hainanairlines
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.hainanairlines.com
-.hnacargo.com
-.hnair.com
-# HNA Telecom
-.10044.cn
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com
+DOMAIN-SUFFIX,10044.cn

@@ -1,18 +1,12 @@
-# GeoSite: manorama
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-.malayalamanorama.com
-.manorama.com
-.manoramanews.com
-.manoramaonline.com
-.manoramayearbook.in
-.onmanorama.com
-.radiomango.fm
-.theman.in
-.theweek.in
-.vanitaonline.com
-.vanitha.in
-.vanithaveedu.com
+DOMAIN-SUFFIX,malayalamanorama.com
+DOMAIN-SUFFIX,manorama.com
+DOMAIN-SUFFIX,manoramanews.com
+DOMAIN-SUFFIX,manoramaonline.com
+DOMAIN-SUFFIX,manoramayearbook.in
+DOMAIN-SUFFIX,onmanorama.com
+DOMAIN-SUFFIX,radiomango.fm
+DOMAIN-SUFFIX,theman.in
+DOMAIN-SUFFIX,theweek.in
+DOMAIN-SUFFIX,vanitaonline.com
+DOMAIN-SUFFIX,vanitha.in
+DOMAIN-SUFFIX,vanithaveedu.com

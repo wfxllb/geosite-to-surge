@@ -1,22 +1,8 @@
-# GeoSite: alibabacloud
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# domain:alibabacloud.co.in
-.alibabacloud.co.in
-# domain:alibabacloud.com
-.alibabacloud.com
-# domain:alibabacloud.com.au
-.alibabacloud.com.au
-# domain:alibabacloud.com.hk
-.alibabacloud.com.hk
-# domain:alibabacloud.com.my
-.alibabacloud.com.my
-# domain:alibabacloud.com.sg
-.alibabacloud.com.sg
-# domain:alibabacloud.com.tw
-.alibabacloud.com.tw
-# domain:alicloud.com
-.alicloud.com
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
+DOMAIN-SUFFIX,alicloud.com

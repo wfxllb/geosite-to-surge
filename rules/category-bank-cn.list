@@ -1,284 +1,183 @@
-# GeoSite: category-bank-cn
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# ══ include: boc ══
-.boc.cn
-# BOC International
-.bank-of-china.com
-.bankofchina.com
-# BOC Fullerton Community Bank
-.bocfullertonbank.com
-# Comprehensive management
-.bocamchina.com
-.bocaviation.com
-.boccfc.cc
-.boccfc.cn
-.bocgi.com
-.bocgins.com
-# domain:bochk.com
-.bochk.com
-.bocichina.cn
-.bocichina.com
-.bocichina.com.cn
-.bocifunds.cn
-.bocifunds.com
-.bocifunds.com.cn
-.bocigroup.com
-.bocim.com
-.bocservices.com.cn
-# ══ end include: boc ══
-# ══ include: ccb ══
-.ccb-life.com.cn
-.ccb.cn
-.ccb.com
-.ccb.com.cn
-.ccbcos.com
-.ccbfund.cn
-.ccbfund.com
-.ccbfund.com.cn
-.ccbfutures.cn
-.ccbfutures.com
-# domain:ccbintl.com.hk
-.ccbintl.com.hk
-.ccbleasing.com
-.ccblife-test.com.cn
-# domain:ccbseoul.com
-.ccbseoul.com
-.ccbtrust.com.cn
-.ccbxt.com
-# ══ end include: ccb ══
-# ══ include: citic ══
-# All .citic domains
-# All .中信 domains
-.cfc108.com
-.chinaamc.com
-.citic-prudential.com.cn
-.citicbank.com
-.citiccapital.com
-.citiciam.com
-.citicifh.com
-.citicprufunds.com.cn
-# domain:citics.com.hk
-.citics.com.hk
-.citicsf.com
-.clsa.com
-# domain:cncbinternational.com
-.cncbinternational.com
-.csc108.com
-# domain:csci.hk
-.csci.hk
-.ecitic.com
-# ══ end include: citic ══
-# ══ include: cmb ══
-.8008205555.cn
-.8008205555.com
-.cignacmb-ipmi.com
-.cignacmb.com
-.cignacmbamc.com
-.cmb-leasing.com
-.cmbchina.biz
-.cmbchina.cn
-.cmbchina.com
-# domain:cmbi.com.hk
-.cmbi.com.hk
-.cmbimg.cn
-.cmbimg.com
-.cmbt.cn
-.cmbuat.com
-.cmburl.cn
-# domain:cmbwinglungbank.com
-.cmbwinglungbank.com
-.cmf.biz
-.cmf.ltd
-.cmfchina.com
-.cmfunds.cn
-.test-cignacmb.com
-# 招赢&玖盈
-.joying.com
-# ══ end include: cmb ══
-# ══ include: hsbc-cn ══
-.hsbc.com.cn
-.hsbcqh.com.cn
-.hsbcinsurance.com.cn
-# ══ end include: hsbc-cn ══
-# ══ include: icbc ══
-# All .icbc domains
-.95588.com
-.95588.com.cn
-.dccnet.com.cn
-# domain:icbc-at.com
-.icbc-at.com
-# domain:icbc-cz.com
-.icbc-cz.com
-# domain:icbc-ltd.com
-.icbc-ltd.com
-# domain:icbc-uk.com
-.icbc-uk.com
-# domain:icbc-us.com
-.icbc-us.com
-# domain:icbc.ae
-.icbc.ae
-# domain:icbc.be
-.icbc.be
-# domain:icbc.co.id
-.icbc.co.id
-# domain:icbc.co.jp
-.icbc.co.jp
-# domain:icbc.co.kr
-.icbc.co.kr
-# domain:icbc.co.nl
-.icbc.co.nl
-# domain:icbc.com.au
-.icbc.com.au
-.icbc.com.cn
-# domain:icbc.com.es
-.icbc.com.es
-# domain:icbc.com.kh
-.icbc.com.kh
-# domain:icbc.com.kw
-.icbc.com.kw
-# domain:icbc.com.la
-.icbc.com.la
-# domain:icbc.com.mm
-.icbc.com.mm
-# domain:icbc.com.mo
-.icbc.com.mo
-# domain:icbc.com.mx
-.icbc.com.mx
-# domain:icbc.com.pe
-.icbc.com.pe
-# domain:icbc.com.pk
-.icbc.com.pk
-# domain:icbc.com.qa
-.icbc.com.qa
-# domain:icbc.com.sg
-.icbc.com.sg
-# domain:icbc.com.vn
-.icbc.com.vn
-# domain:icbc.de
-.icbc.de
-# domain:icbc.eu
-.icbc.eu
-# domain:icbc.lu
-.icbc.lu
-# domain:icbcalmaty.kz
-.icbcalmaty.kz
-# domain:icbcasia.com
-.icbcasia.com
-# domain:icbcbr.com.br
-.icbcbr.com.br
-.icbccs.com.cn
-.icbccstz.com.cn
-# domain:icbci.com.hk
-.icbci.com.hk
-.icbcina.com
-# domain:icbcindia.com
-.icbcindia.com
-# domain:icbcit.com
-.icbcit.com
-# domain:icbclondon.com
-.icbclondon.com
-.icbcmanila.com.cn
-# domain:icbcme.ae
-.icbcme.ae
-# domain:icbcmoscow.ru
-.icbcmoscow.ru
-# domain:icbcmy.com
-.icbcmy.com
-# domain:icbcnz.com
-.icbcnz.com
-# domain:icbcpanama.com
-.icbcpanama.com
-# domain:icbcparis.fr
-.icbcparis.fr
-# domain:icbcpl.com
-.icbcpl.com
-.icbcstandard.com
-.icbcstandardbank.com
-.icbcstandardresources.com
-.icbcstandardsecurities.com
-# domain:icbcswiss.com
-.icbcswiss.com
-# domain:icbcthai.com
-.icbcthai.com
-# domain:icbkfs.com
-.icbkfs.com
-# domain:icbkus.com
-.icbkus.com
-# ══ end include: icbc ══
-# ══ include: unionpay ══
-.95516.com
-.95516.net
-.chinapay.com
-.chinaums.com
-.chinaunionpay.com
-.chinaunionpay.com.cn
-.chinaunionpay.net
-.cup.com.cn
-.cup62.cn
-.unionpay.com
-.unionpay.net
-.unionpaysecure.com
-# UnionPay International
-.unionpayintl.cn
-.unionpayintl.com
-# ══ end include: unionpay ══
-.abchina.com
-.bankcomm.cn
-.bankcomm.com
-.bankofbeijing.com.cn
-.bosc.cn
-.bsb.com.cn
-.cebbank.com
-.cgbchina.com.cn
-.cib.com.cn
-.citibank.com.cn
-.cmbc.com.cn
-.hxb.com.cn
-.njcb.com.cn
-.psbc.com
-.spdb.com.cn
-.whccb.com
-# 中国19家民营银行
-# 天津金城银行股份有限公司 Kincheng Bank of Tianjin Co., Ltd.
-.kcbebank.com
-# 上海华瑞银行股份有限公司 Shanghai HuaRui Bank Co., LTD.
-.shrbank.com
-# 浙江网商银行股份有限公司 ZHEJIANG E-COMMERCE BANK CO.,LTD
-.mybank.cn
-# 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
-.ms-bank.cn
-# 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
-.webank.com
-.webankcdn.net
-# 湖南三湘银行股份有限公司 BANK OF SANXIANG
-.csxbank.com
-# 重庆富民银行股份有限公司 Chongqing Fumin Bank Co.,Ltd.
-.fbank.com
-# 四川新网银行股份有限公司 SICHUAN XW BANK CORP.,LTD.
-.xwbank.com
-# 北京中关村银行股份有限公司 Beijing Zhongguancun Bank Corporation Limited
-.zgcbank.com
-# 吉林亿联银行股份有限公司 JILIN YILLION BANK CO.，LTD.
-.yillionbank.com
-# 武汉众邦银行股份有限公司 WUHANZBANK CO.,LTD.
-.z-bank.com
-# 福建华通银行股份有限公司 Fujian OneBank Company Limited
-.onebank.com.cn
-# 威海蓝海银行股份有限公司 WEIHAI BLUE OCEAN BANK CO.,LTD.
-.wegobank.cn
-# 江苏苏宁银行股份有限公司 JIANGSU SUNING BANK CO.,LTD.
-.suningbank.com
-# 梅州客商银行股份有限公司 MEIZHOU HAKKA BANK CO., LTD.
-.kshbank.cn
-# 安徽新安银行股份有限公司 Anhui xin’an bank Co.,Ltd.
-.xa-bank.com
-# 辽宁振兴银行股份有限公司 NewUp Bank of Liaoning Co.,Ltd.
-.newupbank.com
-# 江西裕民银行股份有限公司 JIANGXI YUMIN BANK CO., LTD.
-.ymbank.com
-# 无锡锡商银行股份有限公司 WUXI XISHANG BANK CO.，LTD.
-.wxsbank.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn
+DOMAIN-SUFFIX,ccb-life.com.cn
+DOMAIN-SUFFIX,ccb.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,ccbcos.com
+DOMAIN-SUFFIX,ccbfund.cn
+DOMAIN-SUFFIX,ccbfund.com
+DOMAIN-SUFFIX,ccbfund.com.cn
+DOMAIN-SUFFIX,ccbfutures.cn
+DOMAIN-SUFFIX,ccbfutures.com
+DOMAIN-SUFFIX,ccbintl.com.hk
+DOMAIN-SUFFIX,ccbleasing.com
+DOMAIN-SUFFIX,ccblife-test.com.cn
+DOMAIN-SUFFIX,ccbseoul.com
+DOMAIN-SUFFIX,ccbtrust.com.cn
+DOMAIN-SUFFIX,ccbxt.com
+DOMAIN-SUFFIX,cfc108.com
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,8008205555.cn
+DOMAIN-SUFFIX,8008205555.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmbamc.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbimg.cn
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,test-cignacmb.com
+DOMAIN-SUFFIX,joying.com
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,95588.com
+DOMAIN-SUFFIX,95588.com.cn
+DOMAIN-SUFFIX,dccnet.com.cn
+DOMAIN-SUFFIX,icbc-at.com
+DOMAIN-SUFFIX,icbc-cz.com
+DOMAIN-SUFFIX,icbc-ltd.com
+DOMAIN-SUFFIX,icbc-uk.com
+DOMAIN-SUFFIX,icbc-us.com
+DOMAIN-SUFFIX,icbc.ae
+DOMAIN-SUFFIX,icbc.be
+DOMAIN-SUFFIX,icbc.co.id
+DOMAIN-SUFFIX,icbc.co.jp
+DOMAIN-SUFFIX,icbc.co.kr
+DOMAIN-SUFFIX,icbc.co.nl
+DOMAIN-SUFFIX,icbc.com.au
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbc.com.es
+DOMAIN-SUFFIX,icbc.com.kh
+DOMAIN-SUFFIX,icbc.com.kw
+DOMAIN-SUFFIX,icbc.com.la
+DOMAIN-SUFFIX,icbc.com.mm
+DOMAIN-SUFFIX,icbc.com.mo
+DOMAIN-SUFFIX,icbc.com.mx
+DOMAIN-SUFFIX,icbc.com.pe
+DOMAIN-SUFFIX,icbc.com.pk
+DOMAIN-SUFFIX,icbc.com.qa
+DOMAIN-SUFFIX,icbc.com.sg
+DOMAIN-SUFFIX,icbc.com.vn
+DOMAIN-SUFFIX,icbc.de
+DOMAIN-SUFFIX,icbc.eu
+DOMAIN-SUFFIX,icbc.lu
+DOMAIN-SUFFIX,icbcalmaty.kz
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,icbcbr.com.br
+DOMAIN-SUFFIX,icbccs.com.cn
+DOMAIN-SUFFIX,icbccstz.com.cn
+DOMAIN-SUFFIX,icbci.com.hk
+DOMAIN-SUFFIX,icbcina.com
+DOMAIN-SUFFIX,icbcindia.com
+DOMAIN-SUFFIX,icbcit.com
+DOMAIN-SUFFIX,icbclondon.com
+DOMAIN-SUFFIX,icbcmanila.com.cn
+DOMAIN-SUFFIX,icbcme.ae
+DOMAIN-SUFFIX,icbcmoscow.ru
+DOMAIN-SUFFIX,icbcmy.com
+DOMAIN-SUFFIX,icbcnz.com
+DOMAIN-SUFFIX,icbcpanama.com
+DOMAIN-SUFFIX,icbcparis.fr
+DOMAIN-SUFFIX,icbcpl.com
+DOMAIN-SUFFIX,icbcstandard.com
+DOMAIN-SUFFIX,icbcstandardbank.com
+DOMAIN-SUFFIX,icbcstandardresources.com
+DOMAIN-SUFFIX,icbcstandardsecurities.com
+DOMAIN-SUFFIX,icbcswiss.com
+DOMAIN-SUFFIX,icbcthai.com
+DOMAIN-SUFFIX,icbkfs.com
+DOMAIN-SUFFIX,icbkus.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,95516.net
+DOMAIN-SUFFIX,chinapay.com
+DOMAIN-SUFFIX,chinaums.com
+DOMAIN-SUFFIX,chinaunionpay.com
+DOMAIN-SUFFIX,chinaunionpay.com.cn
+DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,cup62.cn
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpay.net
+DOMAIN-SUFFIX,unionpaysecure.com
+DOMAIN-SUFFIX,unionpayintl.cn
+DOMAIN-SUFFIX,unionpayintl.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bankcomm.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,bosc.cn
+DOMAIN-SUFFIX,bsb.com.cn
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,citibank.com.cn
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,whccb.com
+DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,ms-bank.cn
+DOMAIN-SUFFIX,webank.com
+DOMAIN-SUFFIX,webankcdn.net
+DOMAIN-SUFFIX,csxbank.com
+DOMAIN-SUFFIX,fbank.com
+DOMAIN-SUFFIX,xwbank.com
+DOMAIN-SUFFIX,zgcbank.com
+DOMAIN-SUFFIX,yillionbank.com
+DOMAIN-SUFFIX,z-bank.com
+DOMAIN-SUFFIX,onebank.com.cn
+DOMAIN-SUFFIX,wegobank.cn
+DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,kshbank.cn
+DOMAIN-SUFFIX,xa-bank.com
+DOMAIN-SUFFIX,newupbank.com
+DOMAIN-SUFFIX,ymbank.com
+DOMAIN-SUFFIX,wxsbank.com

@@ -1,10 +1,2 @@
-# GeoSite: category-forums-ir
-# Source: v2fly/domain-list-community
-# Format: Surge .list
-#   .开头 → DOMAIN-SUFFIX (匹配域名及所有子域名)
-#   无前缀 → 精确匹配
-#
-# Iranian forums and community websites
-# Quera
-.quera.ir
-.quera.org
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org
