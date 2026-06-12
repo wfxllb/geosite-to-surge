@@ -22,10 +22,10 @@ RULE-SET,https://raw.githubusercontent.com/wfxllb/geosite-to-surge/main/rules/cn
 
 ## 规则格式
 
-Surge `.list` 文件，每行一个域名：
+Surge RULE-SET (.list) 标准格式，每行一条：
 
-- `.google.com` — 匹配 `google.com` 及其所有子域名（DOMAIN-SUFFIX）
-- `www.google.com` — 仅精确匹配该域名（DOMAIN）
+- `DOMAIN-SUFFIX,google.com` — 匹配 `google.com` 及其所有子域名
+- `DOMAIN,www.google.com` — 仅精确匹配该域名
 
 ## 可用分类
 
@@ -55,10 +55,10 @@ Surge `.list` 文件，每行一个域名：
 
 转换逻辑：
 
-| GeoSite 原格式 | Surge .list | 说明 |
-|---------------|-------------|------|
-| `domain:google.com` | `.google.com` | 域名 + 所有子域名 |
-| `full:www.google.com` | `www.google.com` | 精确匹配 |
-| `regexp:.*\.x\.com` | `.x.com` | 简单正则自动转 |
-| `keyword:xxx` | ❌ 跳过 | .list 不支持关键词 |
+| GeoSite 原格式 | Surge RULE-SET | 说明 |
+|---------------|----------------|------|
+| `domain:google.com` | `DOMAIN-SUFFIX,google.com` | 域名 + 所有子域名 |
+| `full:www.google.com` | `DOMAIN,www.google.com` | 精确匹配 |
+| `regexp:.*\.x\.com` | `DOMAIN-SUFFIX,x.com` | 简单正则自动转 |
+| `keyword:xxx` | ❌ 跳过 | RULE-SET 不支持关键词 |
 | `include:cat` | ✅ 展开合并 | 递归解析引用 |
