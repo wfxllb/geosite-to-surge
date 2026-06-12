@@ -1,0 +1,87 @@
+name: Convert Rules for Surge
+
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC 22:30 = 北京时间 06:30（凌晨自动跑完，天亮就能用）
+    - cron: '30 22 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set build time
+        run: echo "BUILDTIME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
+
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Checkout Loyalsoldier/geoip
+        uses: actions/checkout@v4
+        with:
+          repository: Loyalsoldier/geoip
+          ref: release
+          path: loyalsoldier
+
+      - name: Create work directories
+        run: |
+          mkdir v2rules surgerules
+          chmod 755 v2rules surgerules
+
+      - name: Install MetaCubeX/geo tool
+        run: |
+          wget "https://github.com/MetaCubeX/geo/releases/download/v1.1/geo-linux-amd64"
+          chmod +x geo-linux-amd64
+
+      - name: Download geosite.dat
+        run: |
+          wget "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
+
+      - name: Unpack geosite.dat
+        run: |
+          ./geo-linux-amd64 unpack site geosite.dat -d v2rules/
+
+      - name: Split rules by attribute
+        working-directory: v2rules
+        run: |
+          for FILE in `ls ./ | grep -v "@"`
+          do
+            for ATTR in `grep -o "@[^ ]*" $FILE | sort -u`
+            do
+              grep $ATTR $FILE > $FILE$ATTR
+            done
+          done
+
+      - name: Convert to Surge format
+        working-directory: v2rules
+        run: |
+          for FILE in ./*
+          do 
+            sed '' `grep "include:" $FILE | sed "s/include://g"` $FILE > $FILE.tmp
+            grep "domain:" $FILE.tmp | sed -e "s/domain:/DOMAIN-SUFFIX,/g" -e "s/ @.*//g" > ../surgerules/$FILE.conf
+            grep "keyword:" $FILE.tmp | sed -e "s/keyword:/DOMAIN-KEYWORD,/g" -e "s/ @.*//g" >> ../surgerules/$FILE.conf
+            grep "full:" $FILE.tmp | sed -e "s/full:/DOMAIN,/g" -e "s/ @.*//g" >> ../surgerules/$FILE.conf
+            rm $FILE.tmp
+          done
+
+      - name: Prepare release directory
+        run: |
+          mkdir -p release/geo/geosite
+          mkdir release/geo/geoip
+          cp surgerules/* release/geo/geosite/
+          cp loyalsoldier/surge/* release/geo/geoip/
+
+      - name: Push to release branch
+        run: |
+          cd release || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add .
+          git commit -m "Released on ${{ env.BUILDTIME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin release

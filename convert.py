@@ -59,13 +59,11 @@ def parse_line(line: str) -> Tuple[str, str, str]:
             return (prefix[:-1], value, attrs)
 
     # 无前缀默认 = domain: (V2Ray 域名列表标准约定)
+    # 不含 "." 的短标签（如 gov, mil, edu）是 ccTLD，视为 domain: 类型
     value = line
     parts = value.split("@", 1)
     value = parts[0].strip()
     attrs = parts[1].strip() if len(parts) > 1 else ""
-    # 跳过无效的域名（无 TLD，如 bare "youtube"）
-    if "." not in value:
-        return ("skip", value, attrs)
     return ("domain", value, attrs)
 
 
